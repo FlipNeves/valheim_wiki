@@ -1,0 +1,99 @@
+{
+  "title": "Dyrnwyn",
+  "url": "https://valheim.fandom.com/wiki/Dyrnwyn_hilt_fragment",
+  "slug": "Dyrnwyn_hilt_fragment",
+  "categories": [
+    "Weapons",
+    "Swords",
+    "Black forge recipes",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Dyrnwyn",
+    "Internal ID": "SwordDyrnwyn",
+    "Type": "Sword",
+    "Source": "Black forge",
+    "Usage": "Weapon",
+    "Crafting Materials": "Flametal x30, Bloodstone x3",
+    "Attack speed": "1.84 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "2.7 range, 10 angle, 1.0 height, 0.7 ray",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Dyrnwyn is the seventh sword.\nIts primary attack is a 3-hit attack combo with double damage on the last hit. Its slower secondary attack deals 3x damage."
+    },
+    {
+      "heading": "Dyrnwyn fragments",
+      "level": 2,
+      "text": "The recipe to craft the Dyrnwyn requires three unique fragments. Each fragment can be found on each of the three Mysterious Locations.\nEach fragment weighs 0.5 and does not stack. These fragments are not renewable, thus only one Dyrnwyn can be crafted. If the player has increased the setting from drop rate of items, more fragments will drop, enabling more sword to be crafted."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Slash",
+          "Quality 1": "145",
+          "Quality 2": "151",
+          "Quality 3": "157",
+          "Quality 4": "163",
+          "Total": ""
+        },
+        {
+          "stat": "Fire",
+          "Quality 1": "10",
+          "Quality 2": "10",
+          "Quality 3": "10",
+          "Quality 4": "10",
+          "Total": ""
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350",
+          "Total": ""
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "1 Dyrnwyn hilt fragment1 Dyrnwyn blade fragment1 Dyrnwyn tip fragment20 Flametal1 Bloodstone",
+          "Quality 2": "10 Flametal1 Bloodstone",
+          "Quality 3": "20 Flametal2 Bloodstone",
+          "Quality 4": "30 Flametal3 Bloodstone",
+          "Total": "1 Dyrnwyn hilt fragment1 Dyrnwyn blade fragment1 Dyrnwyn tip fragment80 Flametal7 Bloodstone"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "4",
+          "Quality 2": "5",
+          "Quality 3": "6 (not yet available)",
+          "Quality 4": "7 (not yet available)",
+          "Total": ""
+        }
+      ]
+    },
+    {
+      "heading": "Tips",
+      "level": 2,
+      "text": "• Weapons that do spirit damage such as the Mistwalker or Silver Sword may be more effective at dealing with some Ashlands enemies such as the Charred Warrior due to the damage bonus against undead enemies."
+    },
+    {
+      "heading": "External link",
+      "level": 2,
+      "text": "• Lord Reto Guide - How To Get The New Flaming Sword Dywnwyn"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The Dyrnwyn, meaning \"white-hilt\" was a powerful sword that was part of the Thirteen Treasures of the Island of Britain, a series of items from late medieval (15th-16th century) Welsh tradition. It was said to have been owned by Rhydderch Hael, one of the Three Generous Men of Britain mentioned in the Welsh Triads. When drawn by a worthy or well-born man, the entire blade would blaze with fire. Rhydderch was never reluctant to hand the weapon to anyone, hence his nickname Hael, meaning \"the Generous\", but the recipients, as soon as they had learned of its peculiar properties, always rejected the sword.\n• While being an Ashlands-tier weapon, it existed and was obtainable before the Ashlands update using console commands. Its previous ID was SwordIronFire, it dealt 55 slash and 30 fire damage, had 200 durability and used 14 stamina. Despite it being uncraftable before the Ashlands update, it used to have a recipe as well as upgrades up to quality 4 defined internally. Each upgrade added 5 slash and 6 fire damage, and 50 points of durability. Crafting: 2 Fine wood, 20 Flametal, 20 Surtling core, 3 Leather scraps Upgrade to level 2: 10 Flametal, 10 Surtling core, 2 Leather scraps Upgrade to level 3: 20 Flametal, 20 Surtling core, 4 Leather scraps Upgrade to level 4: 30 Flametal, 30 Surtling core, 6 Leather scraps"
+    }
+  ],
+  "full_text": "Dyrnwyn\n\nInternal ID: SwordDyrnwyn | Type: Sword | Source: Black forge | Usage: Weapon | Crafting Materials: Flametal x30, Bloodstone x3 | Attack speed: 1.84 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.7 range, 10 angle, 1.0 height, 0.7 ray | Movement speed: -5%\n\nIntroduction. The Dyrnwyn is the seventh sword.\nIts primary attack is a 3-hit attack combo with double damage on the last hit. Its slower secondary attack deals 3x damage.\n\nDyrnwyn fragments. The recipe to craft the Dyrnwyn requires three unique fragments. Each fragment can be found on each of the three Mysterious Locations.\nEach fragment weighs 0.5 and does not stack. These fragments are not renewable, thus only one Dyrnwyn can be crafted. If the player has increased the setting from drop rate of items, more fragments will drop, enabling more sword to be crafted.\n\nTips. • Weapons that do spirit damage such as the Mistwalker or Silver Sword may be more effective at dealing with some Ashlands enemies such as the Charred Warrior due to the damage bonus against undead enemies.\n\nExternal link. • Lord Reto Guide - How To Get The New Flaming Sword Dywnwyn\n\nTrivia. • The Dyrnwyn, meaning \"white-hilt\" was a powerful sword that was part of the Thirteen Treasures of the Island of Britain, a series of items from late medieval (15th-16th century) Welsh tradition. It was said to have been owned by Rhydderch Hael, one of the Three Generous Men of Britain mentioned in the Welsh Triads. When drawn by a worthy or well-born man, the entire blade would blaze with fire. Rhydderch was never reluctant to hand the weapon to anyone, hence his nickname Hael, meaning \"the Generous\", but the recipients, as soon as they had learned of its peculiar properties, always rejected the sword.\n• While being an Ashlands-tier weapon, it existed and was obtainable before the Ashlands update using console commands. Its previous ID was SwordIronFire, it dealt 55 slash and 30 fire damage, had 200 durability and used 14 stamina. Despite it being uncraftable before the Ashlands update, it used to have a recipe as well as upgrades up to quality 4 defined internally. Each upgrade added 5 slash and 6 fire damage, and 50 points of durability. Crafting: 2 Fine wood, 20 Flametal, 20 Surtling core, 3 Leather scraps Upgrade to level 2: 10 Flametal, 10 Surtling core, 2 Leather scraps Upgrade to level 3: 20 Flametal, 20 Surtling core, 4 Leather scraps Upgrade to level 4: 30 Flametal, 30 Surtling core, 6 Leather scraps",
+  "scraped_at": "2026-02-26T01:54:54.951581+00:00"
+}

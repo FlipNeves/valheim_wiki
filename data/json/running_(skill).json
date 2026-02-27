@@ -1,0 +1,36 @@
+{
+  "title": "Running (skill)",
+  "url": "https://valheim.fandom.com/wiki/Running_(skill)",
+  "slug": "Running_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "infobox": {
+    "_infobox_title": "Running (skill)",
+    "Description": "Speed and stamina drain when running."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Running is a skill."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Improves sprinting speed by up to +25% and reduces stamina drain down to -50%."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "The player gains 0.2 Experience per second while sprinting. Sprinting even a fraction of a second will still accumulate xp proportionally. Slope, weight carried, and movement modifiers do not affect the xp gain."
+    },
+    {
+      "heading": "Speed",
+      "level": 2,
+      "text": "Characters sprint at 24km/h with 0 skill level and at 30km/h with 100 levels. Speed can be further increased by various means:\n• An active Nimble Anklet trinket: +15%\n• Consuming a Tonic of Ratatosk: +15%\n• Wearing any Fenris Set pieces: +3% each, (+9% total)\n• Active Moder Power: +10%\n• Wearing Asksvin cloak: up to +25%.\nCharacters walk at 13.5km/h no matter the run skill level."
+    }
+  ],
+  "full_text": "Running (skill)\n\nDescription: Speed and stamina drain when running.\n\nIntroduction. Running is a skill.\n\nEffects. Improves sprinting speed by up to +25% and reduces stamina drain down to -50%.\n\nLeveling up. The player gains 0.2 Experience per second while sprinting. Sprinting even a fraction of a second will still accumulate xp proportionally. Slope, weight carried, and movement modifiers do not affect the xp gain.\n\nSpeed. Characters sprint at 24km/h with 0 skill level and at 30km/h with 100 levels. Speed can be further increased by various means:\n• An active Nimble Anklet trinket: +15%\n• Consuming a Tonic of Ratatosk: +15%\n• Wearing any Fenris Set pieces: +3% each, (+9% total)\n• Active Moder Power: +10%\n• Wearing Asksvin cloak: up to +25%.\nCharacters walk at 13.5km/h no matter the run skill level.",
+  "scraped_at": "2026-02-26T01:44:08.984916+00:00"
+}

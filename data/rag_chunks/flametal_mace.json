@@ -1,0 +1,13 @@
+{
+  "title": "Flametal mace",
+  "url": "https://valheim.fandom.com/wiki/Flametal_mace",
+  "slug": "Flametal_mace",
+  "categories": [
+    "Weapons",
+    "Clubs",
+    "Black forge recipes"
+  ],
+  "content": "# Flametal mace\n\nInternal ID: MaceEldner | Type: Club | Source: Black forge | Usage: Weapon | Wielding: One-handed | Crafting Materials: Charred bone x15, Flametal x24, Sulfur x9, Asksvin hide x6 | Attack speed: 1.72 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.5 range, 30 angle, 0.8 height, 0.3 ray, vertical | Movement speed: -5%\n\n# Introduction\n\nThe Flametal mace is the sixth Club.\nIts primary attack is a 3-hit attack combo with double damage on the last hit. Its slower secondary attack deals 2.5x damage and 2x staggering.\nLike most Ashlands-tier weapons, the Flametal mace can be upgraded to one of the following three variants using gemstones:\n• Bloodgeon (Bloodstone)\n• Storm Star (Iolite)\n• Klossen (Jade)\nAn upgraded Flametal mace will NOT keep its upgrade level when it is modified using gemstones.\n\n## Upgrade information\n\n• stat: Blunt | Quality 1: 135 | Quality 2: 141 | Quality 3: 147 | Quality 4: 153\n\n• stat: Durability | Quality 1: 150 | Quality 2: 200 | Quality 3: 250 | Quality 4: 300\n\n• stat: Crafting | Quality 1: 10 Charred bone15 Flametal5 Sulfur3 Asksvin hide | Quality 2: 5 Charred bone8 Flametal3 Sulfur2 Asksvin hide | Quality 3: 10 Charred bone16 Flametal6 Sulfur4 Asksvin hide | Quality 4: 15 Charred bone24 Flametal9 Sulfur6 Asksvin hide\n\n• stat: Black forge level | Quality 1: 3 | Quality 2: 4 | Quality 3: 5 | Quality 4: 6 (not yet available)\n\nCategorias: Weapons, Clubs, Black forge recipes",
+  "content_length": 1440,
+  "scraped_at": "2026-02-26T01:14:39.138225+00:00"
+}

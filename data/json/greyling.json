@@ -1,0 +1,72 @@
+{
+  "title": "Greyling",
+  "url": "https://valheim.fandom.com/wiki/Greyling",
+  "slug": "Greyling",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Greyling",
+    "Internal ID": "Greyling",
+    "Faction": "Forest",
+    "Main biome": "Meadows",
+    "Drops": "Resin",
+    "Abilities": "Attack (2s)",
+    "Very weak to (x2)": "Fire",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Stagger",
+    "Resistant to (x0.5)": "Poison",
+    "Immune to (x0)": "Spirit, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "30%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Greylings are aggressive creatures found in Meadows. They are mossy tree-like beings and are substantially weaker than their Greydwarf counterparts."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Resin",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Anywhere in forests of Meadows",
+          "Limit": "2",
+          "Frequency": "Common",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"The forest is moving...\" event before defeating The Elder",
+          "Limit": "4",
+          "Frequency": "Very common",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Attack",
+      "level": 3,
+      "text": "Swings their hand sideways in a 1.5-meter 90-degree horizontal arc to scratch the player (5 Slash damage). This attack can be used every 2 seconds when within 1.2 meters of a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Along with Necks and Boars, Greylings are one of the first enemies the player may encounter in Valheim.\n• 1-star and 2-star Greylings can only be spawned in using commands, and take on the appearance of the 1-star and 2-star Greydwarfs."
+    }
+  ],
+  "full_text": "Greyling\n\nInternal ID: Greyling | Faction: Forest | Main biome: Meadows | Drops: Resin | Abilities: Attack (2s) | Very weak to (x2): Fire | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Stagger | Resistant to (x0.5): Poison | Immune to (x0): Spirit, ,, Chop, ,, Pickaxe | Stagger limit: 30%\n\nIntroduction. Greylings are aggressive creatures found in Meadows. They are mossy tree-like beings and are substantially weaker than their Greydwarf counterparts.\n\nAttack. Swings their hand sideways in a 1.5-meter 90-degree horizontal arc to scratch the player (5 Slash damage). This attack can be used every 2 seconds when within 1.2 meters of a player.\n\nNotes. • Along with Necks and Boars, Greylings are one of the first enemies the player may encounter in Valheim.\n• 1-star and 2-star Greylings can only be spawned in using commands, and take on the appearance of the 1-star and 2-star Greydwarfs.",
+  "scraped_at": "2026-02-26T01:07:58.955769+00:00"
+}

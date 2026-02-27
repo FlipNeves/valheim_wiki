@@ -1,0 +1,31 @@
+{
+  "title": "Knives (skill)",
+  "url": "https://valheim.fandom.com/wiki/Knives_(skill)",
+  "slug": "Knives_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "infobox": {
+    "_infobox_title": "Knives (skill)",
+    "Description": "Determines, damage, and, stamina, cost with Knives."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Knives is a skill related to Knives weapon class."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Higher skill level in knives reduces the stamina cost to attack down to -33% and increases damage and knockback up to +141%.\nFor the details of damage scaling, see Damage mechanics#Skill factor."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "The player gains 1.5 experience per one-handed and 1 experience per two-handed attack when hitting a creature."
+    }
+  ],
+  "full_text": "Knives (skill)\n\nDescription: Determines, damage, and, stamina, cost with Knives.\n\nIntroduction. Knives is a skill related to Knives weapon class.\n\nEffects. Higher skill level in knives reduces the stamina cost to attack down to -33% and increases damage and knockback up to +141%.\nFor the details of damage scaling, see Damage mechanics#Skill factor.\n\nLeveling up. The player gains 1.5 experience per one-handed and 1 experience per two-handed attack when hitting a creature.",
+  "scraped_at": "2026-02-26T01:43:51.979678+00:00"
+}

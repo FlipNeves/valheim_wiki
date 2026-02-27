@@ -1,0 +1,76 @@
+{
+  "title": "Troll Cave",
+  "url": "https://valheim.fandom.com/wiki/Troll_Cave",
+  "slug": "Troll_Cave",
+  "categories": [
+    "Points of interest",
+    "Dungeons"
+  ],
+  "infobox": {
+    "_infobox_title": "Troll Cave",
+    "Type": "Dungeon",
+    "Location": "Black Forest",
+    "Inhabitants": "Troll"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Troll Caves are dungeons found in Black Forests."
+    },
+    {
+      "heading": "Description",
+      "level": 2,
+      "text": "They appear as large rock formations with a large entryway, usually decorated with two or three bone piles.\nTroll caves may have 0 or 1 Troll inside. Trolls do not respawn inside the cave, since they are a single-use spawn point, nor do trolls in the forest return to a cave. Trolls cannot enter or leave, and nothing other than the player can enter the cave, making an empty troll cave a completely safe refuge.\nIt is possible to build a campfire inside a troll cave without being choked by smoke. The only other structures allowed are a cooking station, a sitting log, and a ward (the last of which would be useless, since the cave is classified as a dungeon and workbenches cannot be placed there)."
+    },
+    {
+      "heading": "Loot",
+      "level": 2,
+      "text": "• Amber pearl\n• Ruby\n• Amber\n• Bone fragments\n• Coins\n• Yellow mushroom\n• 0-2 stone chests, containing 3-5 of the following:",
+      "table_data": [
+        {
+          "Amount": "10-15",
+          "Item": "Bone fragments",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "20-50",
+          "Item": "Coins",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "2-4",
+          "Item": "Deer hide",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "3-5",
+          "Item": "Leather scraps",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "1-2",
+          "Item": "Ruby",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "10-30",
+          "Item": "Stone",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "10-30",
+          "Item": "Wood",
+          "Chance": "14.3%"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Similar to Burial Chambers, some loot may be spread out across the ground inside the cave, and can be easy to miss.\n• A troll cave makes an excellent foundation for an outpost, since no matter how strong the attack, you cannot be reached in any way if you retreat inside the cave, and objects placed in the chests inside the cave are absolutely secure.\n• Unlike other loot, the yellow mushrooms in Troll Caves will respawn."
+    }
+  ],
+  "full_text": "Troll Cave\n\nType: Dungeon | Location: Black Forest | Inhabitants: Troll\n\nIntroduction. Troll Caves are dungeons found in Black Forests.\n\nDescription. They appear as large rock formations with a large entryway, usually decorated with two or three bone piles.\nTroll caves may have 0 or 1 Troll inside. Trolls do not respawn inside the cave, since they are a single-use spawn point, nor do trolls in the forest return to a cave. Trolls cannot enter or leave, and nothing other than the player can enter the cave, making an empty troll cave a completely safe refuge.\nIt is possible to build a campfire inside a troll cave without being choked by smoke. The only other structures allowed are a cooking station, a sitting log, and a ward (the last of which would be useless, since the cave is classified as a dungeon and workbenches cannot be placed there).\n\nLoot. • Amber pearl\n• Ruby\n• Amber\n• Bone fragments\n• Coins\n• Yellow mushroom\n• 0-2 stone chests, containing 3-5 of the following:\n\nNotes. • Similar to Burial Chambers, some loot may be spread out across the ground inside the cave, and can be easy to miss.\n• A troll cave makes an excellent foundation for an outpost, since no matter how strong the attack, you cannot be reached in any way if you retreat inside the cave, and objects placed in the chests inside the cave are absolutely secure.\n• Unlike other loot, the yellow mushrooms in Troll Caves will respawn.",
+  "scraped_at": "2026-02-26T01:46:15.535821+00:00"
+}

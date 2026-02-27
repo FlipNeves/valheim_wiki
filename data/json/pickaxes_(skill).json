@@ -1,0 +1,31 @@
+{
+  "title": "Pickaxes (skill)",
+  "url": "https://valheim.fandom.com/wiki/Pickaxes_(skill)",
+  "slug": "Pickaxes_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "infobox": {
+    "_infobox_title": "Pickaxes (skill)",
+    "Description": "Determines, damage, and, stamina, cost with Pickaxes."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Pickaxes is a skill related to Pickaxes weapon class."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Higher skill level in pickaxes reduces the stamina cost to attack down to -33% and increases damage (against creatures and ores) and knockback up to +141%.\nFor the details of damage scaling, see Damage mechanics#Skill factor."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "The player gains 1.5xp per attack when hitting stone or ore deposits."
+    }
+  ],
+  "full_text": "Pickaxes (skill)\n\nDescription: Determines, damage, and, stamina, cost with Pickaxes.\n\nIntroduction. Pickaxes is a skill related to Pickaxes weapon class.\n\nEffects. Higher skill level in pickaxes reduces the stamina cost to attack down to -33% and increases damage (against creatures and ores) and knockback up to +141%.\nFor the details of damage scaling, see Damage mechanics#Skill factor.\n\nLeveling up. The player gains 1.5xp per attack when hitting stone or ore deposits.",
+  "scraped_at": "2026-02-26T01:43:55.264356+00:00"
+}

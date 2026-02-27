@@ -1,0 +1,14 @@
+{
+  "title": "Dundr",
+  "url": "https://valheim.fandom.com/wiki/Dundr",
+  "slug": "Dundr",
+  "categories": [
+    "Weapons",
+    "Magic",
+    "Elemental magic",
+    "Galdr table recipes"
+  ],
+  "content": "# Dundr\n\nInternal ID: StaffLightning | Type: Elemental magic | Source: Galdr table | Usage: Magic weapon | Wielding: Two-handed | Crafting Materials: Ashwood x15, Flametal x6, Celestial feather x9, Bloodstone x3 | Movement speed: -5%\n\n# Introduction\n\nDundr is a Magic weapon that shoots a grapeshot of 12 lightning bolts at short range.\nEach shot is followed by a 1.9 seconds reloading animation. During reloading, the Eitr cost of the attack is slowly consumed while the player can walk and jump, but sprinting will cancel the reload.\nThe Dundr's damage is dependent on the caster's Elemental magic skill level. Like other magic weapons, it has no secondary attack.\n\n## Upgrade information\n\n• stat: Lightning | Quality 1: 20 | Quality 2: 23 | Quality 3: 26 | Quality 4: 29\n\n• stat: Durability | Quality 1: 200 | Quality 2: 250 | Quality 3: 300 | Quality 4: 350\n\n• stat: Crafting | Quality 1: 10 Ashwood4 Flametal3 Celestial feather1 Bloodstone | Quality 2: 5 Ashwood2 Flametal3 Celestial feather1 Bloodstone | Quality 3: 10 Ashwood4 Flametal6 Celestial feather2 Bloodstone | Quality 4: 5 Ashwood6 Flametal9 Celestial feather3 Bloodstone\n\n• stat: Galdr table level | Quality 1: 2 | Quality 2: 3 | Quality 3: 4 | Quality 4: 5 (not yet available)\n\n## Notes\n\n• The damage totals shown above apply to each individual projectile. Thus, if all 12 projectiles connect, the total amount of Lightning damage dealt will be 240 - 348 (depending on quality).\n• The Dundr must be reloaded before each attack, just like a Crossbow: Running, jumping or dodging while the reload animation is underway will cancel the reload. This makes the Dundr less effective if you are surrounded by multiple enemies, as is often the case throughout the Ashlands biome, since it opens players up to attacks while reloading.\n• The Dundr has high knockback and recoil, exactly like a crossbow, which can be useful for separating players from individual, slower threats (e.g. Charred Warriors).\n• The Dundr is particularly effective against Morgen, which are weak to lightning damage and which have large hitboxes that are easier to hit with more of each shot's projectiles. Since the Dundr opens players up to attack while reloading, it is best used against Morgen inside Putrid Holes, where no other creatures can threaten to flank the wielder.\n• Using the Dundr can increase a player's Elemental magic skill rapidly, as experience is gained for each projectile which connects.\n\nCategorias: Weapons, Magic, Elemental magic, Galdr table recipes",
+  "content_length": 2512,
+  "scraped_at": "2026-02-26T01:14:03.780192+00:00"
+}

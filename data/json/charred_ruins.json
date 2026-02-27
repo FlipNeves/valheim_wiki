@@ -1,0 +1,34 @@
+{
+  "title": "Charred Ruins",
+  "url": "https://valheim.fandom.com/wiki/Charred_ruins",
+  "slug": "Charred_ruins",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Charred ruins",
+    "Type": "Structure",
+    "Internal ID": "CharredRuins",
+    "Location": "Ashlands",
+    "Inhabitants": "Ash crow"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Charred ruins or Cathedral ruins are large structures built from Grausten found in the Ashlands. The charred ruins are particularly high, with the upper floors accessible by Grausten steep stairs."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "Charred ruins contain a large quantity of Ashvine. This makes Charred ruins a great spot to gather Vineberry clusters and Vineberry seeds.\nNumerous Ancient pots are found within the ruins. The furniture present inside can be destroyed for Ashwood."
+    },
+    {
+      "heading": "Creatures",
+      "level": 2,
+      "text": "Ash crows will spawn with the Charred ruins."
+    }
+  ],
+  "full_text": "Charred Ruins\n\nType: Structure | Internal ID: CharredRuins | Location: Ashlands | Inhabitants: Ash crow\n\nIntroduction. Charred ruins or Cathedral ruins are large structures built from Grausten found in the Ashlands. The charred ruins are particularly high, with the upper floors accessible by Grausten steep stairs.\n\nResources. Charred ruins contain a large quantity of Ashvine. This makes Charred ruins a great spot to gather Vineberry clusters and Vineberry seeds.\nNumerous Ancient pots are found within the ruins. The furniture present inside can be destroyed for Ashwood.\n\nCreatures. Ash crows will spawn with the Charred ruins.",
+  "scraped_at": "2026-02-26T01:54:06.421396+00:00"
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Raw fish",
+  "url": "https://valheim.fandom.com/wiki/Raw_fish",
+  "slug": "Raw_fish",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Raw fish",
+    "Type": "Material",
+    "Internal ID": "FishRaw",
+    "Source": "Fishing rod",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Raw fish can be made from any caught fish at a Food preparation table. It can be cooked into Cooked fish using a Cooking station.\nFish can be caught with a Fishing rod using Fishing bait or by picking up fish that have become stranded out of water."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Raw fish can be made in the Food preparation table from any type of fish. The number of Raw fish acquired depends mainly on the fish quality, as listed below. However, certain types of fish also add a flat bonus (which is not multiplied per quality level): for example, a quality 3 Tuna will yield 8 raw fish. See the next section for details on which fish give bonus raw fish.",
+      "table_data": [
+        {
+          "Quality": "1",
+          "Weight": "2.0",
+          "Base amount of Raw fish": "1"
+        },
+        {
+          "Quality": "2",
+          "Weight": "4.0",
+          "Base amount of Raw fish": "4"
+        },
+        {
+          "Quality": "3",
+          "Weight": "6.0",
+          "Base amount of Raw fish": "7"
+        },
+        {
+          "Quality": "4",
+          "Weight": "8.0",
+          "Base amount of Raw fish": "10"
+        },
+        {
+          "Quality": "5",
+          "Weight": "10.0",
+          "Base amount of Raw fish": "13"
+        },
+        {
+          "Quality": "1",
+          "Weight": "2.0",
+          "Base amount of Raw fish + 1": "2"
+        },
+        {
+          "Quality": "2",
+          "Weight": "4.0",
+          "Base amount of Raw fish + 1": "5"
+        },
+        {
+          "Quality": "3",
+          "Weight": "6.0",
+          "Base amount of Raw fish + 1": "8"
+        },
+        {
+          "Quality": "4",
+          "Weight": "8.0",
+          "Base amount of Raw fish + 1": "11"
+        },
+        {
+          "Quality": "5",
+          "Weight": "10.0",
+          "Base amount of Raw fish + 1": "14"
+        },
+        {
+          "Quality": "1",
+          "Weight": "2.0",
+          "Base amount of Raw fish + 2": "3"
+        },
+        {
+          "Quality": "2",
+          "Weight": "4.0",
+          "Base amount of Raw fish + 2": "6"
+        },
+        {
+          "Quality": "3",
+          "Weight": "6.0",
+          "Base amount of Raw fish + 2": "9"
+        },
+        {
+          "Quality": "4",
+          "Weight": "8.0",
+          "Base amount of Raw fish + 2": "12"
+        },
+        {
+          "Quality": "5",
+          "Weight": "10.0",
+          "Base amount of Raw fish + 2": "15"
+        }
+      ]
+    },
+    {
+      "heading": "For Raw fish",
+      "level": 4,
+      "text": "• Cooked fish\n• Coal, if left on a Cooking station for too long"
+    },
+    {
+      "heading": "For Cooked fish",
+      "level": 4,
+      "text": "• Fish wraps\n• Sailor's bounty\nUnlike most other foods made from meat, Raw fish has to be cooked on a Cooking station first to be crafted into other foods."
+    }
+  ],
+  "full_text": "Raw fish\n\nType: Material | Internal ID: FishRaw | Source: Fishing rod | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Raw fish can be made from any caught fish at a Food preparation table. It can be cooked into Cooked fish using a Cooking station.\nFish can be caught with a Fishing rod using Fishing bait or by picking up fish that have become stranded out of water.\n\nAvailability. Raw fish can be made in the Food preparation table from any type of fish. The number of Raw fish acquired depends mainly on the fish quality, as listed below. However, certain types of fish also add a flat bonus (which is not multiplied per quality level): for example, a quality 3 Tuna will yield 8 raw fish. See the next section for details on which fish give bonus raw fish.\n\nFor Raw fish. • Cooked fish\n• Coal, if left on a Cooking station for too long\n\nFor Cooked fish. • Fish wraps\n• Sailor's bounty\nUnlike most other foods made from meat, Raw fish has to be cooked on a Cooking station first to be crafted into other foods.",
+  "scraped_at": "2026-02-26T01:27:59.403965+00:00"
+}

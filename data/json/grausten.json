@@ -1,0 +1,35 @@
+{
+  "title": "Grausten",
+  "url": "https://valheim.fandom.com/wiki/Grausten",
+  "slug": "Grausten",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Grausten",
+    "Type": "Material",
+    "Internal ID": "Grausten",
+    "Source": "Building ruins and rock formations in, Ashlands",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Grausten is a resource introduced in the Ashlands biome. It can be used as a material to build structures with the hammer."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Destroying Ashlands ruins or rock formations in Ashlands."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Grausten payload"
+    }
+  ],
+  "full_text": "Grausten\n\nType: Material | Internal ID: Grausten | Source: Building ruins and rock formations in, Ashlands | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Grausten is a resource introduced in the Ashlands biome. It can be used as a material to build structures with the hammer.\n\nAvailability. • Destroying Ashlands ruins or rock formations in Ashlands.\n\nCrafting. • Grausten payload",
+  "scraped_at": "2026-02-26T01:34:09.178560+00:00"
+}

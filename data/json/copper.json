@@ -1,0 +1,43 @@
+{
+  "title": "Copper",
+  "url": "https://valheim.fandom.com/wiki/Copper",
+  "slug": "Copper",
+  "categories": [
+    "Metals",
+    "Materials",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Copper",
+    "Type": "Metal",
+    "Internal ID": "Copper",
+    "Source": "Smelter | Dvergr metal wall",
+    "Usage": "Crafting, Building",
+    "Teleportable (Can go through wood portal?)": "No",
+    "Crafting Materials": "Copper ore x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Copper is a crafting material smelted from Copper ore or Copper scrap in a Smelter.\nIt can be combined with Tin at a Forge to create Bronze."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Smelting Copper ore in the Smelter.\n• Destroying/Recycling Dvergr metal wall at Dvergr structures in the Mistlands."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "• Crafting: Bronze Copper knife\n• Building: Black Forest Forge Forge cooler Mead ketill Sconce Swamp Obliterator Plains Pots and pans Mistlands Black forge cooler Black marble bench Black marble table Black marble throne Dvergr lantern pole Dvergr metal wall Dvergr spiral left stair Dvergr spiral right stair Dvergr wall lantern Ashlands Shield generator"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Like other metals, Copper cannot be teleported, without a Portal Stone (As of the Ashlands update)."
+    }
+  ],
+  "full_text": "Copper\n\nType: Metal | Internal ID: Copper | Source: Smelter | Dvergr metal wall | Usage: Crafting, Building | Teleportable (Can go through wood portal?): No | Crafting Materials: Copper ore x1\n\nIntroduction. Copper is a crafting material smelted from Copper ore or Copper scrap in a Smelter.\nIt can be combined with Tin at a Forge to create Bronze.\n\nAvailability. • Smelting Copper ore in the Smelter.\n• Destroying/Recycling Dvergr metal wall at Dvergr structures in the Mistlands.\n\nUsage. • Crafting: Bronze Copper knife\n• Building: Black Forest Forge Forge cooler Mead ketill Sconce Swamp Obliterator Plains Pots and pans Mistlands Black forge cooler Black marble bench Black marble table Black marble throne Dvergr lantern pole Dvergr metal wall Dvergr spiral left stair Dvergr spiral right stair Dvergr wall lantern Ashlands Shield generator\n\nNotes. • Like other metals, Copper cannot be teleported, without a Portal Stone (As of the Ashlands update).",
+  "scraped_at": "2026-02-26T01:32:22.977106+00:00"
+}

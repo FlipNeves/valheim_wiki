@@ -1,0 +1,13 @@
+{
+  "title": "Bone tower shield",
+  "url": "https://valheim.fandom.com/wiki/Bone_tower_shield",
+  "slug": "Bone_tower_shield",
+  "categories": [
+    "Weapons",
+    "Shields",
+    "Workbench recipes"
+  ],
+  "content": "# Bone tower shield\n\nInternal ID: ShieldBoneTower | Type: Shield | Source: Workbench | Usage: Blocking | Wielding: Off-hand | Crafting Materials: Wood x10, Bone fragments x10 | Movement speed: -10%\n\n# Introduction\n\nThe Bone tower shield is the second tower shield. It has more block armor and force compared to Wood tower shield, and similarly reduces movement speed by 10% as well as increasing dodge roll cost by 10%.\nAs a tower shield, it cannot be used to parry enemy attacks.\n\n## Upgrade information\n\nCost to max is 25 wood, 25 bone fragments and 3 skeleton trophies.\n\n• stat: Block armor | Quality 1: 32 | Quality 2: 38 | Quality 3: 44\n\n• stat: Durability | Quality 1: 200 | Quality 2: 250 | Quality 3: 300\n\n• stat: Crafting | Quality 1: 10 Wood10 Bone fragments3 Skeleton trophy | Quality 2: 5 Wood5 Bone fragments | Quality 3: 10 Wood10 Bone fragments\n\n• stat: Workbench level | Quality 1: 3 | Quality 2: 4 | Quality 3: 5\n\nCategorias: Weapons, Shields, Workbench recipes",
+  "content_length": 978,
+  "scraped_at": "2026-02-26T01:12:11.896047+00:00"
+}

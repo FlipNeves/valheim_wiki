@@ -1,0 +1,11 @@
+{
+  "title": "Banners",
+  "url": "https://valheim.fandom.com/wiki/Yellow_banner",
+  "slug": "Yellow_banner",
+  "categories": [
+    "Furniture"
+  ],
+  "content": "# Banners\n\n# Introduction\n\nAll banners are made from Finewood, Leather scraps, and one or more other materials for the color.\n\n## Common properties\n\nBanners share the following properties:\n\n• Property: Durability | Value: 50\n\n• Property: Support | Value: Wood (from 10 to 100)\n\n• Property: Loss | Value: 1/8 vertical, 1/5 horizontal\n\n• Property: Resistances | Value: Weak: Chop Neutral: Blunt, Slash, Pickaxe, Fire, Frost, Lightning Resistant: Pierce Immune: Poison, Spirit\n\n• Property: Damaged by Rain? | Value: No\n\n• Property: Comfort | Value: 1 (if no other banners in range)\n\n• Property: Size | Value: 3x2\n\n## Banners\n\n• Banner: Black banner | Materials: Finewood x2 Leather scraps x6 Coal x4 | Internal id: piece_banner01\n\n• Banner: Blue banner | Materials: Finewood x2 Leather scraps x6 Blueberries x4 | Internal id: piece_banner02\n\n• Banner: White and red striped banner | Materials: Finewood x2 Leather scraps x6 Raspberries x4 | Internal id: piece_banner03\n\n• Banner: Red banner | Materials: Finewood x2 Leather scraps x6 Bloodbag x1 | Internal id: piece_banner04\n\n• Banner: Green banner | Materials: Finewood x2 Leather scraps x6 Guck x1 | Internal id: piece_banner05\n\n• Banner: Blue, red and white banner | Materials: Finewood x2 Leather scraps x6 Blueberries x2 Raspberries x2 Cloudberries x1 | Internal id: piece_banner06\n\n• Banner: White and blue striped banner | Materials: Finewood x2 Leather scraps x6 Blueberries x2 Cloudberries x3 | Internal id: piece_banner07\n\n• Banner: Yellow banner | Materials: Finewood x2 Leather scraps x6 Coal x2 Dandelion x4 | Internal id: piece_banner08\n\n• Banner: Purple banner | Materials: Finewood x2 Leather scraps x6 Blueberries x2 Raspberries x3 | Internal id: piece_banner09\n\n• Banner: Orange banner | Materials: Finewood x2 Leather scraps x6 Carrot x2 Cloudberries x3 | Internal id: piece_banner10\n\n• Banner: White banner | Materials: Finewood x2 Leather scraps x6 Coal x2 Cloudberries x4 | Internal id: piece_banner11\n\nCategorias: Furniture",
+  "content_length": 1994,
+  "scraped_at": "2026-02-26T02:04:04.515255+00:00"
+}

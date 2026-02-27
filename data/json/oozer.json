@@ -1,0 +1,95 @@
+{
+  "title": "Oozer",
+  "url": "https://valheim.fandom.com/wiki/Oozer",
+  "slug": "Oozer",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Oozer",
+    "Internal ID": "BlobElite",
+    "Faction": "Undead",
+    "Main biome": "Swamp",
+    "Drops": "Ooze | Scrap iron",
+    "Abilities": "Area of effect",
+    "Weak to (x1.5)": "Blunt, ,, Frost, ,, Lightning",
+    "Neutral to (x1)": "Spirit",
+    "Resistant to (x0.5)": "Fire, ,, Pierce, ,, Slash",
+    "Immune to (x0)": "Poison, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Oozers are aggressive creatures found in Swamps. They are large, gelatinous piles of sentient ooze that emit poisonous yellow gasses. Upon death, they split into two Blobs."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Blob",
+          "0 Star": "2",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Ooze",
+          "0 Star": "2",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Scrap iron",
+          "0 Star": "33%",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Anywhere in Swamp during the nighttime, despawn at dawn",
+          "Limit": "1",
+          "Frequency": "Common",
+          "Stars": "No"
+        },
+        {
+          "Type": "Rare spawn point in front of Sunken Crypts, doesn't despawn at dawn",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"A foul smell from the swamp\" event after defeating Bonemass",
+          "Limit": "2",
+          "Frequency": "Very common",
+          "Stars": "No"
+        },
+        {
+          "Type": "When a Blob bomb Elite poison is used",
+          "Limit": "-",
+          "Frequency": "-",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Area of effect",
+      "level": 3,
+      "text": "Oozers will stretch slightly before compressing and releasing a cloud of poisonous gas 8 meters in radius, applying the Poison status (115 Poison damage). Despite visual appearances, the cloud does not actually persist and only hits once. This ability can be used when a player is within 3 meters, and it has a cooldown of 4 seconds."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Oozers have a chance to drop Scrap iron, meaning they can theoretically provide early access to Iron equipment before the player obtains a Swamp key. However, given the relatively uncommon spawn rate for Oozers, low drop rate of Scrap iron, and high metal cost of iron equipment, this is generally not a viable strategy for obtaining Iron.\n• Oozers have no associated trophy."
+    }
+  ],
+  "full_text": "Oozer\n\nInternal ID: BlobElite | Faction: Undead | Main biome: Swamp | Drops: Ooze | Scrap iron | Abilities: Area of effect | Weak to (x1.5): Blunt, ,, Frost, ,, Lightning | Neutral to (x1): Spirit | Resistant to (x0.5): Fire, ,, Pierce, ,, Slash | Immune to (x0): Poison, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. Oozers are aggressive creatures found in Swamps. They are large, gelatinous piles of sentient ooze that emit poisonous yellow gasses. Upon death, they split into two Blobs.\n\nArea of effect. Oozers will stretch slightly before compressing and releasing a cloud of poisonous gas 8 meters in radius, applying the Poison status (115 Poison damage). Despite visual appearances, the cloud does not actually persist and only hits once. This ability can be used when a player is within 3 meters, and it has a cooldown of 4 seconds.\n\nNotes. • Oozers have a chance to drop Scrap iron, meaning they can theoretically provide early access to Iron equipment before the player obtains a Swamp key. However, given the relatively uncommon spawn rate for Oozers, low drop rate of Scrap iron, and high metal cost of iron equipment, this is generally not a viable strategy for obtaining Iron.\n• Oozers have no associated trophy.",
+  "scraped_at": "2026-02-26T01:08:49.273759+00:00"
+}

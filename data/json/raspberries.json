@@ -1,0 +1,50 @@
+{
+  "title": "Raspberries",
+  "url": "https://valheim.fandom.com/wiki/Raspberries",
+  "slug": "Raspberries",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Raspberries",
+    "Type": "Food",
+    "Internal ID": "Raspberry",
+    "Source": "Raspberry bushes in, Meadows",
+    "Usage": "Building, Crafting, Eating, Taming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "7",
+    "Max Stamina": "20",
+    "Duration": "10m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Raspberries are often found along the edges of large open meadows.\nRaspberries are valuable in both early game as a basic food item and in mid-late game as a necessary ingredient for the early-tier Queen's jam and the Medium healing mead. Thus, gathering Raspberries when encountered is usually a good idea."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Bushes in the Meadows can be harvested for 1 Raspberries, affected by Farming (Skill). Bushes replenish after 5h. There is currently no way to replant berry bushes, and if they are destroyed they will not grow back."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Blue, red and white banner\n• Cartography table\n• Purple banner\n• White and red striped banner\n• Yuleklapp (large)"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mead base: Medium healing\n• Mead base: Minor healing\n• Mead base: Minor stamina\n• Mead base: Tasty\n• Muckshake\n• Queen's jam\n• Red firework"
+    },
+    {
+      "heading": "Taming",
+      "level": 3,
+      "text": "• Boar"
+    }
+  ],
+  "full_text": "Raspberries\n\nType: Food | Internal ID: Raspberry | Source: Raspberry bushes in, Meadows | Usage: Building, Crafting, Eating, Taming | Teleportable (Can go through wood portal?): Yes | Max Health: 7 | Max Stamina: 20 | Duration: 10m | Healing: 1 hp/tick\n\nIntroduction. Raspberries are often found along the edges of large open meadows.\nRaspberries are valuable in both early game as a basic food item and in mid-late game as a necessary ingredient for the early-tier Queen's jam and the Medium healing mead. Thus, gathering Raspberries when encountered is usually a good idea.\n\nAvailability. • Bushes in the Meadows can be harvested for 1 Raspberries, affected by Farming (Skill). Bushes replenish after 5h. There is currently no way to replant berry bushes, and if they are destroyed they will not grow back.\n\nBuilding. • Blue, red and white banner\n• Cartography table\n• Purple banner\n• White and red striped banner\n• Yuleklapp (large)\n\nCrafting. • Mead base: Medium healing\n• Mead base: Minor healing\n• Mead base: Minor stamina\n• Mead base: Tasty\n• Muckshake\n• Queen's jam\n• Red firework\n\nTaming. • Boar",
+  "scraped_at": "2026-02-26T01:27:56.560084+00:00"
+}

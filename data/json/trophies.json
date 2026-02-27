@@ -1,0 +1,589 @@
+{
+  "title": "Trophies",
+  "url": "https://valheim.fandom.com/wiki/Trophies",
+  "slug": "Trophies",
+  "categories": [
+    "Trophies",
+    "Items"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Trophies are items dropped by defeated creatures and can stack to 20."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "All trophies have some shared uses:\n• They can be attached to Item stands to serve as decorations.\n• They can be used to program the Ballista.\n• All trophies will give 1 Coal per trophy if used in an Obliterator.\nSome trophies have special usage:\n• Some are used as crafting ingredients.\n• Some are used to summon Forsaken.\nEach Forsaken is guaranteed to drop a special trophy when defeated that can be returned to the Sacrificial Stones to unlock a new Forsaken power."
+    },
+    {
+      "heading": "Meadows",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Trophy": "Boar",
+          "Drop chance": "15%",
+          "Usage": "",
+          "Weight": "2.0",
+          "Description": "This boar head would make for a nice decoration in any house.",
+          "ID": "TrophyBoar"
+        },
+        {
+          "Trophy": "Deer",
+          "Drop chance": "50%",
+          "Usage": "Mead horn of Odin StagbreakerSummoning Eikthyr",
+          "Weight": "2.0",
+          "Description": "A fine specimen but you'll need to kill more than deer to enter Valhalla.",
+          "ID": "TrophyDeer"
+        },
+        {
+          "Trophy": "Neck",
+          "Drop chance": "5%",
+          "Usage": "",
+          "Weight": "0.5",
+          "Description": "The beady eyes and razorsharp teeth belies the ostensibly calm nature of this small lizard.",
+          "ID": "TrophyNeck"
+        },
+        {
+          "Trophy": "Eikthyr",
+          "Drop chance": "100%",
+          "Usage": "Eikthyr Power",
+          "Weight": "2.0",
+          "Description": "This severed head oozes power. Offer it to the Sacrificial Stones.",
+          "ID": "TrophyEikthyr"
+        }
+      ]
+    },
+    {
+      "heading": "Black Forest",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Trophy": "Greydwarf",
+          "Drop chance": "5%",
+          "Usage": "",
+          "Weight": "1.0",
+          "Description": "The mossy, severed head of a Greydwarf.",
+          "ID": "TrophyGreydwarf"
+        },
+        {
+          "Trophy": "Greydwarf brute",
+          "Drop chance": "10%",
+          "Usage": "",
+          "Weight": "1.5",
+          "Description": "It took seven blows to hack this gnarled head from its body.",
+          "ID": "TrophyGreydwarfBrute"
+        },
+        {
+          "Trophy": "Greydwarf Shaman",
+          "Drop chance": "10%",
+          "Usage": "Heart of the Forest",
+          "Weight": "1.0",
+          "Description": "It may try to come back so be sure to prune any new shoots...",
+          "ID": "TrophyGreydwarfShaman"
+        },
+        {
+          "Trophy": "Rancid remains",
+          "Drop chance": "10%",
+          "Usage": "",
+          "Weight": "0.5",
+          "Description": "A rank and rotten skull. You're not sure why you kept it...",
+          "ID": "TrophySkeletonPoison"
+        },
+        {
+          "Trophy": "Skeleton",
+          "Drop chance": "10%",
+          "Usage": "Unfading candles Bone tower shield Dead raiser",
+          "Weight": "0.5",
+          "Description": "The expressionless grin of this skull reminds you of the inevitability of death.",
+          "ID": "TrophySkeleton"
+        },
+        {
+          "Trophy": "Ghost",
+          "Drop chance": "10%",
+          "Usage": "",
+          "Weight": "2.0",
+          "Description": "Does it still whisper about unfinished business?",
+          "ID": "TrophyGhost"
+        },
+        {
+          "Trophy": "Troll",
+          "Drop chance": "50%",
+          "Usage": "Mossy fishing bait Trollstav",
+          "Weight": "4.0",
+          "Description": "The leathery skin bears the faded tracery of ancient symbols.",
+          "ID": "TrophyFrostTroll"
+        },
+        {
+          "Trophy": "Bear",
+          "Drop chance": "10%",
+          "Usage": "Bearskin rug Headdress of the Bear Bronze Pendant",
+          "Weight": "2.0",
+          "Description": "That stare is still frightening...",
+          "ID": "TrophyBjorn"
+        },
+        {
+          "Trophy": "Brenna",
+          "Drop chance": "100%",
+          "Usage": "",
+          "Weight": "0.5",
+          "Description": "Still burning, somehow.",
+          "ID": "TrophySkeletonHildir"
+        },
+        {
+          "Trophy": "The Elder",
+          "Drop chance": "100%",
+          "Usage": "The Elder Power",
+          "Weight": "4.0",
+          "Description": "This severed head oozes power. Offer it to the Sacrificial Stones.",
+          "ID": "TrophyTheElder"
+        }
+      ]
+    },
+    {
+      "heading": "Ocean",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Trophy": "Serpent[1]",
+          "Drop chance": "33%",
+          "Usage": "Fins of Destiny Heavy fishing bait",
+          "Weight": "25.0[2]",
+          "Description": "The scales have dulled but the eyes are still bright.",
+          "ID": "TrophySerpent"
+        }
+      ]
+    },
+    {
+      "heading": "Swamp",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Trophy": "Abomination",
+          "Drop chance": "50%",
+          "Usage": "Sticky fishing bait",
+          "Weight": "4.0",
+          "Description": "It's been dead so long that it started living again.",
+          "ID": "TrophyAbomination"
+        },
+        {
+          "Trophy": "Blob",
+          "Drop chance": "10%",
+          "Usage": "Blob bomb Poison Blob bomb Elite poison",
+          "Weight": "1.0",
+          "Description": "A smelly lump of sticky matter.",
+          "ID": "TrophyBlob"
+        },
+        {
+          "Trophy": "Draugr",
+          "Drop chance": "10%",
+          "Usage": "",
+          "Weight": "1.0",
+          "Description": "Bind up the mouth if it starts to whisper in the night...",
+          "ID": "TrophyDraugr"
+        },
+        {
+          "Trophy": "Draugr elite",
+          "Drop chance": "10%",
+          "Usage": "Iron sledge",
+          "Weight": "1.0",
+          "Description": "The dead stare of the glowing red eyes sends a shiver through your bones.",
+          "ID": "TrophyDraugrElite"
+        },
+        {
+          "Trophy": "Leech",
+          "Drop chance": "10%",
+          "Usage": "Iron Brooch",
+          "Weight": "2.0",
+          "Description": "Although slimy, the skin is beautifully patterned in red and black.",
+          "ID": "TrophyLeech"
+        },
+        {
+          "Trophy": "Surtling",
+          "Drop chance": "5%",
+          "Usage": "Nimble Anklet",
+          "Weight": "1.0",
+          "Description": "Wreathed in pale flame, it still smolders like an ember.",
+          "ID": "TrophySurtling"
+        },
+        {
+          "Trophy": "Wraith",
+          "Drop chance": "5%",
+          "Usage": "",
+          "Weight": "1.0",
+          "Description": "The shed skin of a wraith, a flowing robe only visible by moonlight.",
+          "ID": "TrophyWraith"
+        },
+        {
+          "Trophy": "Kvastur",
+          "Drop chance": "100%",
+          "Usage": "",
+          "Weight": "2.0",
+          "Description": "A witch's best friend.",
+          "ID": "TrophyKvastur"
+        },
+        {
+          "Trophy": "Bonemass",
+          "Drop chance": "100%",
+          "Usage": "Bonemass Power",
+          "Weight": "2.0",
+          "Description": "Bones and viscous goo, held together by some unseen force. Offer it to the Sacrificial Stones.",
+          "ID": "TrophyBonemass"
+        }
+      ]
+    },
+    {
+      "heading": "Mountain",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Trophy": "Cultist",
+          "Drop chance": "10%",
+          "Usage": "Fenris hood",
+          "Weight": "3.0",
+          "Description": "The fire in its eyes has still not burned out.",
+          "ID": "TrophyCultist"
+        },
+        {
+          "Trophy": "Drake",
+          "Drop chance": "10%",
+          "Usage": "Drake helmet Frosty fishing bait Blob bomb: Frost",
+          "Weight": "2.0",
+          "Description": "Still cold to the touch.",
+          "ID": "TrophyHatchling"
+        },
+        {
+          "Trophy": "Fenring",
+          "Drop chance": "10%",
+          "Usage": "Cold fishing bait Wolf Sight",
+          "Weight": "1.5",
+          "Description": "Half-way between wolf and man, its face frozen in a snarl of pain.",
+          "ID": "TrophyFenring"
+        },
+        {
+          "Trophy": "Stone Golem",
+          "Drop chance": "5%",
+          "Usage": "Crystal Heart",
+          "Weight": "2.0",
+          "Description": "This crystalline rock formation would make for an impressive floor decoration.",
+          "ID": "TrophySGolem"
+        },
+        {
+          "Trophy": "Ulv",
+          "Drop chance": "10%",
+          "Usage": "",
+          "Weight": "1.5",
+          "Description": "A rugged tail from a not so good boy",
+          "ID": "TrophyUlv"
+        },
+        {
+          "Trophy": "Wolf",
+          "Drop chance": "10%",
+          "Usage": "Wolf fur cape",
+          "Weight": "1.5",
+          "Description": "Frozen in death, the hair matted with blood and a silent howl lodged in its throat.",
+          "ID": "TrophyWolf"
+        },
+        {
+          "Trophy": "Geirrhafa",
+          "Drop chance": "100%",
+          "Usage": "",
+          "Weight": "3.0",
+          "Description": "He's giving you an icy stare.",
+          "ID": "TrophyCultist_Hildir"
+        },
+        {
+          "Trophy": "Moder",
+          "Drop chance": "100%",
+          "Usage": "Moder Power",
+          "Weight": "2.0",
+          "Description": "The head of a dragon, majestic even in the rigor of death. Offer it to the Sacrificial Stones.",
+          "ID": "TrophyDragonQueen"
+        }
+      ]
+    },
+    {
+      "heading": "Plains",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Trophy": "Deathsquito",
+          "Drop chance": "5%",
+          "Usage": "",
+          "Weight": "0.5",
+          "Description": "You don't like touching this thing even when it's dead.",
+          "ID": "TrophyDeathsquito"
+        },
+        {
+          "Trophy": "Fuling",
+          "Drop chance": "10%",
+          "Usage": "Stingy fishing bait",
+          "Weight": "1.0",
+          "Description": "Loose folds of greenish skin gathered in around a pair of dark and hateful eyes.",
+          "ID": "TrophyGoblin"
+        },
+        {
+          "Trophy": "Fuling berserker",
+          "Drop chance": "5%",
+          "Usage": "Evasion Mantle",
+          "Weight": "2.0",
+          "Description": "The huge grizzled head is as heavy as a boulder.",
+          "ID": "TrophyGoblinBrute"
+        },
+        {
+          "Trophy": "Fuling shaman",
+          "Drop chance": "10%",
+          "Usage": "",
+          "Weight": "0.5",
+          "Description": "Even killing it couldn't wipe the knowing smile from its crooked lips...",
+          "ID": "TrophyGoblinShaman"
+        },
+        {
+          "Trophy": "Growth",
+          "Drop chance": "10%",
+          "Usage": "",
+          "Weight": "1.0",
+          "Description": "A black and sticky mess.",
+          "ID": "TrophyGrowth"
+        },
+        {
+          "Trophy": "Lox",
+          "Drop chance": "10%",
+          "Usage": "Misty fishing bait Bracelets of the Brave",
+          "Weight": "2.0",
+          "Description": "A giant beast's head, thatched with thick fur.",
+          "ID": "TrophyLox"
+        },
+        {
+          "Trophy": "Vile",
+          "Drop chance": "10%",
+          "Usage": "Vilebone Visage",
+          "Weight": "2.0",
+          "Description": "That stare is still frightening...",
+          "ID": "TrophyBjornUndead"
+        },
+        {
+          "Trophy": "Zil",
+          "Drop chance": "100%",
+          "Usage": "",
+          "Weight": "2.0",
+          "Description": "In the choice of 'ride or die', he picked the latter.",
+          "ID": "TrophyGoblinBruteBrosShaman"
+        },
+        {
+          "Trophy": "Thungr",
+          "Drop chance": "100%",
+          "Usage": "",
+          "Weight": "2.0",
+          "Description": "Not so tough now.",
+          "ID": "TrophyGoblinBruteBrosBrute"
+        },
+        {
+          "Trophy": "Yagluth",
+          "Drop chance": "100%",
+          "Usage": "Yagluth Power",
+          "Weight": "1.0",
+          "Description": "The crownless head of a dead king.",
+          "ID": "TrophyGoblinKing"
+        }
+      ]
+    },
+    {
+      "heading": "Mistlands",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Trophy": "Dvergr[3]",
+          "Drop chance": "5%",
+          "Usage": "",
+          "Weight": "2.0",
+          "Description": "It's frankly a little troubling that you would consider hanging these on your wall...",
+          "ID": "TrophyDvergr"
+        },
+        {
+          "Trophy": "Hare",
+          "Drop chance": "5%",
+          "Usage": "",
+          "Weight": "2.0",
+          "Description": "These are said to bring luck. But not for their original owner.",
+          "ID": "TrophyHare"
+        },
+        {
+          "Trophy": "Gjall",
+          "Drop chance": "30%",
+          "Usage": "Pulsating Earrings",
+          "Weight": "2.0",
+          "Description": "Hopefully it won't float away.",
+          "ID": "TrophyGjall"
+        },
+        {
+          "Trophy": "Seeker",
+          "Drop chance": "10%",
+          "Usage": "Resounding Shackle",
+          "Weight": "2.0",
+          "Description": "Less delicate as they look. The leather of the wings catches the firelight as if remembering flight.",
+          "ID": "TrophySeeker"
+        },
+        {
+          "Trophy": "Seeker Soldier",
+          "Drop chance": "5%",
+          "Usage": "Re-summoning The Queen",
+          "Weight": "2.0",
+          "Description": "The head of a fallen champion.",
+          "ID": "TrophySeekerBrute"
+        },
+        {
+          "Trophy": "Tick",
+          "Drop chance": "5%",
+          "Usage": "",
+          "Weight": "2.0",
+          "Description": "It's a conversation piece...",
+          "ID": "TrophyTick"
+        },
+        {
+          "Trophy": "The Queen",
+          "Drop chance": "100%",
+          "Usage": "The Queen's Power",
+          "Weight": "1.0",
+          "Description": "She has seen enough.",
+          "ID": "TrophySeekerQueen"
+        }
+      ]
+    },
+    {
+      "heading": "Ashlands",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Trophy": "Asksvin",
+          "Drop chance": "10%",
+          "Usage": "Feathery wreath",
+          "Weight": "2.0",
+          "Description": "Don't let yourself be fooled by the friendly smile, for it could easily bite your arm off.",
+          "ID": "TrophyAsksvin"
+        },
+        {
+          "Trophy": "Bonemaw",
+          "Drop chance": "33%",
+          "Usage": "",
+          "Weight": "25.0[2]",
+          "Description": "A skull made up of dense bone, as dangerous as it is protective.",
+          "ID": "TrophyBonemawSerpent"
+        },
+        {
+          "Trophy": "Fallen Valkyrie",
+          "Drop chance": "5%",
+          "Usage": "Jörmundling",
+          "Weight": "0.5",
+          "Description": "Though she is dead, she yearns for the blood to flow.",
+          "ID": "TrophyFallenValkyrie"
+        },
+        {
+          "Trophy": "Charred Marksman[4]",
+          "Drop chance": "5%",
+          "Usage": "",
+          "Weight": "0.5",
+          "Description": "These legs could hold infinite power.",
+          "ID": "TrophyCharredArcher"
+        },
+        {
+          "Trophy": "Morgen",
+          "Drop chance": "5%",
+          "Usage": "Brimstone",
+          "Weight": "0.5",
+          "Description": "The waking nightmare has met its end.",
+          "ID": "TrophyMorgen"
+        },
+        {
+          "Trophy": "Volture",
+          "Drop chance": "10%",
+          "Usage": "",
+          "Weight": "2.0",
+          "Description": "It's like a vulture, but it thrives in volcanic climates.",
+          "ID": "TrophyVolture"
+        },
+        {
+          "Trophy": "Charred Warlock[4]",
+          "Drop chance": "5%",
+          "Usage": "",
+          "Weight": "0.5",
+          "Description": "A warm glow seems to almost emanate from within. Handle with care.",
+          "ID": "TrophyCharredMage"
+        },
+        {
+          "Trophy": "Charred Warrior[4]",
+          "Drop chance": "5%",
+          "Usage": "Hot fishing bait",
+          "Weight": "0.5",
+          "Description": "Fractures line this skull, as if it has taken many hits over the years.",
+          "ID": "TrophyCharredMelee"
+        },
+        {
+          "Trophy": "Fader",
+          "Drop chance": "100%",
+          "Usage": "Fader Power",
+          "Weight": "2.0",
+          "Description": "",
+          "ID": "TrophyFader"
+        }
+      ]
+    },
+    {
+      "heading": "Light",
+      "level": 3,
+      "text": "The following trophies emit a small light:\n• Surtling trophy emits a light orange light.\n• Stone Golem trophy emits a cyan light.\n• Brenna trophy emits an orange light."
+    },
+    {
+      "heading": "Creatures without trophy",
+      "level": 3,
+      "text": "The following creatures do not drop trophies:"
+    },
+    {
+      "heading": "Quotes",
+      "level": 2,
+      "text": "Forsaken trophies have a 5% chance every minute to speak a quote.",
+      "table_data": [
+        {
+          "Trophy": "Eikthyr",
+          "Quote": "So you were my death? You look so small and soft… Tell Odin he may have broken this form but the wilderness will never submit to his rules..."
+        },
+        {
+          "Trophy": "The Elder",
+          "Quote": "Little thing of blood and bone, I should have snapped you like a twig! Now I wither and die, let the great tree have me..."
+        },
+        {
+          "Trophy": "Bonemass",
+          "Quote": "Thank you, warrior. We who lived on in this shape were denied the peace of death for too long. We go now..."
+        },
+        {
+          "Trophy": "Moder",
+          "Quote": "Sheathe your pride, creature of Odin! My long reign is at an end but those who come after me are greater still..."
+        },
+        {
+          "Trophy": "Yagluth",
+          "Quote": "Do you come to gloat, little thing? Do you know how many times I have been killed, broken, banished, burned and buried? You are not the first and you will not be the last."
+        },
+        {
+          "Trophy": "The Queen",
+          "Quote": "Tell Odin that my kin will bring forth another... A monarch never dies."
+        },
+        {
+          "Trophy": "Fader",
+          "Quote": "I followed a false destiny, and it gave me nothing but ruin. Forgive me, my love..."
+        }
+      ]
+    }
+  ],
+  "full_text": "Trophies\n\nIntroduction. Trophies are items dropped by defeated creatures and can stack to 20.\n\nUsage. All trophies have some shared uses:\n• They can be attached to Item stands to serve as decorations.\n• They can be used to program the Ballista.\n• All trophies will give 1 Coal per trophy if used in an Obliterator.\nSome trophies have special usage:\n• Some are used as crafting ingredients.\n• Some are used to summon Forsaken.\nEach Forsaken is guaranteed to drop a special trophy when defeated that can be returned to the Sacrificial Stones to unlock a new Forsaken power.\n\nLight. The following trophies emit a small light:\n• Surtling trophy emits a light orange light.\n• Stone Golem trophy emits a cyan light.\n• Brenna trophy emits an orange light.\n\nCreatures without trophy. The following creatures do not drop trophies:\n\nQuotes. Forsaken trophies have a 5% chance every minute to speak a quote.",
+  "scraped_at": "2026-02-26T02:17:10.619186+00:00"
+}

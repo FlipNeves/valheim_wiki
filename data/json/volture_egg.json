@@ -1,0 +1,30 @@
+{
+  "title": "Volture egg",
+  "url": "https://valheim.fandom.com/wiki/Volture_egg",
+  "slug": "Volture_egg",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Volture egg",
+    "Type": "Material",
+    "Internal ID": "VoltureEgg",
+    "Source": "Volture",
+    "Usage": "Cooking",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Volture eggs can be found inside Volture nests in the Ashlands biome. They are also dropped by Voltures.\nUnlike other eggs, Volture eggs do not hatch into Voltures."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Uncooked roasted crust pie"
+    }
+  ],
+  "full_text": "Volture egg\n\nType: Material | Internal ID: VoltureEgg | Source: Volture | Usage: Cooking | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Volture eggs can be found inside Volture nests in the Ashlands biome. They are also dropped by Voltures.\nUnlike other eggs, Volture eggs do not hatch into Voltures.\n\nCrafting. • Uncooked roasted crust pie",
+  "scraped_at": "2026-02-26T01:37:36.542771+00:00"
+}

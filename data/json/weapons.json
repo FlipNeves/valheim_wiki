@@ -1,0 +1,1181 @@
+{
+  "title": "Weapons",
+  "url": "https://valheim.fandom.com/wiki/Weapons",
+  "slug": "Weapons",
+  "categories": [
+    "Weapons",
+    "Items"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Weapons are items that can be used to deal damage to creatures and structures."
+    },
+    {
+      "heading": "Properties",
+      "level": 2,
+      "text": "Show/Hide Properties"
+    },
+    {
+      "heading": "Melee weapons",
+      "level": 2,
+      "text": "Melee weapons are items that can be equipped to increase attack damage. Different types of melee weapon can have different ranges, attack speeds, stamina costs per attack and secondary attacks. When equipping one-handed weapons, the character can also equip shields.\nMost melee weapons' attack pattern involve a 3-hit combo. Generally, the first hit has the slowest delay (from the initial click), the second hit has less delay, and the third hit is slightly slower while dealing the most damage. Most melee weapons are quicker to recover and block from a miss than after a direct strike. Below are details regarding each type of melee weapon:"
+    },
+    {
+      "heading": "Axes",
+      "level": 3,
+      "text": "They are the only type of player weapon that can be used to cut trees. They can also be used against creatures, which makes for a slightly worse sword.",
+      "table_data": [
+        {
+          "Name": "Stone axe",
+          "Icon": "",
+          "Damage": "Slash: 15/30Chop: 20/29",
+          "Stamina (primary)": "5",
+          "Stamina (secondary)": "10",
+          "Able to chop": "Up to Pine"
+        },
+        {
+          "Name": "Flint axe",
+          "Icon": "",
+          "Damage": "Slash: 20/35Chop: 30/39",
+          "Stamina (primary)": "6",
+          "Stamina (secondary)": "12",
+          "Able to chop": "Up to Pine"
+        },
+        {
+          "Name": "Bronze axe",
+          "Icon": "",
+          "Damage": "Slash: 40/55Chop: 40/49",
+          "Stamina (primary)": "8",
+          "Stamina (secondary)": "16",
+          "Able to chop": "Up to Birch and Oak"
+        },
+        {
+          "Name": "Iron axe",
+          "Icon": "",
+          "Damage": "Slash: 60/75Chop: 50/59",
+          "Stamina (primary)": "10",
+          "Stamina (secondary)": "20",
+          "Able to chop": "Up to Birch and Oak"
+        },
+        {
+          "Name": "Black metal axe",
+          "Icon": "",
+          "Damage": "Slash: 100/115Chop: 60/69",
+          "Stamina (primary)": "14",
+          "Stamina (secondary)": "28",
+          "Able to chop": "Up to Yggdrasil shoots"
+        },
+        {
+          "Name": "Jotun Bane",
+          "Icon": "",
+          "Damage": "Slash: 80/95Poison: 40/40Chop: 70/79",
+          "Stamina (primary)": "16",
+          "Stamina (secondary)": "32",
+          "Able to chop": "Up to Yggdrasil shoots"
+        },
+        {
+          "Name": "Early axes",
+          "Icon": "",
+          "Damage": "Slash: 30/45Chop: 35/44",
+          "Stamina (primary)": "6",
+          "Stamina (secondary)": "16",
+          "Able to chop": "Up to Birch and Oak"
+        },
+        {
+          "Name": "Berserkir axes",
+          "Icon": "",
+          "Damage": "Slash: 140/155Chop: 80/89",
+          "Stamina (primary)": "16",
+          "Stamina (secondary)": "32",
+          "Able to chop": "Up to Yggdrasil shoots"
+        },
+        {
+          "Name": "Battleaxe",
+          "Icon": "",
+          "Damage": "Slash: 70/88Chop: 40/47.5",
+          "Stamina (primary)": "16",
+          "Stamina (secondary)": "8",
+          "Able to chop": "Up to Birch and Oak"
+        },
+        {
+          "Name": "Crystal battleaxe",
+          "Icon": "",
+          "Damage": "Slash: 90/108Spirit: 30/30Chop: 50/57.5",
+          "Stamina (primary)": "18",
+          "Stamina (secondary)": "9",
+          "Able to chop": "Up to Birch and Oak"
+        },
+        {
+          "Name": "Black metal battleaxe",
+          "Icon": "",
+          "Damage": "Slash: 110/128Chop: 60/67.5",
+          "Stamina (primary)": "20",
+          "Stamina (secondary)": "10",
+          "Able to chop": "Up to Yggdrasil shoots"
+        },
+        {
+          "Name": "Skull Splittur",
+          "Icon": "",
+          "Damage": "Slash: 130/148Chop: 70/77.5",
+          "Stamina (primary)": "22",
+          "Stamina (secondary)": "11",
+          "Able to chop": "Up to Yggdrasil shoots"
+        }
+      ]
+    },
+    {
+      "heading": "Clubs",
+      "level": 3,
+      "text": "Clubs primarily deal blunt damage and feature high knockback. The knockback from clubs allows the player to keep enemies at arms' length and is sufficient to displace some enemies out of their effective attack range.",
+      "table_data": [
+        {
+          "Name": "Torch",
+          "Icon": "",
+          "Damage": "Blunt: 4Fire: 15",
+          "Knockback": "30",
+          "Stamina(primary)": "4",
+          "Stamina(secondary)": "—",
+          "Notes": ""
+        },
+        {
+          "Name": "Club",
+          "Icon": "",
+          "Damage": "Blunt: 12/30",
+          "Knockback": "30",
+          "Stamina(primary)": "6",
+          "Stamina(secondary)": "—",
+          "Notes": ""
+        },
+        {
+          "Name": "Bronze mace",
+          "Icon": "",
+          "Damage": "Blunt: 35/53",
+          "Knockback": "80",
+          "Stamina(primary)": "8",
+          "Stamina(secondary)": "16",
+          "Notes": ""
+        },
+        {
+          "Name": "Iron mace",
+          "Icon": "",
+          "Damage": "Blunt: 55/73",
+          "Knockback": "90",
+          "Stamina(primary)": "10",
+          "Stamina(secondary)": "20",
+          "Notes": ""
+        },
+        {
+          "Name": "Frostner",
+          "Icon": "",
+          "Damage": "Frost: 40/58Blunt: 35/35Spirit: 20/20",
+          "Knockback": "100",
+          "Stamina(primary)": "12",
+          "Stamina(secondary)": "24",
+          "Notes": ""
+        },
+        {
+          "Name": "Porcupine",
+          "Icon": "",
+          "Damage": "Blunt: 50/50Pierce: 45/63",
+          "Knockback": "100",
+          "Stamina(primary)": "14",
+          "Stamina(secondary)": "28",
+          "Notes": ""
+        },
+        {
+          "Name": "Flametal mace",
+          "Icon": "",
+          "Damage": "Blunt: 135/153",
+          "Knockback": "100",
+          "Stamina(primary)": "16",
+          "Stamina(secondary)": "28",
+          "Notes": ""
+        },
+        {
+          "Name": "Stagbreaker",
+          "Icon": "",
+          "Damage": "Blunt: 20/38Pierce: 5/5",
+          "Knockback": "150",
+          "Stamina(primary)": "12",
+          "Stamina(secondary)": "—",
+          "Notes": "AoE damage"
+        },
+        {
+          "Name": "Iron sledge",
+          "Icon": "",
+          "Damage": "Blunt: 55/73",
+          "Knockback": "200",
+          "Stamina(primary)": "20",
+          "Stamina(secondary)": "—",
+          "Notes": "2x stagger,AoE damage"
+        },
+        {
+          "Name": "Demolisher",
+          "Icon": "",
+          "Damage": "Blunt: 145/163",
+          "Knockback": "210",
+          "Stamina(primary)": "28",
+          "Stamina(secondary)": "—",
+          "Notes": "2x stagger,AoE damage"
+        }
+      ]
+    },
+    {
+      "heading": "Swords",
+      "level": 3,
+      "text": "Swords have low knockback and low stamina cost for good damage. Sword damage is not reduced when several enemies or objects are hit by a single attack, unlike most other weapons.",
+      "table_data": [
+        {
+          "Name": "Bronze sword",
+          "Icon": "",
+          "Damage": "Slash: 35/53",
+          "Stamina (primary)": "8",
+          "Stamina (secondary)": "16"
+        },
+        {
+          "Name": "Iron sword",
+          "Icon": "",
+          "Damage": "Slash: 55/73",
+          "Stamina (primary)": "10",
+          "Stamina (secondary)": "20"
+        },
+        {
+          "Name": "Silver sword",
+          "Icon": "",
+          "Damage": "Slash: 75/93Spirit: 30/45",
+          "Stamina (primary)": "12",
+          "Stamina (secondary)": "24"
+        },
+        {
+          "Name": "Black metal sword",
+          "Icon": "",
+          "Damage": "Slash: 95/113",
+          "Stamina (primary)": "14",
+          "Stamina (secondary)": "28"
+        },
+        {
+          "Name": "Mistwalker",
+          "Icon": "",
+          "Damage": "Slash: 75/75Frost: 40/58Spirit: 0/15",
+          "Stamina (primary)": "16",
+          "Stamina (secondary)": "32"
+        },
+        {
+          "Name": "Nidhögg",
+          "Icon": "",
+          "Damage": "Slash: 135/153",
+          "Stamina (primary)": "16",
+          "Stamina (secondary)": "32"
+        },
+        {
+          "Name": "Dyrnwyn",
+          "Icon": "",
+          "Damage": "Slash: 145/163Fire: 10",
+          "Stamina (primary)": "16",
+          "Stamina (secondary)": "32"
+        },
+        {
+          "Name": "Krom",
+          "Icon": "",
+          "Damage": "Slash: 150/168",
+          "Stamina (primary)": "20",
+          "Stamina (secondary)": "40"
+        },
+        {
+          "Name": "Slayer",
+          "Icon": "",
+          "Damage": "Slash: 170/188",
+          "Stamina (primary)": "20",
+          "Stamina (secondary)": "40"
+        }
+      ]
+    },
+    {
+      "heading": "Spears",
+      "level": 3,
+      "text": "Spears have a fast attack with short range and low stamina cost.",
+      "table_data": [
+        {
+          "Name": "Flint spear",
+          "Icon": "",
+          "Damage": "Pierce: 20/38",
+          "Stamina (primary)": "6",
+          "Stamina (secondary)": "8"
+        },
+        {
+          "Name": "Bronze spear",
+          "Icon": "",
+          "Damage": "Pierce: 35/53",
+          "Stamina (primary)": "8",
+          "Stamina (secondary)": "10"
+        },
+        {
+          "Name": "Ancient bark spear",
+          "Icon": "",
+          "Damage": "Pierce: 55/73",
+          "Stamina (primary)": "10",
+          "Stamina (secondary)": "12"
+        },
+        {
+          "Name": "Fang spear",
+          "Icon": "",
+          "Damage": "Pierce: 75/93",
+          "Stamina (primary)": "12",
+          "Stamina (secondary)": "14"
+        },
+        {
+          "Name": "Carapace spear",
+          "Icon": "",
+          "Damage": "Pierce: 115/133",
+          "Stamina (primary)": "16",
+          "Stamina (secondary)": "18"
+        },
+        {
+          "Name": "Splitnir",
+          "Icon": "",
+          "Damage": "Pierce: 135/153",
+          "Stamina (primary)": "16",
+          "Stamina (secondary)": "18"
+        }
+      ]
+    },
+    {
+      "heading": "Polearms",
+      "level": 3,
+      "text": "Polearms are strong two-handed weapons. All polearms deal pierce damage, and have a distinct AoE special attack.",
+      "table_data": [
+        {
+          "Name": "Bronze atgeir",
+          "Icon": "",
+          "Damage": "Pierce: 45/63",
+          "Stamina (primary)": "12",
+          "Stamina (secondary)": "24",
+          "Block armor": "16"
+        },
+        {
+          "Name": "Iron atgeir",
+          "Icon": "",
+          "Damage": "Pierce: 65/83",
+          "Stamina (primary)": "14",
+          "Stamina (secondary)": "28",
+          "Block armor": "28"
+        },
+        {
+          "Name": "Black metal atgeir",
+          "Icon": "",
+          "Damage": "Pierce: 105/123",
+          "Stamina (primary)": "18",
+          "Stamina (secondary)": "36",
+          "Block armor": "52"
+        },
+        {
+          "Name": "Himminafl",
+          "Icon": "",
+          "Damage": "Pierce: 85/85Lightning: 40/58",
+          "Stamina (primary)": "20",
+          "Stamina (secondary)": "40",
+          "Block armor": "64"
+        }
+      ]
+    },
+    {
+      "heading": "Knives",
+      "level": 3,
+      "text": "Knives have fast attacks with short range and low stamina cost. Knives deal 6x damage against unalerted enemies, whereas most other weapons do 3x.",
+      "table_data": [
+        {
+          "Name": "Flint knife",
+          "Icon": "",
+          "Damage": "Slash: 5/8Pierce: 5/8",
+          "Stamina (primary)": "4",
+          "Stamina (secondary)": "12",
+          "Notes": ""
+        },
+        {
+          "Name": "Copper knife",
+          "Icon": "",
+          "Damage": "Slash: 12/15Pierce: 12/15",
+          "Stamina (primary)": "6",
+          "Stamina (secondary)": "18",
+          "Notes": ""
+        },
+        {
+          "Name": "Butcher knife",
+          "Icon": "",
+          "Damage": "Pure: 1000",
+          "Stamina (primary)": "5",
+          "Stamina (secondary)": "-",
+          "Notes": "Does damage only to tamed animals"
+        },
+        {
+          "Name": "Abyssal Razor",
+          "Icon": "",
+          "Damage": "Slash: 20/23Pierce: 20/23",
+          "Stamina (primary)": "8",
+          "Stamina (secondary)": "24",
+          "Notes": ""
+        },
+        {
+          "Name": "Silver knife",
+          "Icon": "",
+          "Damage": "Slash: 25/28Pierce: 25/28Spirit: 12",
+          "Stamina (primary)": "10",
+          "Stamina (secondary)": "30",
+          "Notes": ""
+        },
+        {
+          "Name": "Black metal knife",
+          "Icon": "",
+          "Damage": "Slash: 34/37Pierce: 34/37",
+          "Stamina (primary)": "12",
+          "Stamina (secondary)": "36",
+          "Notes": ""
+        },
+        {
+          "Name": "Skoll and Hati",
+          "Icon": "",
+          "Damage": "Slash: 45/48Pierce: 45/48",
+          "Stamina (primary)": "14",
+          "Stamina (secondary)": "42",
+          "Notes": "Dual-wielded"
+        }
+      ]
+    },
+    {
+      "heading": "Fists",
+      "level": 3,
+      "text": "When a player attacks without a weapon, tool equipped, or use a dedicated Fist weapon such as the Flesh Rippers, they do a Fist strike.",
+      "table_data": [
+        {
+          "Name": "Bare fists",
+          "Icon": "",
+          "Damage": "blunt: 5",
+          "Knockback": "5",
+          "Stamina": "4"
+        },
+        {
+          "Name": "Paws of the Bear",
+          "Icon": "",
+          "Damage": "slash: 25/37",
+          "Knockback": "10",
+          "Stamina": "6"
+        },
+        {
+          "Name": "Flesh Rippers",
+          "Icon": "",
+          "Damage": "slash: 60/72",
+          "Knockback": "20",
+          "Stamina": "10"
+        },
+        {
+          "Name": "Vilebone Maulclaws",
+          "Icon": "",
+          "Damage": "pierce: 60 slash: 20/32",
+          "Knockback": "10",
+          "Stamina": "12"
+        }
+      ]
+    },
+    {
+      "heading": "Shields",
+      "level": 3,
+      "text": "Shields are weapons that can be used with other one-handed weapons. The block power, parry force and parry bonus of the weapons used with shields would be replaced by that of the shield used.",
+      "table_data": [
+        {
+          "Name": "Wood shield",
+          "Icon": "",
+          "Type": "Round",
+          "Block armor (Min/Max)": "6/18",
+          "Block force (Min/Max)": "20/30",
+          "Parry bonus": "1.5x",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Wood tower shield",
+          "Icon": "",
+          "Type": "Tower",
+          "Block armor (Min/Max)": "10/22",
+          "Block force (Min/Max)": "100/110",
+          "Parry bonus": "-",
+          "Movement speed": "-10%"
+        },
+        {
+          "Name": "Bone tower shield",
+          "Icon": "",
+          "Type": "Tower",
+          "Block armor (Min/Max)": "32/44",
+          "Block force (Min/Max)": "100/110",
+          "Parry bonus": "-",
+          "Movement speed": "-10%"
+        },
+        {
+          "Name": "Bronze buckler",
+          "Icon": "",
+          "Type": "Buckler",
+          "Block armor (Min/Max)": "16/28",
+          "Block force (Min/Max)": "30",
+          "Parry bonus": "2.5x",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Banded shield",
+          "Icon": "",
+          "Type": "Round",
+          "Block armor (Min/Max)": "42/54",
+          "Block force (Min/Max)": "40/50",
+          "Parry bonus": "1.5x",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Iron buckler",
+          "Icon": "",
+          "Type": "Buckler",
+          "Block armor (Min/Max)": "28/40",
+          "Block force (Min/Max)": "30",
+          "Parry bonus": "2.5x",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Iron tower shield",
+          "Icon": "",
+          "Type": "Tower",
+          "Block armor (Min/Max)": "52/64",
+          "Block force (Min/Max)": "100/110",
+          "Parry bonus": "-",
+          "Movement speed": "-10%"
+        },
+        {
+          "Name": "Silver shield",
+          "Icon": "",
+          "Type": "Round",
+          "Block armor (Min/Max)": "60/72",
+          "Block force (Min/Max)": "40/50",
+          "Parry bonus": "1.5x",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Serpent scale shield",
+          "Icon": "",
+          "Type": "Tower",
+          "Block armor (Min/Max)": "60/72Resistant vs. Pierce",
+          "Block force (Min/Max)": "100/110",
+          "Parry bonus": "-",
+          "Movement speed": "-10%"
+        },
+        {
+          "Name": "Black metal shield",
+          "Icon": "",
+          "Type": "Round",
+          "Block armor (Min/Max)": "78/90",
+          "Block force (Min/Max)": "50/60",
+          "Parry bonus": "1.5x",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Black metal tower shield",
+          "Icon": "",
+          "Type": "Tower",
+          "Block armor (Min/Max)": "104/116",
+          "Block force (Min/Max)": "150/160",
+          "Parry bonus": "-",
+          "Movement speed": "-10%"
+        },
+        {
+          "Name": "Carapace buckler",
+          "Icon": "",
+          "Type": "Buckler",
+          "Block armor (Min/Max)": "78/90",
+          "Block force (Min/Max)": "50/60",
+          "Parry bonus": "2.5x",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Carapace shield",
+          "Icon": "",
+          "Type": "Round",
+          "Block armor (Min/Max)": "96/108",
+          "Block force (Min/Max)": "60/70",
+          "Parry bonus": "1.5x",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Flametal shield",
+          "Icon": "",
+          "Type": "Round",
+          "Block armor (Min/Max)": "114/126",
+          "Block force (Min/Max)": "50/60",
+          "Parry bonus": "1.5x",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Flametal tower shield",
+          "Icon": "",
+          "Type": "Tower",
+          "Block armor (Min/Max)": "140/152",
+          "Block force (Min/Max)": "150/160",
+          "Parry bonus": "-",
+          "Movement speed": "-10%"
+        }
+      ]
+    },
+    {
+      "heading": "Bows",
+      "level": 3,
+      "text": "Bows are weapons that shoot equipped arrows. Unlike melee weapons, attacks consume equipped arrows and can be charged while spending stamina to increase range and damage. Bows cannot be used when there are no arrows left in the inventory.",
+      "table_data": [
+        {
+          "Name": "Crude bow",
+          "Icon": "",
+          "Stamina": "4 / s",
+          "Damage Types(Min/Max)": "Pierce: 22/31",
+          "Knockback": "0",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "35 m/s",
+          "Attack noise": "1°",
+          "Hit noise": "20°",
+          "col_10": "15 m",
+          "col_11": "8 m"
+        },
+        {
+          "Name": "Finewood bow",
+          "Icon": "",
+          "Stamina": "6 / s",
+          "Damage Types(Min/Max)": "Pierce: 32/41",
+          "Knockback": "5",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "50 m/s",
+          "Attack noise": "1°",
+          "Hit noise": "20°",
+          "col_10": "15 m",
+          "col_11": "8 m"
+        },
+        {
+          "Name": "Huntsman bow",
+          "Icon": "",
+          "Stamina": "8 / s",
+          "Damage Types(Min/Max)": "Pierce: 42/51",
+          "Knockback": "10",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "50 m/s",
+          "Attack noise": "0°",
+          "Hit noise": "20°",
+          "col_10": "4 m",
+          "col_11": "4 m"
+        },
+        {
+          "Name": "Draugr Fang",
+          "Icon": "",
+          "Stamina": "10 / s",
+          "Damage Types(Min/Max)": "Pierce: 47/56Poison: 5/20",
+          "Knockback": "20",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "60 m/s",
+          "Attack noise": "0°",
+          "Hit noise": "20°",
+          "col_10": "15 m",
+          "col_11": "8 m"
+        },
+        {
+          "Name": "Spinesnap",
+          "Icon": "",
+          "Stamina": "14 / s",
+          "Damage Types(Min/Max)": "Pierce: 72/84Spirit: 5/20",
+          "Knockback": "25",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "60 m/s",
+          "Attack noise": "0°",
+          "Hit noise": "20°",
+          "col_10": "15 m",
+          "col_11": "8 m"
+        },
+        {
+          "Name": "Ash Fang",
+          "Icon": "",
+          "Stamina": "14 / s",
+          "Damage Types(Min/Max)": "Pierce: 82/94 Spirit: 0/15",
+          "Knockback": "25",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "60 m/s",
+          "Attack noise": "0°",
+          "Hit noise": "20°",
+          "col_10": "15 m",
+          "col_11": "8 m"
+        }
+      ]
+    },
+    {
+      "heading": "Crossbows",
+      "level": 3,
+      "text": "Crossbows are weapons that shoot equipped bolts. Like bows, attacks consume Bolts. Crossbows are slow to load, but have great damage and long range with no trajectory drop.",
+      "table_data": [
+        {
+          "Name": "Arbalest",
+          "Icon": "",
+          "Reload Speed": "3.5s",
+          "Stamina": "1/s",
+          "Damage Types(Min/Max)": "Pierce: 200/209",
+          "Knockback": "210",
+          "Backstab": "3x",
+          "Velocity": "200 m/s",
+          "Spread": "0°",
+          "Attack noise": "15m",
+          "Hit noise": "8m"
+        },
+        {
+          "Name": "Ripper",
+          "Icon": "",
+          "Reload Speed": "3.5s",
+          "Stamina": "1/s",
+          "Damage Types(Min/Max)": "Pierce: 220/229",
+          "Knockback": "210",
+          "Backstab": "3x",
+          "Velocity": "200 m/s",
+          "Spread": "0°",
+          "Attack noise": "15m",
+          "Hit noise": "8m"
+        }
+      ]
+    },
+    {
+      "heading": "Magic weapons",
+      "level": 2,
+      "text": "Magic weapons need Eitr to be used. There are two types of magic weapons, Elemental magic and Blood magic."
+    },
+    {
+      "heading": "Elemental magic",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Staff of Embers",
+          "Icon": "",
+          "Damage": "Blunt: 120Fire: 120/138",
+          "Eitr Used": "35",
+          "Block armor": "48-72",
+          "Block force": "20",
+          "Parry bonus": "2x",
+          "Knockback": "100",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Staff of Frost",
+          "Icon": "",
+          "Damage": "Frost: 30/36",
+          "Eitr Used": "5",
+          "Block armor": "48-72",
+          "Block force": "20",
+          "Parry bonus": "2x",
+          "Knockback": "10",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Dundr",
+          "Icon": "",
+          "Damage": "Lightning:12x20/12x26",
+          "Eitr Used": "25",
+          "Block armor": "48-72",
+          "Block force": "20",
+          "Parry bonus": "2x",
+          "Knockback": "210",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Staff of the Wild",
+          "Icon": "",
+          "Damage": "Blunt:20/60Poison:20/60",
+          "Eitr Used": "55",
+          "Block armor": "48-72",
+          "Block force": "20",
+          "Parry bonus": "2x",
+          "Knockback": "100",
+          "Movement speed": "-5%"
+        },
+        {
+          "Name": "Staff of Fracturing",
+          "Icon": "",
+          "Damage": "Blunt:12x12Fire:12x12/12x24",
+          "Eitr Used": "30",
+          "Block armor": "48-72",
+          "Block force": "20",
+          "Parry bonus": "2x",
+          "Knockback": "100",
+          "Movement speed": "-5%"
+        }
+      ]
+    },
+    {
+      "heading": "Blood magic",
+      "level": 3,
+      "text": "Blood magic weapons drain some of the caster's Health (current health, not maximum health) per cast.",
+      "table_data": [
+        {
+          "Name": "Staff of Protection",
+          "Icon": "",
+          "Eitr used": "60",
+          "Health drained": "40%",
+          "Hp/Shield": "200",
+          "Damage": "0",
+          "Duration": "1/2/3/4 minutes per Staff level",
+          "Limit max Summon": "1 per ally"
+        },
+        {
+          "Name": "Dead Raiser",
+          "Icon": "",
+          "Eitr used": "100",
+          "Health drained": "40%",
+          "Hp/Shield": "400",
+          "Damage": "Summon: 50 slash/40 pierce",
+          "Duration": "Unlimited",
+          "Limit max Summon": "Up to 4 based on Dead Raiser level"
+        },
+        {
+          "Name": "Trollstav",
+          "Icon": "",
+          "Eitr used": "120",
+          "Health drained": "60%",
+          "Hp/Shield": "2000",
+          "Damage": "On cast: 300 fire, 50 pure Summon: 60-80 blunt",
+          "Duration": "Unlimited",
+          "Limit max Summon": "2"
+        }
+      ]
+    },
+    {
+      "heading": "Arrows",
+      "level": 3,
+      "text": "Arrows are items that can be shot by bows. Bows cannot be used without arrows.",
+      "table_data": [
+        {
+          "Name": "Wood arrow",
+          "Icon": "",
+          "Total Damage": "22",
+          "Damage Type": "Pierce: 22",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Flinthead arrow",
+          "Icon": "",
+          "Total Damage": "27",
+          "Damage Type": "Pierce: 27",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Bronzehead arrow",
+          "Icon": "",
+          "Total Damage": "32",
+          "Damage Type": "Pierce: 32",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Fire arrow",
+          "Icon": "",
+          "Total Damage": "33",
+          "Damage Type": "Pierce: 11Fire: 22",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Ironhead arrow",
+          "Icon": "",
+          "Total Damage": "42",
+          "Damage Type": "Pierce: 42",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Poison arrow",
+          "Icon": "",
+          "Total Damage": "78",
+          "Damage Type": "Pierce: 26Poison: 52",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Obsidian arrow",
+          "Icon": "",
+          "Total Damage": "52",
+          "Damage Type": "Pierce: 52",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Frost arrow",
+          "Icon": "",
+          "Total Damage": "78",
+          "Damage Type": "Pierce: 26Frost: 52",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Silver arrow",
+          "Icon": "",
+          "Total Damage": "72",
+          "Damage Type": "Pierce: 52Spirit: 20",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Needle arrow",
+          "Icon": "",
+          "Total Damage": "62",
+          "Damage Type": "Pierce: 62",
+          "Knockback": "15"
+        },
+        {
+          "Name": "Carapace arrow",
+          "Icon": "",
+          "Total Damage": "72",
+          "Damage Type": "Pierce: 72",
+          "Knockback": "15"
+        },
+        {
+          "Name": "Charred arrow",
+          "Icon": "",
+          "Total Damage": "82",
+          "Damage Type": "Pierce: 82",
+          "Knockback": "15"
+        }
+      ]
+    },
+    {
+      "heading": "Bolts",
+      "level": 3,
+      "text": "Bolts are items that can be shot by crossbows. Crossbows cannot be used without bolts.",
+      "table_data": [
+        {
+          "Name": "Bone bolt",
+          "Icon": "",
+          "Damage": "Pierce: 32",
+          "Knockback": "0"
+        },
+        {
+          "Name": "Iron bolt",
+          "Icon": "",
+          "Damage": "Pierce: 42",
+          "Knockback": "0"
+        },
+        {
+          "Name": "Black metal bolt",
+          "Icon": "",
+          "Damage": "Pierce: 62",
+          "Knockback": "0"
+        },
+        {
+          "Name": "Carapace bolt",
+          "Icon": "",
+          "Damage": "Pierce: 72",
+          "Knockback": "0"
+        },
+        {
+          "Name": "Charred bolt",
+          "Icon": "",
+          "Damage": "Pierce: 82",
+          "Knockback": "0"
+        }
+      ]
+    },
+    {
+      "heading": "Missiles",
+      "level": 3,
+      "text": "Missiles are items that can be shot by the Ballista. Ballistae cannot be armed without missiles.",
+      "table_data": [
+        {
+          "Name": "Wooden missile",
+          "Icon": "",
+          "Damage": "Pierce: 75",
+          "Knockback": "45",
+          "ID": "TurretBoltWood"
+        },
+        {
+          "Name": "Black metal missile",
+          "Icon": "",
+          "Damage": "Pierce: 120",
+          "Knockback": "60",
+          "ID": "TurretBolt"
+        },
+        {
+          "Name": "Flametal missile",
+          "Icon": "",
+          "Damage": "Pierce: 140",
+          "Knockback": "60",
+          "ID": "TurretBoltFlametal"
+        }
+      ]
+    },
+    {
+      "heading": "Bombs",
+      "level": 3,
+      "text": "Bombs are weapons that are thrown by the character and consumed when used.",
+      "table_data": [
+        {
+          "Name": "Ooze bomb",
+          "Icon": "",
+          "Damage": "5",
+          "Damage type": "Blunt",
+          "AoE damage": "poison: 40",
+          "AoE radius": "4 m",
+          "AoE duration": "10 s",
+          "Backstab": "3x",
+          "Knockback": "40"
+        },
+        {
+          "Name": "Bile bomb",
+          "Icon": "",
+          "Damage": "5",
+          "Damage type": "Blunt",
+          "AoE damage": "fire: 15poison: 30",
+          "AoE radius": "4 m",
+          "AoE duration": "10 s",
+          "Backstab": "3x",
+          "Knockback": "40"
+        },
+        {
+          "Name": "Smoke bomb",
+          "Icon": "",
+          "Damage": "5",
+          "Damage type": "Blunt",
+          "AoE damage": "smoked: 2/s",
+          "AoE radius": "3 m",
+          "AoE duration": "10 s",
+          "Backstab": "3x",
+          "Knockback": "40"
+        }
+      ]
+    },
+    {
+      "heading": "Blob bombs",
+      "level": 3,
+      "text": "Blob bombs are a type of Bombs that summon a creature on impact.",
+      "table_data": [
+        {
+          "Name": "Blob bomb: Poison",
+          "Icon": "",
+          "Crafting": "Corked vial x1 Resin x3 Blob trophy x1",
+          "Blob": "Blob",
+          "id": "BombBlob_Poison"
+        },
+        {
+          "Name": "Blob bomb: Elite poison (x2)",
+          "Icon": "",
+          "Crafting": "Corked vial x1 Resin x3 Blob trophy x3",
+          "Blob": "Oozer",
+          "id": "BombBlob_PoisonElite"
+        },
+        {
+          "Name": "Blob bomb: Frost",
+          "Icon": "",
+          "Crafting": "Corked vial x1 Resin x3 Drake trophy x1",
+          "Blob": "Frost Blob",
+          "id": "BombBlob_Frost"
+        },
+        {
+          "Name": "Blob bomb: Tar",
+          "Icon": "",
+          "Crafting": "Corked vial x1 Tar x3 Growth trophy x1",
+          "Blob": "Growth",
+          "id": "BombBlob_Tar"
+        },
+        {
+          "Name": "Blob bomb: Lava",
+          "Icon": "",
+          "Crafting": "Corked vial x1 Sulfur x10 Proustite powder x10",
+          "Blob": "Lava Blob",
+          "id": "BombBlob_Lava"
+        }
+      ]
+    },
+    {
+      "heading": "Wooden weapons",
+      "level": 2,
+      "text": "Wooden weapons is a series of weapons that deals only 1 damage. They are mainly suited for training and practice matches between players.",
+      "table_data": [
+        {
+          "Name": "Wooden sword",
+          "Icon": "",
+          "Class": "Swords",
+          "Stamina": "4",
+          "Durability": "200",
+          "Source": "Crafted at Workbench for 5 Wood, 3 Finewood and 2 Corewood.",
+          "id": "SwordWood"
+        },
+        {
+          "Name": "Wooden axe",
+          "Icon": "",
+          "Class": "Axes",
+          "Stamina": "4",
+          "Durability": "125",
+          "Source": "Found in chest buried in Viking Graveyard.",
+          "id": "AxeWood"
+        },
+        {
+          "Name": "Wooden knife",
+          "Icon": "",
+          "Class": "Knives",
+          "Stamina": "4",
+          "Durability": "200",
+          "Source": "Found in chest buried in Viking Graveyard.",
+          "id": "KnifeWood"
+        },
+        {
+          "Name": "Wooden mace",
+          "Icon": "",
+          "Class": "Clubs",
+          "Stamina": "8",
+          "Durability": "200",
+          "Source": "Found in chest in Combat Ruin and in Draugr Village Great Halls.",
+          "id": "MaceWood"
+        },
+        {
+          "Name": "Wooden spear",
+          "Icon": "",
+          "Class": "Spears",
+          "Stamina": "4",
+          "Durability": "100",
+          "Source": "Found in chest in Abandoned Outpost and in Abandoned Hut.",
+          "id": "SpearWood"
+        },
+        {
+          "Name": "Wooden sledge",
+          "Icon": "",
+          "Class": "Sledge hammers",
+          "Stamina": "8",
+          "Durability": "100",
+          "Source": "Found in chest in Swamp Runestone Tower and in Swamp Graves.",
+          "id": "SledgeWood"
+        },
+        {
+          "Name": "Wooden battleaxe",
+          "Icon": "",
+          "Class": "Battleaxe",
+          "Stamina": "8",
+          "Durability": "200",
+          "Source": "Found in Mountain chest.",
+          "id": "BattleaxeWood"
+        },
+        {
+          "Name": "Wooden atgeir",
+          "Icon": "",
+          "Class": "Polearms",
+          "Stamina": "8",
+          "Durability": "175",
+          "Source": "Found in Plains chest.",
+          "id": "AtgeirWood"
+        },
+        {
+          "Name": "Wooden greatsword",
+          "Icon": "",
+          "Class": "Two-handed Swords",
+          "Stamina": "8",
+          "Durability": "200",
+          "Source": "Found in Infested Mine Treasure chest.",
+          "id": "THSwordWood"
+        }
+      ]
+    }
+  ],
+  "full_text": "Weapons\n\nIntroduction. Weapons are items that can be used to deal damage to creatures and structures.\n\nProperties. Show/Hide Properties\n\nMelee weapons. Melee weapons are items that can be equipped to increase attack damage. Different types of melee weapon can have different ranges, attack speeds, stamina costs per attack and secondary attacks. When equipping one-handed weapons, the character can also equip shields.\nMost melee weapons' attack pattern involve a 3-hit combo. Generally, the first hit has the slowest delay (from the initial click), the second hit has less delay, and the third hit is slightly slower while dealing the most damage. Most melee weapons are quicker to recover and block from a miss than after a direct strike. Below are details regarding each type of melee weapon:\n\nAxes. They are the only type of player weapon that can be used to cut trees. They can also be used against creatures, which makes for a slightly worse sword.\n\nClubs. Clubs primarily deal blunt damage and feature high knockback. The knockback from clubs allows the player to keep enemies at arms' length and is sufficient to displace some enemies out of their effective attack range.\n\nSwords. Swords have low knockback and low stamina cost for good damage. Sword damage is not reduced when several enemies or objects are hit by a single attack, unlike most other weapons.\n\nSpears. Spears have a fast attack with short range and low stamina cost.\n\nPolearms. Polearms are strong two-handed weapons. All polearms deal pierce damage, and have a distinct AoE special attack.\n\nKnives. Knives have fast attacks with short range and low stamina cost. Knives deal 6x damage against unalerted enemies, whereas most other weapons do 3x.\n\nFists. When a player attacks without a weapon, tool equipped, or use a dedicated Fist weapon such as the Flesh Rippers, they do a Fist strike.\n\nShields. Shields are weapons that can be used with other one-handed weapons. The block power, parry force and parry bonus of the weapons used with shields would be replaced by that of the shield used.\n\nBows. Bows are weapons that shoot equipped arrows. Unlike melee weapons, attacks consume equipped arrows and can be charged while spending stamina to increase range and damage. Bows cannot be used when there are no arrows left in the inventory.\n\nCrossbows. Crossbows are weapons that shoot equipped bolts. Like bows, attacks consume Bolts. Crossbows are slow to load, but have great damage and long range with no trajectory drop.\n\nMagic weapons. Magic weapons need Eitr to be used. There are two types of magic weapons, Elemental magic and Blood magic.\n\nBlood magic. Blood magic weapons drain some of the caster's Health (current health, not maximum health) per cast.\n\nArrows. Arrows are items that can be shot by bows. Bows cannot be used without arrows.\n\nBolts. Bolts are items that can be shot by crossbows. Crossbows cannot be used without bolts.\n\nMissiles. Missiles are items that can be shot by the Ballista. Ballistae cannot be armed without missiles.\n\nBombs. Bombs are weapons that are thrown by the character and consumed when used.\n\nBlob bombs. Blob bombs are a type of Bombs that summon a creature on impact.\n\nWooden weapons. Wooden weapons is a series of weapons that deals only 1 damage. They are mainly suited for training and practice matches between players.",
+  "scraped_at": "2026-02-26T01:19:53.766424+00:00"
+}

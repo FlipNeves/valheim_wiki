@@ -1,0 +1,35 @@
+{
+  "title": "Pot shard",
+  "url": "https://valheim.fandom.com/wiki/Pot_shard",
+  "slug": "Pot_shard",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Pot shard",
+    "Type": "Material",
+    "Internal ID": "Pot_Shard_Green",
+    "Source": "Ancient pot",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Pot shard is an item found by destroying Ancient pots inside Putrid Hole or Charred Ruins."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Small green pot\n• Medium green pot\n• Large green pot"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• An alternative Pot_Shard_Red is coded, but only the green version is dropped by Ancient pot."
+    }
+  ],
+  "full_text": "Pot shard\n\nType: Material | Internal ID: Pot_Shard_Green | Source: Ancient pot | Usage: Building | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Pot shard is an item found by destroying Ancient pots inside Putrid Hole or Charred Ruins.\n\nBuilding. • Small green pot\n• Medium green pot\n• Large green pot\n\nTrivia. • An alternative Pot_Shard_Red is coded, but only the green version is dropped by Ancient pot.",
+  "scraped_at": "2026-02-26T01:35:46.186363+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Asksvin ribcage",
+  "url": "https://valheim.fandom.com/wiki/Asksvin_ribcage",
+  "slug": "Asksvin_ribcage",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Asksvin ribcage",
+    "Type": "Material",
+    "Internal ID": "AsksvinCarrionRibcage",
+    "Source": "Found in the, Ashlands",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Asksvin ribcage is a resource gathered by breaking naturally spawned Asksvin carrion, found mainly near Putrid Hole entrances or Volture nests.\nDestroying the skeletons can drop the Asksvin ribcage or any of the other three Asksvin skeleton pieces."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Asksvin skeleton"
+    }
+  ],
+  "full_text": "Asksvin ribcage\n\nType: Material | Internal ID: AsksvinCarrionRibcage | Source: Found in the, Ashlands | Usage: Building | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Asksvin ribcage is a resource gathered by breaking naturally spawned Asksvin carrion, found mainly near Putrid Hole entrances or Volture nests.\nDestroying the skeletons can drop the Asksvin ribcage or any of the other three Asksvin skeleton pieces.\n\nBuilding. • Asksvin skeleton",
+  "scraped_at": "2026-02-26T01:30:12.973642+00:00"
+}

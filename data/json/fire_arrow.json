@@ -1,0 +1,38 @@
+{
+  "title": "Fire arrow",
+  "url": "https://valheim.fandom.com/wiki/Fire_arrow",
+  "slug": "Fire_arrow",
+  "categories": [
+    "Weapons",
+    "Arrows",
+    "Workbench recipes",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Fire arrow",
+    "Internal ID": "ArrowFire",
+    "Type": "Arrow",
+    "Source": "Workbench",
+    "Usage": "Bow ammunition",
+    "Crafting Materials": "Wood x8, Resin x8, Feathers x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fire arrow is an early game arrow. It is useful against several enemies in both the Meadows and the Black Forest biomes which fear or are weak to fire."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Crafted at a Workbench\n• Found in chests in Abandoned Houses, buried in Viking Graveyard and inside Burial Chambers"
+    },
+    {
+      "heading": "Features",
+      "level": 2,
+      "text": "• Deals both fire and pierce damage, applying the burning DOT effect.\n• Wet enemies (indicated by dripping water) will extinguish the burning quickly, causing very little damage.\n• Provides ambient lighting when fired on dry surfaces.\n• When fired on surfaces that are underwater, fire arrows will be extinguished and will not provide any ambient lighting. However, if fired onto an initially dry surface, and it goes underwater (e.g. waves rolling in on shorelines), fire arrows will remain lit."
+    }
+  ],
+  "full_text": "Fire arrow\n\nInternal ID: ArrowFire | Type: Arrow | Source: Workbench | Usage: Bow ammunition | Crafting Materials: Wood x8, Resin x8, Feathers x2\n\nIntroduction. Fire arrow is an early game arrow. It is useful against several enemies in both the Meadows and the Black Forest biomes which fear or are weak to fire.\n\nAvailability. • Crafted at a Workbench\n• Found in chests in Abandoned Houses, buried in Viking Graveyard and inside Burial Chambers\n\nFeatures. • Deals both fire and pierce damage, applying the burning DOT effect.\n• Wet enemies (indicated by dripping water) will extinguish the burning quickly, causing very little damage.\n• Provides ambient lighting when fired on dry surfaces.\n• When fired on surfaces that are underwater, fire arrows will be extinguished and will not provide any ambient lighting. However, if fired onto an initially dry surface, and it goes underwater (e.g. waves rolling in on shorelines), fire arrows will remain lit.",
+  "scraped_at": "2026-02-26T01:14:32.827731+00:00"
+}

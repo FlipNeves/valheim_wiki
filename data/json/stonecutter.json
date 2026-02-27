@@ -1,0 +1,43 @@
+{
+  "title": "Stonecutter",
+  "url": "https://valheim.fandom.com/wiki/Stonecutter",
+  "slug": "Stonecutter",
+  "categories": [
+    "Crafting structures",
+    "Crafting",
+    "Building"
+  ],
+  "infobox": {
+    "_infobox_title": "Stonecutter",
+    "Type": "Crafting",
+    "Skill": "Crafting",
+    "Internal ID": "piece_stonecutter",
+    "Source": "Workbench",
+    "Usage": "Build stone structures",
+    "Max Level": "1",
+    "Crafting Materials": "Wood x10, Iron x2, Stone x4",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Stonecutters are base structures used for crafting Sharpening stones and building Stone structures, Black marble structures, Grausten structures and other stone based building elements.\nCrafting requires a roof and 70% cover. Building structures does not require a roof or any cover."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Hearth\n• Paved road\n• Stone throne\n• Black marble bench\n• Black marble table\n• Black marble throne\n• Bone throne"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Sharpening stone - used to make the Forge upgrade Grinding wheel"
+    }
+  ],
+  "full_text": "Stonecutter\n\nType: Crafting | Skill: Crafting | Internal ID: piece_stonecutter | Source: Workbench | Usage: Build stone structures | Max Level: 1 | Crafting Materials: Wood x10, Iron x2, Stone x4 | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Stonecutters are base structures used for crafting Sharpening stones and building Stone structures, Black marble structures, Grausten structures and other stone based building elements.\nCrafting requires a roof and 70% cover. Building structures does not require a roof or any cover.\n\nBuilding. • Hearth\n• Paved road\n• Stone throne\n• Black marble bench\n• Black marble table\n• Black marble throne\n• Bone throne\n\nCrafting. • Sharpening stone - used to make the Forge upgrade Grinding wheel",
+  "scraped_at": "2026-02-26T01:38:51.150975+00:00"
+}

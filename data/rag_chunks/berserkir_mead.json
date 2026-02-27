@@ -1,0 +1,13 @@
+{
+  "title": "Berserkir mead",
+  "url": "https://valheim.fandom.com/wiki/Berserkir_mead",
+  "slug": "Berserkir_mead",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "content": "# Berserkir mead\n\nType: Mead | Internal ID: MeadBzerker | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Berserkir x1 | Duration: 20s | Cooldown: 2m | Other Effect(s): Attack, Block and Dodge Stamina use -80%, Weak (x1.5) against Slash, Blunt and Pierce damage\n\n# Introduction\n\nBerserkir mead is a Plains-tier consumable item fermented from Mead base: Berserkir.\n\n## Recipe\n\nMead base: Berserkir is produced in a Mead ketill with:\n• 10 Mushroom\n• 10 Yellow mushroom\n• 1 Toadstool\nThree Berserkir meads are produced by fermenting the mead base for two in-game days.\n\n## Effect\n\nConsuming it grants a reduction to attack, block and dodge stamina use by -80% for 20s, but it makes the player weak (x1.5) against Slash, Blunt and Pierce damage.\n\n## Tips\n\n• Because of how resistance stacking works - in that being Resistant overrides being Weak - the Bonemass power will prevent the negatives of this potion and instead leave the player with resistance to Slash, Blunt and Pierce while preserving the benefits of the potion.\n• There is no cooldown on Berserkir mead, so you can quaff one every 20 seconds, giving you the chance to use 15 Berserkir meads during one Bonemass duration.\n\nCategorias: Mead, Fermenter recipes, Items",
+  "content_length": 1295,
+  "scraped_at": "2026-02-26T02:12:34.713083+00:00"
+}

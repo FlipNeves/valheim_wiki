@@ -1,0 +1,38 @@
+{
+  "title": "Yuleklapp",
+  "url": "https://valheim.fandom.com/wiki/Yuleklapp",
+  "slug": "Yuleklapp",
+  "categories": [
+    "Furniture",
+    "Seasonal Furniture",
+    "Storage"
+  ],
+  "infobox": {
+    "_infobox_title": "Yuleklapp",
+    "Type": "Furniture",
+    "Internal ID": "piece_gift1 (small) | piece_gift2 (medium) | piece_gift3 (large)",
+    "Source": "Workbench",
+    "Season": "Yule (Christmas)",
+    "Usage": "Decoration,, Storage",
+    "Crafting Materials": "Finewood x2, Bone fragments x1",
+    "Support": "Wood (from 10 to 100)",
+    "Loss": "1/8 vertical, 1/5 horizontal",
+    "Neutral to (x1)": "Lightning",
+    "Resistant to (x0.5)": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "A Yuleklapp is a seasonal buildable structure which has item slots, for storing items inside. It needs to be built within the range of a Workbench.\nIt comes in small, medium and large variants with 1, 2 and 3 slots, respectively."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Yuleklapp cannot be built year-round. It can only be built during the Christmas season, 1 December – 6 January."
+    }
+  ],
+  "full_text": "Yuleklapp\n\nType: Furniture | Internal ID: piece_gift1 (small) | piece_gift2 (medium) | piece_gift3 (large) | Source: Workbench | Season: Yule (Christmas) | Usage: Decoration,, Storage | Crafting Materials: Finewood x2, Bone fragments x1 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Neutral to (x1): Lightning | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. A Yuleklapp is a seasonal buildable structure which has item slots, for storing items inside. It needs to be built within the range of a Workbench.\nIt comes in small, medium and large variants with 1, 2 and 3 slots, respectively.\n\nAvailability. Yuleklapp cannot be built year-round. It can only be built during the Christmas season, 1 December – 6 January.",
+  "scraped_at": "2026-02-26T01:42:54.667963+00:00"
+}

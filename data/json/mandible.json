@@ -1,0 +1,30 @@
+{
+  "title": "Mandible",
+  "url": "https://valheim.fandom.com/wiki/Mandible",
+  "slug": "Mandible",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Mandible",
+    "Type": "Material",
+    "Internal ID": "Mandible",
+    "Source": "Seeker Soldier",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Mandible is an item and can be dropped from Seeker Soldiers in the Mistlands biome."
+    },
+    {
+      "heading": "Crafting",
+      "level": 2,
+      "text": "• Carapace helmet\n• Carapace spear\n• Himminafl\n• Resounding Shackle"
+    }
+  ],
+  "full_text": "Mandible\n\nType: Material | Internal ID: Mandible | Source: Seeker Soldier | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Mandible is an item and can be dropped from Seeker Soldiers in the Mistlands biome.\n\nCrafting. • Carapace helmet\n• Carapace spear\n• Himminafl\n• Resounding Shackle",
+  "scraped_at": "2026-02-26T01:35:03.811017+00:00"
+}

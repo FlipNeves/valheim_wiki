@@ -1,0 +1,31 @@
+{
+  "title": "Fiery spice powder",
+  "url": "https://valheim.fandom.com/wiki/Fiery_spice_powder",
+  "slug": "Fiery_spice_powder",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Fiery spice powder",
+    "Type": "Material",
+    "Internal ID": "SpiceAshlands",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "200, Coins, for 5",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fiery spice powder can be purchased from The Bog Witch at 200 Coins for 5 items. It is only sold after Fader has been defeated."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Ashlands gourmet bowl"
+    }
+  ],
+  "full_text": "Fiery spice powder\n\nType: Material | Internal ID: SpiceAshlands | Source: The Bog Witch | Usage: Crafting | Buy: 200, Coins, for 5 | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Fiery spice powder can be purchased from The Bog Witch at 200 Coins for 5 items. It is only sold after Fader has been defeated.\n\nCrafting. • Ashlands gourmet bowl",
+  "scraped_at": "2026-02-26T01:33:33.236680+00:00"
+}

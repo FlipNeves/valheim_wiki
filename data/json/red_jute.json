@@ -1,0 +1,30 @@
+{
+  "title": "Red jute",
+  "url": "https://valheim.fandom.com/wiki/Red_jute",
+  "slug": "Red_jute",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Red jute",
+    "Type": "Material",
+    "Internal ID": "JuteRed",
+    "Source": "Cultist",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Red jute is a drop from Cultists and from destroyed curtains in the Mountain biome inside Frost Caves."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Mistletoe\n• Red jute carpet\n• Red jute curtain\n• Yule wreath"
+    }
+  ],
+  "full_text": "Red jute\n\nType: Material | Internal ID: JuteRed | Source: Cultist | Usage: Building | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Red jute is a drop from Cultists and from destroyed curtains in the Mountain biome inside Frost Caves.\n\nBuilding. • Mistletoe\n• Red jute carpet\n• Red jute curtain\n• Yule wreath",
+  "scraped_at": "2026-02-26T01:36:05.701288+00:00"
+}

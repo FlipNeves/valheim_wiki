@@ -1,0 +1,31 @@
+{
+  "title": "Linen thread",
+  "url": "https://valheim.fandom.com/wiki/Linen",
+  "slug": "Linen",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Linen thread",
+    "Type": "Material",
+    "Internal ID": "LinenThread",
+    "Source": "Spinning wheel",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Flax x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Linen thread is an item used in the creation of higher tier weapons and gear."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Crafted from Flax at a Spinning wheel.\n• The Spinning wheel takes an average of 30 seconds to produce one Linen thread."
+    }
+  ],
+  "full_text": "Linen thread\n\nType: Material | Internal ID: LinenThread | Source: Spinning wheel | Usage: Crafting | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Flax x1\n\nIntroduction. Linen thread is an item used in the creation of higher tier weapons and gear.\n\nAvailability. • Crafted from Flax at a Spinning wheel.\n• The Spinning wheel takes an average of 30 seconds to produce one Linen thread.",
+  "scraped_at": "2026-02-26T02:09:25.128954+00:00"
+}

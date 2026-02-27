@@ -1,0 +1,52 @@
+{
+  "title": "Root (creature)",
+  "url": "https://valheim.fandom.com/wiki/Root_(creature)",
+  "slug": "Root_(creature)",
+  "categories": [
+    "Minions"
+  ],
+  "infobox": {
+    "_infobox_title": "Root",
+    "Internal ID": "TentaRoot",
+    "Type": "Minion",
+    "Faction": "Boss",
+    "Main biome": "Black Forest",
+    "Abilities": "Attack (3s)",
+    "Weak to (x1.5)": "Fire",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Lightning, ,, Spirit",
+    "Resistant to (x0.5)": "Frost",
+    "Immune to (x0)": "Poison, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Roots are aggressive creatures spawned by The Elder. They are enlarged, vicious tree roots that flail around frantically in an attempt to damage their target."
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "From the spawn ability of The Elder",
+          "Limit": "?",
+          "Frequency": "-",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Attack",
+      "level": 3,
+      "text": "Every 3 seconds when a player is within 4 meters, a Root can slam down on the player (55 Blunt, 20 Tier 0 Chop and 20 Tier 0 Pickaxe damage). This hits in a 4-meter 90-degree vertical arc."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• They will appear on the highest area, including on player built structures. For example, if a building with 3 floors is built, roots will only spawn on the roof rather than on the first and second floors until the roof is destroyed."
+    }
+  ],
+  "full_text": "Root (creature)\n\nInternal ID: TentaRoot | Type: Minion | Faction: Boss | Main biome: Black Forest | Abilities: Attack (3s) | Weak to (x1.5): Fire | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Lightning, ,, Spirit | Resistant to (x0.5): Frost | Immune to (x0): Poison, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. Roots are aggressive creatures spawned by The Elder. They are enlarged, vicious tree roots that flail around frantically in an attempt to damage their target.\n\nAttack. Every 3 seconds when a player is within 4 meters, a Root can slam down on the player (55 Blunt, 20 Tier 0 Chop and 20 Tier 0 Pickaxe damage). This hits in a 4-meter 90-degree vertical arc.\n\nNotes. • They will appear on the highest area, including on player built structures. For example, if a building with 3 floors is built, roots will only spawn on the roof rather than on the first and second floors until the roof is destroyed.",
+  "scraped_at": "2026-02-26T01:56:26.666872+00:00"
+}

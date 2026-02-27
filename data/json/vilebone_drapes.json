@@ -1,0 +1,145 @@
+{
+  "title": "Vilebone Set",
+  "url": "https://valheim.fandom.com/wiki/Vilebone_Drapes",
+  "slug": "Vilebone_Drapes",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Vilebone Set is a Plains-tier armor set. It has a lower armor value than Padded Armor, but wearing all 3 pieces provides the Vilebone wrath set bonus, increasing damage and regeneration, but making the wearer slightly more vulnerable to physical damage."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Armor piece": "Vilebone visage",
+          "Armor": "12",
+          "Crafting cost": "5 Bear hide1 Vile trophy",
+          "Weight": "1.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Vilebone cage",
+          "Armor": "18",
+          "Crafting cost": "4 Bear hide3 Vile ribcage4 Linen thread",
+          "Weight": "5.0",
+          "Movementspeed": "0%",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Vilebone drapes",
+          "Armor": "18",
+          "Crafting cost": "10 Bear hide1 Vile ribcage4 Linen thread",
+          "Weight": "5.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "48",
+          "Crafting cost": "19 Bear hide4 Vile ribcage8 Linen thread1 Vile trophy",
+          "Weight": "11.0",
+          "Movementspeed": "",
+          "Effects": "Vilebone wrath: +20% Health regen +40% Stamina regen Slightly weak (+25%) vs Blunt, Slash and Pierce +20% Blunt +20% Pierce"
+        },
+        {
+          "Armor piece": "Vilebone visage",
+          "Armor": "14",
+          "Upgrade cost(Total cost)": "2 (7) Bear hide(1) Vile trophy",
+          "Weight": "1.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Vilebone cage",
+          "Armor": "20",
+          "Upgrade cost(Total cost)": "2 (6) Bear hide1 (4) Vile ribcage1 (5) Linen thread",
+          "Weight": "5.0",
+          "Movementspeed": "0%",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Vilebone drapes",
+          "Armor": "20",
+          "Upgrade cost(Total cost)": "5 (15) Bear hide1 (2) Vile ribcage1 (5) Linen thread",
+          "Weight": "5.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "54",
+          "Upgrade cost(Total cost)": "9 (28) Bear hide2 (6) Vile ribcage2 (10) Linen thread(1) Vile trophy",
+          "Weight": "11.0",
+          "Movementspeed": "",
+          "Effects": "Vilebone wrath: +20% Health regen +40% Stamina regen Slightly weak (+25%) vs Blunt, Slash and Pierce +20% Blunt +20% Pierce"
+        },
+        {
+          "Armor piece": "Vilebone visage",
+          "Armor": "16",
+          "Upgrade cost(Total cost)": "4 (11) Bear hide(1) Vile trophy",
+          "Weight": "1.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Vilebone cage",
+          "Armor": "22",
+          "Upgrade cost(Total cost)": "4 (10) Bear hide2 (6) Vile ribcage2 (7) Linen thread",
+          "Weight": "5.0",
+          "Movementspeed": "0%",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Vilebone drapes",
+          "Armor": "22",
+          "Upgrade cost(Total cost)": "10 (25) Bear hide2 (4) Vile ribcage2 (7) Linen thread",
+          "Weight": "5.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "60",
+          "Upgrade cost(Total cost)": "18 (46) Bear hide4 (10) Vile ribcage4 (14) Linen thread(1) Vile trophy",
+          "Weight": "11.0",
+          "Movementspeed": "",
+          "Effects": "Vilebone wrath: +20% Health regen +40% Stamina regen Slightly weak (+25%) vs Blunt, Slash and Pierce +20% Blunt +20% Pierce"
+        },
+        {
+          "Armor piece": "Vilebone visage",
+          "Armor": "18",
+          "Upgrade cost(Total cost)": "6 (17) Bear hide(1) Vile trophy",
+          "Weight": "1.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Vilebone cage",
+          "Armor": "24",
+          "Upgrade cost(Total cost)": "6 (16) Bear hide3 (9) Vile ribcage3 (10) Linen thread",
+          "Weight": "5.0",
+          "Movementspeed": "0%",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Vilebone drapes",
+          "Armor": "24",
+          "Upgrade cost(Total cost)": "15 (40) Bear hide3 (7) Vile ribcage3 (10) Linen thread",
+          "Weight": "5.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "66",
+          "Upgrade cost(Total cost)": "27 (73) Bear hide6 (16) Vile ribcage6 (20) Linen thread(1) Vile trophy",
+          "Weight": "11.0",
+          "Movementspeed": "",
+          "Effects": "Vilebone wrath: +20% Health regen +40% Stamina regen Slightly weak (+25%) vs Blunt, Slash and Pierce +20% Blunt +20% Pierce"
+        }
+      ]
+    }
+  ],
+  "full_text": "Vilebone Set\n\nIntroduction. The Vilebone Set is a Plains-tier armor set. It has a lower armor value than Padded Armor, but wearing all 3 pieces provides the Vilebone wrath set bonus, increasing damage and regeneration, but making the wearer slightly more vulnerable to physical damage.",
+  "scraped_at": "2026-02-26T02:09:33.353373+00:00"
+}

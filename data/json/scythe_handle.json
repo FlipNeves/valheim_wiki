@@ -1,0 +1,31 @@
+{
+  "title": "Scythe handle",
+  "url": "https://valheim.fandom.com/wiki/Scythe_handle",
+  "slug": "Scythe_handle",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Scythe handle",
+    "Type": "Material",
+    "Internal ID": "ScytheHandle",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "200, Coins",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Scythe handle can be purchased from The Bog Witch for 200 Coins. It is only sold after Moder has been defeated."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Scythe"
+    }
+  ],
+  "full_text": "Scythe handle\n\nType: Material | Internal ID: ScytheHandle | Source: The Bog Witch | Usage: Crafting | Buy: 200, Coins | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Scythe handle can be purchased from The Bog Witch for 200 Coins. It is only sold after Moder has been defeated.\n\nCrafting. • Scythe",
+  "scraped_at": "2026-02-26T01:36:24.095960+00:00"
+}

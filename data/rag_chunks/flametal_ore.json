@@ -1,0 +1,12 @@
+{
+  "title": "Flametal ore",
+  "url": "https://valheim.fandom.com/wiki/Flametal_ore",
+  "slug": "Flametal_ore",
+  "categories": [
+    "Ores",
+    "Can't be Teleported"
+  ],
+  "content": "# Flametal ore\n\nType: Ore | Internal ID: FlametalOreNew | Source: Flametal ore vein, in the, Ashlands, biome | Usage: Smelting via, Blast furnace | Teleportable (Can go through wood portal?): No\n\n# Introduction\n\nFlametal ore is a metal ore obtained in Ashlands. It can be smelted into Flametal in a Blast furnace using Coal as fuel.\nFlametal ore can be obtained by:\n• Mining Flametal ore veins in the Ashlands, it requires at least a Black metal pickaxe.\n• Found at Charred Fortresses inside the Charred Chests.\n• By destroying Dvergr crate situated in Dvergr Charred tower ruins.\n• When fishing a Magmafish.\n\n## Notes\n\n• Flametal was obtainable before the Ashlands update from Glowing metal piles and smelted into Flametal in a Blast furnace.\n• Flametal ore obtained before the Ashlands update converts to \"Ancient ore\" and remains unusable. It possesses the ID of FlametalOre, whereas newly obtained ores have an ID of FlametalOreNew.\n• Like other metals, Flametal ore cannot be teleported through a regular portal. It can be teleported through the Portal - Stone introduced in the Ashlands update.\n\nCategorias: Ores, Can't be Teleported",
+  "content_length": 1139,
+  "scraped_at": "2026-02-26T01:53:56.569957+00:00"
+}

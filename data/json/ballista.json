@@ -1,0 +1,40 @@
+{
+  "title": "Ballista",
+  "url": "https://valheim.fandom.com/wiki/Ballista",
+  "slug": "Ballista",
+  "categories": [
+    "Misc structures"
+  ],
+  "infobox": {
+    "_infobox_title": "Ballista",
+    "Type": "Misc",
+    "Internal ID": "piece_turret",
+    "Source": "Hammer",
+    "Usage": "Automated base defense",
+    "Crafting Materials": "Black metal x10, Yggdrasil wood x10, Mechanical spring x3",
+    "Support": "Wood (from 10 to 100)",
+    "Loss": "1/8 vertical, 1/5 horizontal",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Chop",
+    "Resistant to (x0.5)": "Pierce, ,, Pickaxe, ,, Fire, ,, Frost",
+    "Immune to (x0)": "Lightning, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ballistae are misc structures that act as an automated defense.\nA Ballista can hold 40 missiles of the same type, which will be depleted one at a time as it fires. By default, a Ballista will shoot at any creature in an arc (±45 degrees) within a 28 meters range in front of it, including player characters and tamed animals. Care should be taken when loading the Ballista, as it will begin shooting after the first missile is loaded if the player is standing within the firing arc.\nDamage is solely based upon the missile loaded (Wooden missile, Black metal missile, or Flametal missile)."
+    },
+    {
+      "heading": "Targeting",
+      "level": 2,
+      "text": "Targeting can be overridden by using trophies. The Ballista will usually only target and shoot enemies corresponding to the trophy used, with the exception of Draugr and Charred enemies.\n• Using trophies from Draugr or Draugr Elite will set the Ballista to target 'Draugr', including melee and ranged variants, as well as the Draugr Elite.\n• Using trophies from the Charred Warrior, Charred Marksman, or the Charred Warlock will set the Ballista to target 'Charred', including all of these enemies as well as the Charred Twitcher.\n• Only one trophy can be active at once, and it is not consumed, allowing for a single trophy to be used on any number of Ballistae.\n• Default targeting can be applied by using the same trophy again, or by dismantling and rebuilding the Ballista."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Considering their hostility to friendlies, such as other players and tames, in default targeting mode, caution and placement location is highly advised. Building structures which can be opened and closed, such as wooden doors or wooden gates, in front of the Ballista to block their field of vision ensures safe passing when needed.\n• Ballistae have a slow and inaccurate aim, but quick shooting speed. Building traps to immobilize fast-moving enemies in the Ballista's range increase their effectiveness greatly. For bigger and/or slower enemies, the Ballista might need higher elevation to be effective, especially against flying creatures.\n• Due to its universal target range, Ballistae can be used to train blocking skills. However, Ballistae cannot be parried, so using tower shields in combination with wooden missiles due to lower damage is recommended. They can also serve as protection against other players in multiplayer servers, while still being mindful of the Ballista targeting its owner."
+    }
+  ],
+  "full_text": "Ballista\n\nType: Misc | Internal ID: piece_turret | Source: Hammer | Usage: Automated base defense | Crafting Materials: Black metal x10, Yggdrasil wood x10, Mechanical spring x3 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Neutral to (x1): Blunt, ,, Slash, ,, Chop | Resistant to (x0.5): Pierce, ,, Pickaxe, ,, Fire, ,, Frost | Immune to (x0): Lightning, ,, Poison, ,, Spirit\n\nIntroduction. Ballistae are misc structures that act as an automated defense.\nA Ballista can hold 40 missiles of the same type, which will be depleted one at a time as it fires. By default, a Ballista will shoot at any creature in an arc (±45 degrees) within a 28 meters range in front of it, including player characters and tamed animals. Care should be taken when loading the Ballista, as it will begin shooting after the first missile is loaded if the player is standing within the firing arc.\nDamage is solely based upon the missile loaded (Wooden missile, Black metal missile, or Flametal missile).\n\nTargeting. Targeting can be overridden by using trophies. The Ballista will usually only target and shoot enemies corresponding to the trophy used, with the exception of Draugr and Charred enemies.\n• Using trophies from Draugr or Draugr Elite will set the Ballista to target 'Draugr', including melee and ranged variants, as well as the Draugr Elite.\n• Using trophies from the Charred Warrior, Charred Marksman, or the Charred Warlock will set the Ballista to target 'Charred', including all of these enemies as well as the Charred Twitcher.\n• Only one trophy can be active at once, and it is not consumed, allowing for a single trophy to be used on any number of Ballistae.\n• Default targeting can be applied by using the same trophy again, or by dismantling and rebuilding the Ballista.\n\nNotes. • Considering their hostility to friendlies, such as other players and tames, in default targeting mode, caution and placement location is highly advised. Building structures which can be opened and closed, such as wooden doors or wooden gates, in front of the Ballista to block their field of vision ensures safe passing when needed.\n• Ballistae have a slow and inaccurate aim, but quick shooting speed. Building traps to immobilize fast-moving enemies in the Ballista's range increase their effectiveness greatly. For bigger and/or slower enemies, the Ballista might need higher elevation to be effective, especially against flying creatures.\n• Due to its universal target range, Ballistae can be used to train blocking skills. However, Ballistae cannot be parried, so using tower shields in combination with wooden missiles due to lower damage is recommended. They can also serve as protection against other players in multiplayer servers, while still being mindful of the Ballista targeting its owner.",
+  "scraped_at": "2026-02-26T02:05:03.592996+00:00"
+}

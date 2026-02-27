@@ -1,0 +1,32 @@
+{
+  "title": "Wolf Sight",
+  "url": "https://valheim.fandom.com/wiki/Wolf_Sight",
+  "slug": "Wolf_Sight",
+  "categories": [
+    "Trinket"
+  ],
+  "infobox": {
+    "_infobox_title": "Wolf Sight",
+    "Internal ID": "TrinketSilverDamage",
+    "Type": "Trinkets",
+    "Source": "Forge",
+    "Crafting Materials": "Silver x5, Wolf fang x5, Fenring trophy x1",
+    "Adrenaline Cost": "55",
+    "Effect": "+20 Bows skill | +20 Spears skill | +10% pierce damage",
+    "Duration": "30s"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wolf Sight is a Mountain-tier trinket."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Once 55 Adrenaline has been gained, the Wolf Sight will trigger automatically, providing +20 Bows skill, +20 Spears skill, and +10% Pierce damage for 30 seconds."
+    }
+  ],
+  "full_text": "Wolf Sight\n\nInternal ID: TrinketSilverDamage | Type: Trinkets | Source: Forge | Crafting Materials: Silver x5, Wolf fang x5, Fenring trophy x1 | Adrenaline Cost: 55 | Effect: +20 Bows skill | +20 Spears skill | +10% pierce damage | Duration: 30s\n\nIntroduction. Wolf Sight is a Mountain-tier trinket.\n\nEffects. Once 55 Adrenaline has been gained, the Wolf Sight will trigger automatically, providing +20 Bows skill, +20 Spears skill, and +10% Pierce damage for 30 seconds.",
+  "scraped_at": "2026-02-26T02:09:56.628703+00:00"
+}

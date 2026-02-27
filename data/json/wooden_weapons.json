@@ -1,0 +1,106 @@
+{
+  "title": "Wooden weapons",
+  "url": "https://valheim.fandom.com/wiki/Wooden_weapons",
+  "slug": "Wooden_weapons",
+  "categories": [
+    "Weapons"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wooden weapons is a series of weapons that deals only 1 damage. They are mainly suited for training and practice matches between players.\nThey can all be repaired at a level 1 Workbench, but they can not be upgraded except for the Wooden sword. All have 12 block armor."
+    },
+    {
+      "heading": "List of weapons",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Wooden sword",
+          "Icon": "",
+          "Class": "Swords",
+          "Stamina": "4",
+          "Durability": "200",
+          "Source": "Crafted at Workbench for 5 Wood, 3 Finewood and 2 Corewood.",
+          "id": "SwordWood"
+        },
+        {
+          "Name": "Wooden axe",
+          "Icon": "",
+          "Class": "Axes",
+          "Stamina": "4",
+          "Durability": "125",
+          "Source": "Found in chest buried in Viking Graveyard.",
+          "id": "AxeWood"
+        },
+        {
+          "Name": "Wooden knife",
+          "Icon": "",
+          "Class": "Knives",
+          "Stamina": "4",
+          "Durability": "200",
+          "Source": "Found in chest buried in Viking Graveyard.",
+          "id": "KnifeWood"
+        },
+        {
+          "Name": "Wooden mace",
+          "Icon": "",
+          "Class": "Clubs",
+          "Stamina": "8",
+          "Durability": "200",
+          "Source": "Found in chest in Combat Ruin and in Draugr Village Great Halls.",
+          "id": "MaceWood"
+        },
+        {
+          "Name": "Wooden spear",
+          "Icon": "",
+          "Class": "Spears",
+          "Stamina": "4",
+          "Durability": "100",
+          "Source": "Found in chest in Abandoned Outpost and in Abandoned Hut.",
+          "id": "SpearWood"
+        },
+        {
+          "Name": "Wooden sledge",
+          "Icon": "",
+          "Class": "Sledge hammers",
+          "Stamina": "8",
+          "Durability": "100",
+          "Source": "Found in chest in Swamp Runestone Tower and in Swamp Graves.",
+          "id": "SledgeWood"
+        },
+        {
+          "Name": "Wooden battleaxe",
+          "Icon": "",
+          "Class": "Battleaxe",
+          "Stamina": "8",
+          "Durability": "200",
+          "Source": "Found in Mountain chest.",
+          "id": "BattleaxeWood"
+        },
+        {
+          "Name": "Wooden atgeir",
+          "Icon": "",
+          "Class": "Polearms",
+          "Stamina": "8",
+          "Durability": "175",
+          "Source": "Found in Plains chest.",
+          "id": "AtgeirWood"
+        },
+        {
+          "Name": "Wooden greatsword",
+          "Icon": "",
+          "Class": "Two-handed Swords",
+          "Stamina": "8",
+          "Durability": "200",
+          "Source": "Found in Infested Mine Treasure chest.",
+          "id": "THSwordWood"
+        }
+      ]
+    }
+  ],
+  "full_text": "Wooden weapons\n\nIntroduction. Wooden weapons is a series of weapons that deals only 1 damage. They are mainly suited for training and practice matches between players.\nThey can all be repaired at a level 1 Workbench, but they can not be upgraded except for the Wooden sword. All have 12 block armor.",
+  "scraped_at": "2026-02-26T01:20:11.606245+00:00"
+}

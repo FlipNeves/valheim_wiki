@@ -1,0 +1,71 @@
+{
+  "title": "Carapace spear",
+  "url": "https://valheim.fandom.com/wiki/Carapace_spear",
+  "slug": "Carapace_spear",
+  "categories": [
+    "Weapons",
+    "Spears",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Carapace Spear",
+    "Internal ID": "SpearCarapace",
+    "Type": "Spear",
+    "Source": "Black forge",
+    "Usage": "Weapon",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Yggdrasil wood x15, Carapace x12, Mandible x3",
+    "Attack speed": "1.04 s (includes picking up)",
+    "Hitbox": "1.9 range, 40 angle, 1.5 height, 0.5 ray",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Carapace spear is the fifth spear. Its primary attack is a thrust. Its secondary attack throws the spear for 1.5x damage."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Pierce",
+          "Quality 1": "115",
+          "Quality 2": "121",
+          "Quality 3": "127",
+          "Quality 4": "133"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "100",
+          "Quality 2": "150",
+          "Quality 3": "200",
+          "Quality 4": "250"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "10 Yggdrasil wood4 Carapace2 Mandible",
+          "Quality 2": "5 Yggdrasil wood4 Carapace1 Mandible",
+          "Quality 3": "10 Yggdrasil wood8 Carapace2 Mandible",
+          "Quality 4": "15 Yggdrasil wood12 Carapace3 Mandible"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Like all spears, the Carapace spear floats if dropped or thrown into water."
+    }
+  ],
+  "full_text": "Carapace spear\n\nInternal ID: SpearCarapace | Type: Spear | Source: Black forge | Usage: Weapon | Wielding: One-handed | Crafting Materials: Yggdrasil wood x15, Carapace x12, Mandible x3 | Attack speed: 1.04 s (includes picking up) | Hitbox: 1.9 range, 40 angle, 1.5 height, 0.5 ray | Movement speed: -5%\n\nIntroduction. The Carapace spear is the fifth spear. Its primary attack is a thrust. Its secondary attack throws the spear for 1.5x damage.\n\nNotes. • Like all spears, the Carapace spear floats if dropped or thrown into water.",
+  "scraped_at": "2026-02-26T01:13:08.922704+00:00"
+}

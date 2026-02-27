@@ -1,0 +1,43 @@
+{
+  "title": "Iron",
+  "url": "https://valheim.fandom.com/wiki/Iron",
+  "slug": "Iron",
+  "categories": [
+    "Metals",
+    "Materials",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Iron",
+    "Type": "Metal",
+    "Internal ID": "Iron",
+    "Source": "Smelter",
+    "Usage": "Crafting, Building",
+    "Teleportable (Can go through wood portal?)": "No",
+    "Crafting Materials": "Scrap iron x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Iron is a crafting material smelted from Scrap iron or Iron ore in the Smelter. It takes 30 seconds to smelt one.\nIron can be found in various places:\n• May be obtained from destroying wooden doors in Frost Caves\n• Dvergr viaducts in the Mistlands can be destroyed or deconstructed.\n• Shattering Ancient pots found in Charred Ruins and Putrid Holes within the Ashlands biome."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "• Crafting: Swamp Ancient bark spear Banded shield Battleaxe Huntsman bow Iron atgeir Iron axe Iron buckler Iron greaves Iron helmet Iron mace Iron nails Iron pickaxe Iron scale mail Iron sledge Iron sword Iron tower shield Ironhead arrow Serpent scale shield Iron Brooch Nimble Anklet Mountain Silver knife Silver sword Plains Padded cuirass Padded greaves Padded helmet Porcupine Mistlands Arbalest Carapace breastplate Carapace greaves Demolisher Eitr-weave hood Iron bolt Jotun Bane Krom Mechanical spring Mistwalker Skoll and Hati Skull Splittur\n• Building: Swamp Cage floor 1x1 Cage floor 2x2 Cage wall 1x1 Cage wall 2x2 Forge toolrack Iron cooking station Iron gate Obliterator Personal chest Reinforced chest Smith's anvil Standing green-burning iron torch Standing blue-burning iron torch Standing iron torch Stonecutter Wood iron beam Wood iron beam 26° Wood iron beam 45° Wood iron pole Mountain Tool shelf Plains Blast furnace Darkwood gate Hot tub Pots and pans Stone oven Mistlands Black forge cooler Dvergr sharp stakes Dvergr stakewall"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Iron is extremely useful. It is used to build highly durable building parts and equipment through the endgame.\n• Like other metals, Iron cannot be teleported without a Portal stone.\n• It takes 297 Iron to craft one of each base equipment (armor, weapons, tools) in the Swamp Tier. Further 742 Iron to fully upgrade (total 1039 Iron). 464 Iron to craft one of each base equipment in all Biomes tiers. Further 909 Iron to fully upgrade (total 1373 Iron)."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Iron weighs more than its unrefined counterpart scrap iron, which is physically impossible in real life."
+    }
+  ],
+  "full_text": "Iron\n\nType: Metal | Internal ID: Iron | Source: Smelter | Usage: Crafting, Building | Teleportable (Can go through wood portal?): No | Crafting Materials: Scrap iron x1\n\nIntroduction. Iron is a crafting material smelted from Scrap iron or Iron ore in the Smelter. It takes 30 seconds to smelt one.\nIron can be found in various places:\n• May be obtained from destroying wooden doors in Frost Caves\n• Dvergr viaducts in the Mistlands can be destroyed or deconstructed.\n• Shattering Ancient pots found in Charred Ruins and Putrid Holes within the Ashlands biome.\n\nUsage. • Crafting: Swamp Ancient bark spear Banded shield Battleaxe Huntsman bow Iron atgeir Iron axe Iron buckler Iron greaves Iron helmet Iron mace Iron nails Iron pickaxe Iron scale mail Iron sledge Iron sword Iron tower shield Ironhead arrow Serpent scale shield Iron Brooch Nimble Anklet Mountain Silver knife Silver sword Plains Padded cuirass Padded greaves Padded helmet Porcupine Mistlands Arbalest Carapace breastplate Carapace greaves Demolisher Eitr-weave hood Iron bolt Jotun Bane Krom Mechanical spring Mistwalker Skoll and Hati Skull Splittur\n• Building: Swamp Cage floor 1x1 Cage floor 2x2 Cage wall 1x1 Cage wall 2x2 Forge toolrack Iron cooking station Iron gate Obliterator Personal chest Reinforced chest Smith's anvil Standing green-burning iron torch Standing blue-burning iron torch Standing iron torch Stonecutter Wood iron beam Wood iron beam 26° Wood iron beam 45° Wood iron pole Mountain Tool shelf Plains Blast furnace Darkwood gate Hot tub Pots and pans Stone oven Mistlands Black forge cooler Dvergr sharp stakes Dvergr stakewall\n\nNotes. • Iron is extremely useful. It is used to build highly durable building parts and equipment through the endgame.\n• Like other metals, Iron cannot be teleported without a Portal stone.\n• It takes 297 Iron to craft one of each base equipment (armor, weapons, tools) in the Swamp Tier. Further 742 Iron to fully upgrade (total 1039 Iron). 464 Iron to craft one of each base equipment in all Biomes tiers. Further 909 Iron to fully upgrade (total 1373 Iron).\n\nTrivia. • Iron weighs more than its unrefined counterpart scrap iron, which is physically impossible in real life.",
+  "scraped_at": "2026-02-26T01:34:31.095006+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Clubs",
+  "url": "https://valheim.fandom.com/wiki/Clubs",
+  "slug": "Clubs",
+  "categories": [
+    "Weapons",
+    "Clubs"
+  ],
+  "content": "# Clubs\n\n# Introduction\n\nClubs is a weapon class.\nClubs primarily deal blunt damage and feature high knockback. The knockback from clubs allows the player to keep enemies at arms' length and is sufficient to displace some enemies out of their effective attack range.\n\n## List of clubs\n\n• Name: Torch | Damage: Blunt: 4Fire: 15 | Knockback: 30 | Stamina(primary): 4 | Stamina(secondary): —\n\n• Name: Club | Damage: Blunt: 12/30 | Knockback: 30 | Stamina(primary): 6 | Stamina(secondary): —\n\n• Name: Bronze mace | Damage: Blunt: 35/53 | Knockback: 80 | Stamina(primary): 8 | Stamina(secondary): 16\n\n• Name: Iron mace | Damage: Blunt: 55/73 | Knockback: 90 | Stamina(primary): 10 | Stamina(secondary): 20\n\n• Name: Frostner | Damage: Frost: 40/58Blunt: 35/35Spirit: 20/20 | Knockback: 100 | Stamina(primary): 12 | Stamina(secondary): 24\n\n• Name: Porcupine | Damage: Blunt: 50/50Pierce: 45/63 | Knockback: 100 | Stamina(primary): 14 | Stamina(secondary): 28\n\n• Name: Flametal mace | Damage: Blunt: 135/153 | Knockback: 100 | Stamina(primary): 16 | Stamina(secondary): 28\n\n• Name: Stagbreaker | Damage: Blunt: 20/38Pierce: 5/5 | Knockback: 150 | Stamina(primary): 12 | Stamina(secondary): — | Notes: AoE damage\n\n• Name: Iron sledge | Damage: Blunt: 55/73 | Knockback: 200 | Stamina(primary): 20 | Stamina(secondary): — | Notes: 2x stagger,AoE damage\n\n• Name: Demolisher | Damage: Blunt: 145/163 | Knockback: 210 | Stamina(primary): 28 | Stamina(secondary): — | Notes: 2x stagger,AoE damage\n\n## Properties\n\n• Attack type: Clubs (primary) | Stamina (base): 1x | Range: 2.4m | Attack speed: 2.46 s (0.86 + 0.80 + 0.90) | Damage: 1x | Staggering: 30–100 | Knockback: Player moves forward 0.66m with each swing. 90 degree arc.\n\n• Attack type: Clubs (secondary) | Stamina (base): 2x | Range: 2.4m | Attack speed: 1.72s | Damage: 2.5x | Staggering: 2x | Knockback: 2x | Notes: Player moves forward 0.66m. 30 degree arc.\n\n• Attack type: Two-handed hammers | Stamina (base): 1x | Range: 4m | Attack speed: 1.7 s | Damage: 1x / 2x | Staggering: 150–210 | Knockback: Damages 4m around impact zone. Hammer lands 2m in front of player. No 3-hit combo.\n\nCategorias: Weapons, Clubs",
+  "content_length": 2159,
+  "scraped_at": "2026-02-26T01:13:30.486302+00:00"
+}

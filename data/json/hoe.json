@@ -1,0 +1,67 @@
+{
+  "title": "Hoe",
+  "url": "https://valheim.fandom.com/wiki/Hoe",
+  "slug": "Hoe",
+  "categories": [
+    "Tools",
+    "Workbench recipes",
+    "Crafting"
+  ],
+  "infobox": {
+    "_infobox_title": "Hoe",
+    "Internal ID": "Hoe",
+    "Type": "Tool",
+    "Source": "Workbench",
+    "Wielding": "Two-handed",
+    "Crafting Materials": "Wood x2, Stone x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Hoe is a tool that can be used to elevate or level the ground. It can also be used to apply the Pathen and Paved Road ground decorations to an area, visually creating a path for players to walk on."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "It can be crafted in the Workbench."
+    },
+    {
+      "heading": "How to use",
+      "level": 2,
+      "text": "To more effectively level the ground there are two things to keep in mind. Shift-clicking attaches the hoe to the level of ground it is pointed at. When not shift clicked it defaults the hoe to the level of ground the player is standing on.\nRight-clicking opens a menu for other operations, similar to the Hammer. Some operation have additional requirements, for example raising ground requires 2xStone per operation and a workbench in the players vicinity."
+    },
+    {
+      "heading": "Stats",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Quality": "Durability",
+          "1": "200",
+          "2": "400",
+          "3": "600"
+        },
+        {
+          "Quality": "Crafting Recipe",
+          "1": "5 Wood 2 Stone",
+          "2": "1 Wood 1 Stone",
+          "3": "2 Wood 2 Stone"
+        },
+        {
+          "Quality": "Workbench level required",
+          "1": "1",
+          "2": "2",
+          "3": "3"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• It can lower the ground but only a little. For the first item available to lower the ground, please see Antler pickaxe.\n• In the \"level ground\" option the player's position is what the selected terrain is compared to. Therefore, it will raise the selected terrain if the player's position is higher, and lower it, if the player is standing on lower ground. Thus evening out the terrain compared to the player's location.\n• Raising and lowering the ground has a maximum allowable amount around 15-20 units based on the mesh shape height established when the world is created. Mesh shape height varies; for example, it may elevate for mountains\n• By using the hoe to elevate pillars of earth, players can create much larger stone structures than by building from a flat foundation. Each stone block attached to the earth pillar counts as a new foundation, and is therefore \"blue\"."
+    }
+  ],
+  "full_text": "Hoe\n\nInternal ID: Hoe | Type: Tool | Source: Workbench | Wielding: Two-handed | Crafting Materials: Wood x2, Stone x2\n\nIntroduction. The Hoe is a tool that can be used to elevate or level the ground. It can also be used to apply the Pathen and Paved Road ground decorations to an area, visually creating a path for players to walk on.\n\nAvailability. It can be crafted in the Workbench.\n\nHow to use. To more effectively level the ground there are two things to keep in mind. Shift-clicking attaches the hoe to the level of ground it is pointed at. When not shift clicked it defaults the hoe to the level of ground the player is standing on.\nRight-clicking opens a menu for other operations, similar to the Hammer. Some operation have additional requirements, for example raising ground requires 2xStone per operation and a workbench in the players vicinity.\n\nNotes. • It can lower the ground but only a little. For the first item available to lower the ground, please see Antler pickaxe.\n• In the \"level ground\" option the player's position is what the selected terrain is compared to. Therefore, it will raise the selected terrain if the player's position is higher, and lower it, if the player is standing on lower ground. Thus evening out the terrain compared to the player's location.\n• Raising and lowering the ground has a maximum allowable amount around 15-20 units based on the mesh shape height established when the world is created. Mesh shape height varies; for example, it may elevate for mountains\n• By using the hoe to elevate pillars of earth, players can create much larger stone structures than by building from a flat foundation. Each stone block attached to the earth pillar counts as a new foundation, and is therefore \"blue\".",
+  "scraped_at": "2026-02-26T01:39:54.758340+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Tomb of Lord Reto",
+  "url": "https://valheim.fandom.com/wiki/Tomb_of_Lord_Reto",
+  "slug": "Tomb_of_Lord_Reto",
+  "categories": [
+    "Points of interest",
+    "Dungeons"
+  ],
+  "infobox": {
+    "_infobox_title": "Tomb of Lord Reto",
+    "Type": "Dungeon",
+    "Internal ID": "PlaceofMystery3",
+    "Location": "Ashlands",
+    "Inhabitants": "Lord Reto"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Tomb of Lord Reto is a dungeons found in Ashlands, the entrance is situated at the third Mysterious Location."
+    },
+    {
+      "heading": "Description",
+      "level": 2,
+      "text": "The interior is a small cave with no light and a couple of indestructible pillars in the middle.\nThe only creature inside is the 2-star miniboss Lord Reto."
+    }
+  ],
+  "full_text": "Tomb of Lord Reto\n\nType: Dungeon | Internal ID: PlaceofMystery3 | Location: Ashlands | Inhabitants: Lord Reto\n\nIntroduction. The Tomb of Lord Reto is a dungeons found in Ashlands, the entrance is situated at the third Mysterious Location.\n\nDescription. The interior is a small cave with no light and a couple of indestructible pillars in the middle.\nThe only creature inside is the 2-star miniboss Lord Reto.",
+  "scraped_at": "2026-02-26T01:46:47.885313+00:00"
+}

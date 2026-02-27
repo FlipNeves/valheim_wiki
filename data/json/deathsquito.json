@@ -1,0 +1,70 @@
+{
+  "title": "Deathsquito",
+  "url": "https://valheim.fandom.com/wiki/Deathsquito",
+  "slug": "Deathsquito",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Deathsquito",
+    "Internal ID": "Deathsquito",
+    "Faction": "Plains",
+    "Main biome": "Plains",
+    "Drops": "Deathsquito trophy | Needle",
+    "Abilities": "Sting",
+    "Trophy": "Deathsquito trophy",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison",
+    "Immune to (x0)": "Spirit, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Deathsquitos are aggressive creatures found in Plains. They are, as their name suggests, enlarged mosquito-type bugs that give off a loud buzzing noise."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Deathsquito trophy",
+          "0 Star": "5%",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Needle",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Anywhere in Plains",
+          "Limit": "3",
+          "Frequency": "Uncommon",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Sting",
+      "level": 3,
+      "text": "Lunges forward to stab the player with their proboscis (90 Pierce damage). This hits in a 1.6-meter 60-degree horizontal arc. It can use this attack every 10 seconds when 1.5 meters from a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Despite their size, Deathsquitos are one of the most deadly creatures due to their relative speed and high pierce damage."
+    }
+  ],
+  "full_text": "Deathsquito\n\nInternal ID: Deathsquito | Faction: Plains | Main biome: Plains | Drops: Deathsquito trophy | Needle | Abilities: Sting | Trophy: Deathsquito trophy | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison | Immune to (x0): Spirit, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. Deathsquitos are aggressive creatures found in Plains. They are, as their name suggests, enlarged mosquito-type bugs that give off a loud buzzing noise.\n\nSting. Lunges forward to stab the player with their proboscis (90 Pierce damage). This hits in a 1.6-meter 60-degree horizontal arc. It can use this attack every 10 seconds when 1.5 meters from a player.\n\nNotes. • Despite their size, Deathsquitos are one of the most deadly creatures due to their relative speed and high pierce damage.",
+  "scraped_at": "2026-02-26T01:06:49.546591+00:00"
+}

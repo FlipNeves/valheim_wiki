@@ -1,0 +1,31 @@
+{
+  "title": "Seeker soldier trophy",
+  "url": "https://valheim.fandom.com/wiki/Seeker_soldier_trophy",
+  "slug": "Seeker_soldier_trophy",
+  "categories": [
+    "Trophies",
+    "Forsaken offerings"
+  ],
+  "infobox": {
+    "_infobox_title": "Seeker soldier trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophySeekerBrute",
+    "Source": "Seeker Soldier",
+    "Usage": "Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Seeker soldier trophies are a rare drop(5%) from Seeker Soldiers.\nThree of these can be used on the altar at the top of an Infested Citadel to re-summon The Queen after she has been defeated."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Can be displayed in an item stand.\n• Can be used to program Balistas."
+    }
+  ],
+  "full_text": "Seeker soldier trophy\n\nType: Trophy | Internal ID: TrophySeekerBrute | Source: Seeker Soldier | Usage: Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Seeker soldier trophies are a rare drop(5%) from Seeker Soldiers.\nThree of these can be used on the altar at the top of an Infested Citadel to re-summon The Queen after she has been defeated.\n\nNotes. • Can be displayed in an item stand.\n• Can be used to program Balistas.",
+  "scraped_at": "2026-02-26T02:18:19.365724+00:00"
+}

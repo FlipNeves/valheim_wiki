@@ -1,0 +1,57 @@
+{
+  "title": "Fenris blessing",
+  "url": "https://valheim.fandom.com/wiki/Fenris_blessing",
+  "slug": "Fenris_blessing",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Fenris blessing",
+    "Effects": "Fists +15",
+    "Damage Modifier": "Resistant (0.5x) VS Fire"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fenris blessing is a status effects which provides the player with Fire resistance and increases the Fists skill by 15, but does not exceed the skill cap of 100."
+    },
+    {
+      "heading": "Requirements",
+      "level": 2,
+      "text": "The effect is granted by wearing all three pieces of the Fenris armor set.",
+      "table_data": [
+        {
+          "Armor Piece": "Fenris hood",
+          "Base Armor": "10",
+          "Weight": "1.0",
+          "Movement Speed": "+3%",
+          "Additional Effects": ""
+        },
+        {
+          "Armor Piece": "Fenris coat",
+          "Base Armor": "10",
+          "Weight": "10.0",
+          "Movement Speed": "+3%",
+          "Additional Effects": "Resistant (0.5x) VS Frost"
+        },
+        {
+          "Armor Piece": "Fenris leggings",
+          "Base Armor": "10",
+          "Weight": "10.0",
+          "Movement Speed": "+3%",
+          "Additional Effects": ""
+        },
+        {
+          "Armor Piece": "Fenris set",
+          "Base Armor": "30",
+          "Weight": "21.0",
+          "Movement Speed": "+9%",
+          "Additional Effects": "+ 15 Fists (Skill) Resistant (0.5x) VS Fire"
+        }
+      ]
+    }
+  ],
+  "full_text": "Fenris blessing\n\nEffects: Fists +15 | Damage Modifier: Resistant (0.5x) VS Fire\n\nIntroduction. Fenris blessing is a status effects which provides the player with Fire resistance and increases the Fists skill by 15, but does not exceed the skill cap of 100.\n\nRequirements. The effect is granted by wearing all three pieces of the Fenris armor set.",
+  "scraped_at": "2026-02-26T01:56:40.538588+00:00"
+}

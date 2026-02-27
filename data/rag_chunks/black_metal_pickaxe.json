@@ -1,0 +1,14 @@
+{
+  "title": "Black metal pickaxe",
+  "url": "https://valheim.fandom.com/wiki/Black_metal_pickaxe",
+  "slug": "Black_metal_pickaxe",
+  "categories": [
+    "Weapons",
+    "Pickaxes",
+    "Tools",
+    "Forge recipes"
+  ],
+  "content": "# Black metal pickaxe\n\nInternal ID: PickaxeBlackMetal | Type: Pickaxe | Source: Forge | Usage: Mining | Wielding: Two-handed | Crafting Materials: Yggdrasil wood x3, Black metal x45 | Attack speed: 1.4 s | Hitbox: 1.8 range, 120 angle, 1.0 height, 0.2 ray, vertical | Movement speed: -5%\n\n# Introduction\n\nThe Black metal pickaxe is the fourth pickaxe. It can be used to mine Black marble, Soft tissue, Ancient sword, Ancient armor, and Flametal ore vein, in addition to what previous pickaxes can mine.\nIts primary attack is a melee attack that destroys ground. It does not have a secondary attack.\n\n## Upgrade information\n\n• stat: Pierce | Quality 1: 49 | Quality 2: 54 | Quality 3: 59 | Quality 4: 64\n\n• stat: Mining | Quality 1: 49 | Quality 2: 54 | Quality 3: 59 | Quality 4: 64\n\n• stat: Durability | Quality 1: 210 | Quality 2: 260 | Quality 3: 310 | Quality 4: 360\n\n• stat: Crafting | Quality 1: 3 Yggdrasil wood25 Black metal | Quality 2: 1 Yggdrasil wood15 Black metal | Quality 3: 2 Yggdrasil wood30 Black metal | Quality 4: 3 Yggdrasil wood45 Black metal | Total: 9 Yggdrasil wood115 Black metal\n\n• stat: Forge level | Quality 1: 2 | Quality 2: 3 | Quality 3: 4 | Quality 4: 5\n\n## Notes\n\n• The attack hitbox reaches below the player's feet, allowing to dig down. This easily causes a 33% damage penalty for hitting the ground when not above or very close to the target.\n\nCategorias: Weapons, Pickaxes, Tools, Forge recipes",
+  "content_length": 1432,
+  "scraped_at": "2026-02-26T01:11:24.608841+00:00"
+}

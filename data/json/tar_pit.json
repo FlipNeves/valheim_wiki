@@ -1,0 +1,40 @@
+{
+  "title": "Tar pit",
+  "url": "https://valheim.fandom.com/wiki/Tar_pit",
+  "slug": "Tar_pit",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Tar pit",
+    "Type": "Point of interest",
+    "Internal ID": "TarPit1 | TarPit2 | TarPit3",
+    "Location": "Plains",
+    "Resources": "Tar, ,, Bone fragments",
+    "Inhabitants": "Growth"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Tar pits are a point of interest found in Plains. They are the source of Tar."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "Tar pits can be drained by digging a trench from the tar pit to a lower level location (see gallery).\nTar nodes can be found in and around Tar pits. They contain Tar and can only be harvested by hand if the Tar pit is sufficiently drained first. Small nodes yield 4 Tar, big nodes located at the bottom of the pit yield 15 Tar. A single Tar pit location contains between 69 and 108 Tar.\nTar pits are typically guarded by four or more Growths. If they are killed, two Growths respawn in the area after one hour, even if the tar is drained.\nDestroying bones found around Tar pits rewards players with Bone fragments.\nSwimming in a tar pit applies the Tarred debuff and slows down the player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Tar pits cannot be set on fire with a Torch or otherwise.\n• Any items dropped in Tar pits become impossible to retrieve until the Tar pit is drained.\n• Items stuck in tar will not despawn.\n• Growths are naturally hostile to most other creatures in the Plains as they belong to the undead faction."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Tar pits were introduced in the Hearth & Home update."
+    }
+  ],
+  "full_text": "Tar pit\n\nType: Point of interest | Internal ID: TarPit1 | TarPit2 | TarPit3 | Location: Plains | Resources: Tar, ,, Bone fragments | Inhabitants: Growth\n\nIntroduction. Tar pits are a point of interest found in Plains. They are the source of Tar.\n\nResources. Tar pits can be drained by digging a trench from the tar pit to a lower level location (see gallery).\nTar nodes can be found in and around Tar pits. They contain Tar and can only be harvested by hand if the Tar pit is sufficiently drained first. Small nodes yield 4 Tar, big nodes located at the bottom of the pit yield 15 Tar. A single Tar pit location contains between 69 and 108 Tar.\nTar pits are typically guarded by four or more Growths. If they are killed, two Growths respawn in the area after one hour, even if the tar is drained.\nDestroying bones found around Tar pits rewards players with Bone fragments.\nSwimming in a tar pit applies the Tarred debuff and slows down the player.\n\nNotes. • Tar pits cannot be set on fire with a Torch or otherwise.\n• Any items dropped in Tar pits become impossible to retrieve until the Tar pit is drained.\n• Items stuck in tar will not despawn.\n• Growths are naturally hostile to most other creatures in the Plains as they belong to the undead faction.\n\nTrivia. • Tar pits were introduced in the Hearth & Home update.",
+  "scraped_at": "2026-02-26T01:48:30.038008+00:00"
+}

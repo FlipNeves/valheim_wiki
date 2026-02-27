@@ -1,0 +1,41 @@
+{
+  "title": "Brew of animal whispers",
+  "url": "https://valheim.fandom.com/wiki/Brew_of_animal_whispers",
+  "slug": "Brew_of_animal_whispers",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Brew of animal whispers",
+    "Type": "Mead",
+    "Internal ID": "MeadTamer",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mead base: Animal whispers x1",
+    "Duration": "10m",
+    "Cooldown": "0s",
+    "Other Effect(s)": "x2 taming speed"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Brew of animal whispers is a Mountain-tier consumable item fermented from Mead base: Animal whispers."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Mead base: Animal whispers is produced in a Mead ketill with:\n• 5 Onion\n• 10 Carrot\n• 1 Pungent pebbles\nSix Brews of animal whispers are produced by fermenting the mead base for two in-game days."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Consuming it makes the taming process twice as fast (15 minutes instead of 30) for all animals in the vicinity (60-meter range). If a creature is in range of multiple players with the buff, the taming speed is multiplied by two for each of them (x2, x4, x8, etc.)."
+    }
+  ],
+  "full_text": "Brew of animal whispers\n\nType: Mead | Internal ID: MeadTamer | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Animal whispers x1 | Duration: 10m | Cooldown: 0s | Other Effect(s): x2 taming speed\n\nIntroduction. Brew of animal whispers is a Mountain-tier consumable item fermented from Mead base: Animal whispers.\n\nRecipe. Mead base: Animal whispers is produced in a Mead ketill with:\n• 5 Onion\n• 10 Carrot\n• 1 Pungent pebbles\nSix Brews of animal whispers are produced by fermenting the mead base for two in-game days.\n\nEffect. Consuming it makes the taming process twice as fast (15 minutes instead of 30) for all animals in the vicinity (60-meter range). If a creature is in range of multiple players with the buff, the taming speed is multiplied by two for each of them (x2, x4, x8, etc.).",
+  "scraped_at": "2026-02-26T02:12:06.492237+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Odin",
+  "url": "https://valheim.fandom.com/wiki/Odin",
+  "slug": "Odin",
+  "categories": [
+    "NPCs",
+    "Lore"
+  ],
+  "infobox": {
+    "_infobox_title": "Odin",
+    "Internal ID": "odin",
+    "Relatives": "Thor | Baldr | Höðr | Víðarr | Váli",
+    "Affiliation": "Norse mythology",
+    "Species": "Deity",
+    "Gender": "Male",
+    "Eye color": "Light blue"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Odin is a character found in Valheim. He is a mysterious black cloaked figure with a single glowing blue eye, holding a walking stick in his right hand. A faint blue aura persists around him as long as he remains."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Nothing is known about Odin, however, he is heavily implied to be the Nordic deity that is heavily referenced in Valheim's lore. His appearance in Norse mythology is often described as a man with long beard, a spear, and a single eye.\nAccording to Norse mythology, when Odin wants to travel unnoticed through the realms of Yggdrasil, he typically disguises himself as a cloaked traveler carrying a walking stick. It is implied that he appears from time to time to observe the progress of the player through the world of Valheim.\nOdin is also known in Norse mythology to use ravens as his spies and couriers. Hugin, the raven guiding slain Vikings through their first steps in Valheim, is one of the two named ravens that were Odin's spies in Norse mythology."
+    },
+    {
+      "heading": "Location",
+      "level": 2,
+      "text": "Odin only appears once players have defeated The Elder, at night and for a short period of time. Should the player get too close to Odin, he will also disappear prematurely into a blue aura of smoke."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• In-game lore regarding Odin describes him as taking on the form of an old man leaning on a stick. However, the lore also describes him as wearing a wide-brimmed traveler's hat, whereas as the Odin in-game wears a hood that obscures his face.\n• Using the console command \"spawn odin\" the figure will briefly appear in front of the character before vanishing.\n• He will despawn after 300 seconds, if any player gets within 20 meters, or if all players are more than 50 meters away.\n• Odin does not take damage of any kind from the player or aggressive creatures.\n• Odin is a solid and proper entity, if he spawns on slippery terrain, he will slide.\n• Some players mistake him for The Grim Reaper."
+    }
+  ],
+  "full_text": "Odin\n\nInternal ID: odin | Relatives: Thor | Baldr | Höðr | Víðarr | Váli | Affiliation: Norse mythology | Species: Deity | Gender: Male | Eye color: Light blue\n\nIntroduction. Odin is a character found in Valheim. He is a mysterious black cloaked figure with a single glowing blue eye, holding a walking stick in his right hand. A faint blue aura persists around him as long as he remains.\n\nBiography. Nothing is known about Odin, however, he is heavily implied to be the Nordic deity that is heavily referenced in Valheim's lore. His appearance in Norse mythology is often described as a man with long beard, a spear, and a single eye.\nAccording to Norse mythology, when Odin wants to travel unnoticed through the realms of Yggdrasil, he typically disguises himself as a cloaked traveler carrying a walking stick. It is implied that he appears from time to time to observe the progress of the player through the world of Valheim.\nOdin is also known in Norse mythology to use ravens as his spies and couriers. Hugin, the raven guiding slain Vikings through their first steps in Valheim, is one of the two named ravens that were Odin's spies in Norse mythology.\n\nLocation. Odin only appears once players have defeated The Elder, at night and for a short period of time. Should the player get too close to Odin, he will also disappear prematurely into a blue aura of smoke.\n\nNotes. • In-game lore regarding Odin describes him as taking on the form of an old man leaning on a stick. However, the lore also describes him as wearing a wide-brimmed traveler's hat, whereas as the Odin in-game wears a hood that obscures his face.\n• Using the console command \"spawn odin\" the figure will briefly appear in front of the character before vanishing.\n• He will despawn after 300 seconds, if any player gets within 20 meters, or if all players are more than 50 meters away.\n• Odin does not take damage of any kind from the player or aggressive creatures.\n• Odin is a solid and proper entity, if he spawns on slippery terrain, he will slide.\n• Some players mistake him for The Grim Reaper.",
+  "scraped_at": "2026-02-26T02:19:16.928537+00:00"
+}

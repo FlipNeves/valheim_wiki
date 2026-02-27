@@ -1,0 +1,367 @@
+{
+  "title": "Stagger",
+  "url": "https://valheim.fandom.com/wiki/Stagger",
+  "slug": "Stagger",
+  "categories": [
+    "Outdated",
+    "Work in progress",
+    "Effects"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Stagger is a status effect that stuns the target and causes non-player creatures to take double damage. Stagger is caused in two cases:\n• The total amount of staggering reaches the stagger limit.\n• An attack is successfully parried by a player.\nThe stagger duration is different for each creature ranging from near instant to a few seconds. The duration may also be different when parrying certain attacks."
+    },
+    {
+      "heading": "Staggering",
+      "level": 3,
+      "text": "Staggering is inflicted when receiving physical and lightning damage types, and the amount of stagger applied is equivalent to the amount of damage. Players also receive extra staggering when blocking based on how much physical or lightning damage got through the block.\nStaggering gradually expires 20% of the stagger limit per second. Staggering won't be reset when the stagger limit is reached. Staggering won't exceed the stagger limit.\nThe stagger limit is a percentage of the maximum health which generally makes stronger creatures harder to stagger. Players with health based food will have an increased stagger limit which also means that the staggering expires faster."
+    },
+    {
+      "heading": "Increased staggering",
+      "level": 3,
+      "text": "Some player attacks cause increased staggering:\n• 1.5x: Two-handed axe primary attacks.\n• 2x: Mace secondary attack. This equates to 5x the weapon's listed damage, since the special attack has a 2.5x damage multiplier.\n• 2x: Clubs (after Stagbreaker) attacks\n• 4x: Two-handed axe secondary attack. This equates to 2x the weapon's listed damage, since the special attack has a 0.5x damage multiplier.\n• 6x: Atgeir secondary attack. This equates to 6x the weapon's listed damage, since the special attack has a 1x damage multiplier.\n• 6x: Fists secondary attack. This equates to 6x the weapon's listed damage, since the special attack has a 1x damage multiplier."
+    },
+    {
+      "heading": "Notes",
+      "level": 3,
+      "text": "• Stagger doesn't stack. If the target is already staggered, the new stagger is ignored. This makes faster attacks better at stun-locking targets.\n• Parrying an attack causes an instant stagger without contributing towards the stagger limit. However the double damage from the stagger helps reaching the limit more easily.\n• While blocking causes extra staggering, it also often significantly reduces the damage taken (which reduces staggering). If block armor is less than gear armor, then blocking will always increase the total amount of received staggering.\n• Getting staggered from blocking will cancel the block (but resistances and gear armor will still work). However getting staggered from the actual damage taken when blocking won't cancel the block."
+    },
+    {
+      "heading": "Creature stats",
+      "level": 2,
+      "text": "Stagger is based on animations so the duration is affected by animation transitions and animation speed scaling. For example staggering running creatures may result in slightly different stagger duration. Players will also stagger longer if staggered at the right moment when using the sword secondary attack (even up to 5.8 seconds).\nDuration values seem to vary a few milliseconds because of the animation system. However this won't have an impact on the actual gameplay.\nNote: In rare cases, creature idle animation may interrupt the staggering and end it very quickly.",
+      "table_data": [
+        {
+          "": "0",
+          "Creature": "Player",
+          "Duration (s)": "1.18",
+          "When parried (s)": "Varies",
+          "Limit %": "40%",
+          "Base limit": "Varies"
+        },
+        {
+          "": "1",
+          "Creature": "Neck",
+          "Duration (s)": "1.54",
+          "When parried (s)": "1.66",
+          "Limit %": "50%",
+          "Base limit": "2.5"
+        },
+        {
+          "": "2",
+          "Creature": "Boar",
+          "Duration (s)": "1.24",
+          "When parried (s)": "",
+          "Limit %": "50%",
+          "Base limit": "5"
+        },
+        {
+          "": "3",
+          "Creature": "Deer",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "4",
+          "Creature": "Greyling",
+          "Duration (s)": "2.06",
+          "When parried (s)": "2.16",
+          "Limit %": "30%",
+          "Base limit": "6"
+        },
+        {
+          "": "5",
+          "Creature": "Eikthyr",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "6",
+          "Creature": "Greydwarf",
+          "Duration (s)": "1.94",
+          "When parried (s)": "2.04",
+          "Limit %": "30%",
+          "Base limit": "12"
+        },
+        {
+          "": "7",
+          "Creature": "Greydwarf brute",
+          "Duration (s)": "1.34",
+          "When parried (s)": "2.04",
+          "Limit %": "50%",
+          "Base limit": "75"
+        },
+        {
+          "": "8",
+          "Creature": "Greydwarf shaman",
+          "Duration (s)": "1.26",
+          "When parried (s)": "1.36",
+          "Limit %": "33%",
+          "Base limit": "20"
+        },
+        {
+          "": "9",
+          "Creature": "Skeleton",
+          "Duration (s)": "2.46",
+          "When parried (s)": "",
+          "Limit %": "50%",
+          "Base limit": "20"
+        },
+        {
+          "": "10",
+          "Creature": "Rancid remains",
+          "Duration (s)": "2.46",
+          "When parried (s)": "4.92",
+          "Limit %": "50%",
+          "Base limit": "50"
+        },
+        {
+          "": "11",
+          "Creature": "Ghost",
+          "Duration (s)": "1.64",
+          "When parried (s)": "",
+          "Limit %": "50%",
+          "Base limit": "30"
+        },
+        {
+          "": "12",
+          "Creature": "Troll",
+          "Duration (s)": "2.74",
+          "When parried (s)": "5.46 for unarmed melee (randomly)",
+          "Limit %": "30%",
+          "Base limit": "180"
+        },
+        {
+          "": "13",
+          "Creature": "The Elder",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "14",
+          "Creature": "Root",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "15",
+          "Creature": "Serpent",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "16",
+          "Creature": "Abomination",
+          "Duration (s)": "3.0",
+          "When parried (s)": "",
+          "Limit %": "33%",
+          "Base limit": "264"
+        },
+        {
+          "": "17",
+          "Creature": "Blob",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "18",
+          "Creature": "Oozer",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "19",
+          "Creature": "Draugr",
+          "Duration (s)": "2.8",
+          "When parried (s)": "",
+          "Limit %": "50%",
+          "Base limit": "50"
+        },
+        {
+          "": "20",
+          "Creature": "Draugr Elite",
+          "Duration (s)": "2.8",
+          "When parried (s)": "",
+          "Limit %": "50%",
+          "Base limit": "100"
+        },
+        {
+          "": "21",
+          "Creature": "Leech",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "22",
+          "Creature": "Surtling",
+          "Duration (s)": "1.14",
+          "When parried (s)": "",
+          "Limit %": "50%",
+          "Base limit": "10"
+        },
+        {
+          "": "23",
+          "Creature": "Wraith",
+          "Duration (s)": "2.04",
+          "When parried (s)": "",
+          "Limit %": "50%",
+          "Base limit": "50"
+        },
+        {
+          "": "24",
+          "Creature": "Bonemass",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "25",
+          "Creature": "Wolf",
+          "Duration (s)": "1.7",
+          "When parried (s)": "",
+          "Limit %": "50%",
+          "Base limit": "40"
+        },
+        {
+          "": "26",
+          "Creature": "Fenring",
+          "Duration (s)": "1.32",
+          "When parried (s)": "1.34",
+          "Limit %": "50%",
+          "Base limit": "150"
+        },
+        {
+          "": "27",
+          "Creature": "Drake",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "28",
+          "Creature": "Stone Golem",
+          "Duration (s)": "1.0",
+          "When parried (s)": "4.9 for basic melee",
+          "Limit %": "33%",
+          "Base limit": "264"
+        },
+        {
+          "": "29",
+          "Creature": "Bat",
+          "Duration (s)": "1.68",
+          "When parried (s)": "",
+          "Limit %": "50%",
+          "Base limit": "5"
+        },
+        {
+          "": "30",
+          "Creature": "Ulv",
+          "Duration (s)": "1.4",
+          "When parried (s)": "",
+          "Limit %": "50%",
+          "Base limit": "25"
+        },
+        {
+          "": "31",
+          "Creature": "Cultist",
+          "Duration (s)": "1.32",
+          "When parried (s)": "1.35",
+          "Limit %": "50%",
+          "Base limit": "100"
+        },
+        {
+          "": "32",
+          "Creature": "Moder",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "33",
+          "Creature": "Deathsquito",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "34",
+          "Creature": "Lox",
+          "Duration (s)": "2.72",
+          "When parried (s)": "",
+          "Limit %": "30%",
+          "Base limit": "300"
+        },
+        {
+          "": "35",
+          "Creature": "Fuling",
+          "Duration (s)": "2.08",
+          "When parried (s)": "4.14 for spear when on melee range",
+          "Limit %": "30%",
+          "Base limit": "52.5"
+        },
+        {
+          "": "36",
+          "Creature": "Fuling Berserker",
+          "Duration (s)": "2.88",
+          "When parried (s)": "",
+          "Limit %": "30%",
+          "Base limit": "240"
+        },
+        {
+          "": "37",
+          "Creature": "Fuling shaman",
+          "Duration (s)": "3.2",
+          "When parried (s)": "",
+          "Limit %": "30%",
+          "Base limit": "30"
+        },
+        {
+          "": "38",
+          "Creature": "Growth",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        },
+        {
+          "": "39",
+          "Creature": "Yagluth",
+          "Duration (s)": "Immune",
+          "When parried (s)": "",
+          "Limit %": "Immune",
+          "Base limit": ""
+        }
+      ]
+    },
+    {
+      "heading": "Examples",
+      "level": 2,
+      "text": "A 2 star Boar has 30 health and a 50% stagger limit. This means if it took 15 damage, it would stagger (30 hp * 0.5 stagger limit = 15 dmg needed). If this Boar was hit by an attack that dealt 15 physical damage, it would cause it to stagger.\nA Troll has 180 stagger limit (30% of 600) and is dealt 50 Pierce damage per second. Because it is weak to Pierce, it actually takes 75 physical damage per second. Since the staggering level is reduced by 36 (20% of 180) per second, it would take about 4.6 seconds to stagger the Troll after it had lost 345 health. 75 Pierce damage per second would stagger it in 2.35 seconds after it had lost 264 health.\nDraugr has 50 stagger limit. Hitting with a fully upgraded Frostner for 100 damage would only cause 31 staggering because only 31% of the damage is physical. However using the secondary attack would deal 155 staggering because of the 2.5x damage and 2x staggering multiplier.\nPlayer with 100 health would have 40 stagger limit. Attempting to block 100 physical damage with 50 block armor would let 50 damage through the block which would be enough to instantly stagger the player and cancel the block damage mitigation.\nAttempting to block 85 physical damage with 50 block armor would cause 36 staggering. With 50 gear armor, the player would receive 6.5 damage and in total take 42.5 staggering. This would stagger the player but the block wouldn't get cancelled because the stagger wasn't caused by the block."
+    }
+  ],
+  "full_text": "Stagger\n\nIntroduction. Stagger is a status effect that stuns the target and causes non-player creatures to take double damage. Stagger is caused in two cases:\n• The total amount of staggering reaches the stagger limit.\n• An attack is successfully parried by a player.\nThe stagger duration is different for each creature ranging from near instant to a few seconds. The duration may also be different when parrying certain attacks.\n\nStaggering. Staggering is inflicted when receiving physical and lightning damage types, and the amount of stagger applied is equivalent to the amount of damage. Players also receive extra staggering when blocking based on how much physical or lightning damage got through the block.\nStaggering gradually expires 20% of the stagger limit per second. Staggering won't be reset when the stagger limit is reached. Staggering won't exceed the stagger limit.\nThe stagger limit is a percentage of the maximum health which generally makes stronger creatures harder to stagger. Players with health based food will have an increased stagger limit which also means that the staggering expires faster.\n\nIncreased staggering. Some player attacks cause increased staggering:\n• 1.5x: Two-handed axe primary attacks.\n• 2x: Mace secondary attack. This equates to 5x the weapon's listed damage, since the special attack has a 2.5x damage multiplier.\n• 2x: Clubs (after Stagbreaker) attacks\n• 4x: Two-handed axe secondary attack. This equates to 2x the weapon's listed damage, since the special attack has a 0.5x damage multiplier.\n• 6x: Atgeir secondary attack. This equates to 6x the weapon's listed damage, since the special attack has a 1x damage multiplier.\n• 6x: Fists secondary attack. This equates to 6x the weapon's listed damage, since the special attack has a 1x damage multiplier.\n\nNotes. • Stagger doesn't stack. If the target is already staggered, the new stagger is ignored. This makes faster attacks better at stun-locking targets.\n• Parrying an attack causes an instant stagger without contributing towards the stagger limit. However the double damage from the stagger helps reaching the limit more easily.\n• While blocking causes extra staggering, it also often significantly reduces the damage taken (which reduces staggering). If block armor is less than gear armor, then blocking will always increase the total amount of received staggering.\n• Getting staggered from blocking will cancel the block (but resistances and gear armor will still work). However getting staggered from the actual damage taken when blocking won't cancel the block.\n\nCreature stats. Stagger is based on animations so the duration is affected by animation transitions and animation speed scaling. For example staggering running creatures may result in slightly different stagger duration. Players will also stagger longer if staggered at the right moment when using the sword secondary attack (even up to 5.8 seconds).\nDuration values seem to vary a few milliseconds because of the animation system. However this won't have an impact on the actual gameplay.\nNote: In rare cases, creature idle animation may interrupt the staggering and end it very quickly.\n\nExamples. A 2 star Boar has 30 health and a 50% stagger limit. This means if it took 15 damage, it would stagger (30 hp * 0.5 stagger limit = 15 dmg needed). If this Boar was hit by an attack that dealt 15 physical damage, it would cause it to stagger.\nA Troll has 180 stagger limit (30% of 600) and is dealt 50 Pierce damage per second. Because it is weak to Pierce, it actually takes 75 physical damage per second. Since the staggering level is reduced by 36 (20% of 180) per second, it would take about 4.6 seconds to stagger the Troll after it had lost 345 health. 75 Pierce damage per second would stagger it in 2.35 seconds after it had lost 264 health.\nDraugr has 50 stagger limit. Hitting with a fully upgraded Frostner for 100 damage would only cause 31 staggering because only 31% of the damage is physical. However using the secondary attack would deal 155 staggering because of the 2.5x damage and 2x staggering multiplier.\nPlayer with 100 health would have 40 stagger limit. Attempting to block 100 physical damage with 50 block armor would let 50 damage through the block which would be enough to instantly stagger the player and cancel the block damage mitigation.\nAttempting to block 85 physical damage with 50 block armor would cause 36 staggering. With 50 gear armor, the player would receive 6.5 damage and in total take 42.5 staggering. This would stagger the player but the block wouldn't get cancelled because the stagger wasn't caused by the block.",
+  "scraped_at": "2026-02-26T01:56:12.536496+00:00"
+}

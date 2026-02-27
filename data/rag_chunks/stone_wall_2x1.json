@@ -1,0 +1,11 @@
+{
+  "title": "Stone structures",
+  "url": "https://valheim.fandom.com/wiki/Stone_wall_2x1",
+  "slug": "Stone_wall_2x1",
+  "categories": [
+    "Building structures"
+  ],
+  "content": "# Stone structures\n\n# Introduction\n\nStone structures become available after the acquisition of iron and subsequently a stonecutter. They require stone and the proximity of a stonecutter to be built and repaired.\nStone fortifications are stronger than those from wood, which can make them more resistant against raids.\n\n## Common properties\n\nStone structures share the following properties:\n\n• Property: Durability | Value: 1500\n\n• Property: Support | Value: Stone (from 100 to 1000)\n\n• Property: Loss | Value: 1/8 vertical, 1/1 horizontal\n\n• Property: Resistances | Value: Weak: Pickaxe Neutral: Blunt, Slash, Pierce, Chop, Lightning Resistant: Fire, Frost Immune: Poison, Spirit\n\n• Property: Damaged by rain | Value: No\n\n### Floors and stairs\n\n• Structure: Stone floor 2x2 | Materials: Stone x6 | Size: 2x2x1\n\n• Structure: Stone stair | Materials: Stone x8 | Size: 2x2x1\n\n### Walls\n\n• Structure: Stone wall 1x1 | Materials: Stone x3 | Size: 1x1x1\n\n• Structure: Stone wall 2x1 | Materials: Stone x4 | Size: 2x1x1\n\n• Structure: Stone wall 4x2 | Materials: Stone x6 | Size: 4x2x1\n\n### Supports\n\n• Structure: Stone pillar | Materials: Stone x5 | Size: 1x1x2\n\n• Structure: Stone arch | Materials: Stone x4 | Size: 2x1x1\n\nCategorias: Building structures",
+  "content_length": 1248,
+  "scraped_at": "2026-02-26T02:13:32.312653+00:00"
+}

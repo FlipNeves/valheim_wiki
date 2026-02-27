@@ -1,0 +1,35 @@
+{
+  "title": "Pike",
+  "url": "https://valheim.fandom.com/wiki/Pike",
+  "slug": "Pike",
+  "categories": [
+    "Fish"
+  ],
+  "infobox": {
+    "_infobox_title": "Pike",
+    "Type": "Fish",
+    "Internal ID": "fish2",
+    "Source": "Fishing",
+    "Usage": "Decoration | Cooking",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Pike are coastal fish found offshore the Meadows and Black Forest. They can be caught with a fishing rod using Cold fishing bait which can be crafted at the Food preparation table by combining 20 Fishing bait and a Fenring trophy."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Fishing hat\n• Raw fish"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Has a unique line: \"You're supposed to put heads on a pike, not put a pike on a wall...\""
+    }
+  ],
+  "full_text": "Pike\n\nType: Fish | Internal ID: fish2 | Source: Fishing | Usage: Decoration | Cooking | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Pike are coastal fish found offshore the Meadows and Black Forest. They can be caught with a fishing rod using Cold fishing bait which can be crafted at the Food preparation table by combining 20 Fishing bait and a Fenring trophy.\n\nCrafting. • Fishing hat\n• Raw fish\n\nNotes. • Has a unique line: \"You're supposed to put heads on a pike, not put a pike on a wall...\"",
+  "scraped_at": "2026-02-26T01:44:44.932555+00:00"
+}

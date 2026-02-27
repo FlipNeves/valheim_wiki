@@ -1,0 +1,73 @@
+{
+  "title": "Splitnir the Storming",
+  "url": "https://valheim.fandom.com/wiki/Splitnir_the_Storming",
+  "slug": "Splitnir_the_Storming",
+  "categories": [
+    "Weapons",
+    "Spears",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Splitnir the Storming",
+    "Internal ID": "SpearSplitner_Lightning",
+    "Type": "Spear",
+    "Source": "Black forge",
+    "Usage": "Weapon",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Flametal x18, Iolite x3",
+    "Attack speed": "1.04 s (includes picking up)",
+    "Hitbox": "1.9 range, 40 angle, 1.5 height, 0.5 ray",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Splitnir the Storming is the upgraded form of Splitnir using Iolite. Like all weapons made with Iolite, it gains 10 lightning damage and a 25% chance to apply Chain Lightning on hit.\nUpgrading a Splitnir to Splitnir the Storming will always result in a quality 1 weapon, regardless of the original weapon's quality."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Pierce",
+          "Quality 1": "135",
+          "Quality 2": "141",
+          "Quality 3": "147",
+          "Quality 4": "153"
+        },
+        {
+          "stat": "Lightning",
+          "Quality 1": "10",
+          "Quality 2": "10",
+          "Quality 3": "10",
+          "Quality 4": "10"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "100",
+          "Quality 2": "150",
+          "Quality 3": "200",
+          "Quality 4": "250"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "1 Splitnir6 Flametal1 Iolite",
+          "Quality 2": "6 Flametal1 Iolite",
+          "Quality 3": "12 Flametal2 Iolite",
+          "Quality 4": "18 Flametal3 Iolite"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "4",
+          "Quality 2": "5",
+          "Quality 3": "6 (not yet available)",
+          "Quality 4": "7 (not yet available)"
+        }
+      ]
+    }
+  ],
+  "full_text": "Splitnir the Storming\n\nInternal ID: SpearSplitner_Lightning | Type: Spear | Source: Black forge | Usage: Weapon | Wielding: One-handed | Crafting Materials: Flametal x18, Iolite x3 | Attack speed: 1.04 s (includes picking up) | Hitbox: 1.9 range, 40 angle, 1.5 height, 0.5 ray | Movement speed: -5%\n\nIntroduction. Splitnir the Storming is the upgraded form of Splitnir using Iolite. Like all weapons made with Iolite, it gains 10 lightning damage and a 25% chance to apply Chain Lightning on hit.\nUpgrading a Splitnir to Splitnir the Storming will always result in a quality 1 weapon, regardless of the original weapon's quality.",
+  "scraped_at": "2026-02-26T01:18:57.028218+00:00"
+}

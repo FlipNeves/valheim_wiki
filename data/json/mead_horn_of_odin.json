@@ -1,0 +1,33 @@
+{
+  "title": "Mead horn of Odin",
+  "url": "https://valheim.fandom.com/wiki/Mead_horn_of_Odin",
+  "slug": "Mead_horn_of_Odin",
+  "categories": [
+    "DLC",
+    "Tools",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Mead horn of Odin",
+    "Internal ID": "TankardOdin",
+    "Type": "Tool",
+    "Source": "Workbench",
+    "Usage": "Drink Mead",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Finewood x4, Deer trophy x1, Resin x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Mead horn of Odin is a DLC item. It is only available for the early supporters of Valheim via a Steam code sent out in an email from Iron Gate Studios to those who signed up for the Valheim Beta. Check your email if you signed up!"
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "Can be equipped and used to consume mead from the first stack in the player's inventory. Can still be placed on either Item Stand if spawned in via Console Commands, but cannot be used for drinking unless the player owns the corresponding DLC."
+    }
+  ],
+  "full_text": "Mead horn of Odin\n\nInternal ID: TankardOdin | Type: Tool | Source: Workbench | Usage: Drink Mead | Wielding: One-handed | Crafting Materials: Finewood x4, Deer trophy x1, Resin x2\n\nIntroduction. Mead horn of Odin is a DLC item. It is only available for the early supporters of Valheim via a Steam code sent out in an email from Iron Gate Studios to those who signed up for the Valheim Beta. Check your email if you signed up!\n\nUsage. Can be equipped and used to consume mead from the first stack in the player's inventory. Can still be placed on either Item Stand if spawned in via Console Commands, but cannot be used for drinking unless the player owns the corresponding DLC.",
+  "scraped_at": "2026-02-26T01:40:01.585440+00:00"
+}

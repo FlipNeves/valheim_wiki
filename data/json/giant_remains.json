@@ -1,0 +1,50 @@
+{
+  "title": "Giant remains",
+  "url": "https://valheim.fandom.com/wiki/Giant_Remains",
+  "slug": "Giant_Remains",
+  "categories": [
+    "Resource nodes"
+  ],
+  "infobox": {
+    "_infobox_title": "Giant remains",
+    "Type": "Resource nodes",
+    "Internal ID": "giant_skull(whole) | giant_skull_frac | giant_ribs(whole) | giant_ribs_frac",
+    "Location": "Mistlands",
+    "Resources": "Soft tissue, ,, Black marble",
+    "Neutral to": "Pickaxe",
+    "Immune to": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Giant remains are a resource location in the Mistlands biome where the player can mine for Black marble with a Black metal pickaxe.\nGiant remains consist of a rib cage, a skull, or both. While the ribs only drop black marble, the skulls also contain a brain, a resource node which can be mined to obtain Soft tissue."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "Each node of the skull and ribs has the same drops. Every skull has 129 nodes, whereas all ribs have 132 nodes. This gives an average of 387 black marble per skull, and an average of 396 black marble per ribs.\nEach brain-shaped resource node has the same layout with 118 nodes, each of which has 5 health. Thus, a single resource node will drop 59 soft tissue on average, if fully mined. Note that as some skulls generate close to the water level or on steep terrain, it may not always be possible to fully mine a resource node.",
+      "table_data": [
+        {
+          "Item": "Black marble",
+          "Amount": "2 - 4",
+          "Chance": "100%",
+          "Average": "387 (skull)396 (ribs)"
+        },
+        {
+          "Item": "Soft tissue",
+          "Amount": "1",
+          "Chance": "50%",
+          "Average": "59"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "If you don't interact with Hugin in the Mistlands he will appear when you are near Giant remains thus alerting you to their presence. This can make finding them in the mist much easier."
+    }
+  ],
+  "full_text": "Giant remains\n\nType: Resource nodes | Internal ID: giant_skull(whole) | giant_skull_frac | giant_ribs(whole) | giant_ribs_frac | Location: Mistlands | Resources: Soft tissue, ,, Black marble | Neutral to: Pickaxe | Immune to: Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit\n\nIntroduction. Giant remains are a resource location in the Mistlands biome where the player can mine for Black marble with a Black metal pickaxe.\nGiant remains consist of a rib cage, a skull, or both. While the ribs only drop black marble, the skulls also contain a brain, a resource node which can be mined to obtain Soft tissue.\n\nDrops. Each node of the skull and ribs has the same drops. Every skull has 129 nodes, whereas all ribs have 132 nodes. This gives an average of 387 black marble per skull, and an average of 396 black marble per ribs.\nEach brain-shaped resource node has the same layout with 118 nodes, each of which has 5 health. Thus, a single resource node will drop 59 soft tissue on average, if fully mined. Note that as some skulls generate close to the water level or on steep terrain, it may not always be possible to fully mine a resource node.\n\nNotes. If you don't interact with Hugin in the Mistlands he will appear when you are near Giant remains thus alerting you to their presence. This can make finding them in the mist much easier.",
+  "scraped_at": "2026-02-26T01:52:51.694726+00:00"
+}

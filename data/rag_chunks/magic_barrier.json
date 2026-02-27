@@ -1,0 +1,11 @@
+{
+  "title": "Magic barrier",
+  "url": "https://valheim.fandom.com/wiki/Magic_barrier",
+  "slug": "Magic_barrier",
+  "categories": [
+    "Effects"
+  ],
+  "content": "# Magic barrier\n\nEffects: Blocks 200-700 damage (depending on caster's skill level).\n\n# Introduction\n\nMagic barrier is a positive status effect that surrounds the affected entity in a spherical barrier. This barrier lasts for a certain amount of time, and while active it can absorb up to a fixed amount of damage. Once this damage limit is exceeded, the barrier breaks, which also removes the status effect.\nThe effect is acquired from a player using the Staff of protection, which can apply it to the caster and to other allied players and tamed creatures within a small radius of its use. The duration of the effect is between 60 and 120 seconds, as determined by the quality of the staff. The amount of damage that the barrier can absorb is a certain fixed amount between 200 and 700 damage, and is determined entirely by the caster's Blood magic skill level; see that page for more details.\n\nCategorias: Effects",
+  "content_length": 916,
+  "scraped_at": "2026-02-26T02:00:41.176894+00:00"
+}

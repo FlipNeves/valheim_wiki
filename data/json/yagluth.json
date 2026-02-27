@@ -1,0 +1,101 @@
+{
+  "title": "Yagluth",
+  "url": "https://valheim.fandom.com/wiki/Yagluth",
+  "slug": "Yagluth",
+  "categories": [
+    "Bosses"
+  ],
+  "infobox": {
+    "_infobox_title": "Yagluth",
+    "Internal ID": "GoblinKing",
+    "Type": "Boss",
+    "Faction": "Boss",
+    "Main biome": "Plains",
+    "Tameable": "No",
+    "Drops": "Yagluth trophy | Torn spirit | Yagluth Power",
+    "Abilities": "Beam (15s), Meteors (25s), Nova (20s)",
+    "Trophy": "Yagluth trophy",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Frost, ,, Lightning, ,, Spirit",
+    "Resistant to (x0.5)": "Fire",
+    "Very resistant to (x0.25)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Yagluth is the fifth boss. He appears as an ancient Fuling spirit inhabiting a now decomposed skeletal body comprised of a head, two arms and a torso. The crown resting upon his skull implies he was once or still is a ruler of some sort."
+    },
+    {
+      "heading": "Summoning",
+      "level": 2,
+      "text": "Yagluth's Forsaken Altar is located in the Plains. His location can be found when visiting Stonehenge structures, where a Vegvisir will reveal his nearest summoning location on the map.\nHe is summoned by placing five Fuling totems in his Forsaken Altar in the Plains. Like all bosses, Yagluth can be summoned as many times as desired, provided the required materials are met.\nYagluth´s Vegvisir has a very small chance of spawning, making it very hard to find. Oftentimes, it is easier to directly find the Forsaken Altar than the Vegvisir."
+    },
+    {
+      "heading": "Attacks and abilities",
+      "level": 2,
+      "text": "Yagluth has an environment aura that forces darkness and removes raining, which means Wet from rain cannot be used as Fire resistance."
+    },
+    {
+      "heading": "Beam",
+      "level": 3,
+      "text": "Yagluth is able to breathe fire in a roughly 40-meter straight line every 15 seconds, slowly rotating to aim at the player if they are moving. This breath is made up of 20 individual projectiles, each dealing 40 Fire, 20 Lightning, 50 Tier 1 Chop and 50 Tier 1 Pickaxe damage[1] and inflicting the Burning and Lightning statuses. Each projectile travels at 40 meters per second and can travel for 3 seconds before disappearing. This ability can be used when a player is within 10–40 meters of Yagluth and does not have any spread: meaning he is perfectly accurate."
+    },
+    {
+      "heading": "Meteors",
+      "level": 3,
+      "text": "Every 25 seconds, Yagluth can raise his left fist which glows red. A few seconds later, a volley of 10 burning stones will fall from above and create 5-meter radius explosions wherever they land. Anyone hit is inflicted with Burning and takes 40 Blunt, 120 Fire, 50 Tier 1 Chop and 50 Tier 1 Pickaxe damage. The meteors fall from the sky 30 meters behind Yagluth and 50 meters off of the ground in a 15-meter radius sphere. They fall at an initial velocity of 30 meters per second and can travel for up to 8 seconds before despawning. This attack can be used when a player is within 30 meters of Yagluth."
+    },
+    {
+      "heading": "Nova",
+      "level": 3,
+      "text": "Yagluth raises his right fist which glows blue before slamming the ground, creating a 10-meter radius spherical explosion beginning at the center of his fist and slowly expanding out to the full radius. Anyone standing within the explosion will be inflicted with the Burning and Lightning statues and take 65 Fire, 65 Lightning, 100 Tier 2 Chop and 100 Tier 2 Pickaxe damage. Blue fire will remain in the area for a short time, dealing 100 Fire damage over time. The initial explosion is both dodgeable and blockable, but the lingering fire is not blockable. This ability has a 20-second cooldown and can only be used when a player is within 10 meters of Yagluth."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Torn spirit",
+          "0 Star": "3",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Yagluth trophy",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Forsaken power",
+      "level": 3,
+      "text": "Mounting Yagluth’s trophy upon his respective stone will allow the player to claim his Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:\n• Damage modifier: Resistant vs Lightning\n• Farming: +25\n• Damage dealt increase: Blunt, Slash, Pierce, Chop, Pickaxe, Fire, Frost, Lightning, Poison, Spirit: +10%\nSee Yagluth's power for more details."
+    },
+    {
+      "heading": "Events",
+      "level": 3,
+      "text": "Defeating Yagluth affects the following events for that world:\n• Disables: \"The horde is attacking.\"\n• Enables \"What's up Gjall?!\"\n• Enables \"They sought you out.\""
+    },
+    {
+      "heading": "Creature spawning",
+      "level": 3,
+      "text": "Defeating Yagluth unlocks Fulings to spawn at night in the Meadows, Black Forest, and Mountain. They can only have 0 stars."
+    },
+    {
+      "heading": "Traders",
+      "level": 3,
+      "text": "Defeating Yagluth unlocks Eggs for sale from Haldor for 1500 Coins. It also unlocks the Grasslands herbalist harvest from The Bog Witch for 160 Coins."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• At the time of release, Yagluth was the last boss to defeat. Yagluth has since been supplanted as final boss by The Queen in the Mistlands, the latter being supplanted by Fader, fallen king of the Ashlands. His drop was called \"Yagluth Thing,\" and its description said it was a placeholder for his actual drop. The Mistlands update added the Torn spirit, which is used to craft the Wisp fountain.\n• After Yagluth spawns in, he breaks through the ground slowly. The player can attack him before he actually begins moving or attacking, racking up some free damage before the boss fight actually begins.\n• In the in-game trophies menu, there is another description of Yagluth, \"Sometimes, the eyes still move and the lips mutter silently...\""
+    }
+  ],
+  "full_text": "Yagluth\n\nInternal ID: GoblinKing | Type: Boss | Faction: Boss | Main biome: Plains | Tameable: No | Drops: Yagluth trophy | Torn spirit | Yagluth Power | Abilities: Beam (15s), Meteors (25s), Nova (20s) | Trophy: Yagluth trophy | Neutral to (x1): Blunt, ,, Slash, ,, Frost, ,, Lightning, ,, Spirit | Resistant to (x0.5): Fire | Very resistant to (x0.25): Pierce | Immune to (x0): Poison, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. Yagluth is the fifth boss. He appears as an ancient Fuling spirit inhabiting a now decomposed skeletal body comprised of a head, two arms and a torso. The crown resting upon his skull implies he was once or still is a ruler of some sort.\n\nSummoning. Yagluth's Forsaken Altar is located in the Plains. His location can be found when visiting Stonehenge structures, where a Vegvisir will reveal his nearest summoning location on the map.\nHe is summoned by placing five Fuling totems in his Forsaken Altar in the Plains. Like all bosses, Yagluth can be summoned as many times as desired, provided the required materials are met.\nYagluth´s Vegvisir has a very small chance of spawning, making it very hard to find. Oftentimes, it is easier to directly find the Forsaken Altar than the Vegvisir.\n\nAttacks and abilities. Yagluth has an environment aura that forces darkness and removes raining, which means Wet from rain cannot be used as Fire resistance.\n\nBeam. Yagluth is able to breathe fire in a roughly 40-meter straight line every 15 seconds, slowly rotating to aim at the player if they are moving. This breath is made up of 20 individual projectiles, each dealing 40 Fire, 20 Lightning, 50 Tier 1 Chop and 50 Tier 1 Pickaxe damage[1] and inflicting the Burning and Lightning statuses. Each projectile travels at 40 meters per second and can travel for 3 seconds before disappearing. This ability can be used when a player is within 10–40 meters of Yagluth and does not have any spread: meaning he is perfectly accurate.\n\nMeteors. Every 25 seconds, Yagluth can raise his left fist which glows red. A few seconds later, a volley of 10 burning stones will fall from above and create 5-meter radius explosions wherever they land. Anyone hit is inflicted with Burning and takes 40 Blunt, 120 Fire, 50 Tier 1 Chop and 50 Tier 1 Pickaxe damage. The meteors fall from the sky 30 meters behind Yagluth and 50 meters off of the ground in a 15-meter radius sphere. They fall at an initial velocity of 30 meters per second and can travel for up to 8 seconds before despawning. This attack can be used when a player is within 30 meters of Yagluth.\n\nNova. Yagluth raises his right fist which glows blue before slamming the ground, creating a 10-meter radius spherical explosion beginning at the center of his fist and slowly expanding out to the full radius. Anyone standing within the explosion will be inflicted with the Burning and Lightning statues and take 65 Fire, 65 Lightning, 100 Tier 2 Chop and 100 Tier 2 Pickaxe damage. Blue fire will remain in the area for a short time, dealing 100 Fire damage over time. The initial explosion is both dodgeable and blockable, but the lingering fire is not blockable. This ability has a 20-second cooldown and can only be used when a player is within 10 meters of Yagluth.\n\nForsaken power. Mounting Yagluth’s trophy upon his respective stone will allow the player to claim his Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:\n• Damage modifier: Resistant vs Lightning\n• Farming: +25\n• Damage dealt increase: Blunt, Slash, Pierce, Chop, Pickaxe, Fire, Frost, Lightning, Poison, Spirit: +10%\nSee Yagluth's power for more details.\n\nEvents. Defeating Yagluth affects the following events for that world:\n• Disables: \"The horde is attacking.\"\n• Enables \"What's up Gjall?!\"\n• Enables \"They sought you out.\"\n\nCreature spawning. Defeating Yagluth unlocks Fulings to spawn at night in the Meadows, Black Forest, and Mountain. They can only have 0 stars.\n\nTraders. Defeating Yagluth unlocks Eggs for sale from Haldor for 1500 Coins. It also unlocks the Grasslands herbalist harvest from The Bog Witch for 160 Coins.\n\nNotes. • At the time of release, Yagluth was the last boss to defeat. Yagluth has since been supplanted as final boss by The Queen in the Mistlands, the latter being supplanted by Fader, fallen king of the Ashlands. His drop was called \"Yagluth Thing,\" and its description said it was a placeholder for his actual drop. The Mistlands update added the Torn spirit, which is used to craft the Wisp fountain.\n• After Yagluth spawns in, he breaks through the ground slowly. The player can attack him before he actually begins moving or attacking, racking up some free damage before the boss fight actually begins.\n• In the in-game trophies menu, there is another description of Yagluth, \"Sometimes, the eyes still move and the lips mutter silently...\"",
+  "scraped_at": "2026-02-26T01:39:33.457262+00:00"
+}

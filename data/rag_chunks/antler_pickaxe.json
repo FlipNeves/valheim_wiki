@@ -1,0 +1,14 @@
+{
+  "title": "Antler pickaxe",
+  "url": "https://valheim.fandom.com/wiki/Antler_pickaxe",
+  "slug": "Antler_pickaxe",
+  "categories": [
+    "Weapons",
+    "Pickaxes",
+    "Tools",
+    "Workbench recipes"
+  ],
+  "content": "# Antler pickaxe\n\nInternal ID: PickaxeAntler | Type: Pickaxe | Source: Workbench | Usage: Mining | Wielding: Two-handed | Crafting Materials: Wood x10, Hard antler x1 | Attack speed: 1.4 s | Hitbox: 1.8 range, 120 angle, 1.0 height, 0.2 ray, vertical | Movement speed: -5%\n\n# Introduction\n\nThe Antler pickaxe is the first pickaxe. It can be used to mine Stone, Copper, Tin, Muddy scrap piles, and Abyssal barnacles.\nIts primary attack is a melee attack that destroys ground. It does not have a secondary attack.\n\n## Crafting\n\n• stat: Pierce | Quality 1: 18\n\n• stat: Mining | Quality 1: 18\n\n• stat: Durability | Quality 1: 100\n\n• stat: Crafting | Quality 1: 10 Wood1 Hard antler\n\n• stat: Workbench level | Quality 1: 1\n\n## Notes\n\n• Despite its description, the Antler pickaxe is the weakest pickaxe in the game. However, it is sufficient for mining iron.\n• When the Antler pickaxe is acquired, Hugin will say, \"Now go forth and strike the earth!\" This is a reference to the new game message in the game, Dwarf Fortress.\n• Due to being repairable at a Workbench, the Antler pickaxe might be preferable to the Bronze pickaxe in some situations.\n• The attack hitbox reaches below the player's feet, which provides the ability to dig down. When mining, this can easily activate the 33% damage penalty that is incurred when hitting the ground.\n\nCategorias: Weapons, Pickaxes, Tools, Workbench recipes",
+  "content_length": 1394,
+  "scraped_at": "2026-02-26T01:10:19.943460+00:00"
+}

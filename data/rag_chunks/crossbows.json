@@ -1,0 +1,12 @@
+{
+  "title": "Crossbows",
+  "url": "https://valheim.fandom.com/wiki/Crossbows",
+  "slug": "Crossbows",
+  "categories": [
+    "Weapons",
+    "Crossbows"
+  ],
+  "content": "# Crossbows\n\n# Introduction\n\nCrossbows is a weapon class.\nCrossbows shoot equipped bolts and cannot be retrieved. Loading itself takes 3.5 seconds and uses 4 stamina, however, with the firing, loading, and readying animations, it can only be fired every 6 seconds.\nJumping and sprinting resets the loading progress, and bolts cannot be loaded while sprinting. After the crossbow is loaded, it can be fired at any time at no stamina cost. After firing, another bolt will need to be loaded. The bolts do not stay loaded when switching to other weapons, so a bolt is loaded whenever the item is equipped.\n\n## List of Crossbows\n\n• Name: Arbalest | Reload Speed: 3.5s | Stamina: 1/s | Damage Types(Min/Max): Pierce: 200/209 | Knockback: 210 | Backstab: 3x | Velocity: 200 m/s | Spread: 0° | Attack noise: 15m | Hit noise: 8m\n\n• Name: Ripper | Reload Speed: 3.5s | Stamina: 1/s | Damage Types(Min/Max): Pierce: 220/229 | Knockback: 210 | Backstab: 3x | Velocity: 200 m/s | Spread: 0° | Attack noise: 15m | Hit noise: 8m\n\n## Notes\n\n• Like bows, the player can block with a crossbow, but this interrupts and halts the loading animation.\n• Damage does not scale like a bow. Only leveling the skill will increase the damage.\n\nCategorias: Weapons, Crossbows",
+  "content_length": 1246,
+  "scraped_at": "2026-02-26T01:13:37.466808+00:00"
+}

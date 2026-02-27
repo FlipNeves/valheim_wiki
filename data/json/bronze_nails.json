@@ -1,0 +1,31 @@
+{
+  "title": "Bronze nails",
+  "url": "https://valheim.fandom.com/wiki/Bronze_nails",
+  "slug": "Bronze_nails",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Bronze nails",
+    "Type": "Material",
+    "Internal ID": "BronzeNails",
+    "Source": "Forge",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Bronze x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bronze nails are crafted at a Forge with a single Bronze ingot which yields 20x nails each.\nUnlike Copper ore, Tin ore, or the smelted metals which are used for Bronze, the nails can be brought through a Portal."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Barber station\n• T.W.I.G.\n• Cart\n• Item stand (horizontal)\n• Item stand (vertical)\n• Karve\n• Trap\n• Wood shutter"
+    }
+  ],
+  "full_text": "Bronze nails\n\nType: Material | Internal ID: BronzeNails | Source: Forge | Usage: Building | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Bronze x1\n\nIntroduction. Bronze nails are crafted at a Forge with a single Bronze ingot which yields 20x nails each.\nUnlike Copper ore, Tin ore, or the smelted metals which are used for Bronze, the nails can be brought through a Portal.\n\nBuilding. • Barber station\n• T.W.I.G.\n• Cart\n• Item stand (horizontal)\n• Item stand (vertical)\n• Karve\n• Trap\n• Wood shutter",
+  "scraped_at": "2026-02-26T01:31:37.254691+00:00"
+}

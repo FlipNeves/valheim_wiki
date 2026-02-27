@@ -1,0 +1,21 @@
+{
+  "title": "Smoked",
+  "url": "https://valheim.fandom.com/wiki/Smoked",
+  "slug": "Smoked",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Smoked",
+    "Effects": "2 damage per second"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Smoked is a status effect that affects players inside clouds of smoke.\nIt deals 2 damage per second without sound cue.\nSmoke damage is pure damage."
+    }
+  ],
+  "full_text": "Smoked\n\nEffects: 2 damage per second\n\nIntroduction. Smoked is a status effect that affects players inside clouds of smoke.\nIt deals 2 damage per second without sound cue.\nSmoke damage is pure damage.",
+  "scraped_at": "2026-02-26T02:01:10.123806+00:00"
+}

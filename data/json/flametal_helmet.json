@@ -1,0 +1,174 @@
+{
+  "title": "Flametal Armor",
+  "url": "https://valheim.fandom.com/wiki/Flametal_helmet",
+  "slug": "Flametal_helmet",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Flametal Armor is an Ashlands-tier armor. This set is the tier above Carapace Armor and Eitr-weave Set and currently has the highest armor value in the game. Equal level sets include Embla Set and Ask Set."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "This set of armor has three pieces which are crafted and upgraded at the Black forge. Flametal armor can currently only be upgraded to quality level 3.\nFlametal armor's heat resistance reduces the damage done by Lava and extends the time without taking damage in Boiling water. It does not affect fire damage or damage from burning.",
+      "table_data": [
+        {
+          "Armor piece": "Flametal Helmet",
+          "Armor": "38",
+          "Crafting cost": "16 Flametal3 Asksvin hide2 Charred bone4 Refined eitr",
+          "Weight": "3.0",
+          "Durability": "800",
+          "Movementspeed": "",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Flametal Breastplate",
+          "Armor": "38",
+          "Crafting cost": "20 Flametal3 Asksvin hide5 Charred bone1 Morgen heart",
+          "Weight": "10.0",
+          "Durability": "1000",
+          "Movementspeed": "-5%",
+          "Effects": "Heat Resistance +20%"
+        },
+        {
+          "Armor piece": "Flametal Greaves",
+          "Armor": "38",
+          "Crafting cost": "20 Flametal3 Asksvin hide5 Charred bone",
+          "Weight": "10.0",
+          "Durability": "1000",
+          "Movementspeed": "-5%",
+          "Effects": "Heat Resistance +20%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "114",
+          "Crafting cost": "56 Flametal9 Asksvin hide12 Charred bone4 Refined eitr1 Morgen heart",
+          "Weight": "23.0",
+          "Durability": "",
+          "Movementspeed": "-10%",
+          "Effects": "Heat Resistance +40%"
+        },
+        {
+          "Armor piece": "Flametal Helmet",
+          "Armor": "40",
+          "Upgrade cost(Total cost)": "8 (24) Flametal1 (4) Asksvin hide0 (2) Charred bone2 (6) Refined eitr",
+          "Weight": "3.0",
+          "Durability": "900",
+          "Movementspeed": "",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Flametal Breastplate",
+          "Armor": "40",
+          "Upgrade cost(Total cost)": "10 (30) Flametal1 (4) Asksvin hide0 (5) Charred bone0 (1) Morgen heart",
+          "Weight": "10.0",
+          "Durability": "1200",
+          "Movementspeed": "-5%",
+          "Effects": "Heat Resistance +20%"
+        },
+        {
+          "Armor piece": "Flametal Greaves",
+          "Armor": "40",
+          "Upgrade cost(Total cost)": "10 (30) Flametal1 (4) Asksvin hide0 (5) Charred bone",
+          "Weight": "10.0",
+          "Durability": "1200",
+          "Movementspeed": "-5%",
+          "Effects": "Heat Resistance +20%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "120",
+          "Upgrade cost(Total cost)": "28 (84) Flametal3 (12) Asksvin hide0 (12) Charred bone2 (6) Refined eitr0 (1) Morgen heart",
+          "Weight": "23.0",
+          "Durability": "",
+          "Movementspeed": "-10%",
+          "Effects": "Heat Resistance +40%"
+        },
+        {
+          "Armor piece": "Flametal Helmet",
+          "Armor": "42",
+          "Upgrade cost(Total cost)": "16 (40) Flametal2 (6) Asksvin hide0 (2) Charred bone4 (10) Refined eitr",
+          "Weight": "3.0",
+          "Durability": "1000",
+          "Movementspeed": "",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Flametal Breastplate",
+          "Armor": "42",
+          "Upgrade cost(Total cost)": "20 (50) Flametal2 (6) Asksvin hide0 (5) Charred bone0 (1) Morgen heart",
+          "Weight": "10.0",
+          "Durability": "1400",
+          "Movementspeed": "-5%",
+          "Effects": "Heat Resistance +20%"
+        },
+        {
+          "Armor piece": "Flametal Greaves",
+          "Armor": "42",
+          "Upgrade cost(Total cost)": "20 (50) Flametal2 (6) Asksvin hide0 (5) Charred bone",
+          "Weight": "10.0",
+          "Durability": "1400",
+          "Movementspeed": "-5%",
+          "Effects": "Heat Resistance +20%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "126",
+          "Upgrade cost(Total cost)": "56 (140) Flametal6 (18) Asksvin hide0 (12) Charred bone4 (10) Refined eitr0 (1) Morgen heart",
+          "Weight": "23.0",
+          "Durability": "",
+          "Movementspeed": "-10%",
+          "Effects": "Heat Resistance +40%"
+        },
+        {
+          "Armor piece": "Flametal Helmet",
+          "Armor": "44",
+          "Upgrade cost(Total cost)": "24 (64) Flametal3 (9) Asksvin hide0 (2) Charred bone6 (16) Refined eitr",
+          "Weight": "3.0",
+          "Durability": "1000",
+          "Movementspeed": "",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Flametal Breastplate",
+          "Armor": "44",
+          "Upgrade cost(Total cost)": "30 (80) Flametal3 (9) Asksvin hide0 (5) Charred bone0 (1) Morgen heart",
+          "Weight": "10.0",
+          "Durability": "1400",
+          "Movementspeed": "-5%",
+          "Effects": "Heat Resistance +20%"
+        },
+        {
+          "Armor piece": "Flametal Greaves",
+          "Armor": "44",
+          "Upgrade cost(Total cost)": "30 (80) Flametal3 (9) Asksvin hide0 (5) Charred bone",
+          "Weight": "10.0",
+          "Durability": "1400",
+          "Movementspeed": "-5%",
+          "Effects": "Heat Resistance +20%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "132",
+          "Upgrade cost(Total cost)": "84 (224) Flametal9 (27) Asksvin hide0 (12) Charred bone6 (16) Refined eitr0 (1) Morgen heart",
+          "Weight": "23.0",
+          "Durability": "",
+          "Movementspeed": "-10%",
+          "Effects": "Heat Resistance +40%"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• At its lowest level, Flametal Armor has the same armor value as Carapace Armor at max level. However, while fully upgraded Carapace Armor has higher durability, Flametal Armor may still be preferable due to its heat resistance buff."
+    }
+  ],
+  "full_text": "Flametal Armor\n\nIntroduction. Flametal Armor is an Ashlands-tier armor. This set is the tier above Carapace Armor and Eitr-weave Set and currently has the highest armor value in the game. Equal level sets include Embla Set and Ask Set.\n\nArmor pieces. This set of armor has three pieces which are crafted and upgraded at the Black forge. Flametal armor can currently only be upgraded to quality level 3.\nFlametal armor's heat resistance reduces the damage done by Lava and extends the time without taking damage in Boiling water. It does not affect fire damage or damage from burning.\n\nNotes. • At its lowest level, Flametal Armor has the same armor value as Carapace Armor at max level. However, while fully upgraded Carapace Armor has higher durability, Flametal Armor may still be preferable due to its heat resistance buff.",
+  "scraped_at": "2026-02-26T02:09:15.057067+00:00"
+}

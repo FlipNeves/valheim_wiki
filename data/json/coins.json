@@ -1,0 +1,45 @@
+{
+  "title": "Coins",
+  "url": "https://valheim.fandom.com/wiki/Coins",
+  "slug": "Coins",
+  "categories": [
+    "Valuables"
+  ],
+  "infobox": {
+    "_infobox_title": "Coins",
+    "Type": "Valuable",
+    "Internal ID": "Coins",
+    "Source": "Troll, ,, Burial Chambers, ,, Sunken Crypts, ,, Stone Grave, ,, Viking Graveyard, , chests in abandoned structures.",
+    "Usage": "Building | Purchase items from traders",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Coins are a material item found in all biomes. It is mainly used to trade."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Acquired by killing Troll, Fuling, Fuling shaman, Fuling berserker or Dvergr, looting chests, and looting dungeons.\n• Can also be obtained by selling items with the Valuable quality to traders, such as Ruby, Amber, Amber pearl and Silver necklace."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "• Used to purchase items from traders like, Haldor, Hildir, and The Bog Witch."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Treasure chest\n• Coin stack\n• Coin pile"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• 1000 coins can be converted instantly into 100 Coals, using the Obliterator. Alternatively, the player can buy 2000 Baits for 1000 coins from Haldor, and turn them into 200 coals using the Obliterator."
+    }
+  ],
+  "full_text": "Coins\n\nType: Valuable | Internal ID: Coins | Source: Troll, ,, Burial Chambers, ,, Sunken Crypts, ,, Stone Grave, ,, Viking Graveyard, , chests in abandoned structures. | Usage: Building | Purchase items from traders | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Coins are a material item found in all biomes. It is mainly used to trade.\n\nAvailability. • Acquired by killing Troll, Fuling, Fuling shaman, Fuling berserker or Dvergr, looting chests, and looting dungeons.\n• Can also be obtained by selling items with the Valuable quality to traders, such as Ruby, Amber, Amber pearl and Silver necklace.\n\nUsage. • Used to purchase items from traders like, Haldor, Hildir, and The Bog Witch.\n\nBuilding. • Treasure chest\n• Coin stack\n• Coin pile\n\nNotes. • 1000 coins can be converted instantly into 100 Coals, using the Obliterator. Alternatively, the player can buy 2000 Baits for 1000 coins from Haldor, and turn them into 200 coals using the Obliterator.",
+  "scraped_at": "2026-02-26T01:45:47.729326+00:00"
+}

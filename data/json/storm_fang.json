@@ -1,0 +1,85 @@
+{
+  "title": "Storm Fang",
+  "url": "https://valheim.fandom.com/wiki/Storm_Fang",
+  "slug": "Storm_Fang",
+  "categories": [
+    "Weapons",
+    "Bows",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Storm Fang",
+    "Internal ID": "BowAshlandsStorm",
+    "Type": "Bow",
+    "Source": "Black forge",
+    "Usage": "Ranged weapon",
+    "Wielding": "Two-handed",
+    "Crafting Materials": "Flametal x15, Iolite x3",
+    "Attack speed": "0.8 s + 2.5 s draw time",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Storm Fang is the modified form of Ash Fang using Iolite. Like all modified-weapons that use Iolite, they gain 10 lightning damage, however, the bow is unique in that its hit effect has a 20% chance to apply Chain lightning.\nAn upgraded Ash Fang will NOT keep its upgrade level when it is modified using gemstones."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Pierce",
+          "Quality 1": "82",
+          "Quality 2": "86",
+          "Quality 3": "90",
+          "Quality 4": "94",
+          "Total": ""
+        },
+        {
+          "stat": "Lightning",
+          "Quality 1": "10",
+          "Quality 2": "10",
+          "Quality 3": "10",
+          "Quality 4": "10",
+          "Total": ""
+        },
+        {
+          "stat": "Spirit",
+          "Quality 1": "",
+          "Quality 2": "5",
+          "Quality 3": "10",
+          "Quality 4": "15",
+          "Total": ""
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "100",
+          "Quality 2": "150",
+          "Quality 3": "200",
+          "Quality 4": "250",
+          "Total": ""
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "1 Ash Fang5 Flametal1 Iolite",
+          "Quality 2": "5 Flametal1 Iolite",
+          "Quality 3": "10 Flametal2 Iolite",
+          "Quality 4": "15 Flametal3 Iolite",
+          "Total": "1 Ash Fang35 Flametal7 Iolite"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "4",
+          "Quality 2": "5",
+          "Quality 3": "6 (not yet available)",
+          "Quality 4": "7 (not yet available)",
+          "Total": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Storm Fang\n\nInternal ID: BowAshlandsStorm | Type: Bow | Source: Black forge | Usage: Ranged weapon | Wielding: Two-handed | Crafting Materials: Flametal x15, Iolite x3 | Attack speed: 0.8 s + 2.5 s draw time | Movement speed: -5%\n\nIntroduction. Storm Fang is the modified form of Ash Fang using Iolite. Like all modified-weapons that use Iolite, they gain 10 lightning damage, however, the bow is unique in that its hit effect has a 20% chance to apply Chain lightning.\nAn upgraded Ash Fang will NOT keep its upgrade level when it is modified using gemstones.",
+  "scraped_at": "2026-02-26T01:19:29.824876+00:00"
+}

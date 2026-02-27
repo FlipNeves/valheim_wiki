@@ -1,0 +1,742 @@
+{
+  "title": "Developer console",
+  "url": "https://valheim.fandom.com/wiki/Developer_console",
+  "slug": "Developer_console",
+  "categories": [
+    "User interface"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The developer console, or just console, is an in-game interface for entering text-based commands used for debugging, cheating and server administration."
+    },
+    {
+      "heading": "Enabling the console",
+      "level": 2,
+      "text": "To be able to use console commands, the console has to be enabled. There are multiple different ways depending on the game's version.\n• Right-click Valheim in the Steam library.\n• Select Properties.\n• In the General tab, look for the Launch Options field.\n• In it, type \"-console\".\n• Close the window.\n• Press F5 in-game to open the console window.\nPC Game Pass\n• Navigate to the game's installation folder. Typically, it is C:\\XboxGames\\Valheim\\Content.\n• In that folder, find Valheim.exe.\n• Right-click Valheim.exe and select Create shortcut.\n• Drag the shortcut to the desktop or preferred location.\n• Right-click the shortcut and select Properties.\n• In the Shortcut tab, add \"-console\" to the end of the Target field.\n• Click Apply, then click OK.\n• Launch the game from the shortcut.\n• Press F5 in-game to open the console window.\nXbox Game Pass\n• While in game hold: LB + RB + MENU.\n• Press A to bring up the keyboard.\nMacOS (App Store)\n• Create a text file in TextEdit (or similar) and name it valheim.sh in a suitable place in your system\n• Open the file and enter the following text:#!bin/bash /Applications/Valheim.app/Contents/MacOS/Valheim -console\n• Run the valheim.sh file to open Valheim with the console enabled.\n• Use F5 in-game to open the console window\nNote: These instructions are for users who purchased Valheim through the AppStore. If running Valheim through Steam, use the Steam instructions above.\nGeForce Now\n• Enable family sharing mode in Steam either via the client or the website (instructions via Steam). Do not add Valheim to the whitelist.\n• Open Valheim using GeForce Now.\n• Enter the PIN you set up in step 1, this will take you to the Steam client within GFN.\n• Enable the console using the instructions for Steam above.\n• Start the game.\n• This will need doing every session as your settings will be reset when the session ends."
+    },
+    {
+      "heading": "Player commands",
+      "level": 3,
+      "text": "Player commands do not require devcommands and can be used from the chat window. Typing \"/\" and clicking tab shows available commands.",
+      "table_data": [
+        {
+          "Command": "bind [keycode] [command]",
+          "Effect": "Binds a custom command to a Unity keycode.",
+          "Note": "E.g. bind mouse4 cheer will cause the player to perform the cheer emote upon pressing mouse4. Can bind multiple commands, including devcommands."
+        },
+        {
+          "Command": "clear",
+          "Effect": "Clears the console window.",
+          "Note": "-"
+        },
+        {
+          "Command": "cr",
+          "Effect": "Unloads unused assets",
+          "Note": "Happens by default every 20 minutes, but this commands forces a fresh unload."
+        },
+        {
+          "Command": "die",
+          "Effect": "kill yourself",
+          "Note": "-"
+        },
+        {
+          "Command": "exclusivefullscreen",
+          "Effect": "changes window mode to exclusive fullscreen, or back to borderless",
+          "Note": "-"
+        },
+        {
+          "Command": "filtercraft [name]",
+          "Effect": "filters crafting list to contain part of text",
+          "Note": "-"
+        },
+        {
+          "Command": "fov [number]",
+          "Effect": "Changes field of view.",
+          "Note": "-"
+        },
+        {
+          "Command": "hidebetatext",
+          "Effect": "Toggles beta text visibility.",
+          "Note": "-"
+        },
+        {
+          "Command": "help [page] [pages = 5]",
+          "Effect": "Shows the available commands.",
+          "Note": "Optional parameters allow showing only some part of the commands. For example, \"help 2 4\" shows the second quarter."
+        },
+        {
+          "Command": "info",
+          "Effect": "Prints the current system information",
+          "Note": "-"
+        },
+        {
+          "Command": "lodbias [number]",
+          "Effect": "Sets the draw distance for the server.",
+          "Note": "The number can be set from 1 to 7."
+        },
+        {
+          "Command": "maxfps [FPS]",
+          "Effect": "sets fps limit",
+          "Note": ""
+        },
+        {
+          "Command": "nomap",
+          "Effect": "Toggles map visibility.",
+          "Note": "If the server, also toggles the nomap global key."
+        },
+        {
+          "Command": "noportals",
+          "Effect": "Toggles portals.",
+          "Note": "If the server, toggles the noportals global key."
+        },
+        {
+          "Command": "optterrain",
+          "Effect": "Converts all the old terrain modifications (before Update 0.150.3) in the nearby area to the new system.",
+          "Note": "-"
+        },
+        {
+          "Command": "ping",
+          "Effect": "Pings the server to measure latency.",
+          "Note": "-"
+        },
+        {
+          "Command": "printbinds",
+          "Effect": "Prints current custom command binds.",
+          "Note": "-"
+        },
+        {
+          "Command": "printseeds",
+          "Effect": "Prints seeds and positions of nearby dungeons.",
+          "Note": "-"
+        },
+        {
+          "Command": "resetbinds",
+          "Effect": "Removes all custom commands binds.",
+          "Note": "-"
+        },
+        {
+          "Command": "resetknownitems",
+          "Effect": "reset character known items & recipes",
+          "Note": "-"
+        },
+        {
+          "Command": "resetplayerprefs",
+          "Effect": "Resets any saved settings and variables (not the save game)",
+          "Note": "-"
+        },
+        {
+          "Command": "resetsharedmap",
+          "Effect": "Removes shared map data from cartography table.",
+          "Note": "-"
+        },
+        {
+          "Command": "resetspawn",
+          "Effect": "Resets the spawn location.",
+          "Note": "-"
+        },
+        {
+          "Command": "resetworldkeys [name]",
+          "Effect": "Resets all world modifiers to default",
+          "Note": "-"
+        },
+        {
+          "Command": "respawn",
+          "Effect": "Kills the character.",
+          "Note": "-"
+        },
+        {
+          "Command": "restartparty",
+          "Effect": "Restarts the playfab party network.",
+          "Note": "-"
+        },
+        {
+          "Command": "s",
+          "Effect": "Shouts a chat message.",
+          "Note": "-"
+        },
+        {
+          "Command": "say",
+          "Effect": "Says a chat message.",
+          "Note": "-"
+        },
+        {
+          "Command": "setworldmodifier [name] [value]",
+          "Effect": "Sets a world modifier value",
+          "Note": "-"
+        },
+        {
+          "Command": "setworldpreset [name]",
+          "Effect": "Resets all world modifiers to a named preset",
+          "Note": "-"
+        },
+        {
+          "Command": "sortcraft [type]",
+          "Effect": "sorts crafting lists according to setting",
+          "Note": "-"
+        },
+        {
+          "Command": "tutorialreset",
+          "Effect": "Resets viewed tutorial messages.",
+          "Note": "-"
+        },
+        {
+          "Command": "tutorialtoggle",
+          "Effect": "Toggles whether the tutorials are shown.",
+          "Note": "-"
+        },
+        {
+          "Command": "unbind [keycode]",
+          "Effect": "Clears all custom command binds from a Unity keycode.",
+          "Note": "-"
+        },
+        {
+          "Command": "W [player name]",
+          "Effect": "Whispers a chat message to a player.",
+          "Note": "-"
+        },
+        {
+          "Command": "xb:version",
+          "Effect": "Prints mercurial hashset used for this build",
+          "Note": "-"
+        }
+      ]
+    },
+    {
+      "heading": "Emotes",
+      "level": 3,
+      "text": "Emote commands do not require devcommands and can be used from the chat window.",
+      "table_data": [
+        {
+          "Icon": "",
+          "Name": "Wave",
+          "Command": "/wave"
+        },
+        {
+          "Icon": "",
+          "Name": "Sit",
+          "Command": "/sit"
+        },
+        {
+          "Icon": "",
+          "Name": "Challenge",
+          "Command": "/challenge"
+        },
+        {
+          "Icon": "",
+          "Name": "Cheer",
+          "Command": "/cheer"
+        },
+        {
+          "Icon": "",
+          "Name": "No no no",
+          "Command": "/nonono"
+        },
+        {
+          "Icon": "",
+          "Name": "Thumbs up",
+          "Command": "/thumbsup"
+        },
+        {
+          "Icon": "",
+          "Name": "/point",
+          "Command": "/point"
+        },
+        {
+          "Icon": "",
+          "Name": "Blow kiss",
+          "Command": "/blowkiss"
+        },
+        {
+          "Icon": "",
+          "Name": "Bow",
+          "Command": "/bow"
+        },
+        {
+          "Icon": "",
+          "Name": "Cower",
+          "Command": "/cower"
+        },
+        {
+          "Icon": "",
+          "Name": "Cry",
+          "Command": "/cry"
+        },
+        {
+          "Icon": "",
+          "Name": "Despair",
+          "Command": "/despair"
+        },
+        {
+          "Icon": "",
+          "Name": "Flex",
+          "Command": "/flex"
+        },
+        {
+          "Icon": "",
+          "Name": "Come here",
+          "Command": "/comehere"
+        },
+        {
+          "Icon": "",
+          "Name": "Headbang",
+          "Command": "/headbang"
+        },
+        {
+          "Icon": "",
+          "Name": "Kneel",
+          "Command": "/kneel"
+        },
+        {
+          "Icon": "",
+          "Name": "Laugh",
+          "Command": "/laugh"
+        },
+        {
+          "Icon": "",
+          "Name": "Roar",
+          "Command": "/roar"
+        },
+        {
+          "Icon": "",
+          "Name": "Shrug",
+          "Command": "/shrug"
+        },
+        {
+          "Icon": "",
+          "Name": "Dance",
+          "Command": "/dance"
+        },
+        {
+          "Icon": "",
+          "Name": "Relax",
+          "Command": "/relax"
+        },
+        {
+          "Icon": "",
+          "Name": "Toast",
+          "Command": "/toast"
+        },
+        {
+          "Icon": "",
+          "Name": "Rest",
+          "Command": "/rest"
+        },
+        {
+          "Icon": "",
+          "Name": "Vibe",
+          "Command": "/vibe"
+        }
+      ]
+    },
+    {
+      "heading": "Admin commands",
+      "level": 3,
+      "text": "Various admin utilities. Only available when player's SteamID64 or Crossplay player ID is in the admin list.",
+      "table_data": [
+        {
+          "Command": "ban [name/ip/userID]",
+          "Effect": "Bans the named user.",
+          "Note": "-"
+        },
+        {
+          "Command": "banned",
+          "Effect": "Shows a full list of banned users.",
+          "Note": "-"
+        },
+        {
+          "Command": "kick [name/ip/userID]",
+          "Effect": "Kicks the named user.",
+          "Note": "-"
+        },
+        {
+          "Command": "resetworldkeys",
+          "Effect": "Resets all world modifiers to default.",
+          "Note": "This does not reset gameplay progression keys."
+        },
+        {
+          "Command": "save",
+          "Effect": "Forces the game to save.",
+          "Note": "-"
+        },
+        {
+          "Command": "setworldmodifier [name] [value]",
+          "Effect": "Sets a world modifier slider value",
+          "Note": "-"
+        },
+        {
+          "Command": "setworldpreset [name]",
+          "Effect": "Resets all world modifiers to a named preset.",
+          "Note": "-"
+        },
+        {
+          "Command": "unban [name/ip/userID]",
+          "Effect": "Unbans the named user.",
+          "Note": "-"
+        }
+      ]
+    },
+    {
+      "heading": "Cheat commands",
+      "level": 3,
+      "text": "To activate cheat commands, type devcommands and press enter. To deactivate cheat commands, type devcommands and press enter again. The cheat commands are available in singleplayer or manually hosted mode only. They do not work on a dedicated server.",
+      "table_data": [
+        {
+          "Command": "addstatus [name]",
+          "Effect": "Adds a status effect.",
+          "Note": "For example: Rested, Burning, SoftDeath, Wet, etc."
+        },
+        {
+          "Command": "aggravate",
+          "Effect": "Aggravates neutrals within 20 meters.",
+          "Note": "-"
+        },
+        {
+          "Command": "beard [beard#]",
+          "Effect": "Permanently changes your beard.",
+          "Note": "Entering this command without an argument removes your beard."
+        },
+        {
+          "Command": "clearstatus",
+          "Effect": "Removes any status effects (good and bad).",
+          "Note": "-"
+        },
+        {
+          "Command": "dpsdebug",
+          "Effect": "Toggles dps debug print on and off.",
+          "Note": "-"
+        },
+        {
+          "Command": "env [env]",
+          "Effect": "Sets debug environment.",
+          "Note": "Variables: Clear, Twilight_Clear, Misty, Darklands_dark, Heath clear, DeepForest Mist, GDKing, Rain, LightRain, ThunderStorm, Eikthyr, GoblinKing, nofogts, SwampRain, Bonemass, Snow, Twilight_Snow, Twilight_SnowStorm, SnowStorm, Moder, Ashrain, Crypt, SunkenCrypt."
+        },
+        {
+          "Command": "exploremap",
+          "Effect": "Reveals the entire map.",
+          "Note": "-"
+        },
+        {
+          "Command": "event [name]",
+          "Effect": "Starts the named event.",
+          "Note": "-"
+        },
+        {
+          "Command": "ffsmooth 1",
+          "Effect": "Adds smooth movements to free camera.",
+          "Note": "\"ffsmooth 0\" will reset smooth movements to normal."
+        },
+        {
+          "Command": "forcedelete [radius=5] [*name]",
+          "Effect": "Removes objects within given radius (up to 50 meters).",
+          "Note": "If ID is given, only objects that contain the name on their ID. Following objects are never removed: Players and tombstones, Valkyrie, Points of Interests (locations), Dungeons and their rooms, Vegvisirs, Boss stones at the start temple."
+        },
+        {
+          "Command": "find [text] [pingmax]",
+          "Effect": "Finds matching objects and pings them on the map.",
+          "Note": "Pingmax defaults to 1; If greater, will place pins on the map instead."
+        },
+        {
+          "Command": "findtp [text]",
+          "Effect": "Finds matching objects and teleports the player to the nearest match.",
+          "Note": "-"
+        },
+        {
+          "Command": "fly",
+          "Effect": "Toggles the fly mode.",
+          "Note": "Same as in the debug mode, Press 'Z' with Debug on."
+        },
+        {
+          "Command": "freefly",
+          "Effect": "Toggles the free camera.",
+          "Note": "-"
+        },
+        {
+          "Command": "gc",
+          "Effect": "Shows garbage collection information.",
+          "Note": "-"
+        },
+        {
+          "Command": "genloc",
+          "Effect": "Redistributes all unplaced locations.",
+          "Note": "-"
+        },
+        {
+          "Command": "ghost",
+          "Effect": "Toggles ghost mode (enemies ignore user if true).",
+          "Note": "-"
+        },
+        {
+          "Command": "god",
+          "Effect": "Enables god mode. (Makes user invicible if true).",
+          "Note": "Keeps users' health at '1' even if damage would exceed remaining health."
+        },
+        {
+          "Command": "goto [x] [z]",
+          "Effect": "Teleports player to the specified coordinates.",
+          "Note": "-"
+        },
+        {
+          "Command": "hair [hair#]",
+          "Effect": "Permanently changes your hair.",
+          "Note": "Entering this command without an argument removes your hair."
+        },
+        {
+          "Command": "heal",
+          "Effect": "Regenerates user to full health, stamina, and eitr.",
+          "Note": "-"
+        },
+        {
+          "Command": "itemset [name] [keep]",
+          "Effect": "Spawns a premade item set.",
+          "Note": "Without \"keep\" flag, current items will be dropped. Meadows: Skills set to 1. Wood/flint weapons with a Bronze pickaxe. BlackForest: Skills set to 10. Wood/flint weapons. Swamps: Skills set to 10-20. Bronze weapons and armor. Mountains: Skills set to 25. Iron weapons and armor. Plains: Skills set to 35. Silver weapons and wolf armor. PlainsBoss: Skills set to 40. Blackmetal weapons and padded armor. Mistlands: Skills set to 70. Upgraded Blackmetal weapons, padded armor. MistlandsGear: Skills set to 70. Mistlands weapons and carapace armor. MistlandsMage: Skills set to 70. Eitr armor, all magical staffs (to Mistlands) and Eitr food. MistlandsWarrior. Skill set to 70. MIstlands weapons and carapace armor. Ashlands. Skills set to 30. All Ashlands weapons and flametal and embla armor. AshlandsMage. Skills set to 30. All magical staffs (to Ashlands), embla armor and Eitr food AshlandsWarrior. Skills set to 30. All Ashlands weapons and ammo, flametal armor and food. AshlandsFood. Skills set to 30. All Ashlands foods (x10). AshlandsWeapons. Skills set to 30. All Ashlands weapons in each variant. AshlandsMedium. Skills set to 30. All Ashlands weapons, Ask armor and food. Fisherman: Skills set to 40. Fishing rod, 50 of each bait, 5 of each Fish and Fenris armor."
+        },
+        {
+          "Command": "killall",
+          "Effect": "Kills nearby enemies and tamed creatures.",
+          "Note": "Does not kill players."
+        },
+        {
+          "Command": "killenemies",
+          "Effect": "Kills nearby enemies.",
+          "Note": "Same as in the debug mode, Press 'K' with Debug on."
+        },
+        {
+          "Command": "killtame",
+          "Effect": "Kills nearby tamed creatures.",
+          "Note": "-"
+        },
+        {
+          "Command": "listkeys",
+          "Effect": "Lists all global keys.",
+          "Note": "-"
+        },
+        {
+          "Command": "location [name]",
+          "Effect": "Spawns a location instance.",
+          "Note": "Permanently disables saving."
+        },
+        {
+          "Command": "location [name] SAVE",
+          "Effect": "Spawns a location instance.",
+          "Note": "Saving is not disabled."
+        },
+        {
+          "Command": "model [0-1]",
+          "Effect": "Switches character model from masculine to feminine.",
+          "Note": "-"
+        },
+        {
+          "Command": "nextseed",
+          "Effect": "Forces the next dungeon to a seed (regenerates it).",
+          "Note": "Permanently disables saving."
+        },
+        {
+          "Command": "nocost",
+          "Effect": "Toggles the no cost mode.",
+          "Note": "Same as in the debug mode, Press 'B' with Debug on."
+        },
+        {
+          "Command": "players [number]",
+          "Effect": "Adjusts the difficulty scale.",
+          "Note": "Enter 0 to reset difficulty."
+        },
+        {
+          "Command": "pos",
+          "Effect": "Shows player coordinates.",
+          "Note": "-"
+        },
+        {
+          "Command": "printcreatures",
+          "Effect": "Prints the counts and levels of active creatures.",
+          "Note": "-"
+        },
+        {
+          "Command": "printlocations",
+          "Effect": "Prints the loaded locations and their distances and offsets to the player.",
+          "Note": "-"
+        },
+        {
+          "Command": "puke",
+          "Effect": "Resets fullness/hunger, returning you to default Health/Stamina.",
+          "Note": "-"
+        },
+        {
+          "Command": "raiseskill [skill] [amount]",
+          "Effect": "Raises (or lowers) the named skill by the value entered.",
+          "Note": "If 'All' is entered in place of [skill], all skills will increase by the value entered. To lower a skill, type \"-\" before the value."
+        },
+        {
+          "Command": "randomevent",
+          "Effect": "Starts a random event.",
+          "Note": "-"
+        },
+        {
+          "Command": "recall [name]",
+          "Effect": "Teleports all players matching the name to your position.",
+          "Note": "Without name, teleports all players."
+        },
+        {
+          "Command": "removebirds",
+          "Effect": "Removes all active birds.",
+          "Note": "-"
+        },
+        {
+          "Command": "removedrops",
+          "Effect": "Removes all items drops in the area.",
+          "Note": "Same as in the debug mode, Press 'L' with Debug on."
+        },
+        {
+          "Command": "removefish",
+          "Effect": "Removes all active fish.",
+          "Note": "-"
+        },
+        {
+          "Command": "removekey [name]",
+          "Effect": "Removes a global key.",
+          "Note": "-"
+        },
+        {
+          "Command": "resetcharacter",
+          "Effect": "Resets all of your character data.",
+          "Note": "-"
+        },
+        {
+          "Command": "resetenv",
+          "Effect": "Resets the debug environment.",
+          "Note": "-"
+        },
+        {
+          "Command": "resetkeys [name]",
+          "Effect": "Removes all global keys.",
+          "Note": "[name] parameter does not do anything."
+        },
+        {
+          "Command": "resetmap",
+          "Effect": "Hides entire map.",
+          "Note": "-"
+        },
+        {
+          "Command": "resetskill [skill]",
+          "Effect": "Sets specified skill level to 0.",
+          "Note": "If 'All' is entered in place of [skill], all skills will be reset to level 0."
+        },
+        {
+          "Command": "resetwind",
+          "Effect": "Resets the wind angle and intensity.",
+          "Note": "-"
+        },
+        {
+          "Command": "save",
+          "Effect": "Forces the game to save the current world state.",
+          "Note": "-"
+        },
+        {
+          "Command": "setfuel [value]",
+          "Effect": "Adds value amount of fuel to all nearby fire sources",
+          "Note": "Default is 10, does not overfill. Negative values will reduce the level of fuel in fire sources down to zero."
+        },
+        {
+          "Command": "setkey [name]",
+          "Effect": "Adds a global key.",
+          "Note": "-"
+        },
+        {
+          "Command": "setpower [name]",
+          "Effect": "Sets the current Forsaken power and resets the cooldown",
+          "Note": "For example: GP_Eikthyr, GP_TheElder, etc."
+        },
+        {
+          "Command": "skiptime [seconds = 240]",
+          "Effect": "Skips forward, changing day number and time of day.",
+          "Note": "This does not update timestamps of objects which causes issues when going back in the time. Spawn zones stop spawning enemies until the time is back to the original. Animals and plants stop growing until the time is back to the original. Fermenters, Smelters and Kilns may stop working until the time is back to the original (but this can be easily fixed by destroying them)."
+        },
+        {
+          "Command": "sleep",
+          "Effect": "Skips forward one day.",
+          "Note": "-"
+        },
+        {
+          "Command": "sortcraft",
+          "Effect": "Sorts crafting list by Name, Type, Weight, Count or Original.",
+          "Note": "Name sorts by alphabetical order Type sorts by the type of the item, then alphabetical, in this order: Material, Food (-Feasts), One-handed Melee/Thrown Weapon, (Cross)Bow, Shield, Helmet, Chest Armor, Arrow/Bolt, Leg Armor, Two-handed Melee Weapon + Scythe, Light source, Misc., Cape/Cloak, Utility, Tool, \"TwoHandedWeaponLeft\", Ballista Ammo Weight sorts by lightest to heaviest, then alphabetical. (No consideration of total per craft, i.e. Boar jerky, or total possible) Count sorts by deep magics unknown Original sorts by default or otherwise \"resets\" the sorting order"
+        },
+        {
+          "Command": "spawn [entity name] [amount] [level]",
+          "Effect": "Spawns specified entity.",
+          "Note": "See ItemIDs for a list of spawnable entities. If the entity name ends with a star (*), the command spawns each entity that contains the entity name. All item drops will be spawned one by one. Spawning thousands of items can make the game freeze before the item drops get autostacked. High level creatures (level 10+) can make the game freeze on death by dropping thousands of items. Some spawnable entites can not be removed from the game without using mods."
+        },
+        {
+          "Command": "stopevent",
+          "Effect": "Stops the current event.",
+          "Note": "-"
+        },
+        {
+          "Command": "tame",
+          "Effect": "Tames all nearby tameable Creatures.",
+          "Note": "-"
+        },
+        {
+          "Command": "test [value]",
+          "Effect": "Toggles a test value.",
+          "Note": "\"oldcomfort\" Reverts to old non-optimized comfort calculation."
+        },
+        {
+          "Command": "time",
+          "Effect": "Shows the current time and whether sleeping is possible.",
+          "Note": "-"
+        },
+        {
+          "Command": "timescale [target = 1] [fadetime = 0]",
+          "Effect": "Sets the speed of time.",
+          "Note": "Up to 5x speed. Fadetime sets the transition duration. Value 0 pauses the game. Freefly works while paused. Pausing the game in singleplayer by pressing ESC removes time scaling."
+        },
+        {
+          "Command": "tod [0-1]",
+          "Effect": "Sets time of day.",
+          "Note": "0 and 1 are both midnight. 0.5 is noon. -1 revert to default."
+        },
+        {
+          "Command": "wind [angle] [intensity]",
+          "Effect": "Adjusts the direction and intensity of the wind.",
+          "Note": "\"angle\" = degree vector from 0 to 360 (0 is wind from south, 270 is wind from east). \"intensity\" = value from 0 to 1.0. For example: \"wind 90 0.5\" gives a moderate strength wind blowing from west to east."
+        }
+      ]
+    },
+    {
+      "heading": "Debug mode",
+      "level": 2,
+      "text": "The debug mode can be entered to access more cheats, such as toggle fly or building without a workbench or resources. It can be entered by typing devcommands and pressing enter, then executing the command debugmode and pressing enter in the console. Executing it again will exit the debug mode.",
+      "table_data": [
+        {
+          "Key": "B",
+          "Action": "Toggle for creative mode building, no workbench or resources needed."
+        },
+        {
+          "Key": "K",
+          "Action": "Kills nearby enemies (excluding tamed creatures)."
+        },
+        {
+          "Key": "L",
+          "Action": "Removes nearby item drops."
+        },
+        {
+          "Key": "Z",
+          "Action": "Toggle to fly. Spacebar gives you altitude, Ctrl brings you back down."
+        },
+        {
+          "Key": "Ctrl + MMB (on map)",
+          "Action": "Teleport to cursor location."
+        },
+        {
+          "Key": "Shift + C",
+          "Action": "Set time to day."
+        }
+      ]
+    }
+  ],
+  "full_text": "Developer console\n\nIntroduction. The developer console, or just console, is an in-game interface for entering text-based commands used for debugging, cheating and server administration.\n\nEnabling the console. To be able to use console commands, the console has to be enabled. There are multiple different ways depending on the game's version.\n• Right-click Valheim in the Steam library.\n• Select Properties.\n• In the General tab, look for the Launch Options field.\n• In it, type \"-console\".\n• Close the window.\n• Press F5 in-game to open the console window.\nPC Game Pass\n• Navigate to the game's installation folder. Typically, it is C:\\XboxGames\\Valheim\\Content.\n• In that folder, find Valheim.exe.\n• Right-click Valheim.exe and select Create shortcut.\n• Drag the shortcut to the desktop or preferred location.\n• Right-click the shortcut and select Properties.\n• In the Shortcut tab, add \"-console\" to the end of the Target field.\n• Click Apply, then click OK.\n• Launch the game from the shortcut.\n• Press F5 in-game to open the console window.\nXbox Game Pass\n• While in game hold: LB + RB + MENU.\n• Press A to bring up the keyboard.\nMacOS (App Store)\n• Create a text file in TextEdit (or similar) and name it valheim.sh in a suitable place in your system\n• Open the file and enter the following text:#!bin/bash /Applications/Valheim.app/Contents/MacOS/Valheim -console\n• Run the valheim.sh file to open Valheim with the console enabled.\n• Use F5 in-game to open the console window\nNote: These instructions are for users who purchased Valheim through the AppStore. If running Valheim through Steam, use the Steam instructions above.\nGeForce Now\n• Enable family sharing mode in Steam either via the client or the website (instructions via Steam). Do not add Valheim to the whitelist.\n• Open Valheim using GeForce Now.\n• Enter the PIN you set up in step 1, this will take you to the Steam client within GFN.\n• Enable the console using the instructions for Steam above.\n• Start the game.\n• This will need doing every session as your settings will be reset when the session ends.\n\nPlayer commands. Player commands do not require devcommands and can be used from the chat window. Typing \"/\" and clicking tab shows available commands.\n\nEmotes. Emote commands do not require devcommands and can be used from the chat window.\n\nAdmin commands. Various admin utilities. Only available when player's SteamID64 or Crossplay player ID is in the admin list.\n\nCheat commands. To activate cheat commands, type devcommands and press enter. To deactivate cheat commands, type devcommands and press enter again. The cheat commands are available in singleplayer or manually hosted mode only. They do not work on a dedicated server.\n\nDebug mode. The debug mode can be entered to access more cheats, such as toggle fly or building without a workbench or resources. It can be entered by typing devcommands and pressing enter, then executing the command debugmode and pressing enter in the console. Executing it again will exit the debug mode.",
+  "scraped_at": "2026-02-26T01:55:17.379080+00:00"
+}

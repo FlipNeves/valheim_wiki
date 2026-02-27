@@ -1,0 +1,36 @@
+{
+  "title": "Withered bone",
+  "url": "https://valheim.fandom.com/wiki/Withered_bone",
+  "slug": "Withered_bone",
+  "categories": [
+    "Misc Items",
+    "Forsaken offerings"
+  ],
+  "infobox": {
+    "_infobox_title": "Withered bone",
+    "Type": "Misc",
+    "Internal ID": "WitheredBone",
+    "Source": "Muddy scrap piles, ,, Sunken Crypts",
+    "Usage": "Crafting, Summon, Bonemass",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Withered bones are items found in Muddy scrap piles in Sunken Crypts and in Chests in the Swamp biome."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Nimble Anklet"
+    },
+    {
+      "heading": "Summoning",
+      "level": 3,
+      "text": "A total of ten Withered bones are required to summon the third boss, Bonemass. See Forsaken Altars."
+    }
+  ],
+  "full_text": "Withered bone\n\nType: Misc | Internal ID: WitheredBone | Source: Muddy scrap piles, ,, Sunken Crypts | Usage: Crafting, Summon, Bonemass | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Withered bones are items found in Muddy scrap piles in Sunken Crypts and in Chests in the Swamp biome.\n\nCrafting. • Nimble Anklet\n\nSummoning. A total of ten Withered bones are required to summon the third boss, Bonemass. See Forsaken Altars.",
+  "scraped_at": "2026-02-26T01:51:03.871689+00:00"
+}

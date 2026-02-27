@@ -1,0 +1,13 @@
+{
+  "title": "Battleaxe",
+  "url": "https://valheim.fandom.com/wiki/Battleaxe",
+  "slug": "Battleaxe",
+  "categories": [
+    "Weapons",
+    "Axes",
+    "Forge recipes"
+  ],
+  "content": "# Battleaxe\n\nInternal ID: Battleaxe | Type: Axe | Source: Forge | Usage: Weapon | Wielding: Two-handed | Crafting Materials: Ancient bark x15, Iron x45 | Attack speed: 0.84 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.5 range, 30 angle, 1.0 height, 0.5 ray | Movement speed: -15%\n\n# Introduction\n\nThe battleaxe is the first two-handed axe. Its primary attack is a 3-hit combo with double damage on the last hit, 1.5x staggering and no multitarget penalty. Its faster secondary attack deals 0.5x damage and 4x staggering.\n\n## Upgrade information\n\n• stat: Slash | Quality 1: 70 | Quality 2: 76 | Quality 3: 82 | Quality 4: 88\n\n• stat: Chop (trees) | Quality 1: 40 | Quality 2: 42.5 | Quality 3: 45 | Quality 4: 47.5\n\n• stat: Durability | Quality 1: 200 | Quality 2: 250 | Quality 3: 300 | Quality 4: 350\n\n• stat: Crafting | Quality 1: 30 Ancient bark35 Iron4 Leather scraps | Quality 2: 5 Ancient bark15 Iron | Quality 3: 10 Ancient bark30 Iron | Quality 4: 15 Ancient bark45 Iron\n\n• stat: Forge level | Quality 1: 2 | Quality 2: 3 | Quality 3: 4 | Quality 4: 5\n\n## Notes\n\n• The first hit is very slow. The last two hits take about the same time, while in total dealing triple damage.\n\nCategorias: Weapons, Axes, Forge recipes",
+  "content_length": 1237,
+  "scraped_at": "2026-02-26T01:10:53.861222+00:00"
+}

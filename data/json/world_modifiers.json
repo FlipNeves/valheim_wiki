@@ -1,0 +1,202 @@
+{
+  "title": "World Modifiers",
+  "url": "https://valheim.fandom.com/wiki/World_Modifiers",
+  "slug": "World_Modifiers",
+  "categories": [
+    "Gameplay"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "World Modifiers allow the player to customize a variety of parameters to increase or decrease the challenge of the game. They can be found on the Join World screen. Modifiers can also be set on a dedicated server via command line, or using devcommands in the in-game F5 console.\nAs well as sliders for each of the changeable parameters, there are also a selection of difficulty presets: Easy, Hard, Hardcore, Casual, Hammer mode, and Immersive."
+    },
+    {
+      "heading": "Combat Settings",
+      "level": 3,
+      "text": "In concrete terms, the following are the effects of each difficulty setting:\nIn Hard and Very Hard settings, there is a higher probability of spawning high-level enemies.\nPlayer Damage (%) modifications are not reflected in the values shown on the screen, either in weapon damage ranges in the inventory or upon successful hits to a creature.",
+      "table_data": [
+        {
+          "stat": "Very Easy",
+          "Player Damage (%)": "125",
+          "Enemy Damage (%)": "50",
+          "Enemy Speed & Size (%)": "90",
+          "Enemy Level Up Rate (%)": "100"
+        },
+        {
+          "stat": "Easy",
+          "Player Damage (%)": "110",
+          "Enemy Damage (%)": "75",
+          "Enemy Speed & Size (%)": "90",
+          "Enemy Level Up Rate (%)": "100"
+        },
+        {
+          "stat": "Normal",
+          "Player Damage (%)": "100",
+          "Enemy Damage (%)": "100",
+          "Enemy Speed & Size (%)": "100",
+          "Enemy Level Up Rate (%)": "100"
+        },
+        {
+          "stat": "Hard",
+          "Player Damage (%)": "85",
+          "Enemy Damage (%)": "150",
+          "Enemy Speed & Size (%)": "110",
+          "Enemy Level Up Rate (%)": "120"
+        },
+        {
+          "stat": "Very Hard",
+          "Player Damage (%)": "70",
+          "Enemy Damage (%)": "200",
+          "Enemy Speed & Size (%)": "120",
+          "Enemy Level Up Rate (%)": "140"
+        }
+      ]
+    },
+    {
+      "heading": "Death Penalty",
+      "level": 3,
+      "text": "The death penalty slider affects several aspects of what happens to a player character upon Death. Independent factors include:\n• Equipment, the inventory items that are worn or in use at the moment the player dies\n• Inventory, all other items that weren't worn or in use\n• Skill loss, a reduction to all Skill levels for the player The listed percentage is the portion of total skill level value lost The loss is not rounded, and new, otherwise unattainable decimal levels will be set, even though the decimals are truncated Every skill's next level requirement is recalculated for the new, reduced level and progress is set to zero -- this progress loss is not impacted by the death penalty settings Example: A player's Run skill is 70, halfway to 71, and they die on the \"easy\" death penalty setting. 2.5% of the level value of 70 is lost and the new, effective level for the Run skill is set to 68.25, visualized in the UI as 68. The required experience to the next level, 69.25, is calculated and progress towards it is set to 0.",
+      "table_data": [
+        {
+          "stat": "Casual",
+          "Description": "You do not drop equipped gear, and skills are reduced a lot less than on normal mode.",
+          "Equipment": "Kept",
+          "Inventory": "Dropped",
+          "Skill loss": "1%"
+        },
+        {
+          "stat": "Very easy",
+          "Description": "You drop all items, and skills are reduced a lot less than on normal mode.",
+          "Equipment": "Dropped",
+          "Inventory": "Dropped",
+          "Skill loss": "1%"
+        },
+        {
+          "stat": "Easy",
+          "Description": "You drop all items, and skills are reduced less than on normal mode.",
+          "Equipment": "Dropped",
+          "Inventory": "Dropped",
+          "Skill loss": "2.5%"
+        },
+        {
+          "stat": "Normal",
+          "Description": "You drop all items, and skills are reduced normally.",
+          "Equipment": "Dropped",
+          "Inventory": "Dropped",
+          "Skill loss": "5%"
+        },
+        {
+          "stat": "Hard",
+          "Description": "Equipped items are dropped, the rest of your inventory is lost permanently, and skills are reduced faster.",
+          "Equipment": "Dropped",
+          "Inventory": "Destroyed",
+          "Skill loss": "7.5%"
+        },
+        {
+          "stat": "Hardcore",
+          "Description": "You lose all carried items and skills permanently.",
+          "Equipment": "Destroyed",
+          "Inventory": "Destroyed",
+          "Skill loss": "100%"
+        }
+      ]
+    },
+    {
+      "heading": "Resource Rate",
+      "level": 3,
+      "text": "Ranges from 0.5x to 3x normal drop rate from mobs and lootable objects in the world. There are a few exceptions (not sure if intentional) such as fish."
+    },
+    {
+      "heading": "Raid Settings",
+      "level": 3,
+      "text": "Governs how often enemies may raid your base, although night raids will still occur even when setting the EventRate to none.",
+      "table_data": [
+        {
+          "stat": "None",
+          "EventRate (%)": "0",
+          "Raid Interval (min)": "-",
+          "Raid Chance (%)": "-"
+        },
+        {
+          "stat": "Much less",
+          "EventRate (%)": "200",
+          "Raid Interval (min)": "92",
+          "Raid Chance (%)": "10"
+        },
+        {
+          "stat": "Less",
+          "EventRate (%)": "150",
+          "Raid Interval (min)": "69",
+          "Raid Chance (%)": "13.33"
+        },
+        {
+          "stat": "Normal",
+          "EventRate (%)": "100",
+          "Raid Interval (min)": "46",
+          "Raid Chance (%)": "20"
+        },
+        {
+          "stat": "More",
+          "EventRate (%)": "60",
+          "Raid Interval (min)": "27.6",
+          "Raid Chance (%)": "33.33"
+        },
+        {
+          "stat": "Much more",
+          "EventRate (%)": "30",
+          "Raid Interval (min)": "13.8",
+          "Raid Chance (%)": "66.67"
+        }
+      ]
+    },
+    {
+      "heading": "Portal Settings",
+      "level": 3,
+      "text": "• Portal items - Allows everything to be portalled at all time, does not include tamed animals\n• Normal - Non-portalable items apply as standard\n• No boss portals - Portals aren't available when a boss is active\n• No portals - No portals are allowed at all in the world"
+    },
+    {
+      "heading": "Hammer-mode",
+      "level": 3,
+      "text": "• Allows no-build cost on any item buildable with a hammer.\n• Doesn't affect the cost of making gear at a crafting station.\n• Deconstructing a log pile or rock pile while in hammer-mode will cause the stack to disappear without giving the 50 items it would usually give (regardless of being originally crafted while in non-hammer-mode)."
+    },
+    {
+      "heading": "No Build Cost",
+      "level": 3,
+      "text": "• Build pieces require no materials to build. You still need to discover recipes as per usual."
+    },
+    {
+      "heading": "Passive enemies",
+      "level": 3,
+      "text": "• Enemies won't attack until you provoke them."
+    },
+    {
+      "heading": "Player based raids",
+      "level": 3,
+      "text": "• Raids are based on the progress of each individual player, rather than on which bosses have been killed on the server. This setting is recommended if you want the game to be slightly friendlier to players with different progress."
+    },
+    {
+      "heading": "No Map",
+      "level": 3,
+      "text": "• You will not have access to the map or the minimap. This makes the game harder than intended."
+    },
+    {
+      "heading": "Fire Hazards",
+      "level": 3,
+      "text": "• Wood can catch fire and spread throughout the whole world, not just in the Ashlands."
+    },
+    {
+      "heading": "Global keys",
+      "level": 2,
+      "text": "World modifiers are stored in Global Keys. Console commands can be used to set or remove keys which provides another way to set world modifiers.\nFollowing keys can be set to modify game behavior:\n• AllPiecesUnlocked: If set, all pieces are unlocked.\n• AllRecipesUnlocked: If set, all recipes are unlocked.\n• DeathDeleteItems: If set, all items are deleted on death (unless DeathDeleteUnequipped or DeathKeepEquip is set).\n• DeathDeleteUnequipped: If set, unequipped items are deleted on death.\n• DeathKeepEquip: If set, equipped items are kept on death.\n• DeathSkillsReset: If set, all skills are lost on death.\n• DungeonBuild: If set, can build in dungeons.\n• Fire: If set, fire hazards is enabled.\n• NoBuildCost: if set, building is free.\n• NoCraftCost: If set, crafting is free.\n• NoBossPortals: If set, portals can't be used near bosses.\n• NoMap: If set, map can't be used.\n• NoPortals: If set, portals can't be used.\n• NoWorkbench: If set, can build without workbench.\n• PassiveMobs: If set, enemies are passive.\n• PlayerEvents: If set, events use player specific keys.\n• TeleportAll: If set, all items can be teleported.\nFollowing keys can be used to multiply a game setting:\n• DamageTaken\n• EnemyDamage\n• EnemyLevelUpRate\n• EnemySpeedSize\n• EventRate\n• MoveStaminaRate\n• PlayerDamage\n• ResourceRate\n• SkillGainRate\n• SkillReductionRate\n• StaminaRate\n• StaminaRegenRate\nEach key has a default value of 100. For example to increase player damage by 50%, use command setkey PlayerDamage 150\nWorld level can be used for unfinished NewGame+ feature:\n• WorldLevel [value]\n• WorldLevelLockedTools: If set, tool tier check also checks the world level."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• World Modifiers were introduced in the Hildir's Request update With sliders set to Normal, the game will play much as it did before the patch.\n• The Resource Rate modifier does round up, so 1.5x is effectively equal to 2x for various drops such as from enemies, berry bushes and so on.\n• Resource rate does not affect Fish, Trophies and boss drops\n• If using the F5 console to change a world modifier from normal, the only currently known way to reset to normal is to reset the overall mode to normal. For example, portals are changed to casual using setworldmodifier portals casual To return them to \"normal\" is not possible using setworldmodifier portals normal The only way currently is to reset all modifiers setworldpreset default which would reset ALL keys set by setworldmodifier"
+    }
+  ],
+  "full_text": "World Modifiers\n\nIntroduction. World Modifiers allow the player to customize a variety of parameters to increase or decrease the challenge of the game. They can be found on the Join World screen. Modifiers can also be set on a dedicated server via command line, or using devcommands in the in-game F5 console.\nAs well as sliders for each of the changeable parameters, there are also a selection of difficulty presets: Easy, Hard, Hardcore, Casual, Hammer mode, and Immersive.\n\nCombat Settings. In concrete terms, the following are the effects of each difficulty setting:\nIn Hard and Very Hard settings, there is a higher probability of spawning high-level enemies.\nPlayer Damage (%) modifications are not reflected in the values shown on the screen, either in weapon damage ranges in the inventory or upon successful hits to a creature.\n\nDeath Penalty. The death penalty slider affects several aspects of what happens to a player character upon Death. Independent factors include:\n• Equipment, the inventory items that are worn or in use at the moment the player dies\n• Inventory, all other items that weren't worn or in use\n• Skill loss, a reduction to all Skill levels for the player The listed percentage is the portion of total skill level value lost The loss is not rounded, and new, otherwise unattainable decimal levels will be set, even though the decimals are truncated Every skill's next level requirement is recalculated for the new, reduced level and progress is set to zero -- this progress loss is not impacted by the death penalty settings Example: A player's Run skill is 70, halfway to 71, and they die on the \"easy\" death penalty setting. 2.5% of the level value of 70 is lost and the new, effective level for the Run skill is set to 68.25, visualized in the UI as 68. The required experience to the next level, 69.25, is calculated and progress towards it is set to 0.\n\nResource Rate. Ranges from 0.5x to 3x normal drop rate from mobs and lootable objects in the world. There are a few exceptions (not sure if intentional) such as fish.\n\nRaid Settings. Governs how often enemies may raid your base, although night raids will still occur even when setting the EventRate to none.\n\nPortal Settings. • Portal items - Allows everything to be portalled at all time, does not include tamed animals\n• Normal - Non-portalable items apply as standard\n• No boss portals - Portals aren't available when a boss is active\n• No portals - No portals are allowed at all in the world\n\nHammer-mode. • Allows no-build cost on any item buildable with a hammer.\n• Doesn't affect the cost of making gear at a crafting station.\n• Deconstructing a log pile or rock pile while in hammer-mode will cause the stack to disappear without giving the 50 items it would usually give (regardless of being originally crafted while in non-hammer-mode).\n\nNo Build Cost. • Build pieces require no materials to build. You still need to discover recipes as per usual.\n\nPassive enemies. • Enemies won't attack until you provoke them.\n\nPlayer based raids. • Raids are based on the progress of each individual player, rather than on which bosses have been killed on the server. This setting is recommended if you want the game to be slightly friendlier to players with different progress.\n\nNo Map. • You will not have access to the map or the minimap. This makes the game harder than intended.\n\nFire Hazards. • Wood can catch fire and spread throughout the whole world, not just in the Ashlands.\n\nGlobal keys. World modifiers are stored in Global Keys. Console commands can be used to set or remove keys which provides another way to set world modifiers.\nFollowing keys can be set to modify game behavior:\n• AllPiecesUnlocked: If set, all pieces are unlocked.\n• AllRecipesUnlocked: If set, all recipes are unlocked.\n• DeathDeleteItems: If set, all items are deleted on death (unless DeathDeleteUnequipped or DeathKeepEquip is set).\n• DeathDeleteUnequipped: If set, unequipped items are deleted on death.\n• DeathKeepEquip: If set, equipped items are kept on death.\n• DeathSkillsReset: If set, all skills are lost on death.\n• DungeonBuild: If set, can build in dungeons.\n• Fire: If set, fire hazards is enabled.\n• NoBuildCost: if set, building is free.\n• NoCraftCost: If set, crafting is free.\n• NoBossPortals: If set, portals can't be used near bosses.\n• NoMap: If set, map can't be used.\n• NoPortals: If set, portals can't be used.\n• NoWorkbench: If set, can build without workbench.\n• PassiveMobs: If set, enemies are passive.\n• PlayerEvents: If set, events use player specific keys.\n• TeleportAll: If set, all items can be teleported.\nFollowing keys can be used to multiply a game setting:\n• DamageTaken\n• EnemyDamage\n• EnemyLevelUpRate\n• EnemySpeedSize\n• EventRate\n• MoveStaminaRate\n• PlayerDamage\n• ResourceRate\n• SkillGainRate\n• SkillReductionRate\n• StaminaRate\n• StaminaRegenRate\nEach key has a default value of 100. For example to increase player damage by 50%, use command setkey PlayerDamage 150\nWorld level can be used for unfinished NewGame+ feature:\n• WorldLevel [value]\n• WorldLevelLockedTools: If set, tool tier check also checks the world level.\n\nNotes. • World Modifiers were introduced in the Hildir's Request update With sliders set to Normal, the game will play much as it did before the patch.\n• The Resource Rate modifier does round up, so 1.5x is effectively equal to 2x for various drops such as from enemies, berry bushes and so on.\n• Resource rate does not affect Fish, Trophies and boss drops\n• If using the F5 console to change a world modifier from normal, the only currently known way to reset to normal is to reset the overall mode to normal. For example, portals are changed to casual using setworldmodifier portals casual To return them to \"normal\" is not possible using setworldmodifier portals normal The only way currently is to reset all modifiers setworldpreset default which would reset ALL keys set by setworldmodifier",
+  "scraped_at": "2026-02-26T02:17:29.296183+00:00"
+}

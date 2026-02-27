@@ -1,0 +1,12 @@
+{
+  "title": "Chicken",
+  "url": "https://valheim.fandom.com/wiki/Chicken",
+  "slug": "Chicken",
+  "categories": [
+    "Passive creatures",
+    "Tameable creatures"
+  ],
+  "content": "# Chicken\n\nInternal ID: Chicken | Type: Passive | Faction: Animal | Tameable: Yes | Drops: Feathers, Chicken meat | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Stagger | Immune to (x0): Spirit, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\n# Introduction\n\nChicken are passive creatures that can only appear when an Egg hatches. They are the infant stage of Hens.\n\n## Description\n\nChicken are birds that will grow into a hen.\n\n## Obtaining\n\nTo obtain a chicken, an egg must be placed next to a fire or heat source for 30 minutes. The egg must register as \"warm\" when hovered over.\nEggs can be purchased from Haldor for 1500 Coins after defeating Yagluth. Alternatively, two fed hens can produce an egg.\nTwo eggs can sometimes also be found in Sealed Towers.\n\n## Drops\n\n• Item: Feathers | 0 Star: 50%\n\n• Item: Chicken meat | 0 Star: 25%\n\n## Notes\n\n• As chickens are tameable animals, they can be directly damaged by players only with a Butcher knife. However, chickens spawned in via Console Commands are considered hostile, run away from players, can be damaged regularly by players, and cannot be damaged with a butcher knife. This is the same with other baby animals, such as Boars and Wolves.\n\nCategorias: Passive creatures, Tameable creatures",
+  "content_length": 1289,
+  "scraped_at": "2026-02-26T02:12:43.406566+00:00"
+}

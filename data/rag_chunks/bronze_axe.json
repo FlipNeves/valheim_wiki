@@ -1,0 +1,14 @@
+{
+  "title": "Bronze axe",
+  "url": "https://valheim.fandom.com/wiki/Bronze_axe",
+  "slug": "Bronze_axe",
+  "categories": [
+    "Weapons",
+    "Axes",
+    "Forge recipes",
+    "Tools"
+  ],
+  "content": "# Bronze axe\n\nInternal ID: AxeBronze | Type: Axe | Source: Forge | Usage: Wood cutting | Wielding: One-handed | Crafting Materials: Bronze x12, Leather Scraps x3 | Attack speed: 2.0 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.2 range, 90 angle, 0.6 height, vertical, no multitarget penalty | Movement speed: -5%\n\n# Introduction\n\nThe Bronze axe is the third one-handed axe. It can be used to chop down Ancient, Birch, Beech, Fir, Oak and Pine trees.\nIts primary attack is a 3-hit attack combo with double damage on the last hit. Its secondary attack is a slow but powerful overhead swing. This is perfect for removing tree stumps that are too low to hit with a normal swing.\n\n## Upgrade information\n\n• stat: Slash | Quality 1: 40 | Quality 2: 45 | Quality 3: 50 | Quality 4: 55\n\n• stat: Chop (trees) | Quality 1: 40 | Quality 2: 43 | Quality 3: 46 | Quality 4: 49\n\n• stat: Durability | Quality 1: 125 | Quality 2: 175 | Quality 3: 225 | Quality 4: 275\n\n• stat: Crafting | Quality 1: 4 Wood8 Bronze2 Leather scraps | Quality 2: 4 Bronze1 Leather scraps | Quality 3: 8 Bronze2 Leather scraps | Quality 4: 12 Bronze3 Leather scraps | Total: 4 Wood32 Bronze8 Leather scraps\n\n• stat: Forge level | Quality 1: 1 | Quality 2: 2 | Quality 3: 3 | Quality 4: 4\n\nCategorias: Weapons, Axes, Forge recipes, Tools",
+  "content_length": 1312,
+  "scraped_at": "2026-02-26T01:12:20.778523+00:00"
+}

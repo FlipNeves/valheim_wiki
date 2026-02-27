@@ -1,0 +1,100 @@
+{
+  "title": "Boats",
+  "url": "https://valheim.fandom.com/wiki/Boats",
+  "slug": "Boats",
+  "categories": [
+    "Boats"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "There are currently four seafaring vessels: the Raft, the Karve, the Longship and the Drakkar. Each vessel is significantly faster than its previous version with increased durability, storage space, and player seating."
+    },
+    {
+      "heading": "How to sail a boat",
+      "level": 2,
+      "text": "Climb onto the boat and interact with the rudder to begin sailing."
+    },
+    {
+      "heading": "Sailing with the wind",
+      "level": 3,
+      "text": "Sailing in Valheim is heavily affected by wind speed and direction. Generally, trying to travel upwind (i.e. in the opposite direction of the wind) will be very slow, while traveling downwind (i.e. in the same direction as the wind) will be much faster.\nThe mini-map on the upper right shows the direction of the wind (blowing wind symbol; white arrow if you're on land) in relation to the boat. If the symbol is white, the wind is blowing in your favour. If the wind is blowing from the bow of the boat and greyed out, you cannot use the sails in that direction and must instead use the rudder (see below). The sails automatically turn into the wind. The brightness of the golden part of the circle indicates how strong the wind is pushing the boat, however most of the vertical force is lost to dampening. All wind directions from crosswind to tailwind end up being roughly the same (with the optimal wind angle being only ~3% faster). Once the vessel is in motion, a player can leave the rudder and wander the boat."
+    },
+    {
+      "heading": "Using the rudder and sail",
+      "level": 3,
+      "text": "Pressing [W] and [S] (default keybinds) will change the forward speed potential of the boat, toggling between the following settings, listed in order where [W] moves down the list and [S] moves up the list:\n• Reverse (paddling)\n• Stop (this is the starting setting when the rudder is interacted with)\n• Forward (paddling)\n• Half sail (speed affected by wind)\n• Full sail (speed affected by wind)\nWhen paddling, the rudder icon will move back and forth in a paddling motion. These slow speeds using the rudder are useful for turning the boat quickly, docking with precision, and travelling into the wind.\nTo travel into the wind with the sail, you must 'tack' back and forth in a zigzag manner, raising the sail and turning into the wind at each tack. It may be easier/faster just to rudder at a slow speed."
+    },
+    {
+      "heading": "Steering the craft",
+      "level": 3,
+      "text": "Press [A] or [D] to turn the boat's rudder. The boat will only turn in the direction of the rudder when it is in motion. Note that if the boat is reversing, the rudder direction will turn the boat in the opposite direction than if the boat were traveling forwards."
+    },
+    {
+      "heading": "Stopping",
+      "level": 3,
+      "text": "Press [S] or [W] until the sail is up and rudder icons on the right are no longer showing. This will result in the boat slowly coming to a stop once its current momentum is exhausted. If there is only one player on the server, releasing the rudder and jumping off the boat will immediately stop the boat irrespective of its current momentum."
+    },
+    {
+      "heading": "Damage",
+      "level": 2,
+      "text": "Boats deal blunt damage when ramming into creatures. structures or terrain with a high speed. The damage linearly scales with the impact speed (from 1.5 m/s to 7 m/s). Ramming also deals the same damage to the ship but is ignored against players and fish. Ramming is checked every 0.5 seconds.\nBoats take 10 damage when hitting the water with a high vertical speed. The speed limit is higher for bigger ships (from 3 m/s to 5 m/s). This can happen during rough weather with high waves but can only trigger every 2 seconds. Water damage is ignored when there are no players in the ship.\nBoats take 20 damage per second when capsized (upside down). This can happen during high waves especially with Karve.\nBoats take damage from creature and player attacks based on their resistances. All ships are vulnerable to Fire, resistant to Frost and Pierce, neutral to Slash, Blunt, and Lightning, and immune to Chop, Pickaxe, Poison and Spirit damage.\nWhen destroyed, ships will leave a floating crate with their stored materials, however, denser materials such as pelts and nails used to construct the boat will sink to the ocean floor and become unrecoverable in deeper waters."
+    },
+    {
+      "heading": "Comparison",
+      "level": 2,
+      "text": "Every boat has different stats, which affect its performance. Those stats include the Health Points of the ship before it's destroyed, different (top) speeds, a differing amount of storage space and seats for other players.",
+      "table_data": [
+        {
+          "": "Raft",
+          "HP": "300",
+          "Storage slots": "0",
+          "Extra seats": "0",
+          "Ram max damage": "20",
+          "Speed (Paddling)": "1.6 m/s",
+          "Speed (Half Sail)": "1.7–2.2 m/s",
+          "Speed (Full Sail)": "2.2–3.1 m/s"
+        },
+        {
+          "": "Karve",
+          "HP": "500",
+          "Storage slots": "4",
+          "Extra seats": "2",
+          "Ram max damage": "30",
+          "Speed (Paddling)": "3.14 m/s",
+          "Speed (Half Sail)": "2.8–4.8 m/s",
+          "Speed (Full Sail)": "3.9–7.0 m/s"
+        },
+        {
+          "": "Longship",
+          "HP": "1000",
+          "Storage slots": "18",
+          "Extra seats": "4",
+          "Ram max damage": "50",
+          "Speed (Paddling)": "3.16 m/s",
+          "Speed (Half Sail)": "3.6–6.7 m/s",
+          "Speed (Full Sail)": "5.0–9.75 m/s"
+        },
+        {
+          "": "Drakkar",
+          "HP": "3000",
+          "Storage slots": "32",
+          "Extra seats": "8",
+          "Ram max damage": "50",
+          "Speed (Paddling)": "2.50 m/s",
+          "Speed (Half Sail)": "3.3–6.2 m/s",
+          "Speed (Full Sail)": "4.65–8.9 m/s"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• You cannot build structures on any form of boat.\n• Due to an error or bug in placing, sometimes a boat that has run aground on a rock or sloped surface will \"slip\" and crash to the bottom of the water. In some rarer cases the boat will slide away from the player and off into the distance as an invincible object. This seems to affect Longboats more than the other two variants.\n• Near the shore, enemies such as Necks, Greydwarfs, Draugr, Leeches, Lox, or Deathsquitos may attack boats. Deathsquitos in particular attack passengers on boats, and are capable of following even the fastest boats far out to sea; Blobs are capable of following you a short distance out to sea and jumping into your boat to issue a poison gas AOE attack.\n• While Encumbered you cannot interact with the rudder, but you may stand on a boat with another player piloting, this can be useful on the first two boats as they do not have much storage space.\n• Boats can be raised out of the water by building underneath them, and will not take damage unless water forces them to collide with terrain or building parts.\n• Boats will continue sailing if the sails are open and at least one player is on the deck of the boat, even if no player is interacting with the rudder. As such, players should be wary of logging out while having at least two players on a boat, as the boat will continue to travel while they are logged off. Logging back in may result in the player being stranded in water.\n• Boats will immediately stop if there are no players on the deck of the boat. As such, solo players (or coordinated groups) are free to jump off/logout from the boat without fear of being left behind from their boat or their boat crashing into land, since it will stop immediately."
+    }
+  ],
+  "full_text": "Boats\n\nIntroduction. There are currently four seafaring vessels: the Raft, the Karve, the Longship and the Drakkar. Each vessel is significantly faster than its previous version with increased durability, storage space, and player seating.\n\nHow to sail a boat. Climb onto the boat and interact with the rudder to begin sailing.\n\nSailing with the wind. Sailing in Valheim is heavily affected by wind speed and direction. Generally, trying to travel upwind (i.e. in the opposite direction of the wind) will be very slow, while traveling downwind (i.e. in the same direction as the wind) will be much faster.\nThe mini-map on the upper right shows the direction of the wind (blowing wind symbol; white arrow if you're on land) in relation to the boat. If the symbol is white, the wind is blowing in your favour. If the wind is blowing from the bow of the boat and greyed out, you cannot use the sails in that direction and must instead use the rudder (see below). The sails automatically turn into the wind. The brightness of the golden part of the circle indicates how strong the wind is pushing the boat, however most of the vertical force is lost to dampening. All wind directions from crosswind to tailwind end up being roughly the same (with the optimal wind angle being only ~3% faster). Once the vessel is in motion, a player can leave the rudder and wander the boat.\n\nUsing the rudder and sail. Pressing [W] and [S] (default keybinds) will change the forward speed potential of the boat, toggling between the following settings, listed in order where [W] moves down the list and [S] moves up the list:\n• Reverse (paddling)\n• Stop (this is the starting setting when the rudder is interacted with)\n• Forward (paddling)\n• Half sail (speed affected by wind)\n• Full sail (speed affected by wind)\nWhen paddling, the rudder icon will move back and forth in a paddling motion. These slow speeds using the rudder are useful for turning the boat quickly, docking with precision, and travelling into the wind.\nTo travel into the wind with the sail, you must 'tack' back and forth in a zigzag manner, raising the sail and turning into the wind at each tack. It may be easier/faster just to rudder at a slow speed.\n\nSteering the craft. Press [A] or [D] to turn the boat's rudder. The boat will only turn in the direction of the rudder when it is in motion. Note that if the boat is reversing, the rudder direction will turn the boat in the opposite direction than if the boat were traveling forwards.\n\nStopping. Press [S] or [W] until the sail is up and rudder icons on the right are no longer showing. This will result in the boat slowly coming to a stop once its current momentum is exhausted. If there is only one player on the server, releasing the rudder and jumping off the boat will immediately stop the boat irrespective of its current momentum.\n\nDamage. Boats deal blunt damage when ramming into creatures. structures or terrain with a high speed. The damage linearly scales with the impact speed (from 1.5 m/s to 7 m/s). Ramming also deals the same damage to the ship but is ignored against players and fish. Ramming is checked every 0.5 seconds.\nBoats take 10 damage when hitting the water with a high vertical speed. The speed limit is higher for bigger ships (from 3 m/s to 5 m/s). This can happen during rough weather with high waves but can only trigger every 2 seconds. Water damage is ignored when there are no players in the ship.\nBoats take 20 damage per second when capsized (upside down). This can happen during high waves especially with Karve.\nBoats take damage from creature and player attacks based on their resistances. All ships are vulnerable to Fire, resistant to Frost and Pierce, neutral to Slash, Blunt, and Lightning, and immune to Chop, Pickaxe, Poison and Spirit damage.\nWhen destroyed, ships will leave a floating crate with their stored materials, however, denser materials such as pelts and nails used to construct the boat will sink to the ocean floor and become unrecoverable in deeper waters.\n\nComparison. Every boat has different stats, which affect its performance. Those stats include the Health Points of the ship before it's destroyed, different (top) speeds, a differing amount of storage space and seats for other players.\n\nNotes. • You cannot build structures on any form of boat.\n• Due to an error or bug in placing, sometimes a boat that has run aground on a rock or sloped surface will \"slip\" and crash to the bottom of the water. In some rarer cases the boat will slide away from the player and off into the distance as an invincible object. This seems to affect Longboats more than the other two variants.\n• Near the shore, enemies such as Necks, Greydwarfs, Draugr, Leeches, Lox, or Deathsquitos may attack boats. Deathsquitos in particular attack passengers on boats, and are capable of following even the fastest boats far out to sea; Blobs are capable of following you a short distance out to sea and jumping into your boat to issue a poison gas AOE attack.\n• While Encumbered you cannot interact with the rudder, but you may stand on a boat with another player piloting, this can be useful on the first two boats as they do not have much storage space.\n• Boats can be raised out of the water by building underneath them, and will not take damage unless water forces them to collide with terrain or building parts.\n• Boats will continue sailing if the sails are open and at least one player is on the deck of the boat, even if no player is interacting with the rudder. As such, players should be wary of logging out while having at least two players on a boat, as the boat will continue to travel while they are logged off. Logging back in may result in the player being stranded in water.\n• Boats will immediately stop if there are no players on the deck of the boat. As such, solo players (or coordinated groups) are free to jump off/logout from the boat without fear of being left behind from their boat or their boat crashing into land, since it will stop immediately.",
+  "scraped_at": "2026-02-26T01:54:57.802180+00:00"
+}

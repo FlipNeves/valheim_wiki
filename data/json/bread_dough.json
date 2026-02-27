@@ -1,0 +1,51 @@
+{
+  "title": "Bread",
+  "url": "https://valheim.fandom.com/wiki/Bread_dough",
+  "slug": "Bread_dough",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Bread",
+    "Type": "Food",
+    "Internal ID": "Bread",
+    "Source": "Stone oven",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Bread dough x1",
+    "Max Health": "23",
+    "Max Stamina": "70",
+    "Duration": "25m",
+    "Healing": "2 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bread is a Plains-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "2 Bread doughs are produced in a Food preparation table with:\n• 10 Barley flour\nBread is produced by baking Bread dough in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal."
+    },
+    {
+      "heading": "Bread dough",
+      "level": 4,
+      "text": "• Uncooked fish n' bread"
+    },
+    {
+      "heading": "Bread",
+      "level": 4,
+      "text": "• Plains pie picnic"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Bread provides the second-highest stamina gain in the Plains at 70, second to Blood pudding at 75."
+    }
+  ],
+  "full_text": "Bread\n\nType: Food | Internal ID: Bread | Source: Stone oven | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Bread dough x1 | Max Health: 23 | Max Stamina: 70 | Duration: 25m | Healing: 2 hp/tick\n\nIntroduction. Bread is a Plains-tier food.\n\nRecipe. 2 Bread doughs are produced in a Food preparation table with:\n• 10 Barley flour\nBread is produced by baking Bread dough in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal.\n\nBread dough. • Uncooked fish n' bread\n\nBread. • Plains pie picnic\n\nNotes. • Bread provides the second-highest stamina gain in the Plains at 70, second to Blood pudding at 75.",
+  "scraped_at": "2026-02-26T02:10:56.860896+00:00"
+}

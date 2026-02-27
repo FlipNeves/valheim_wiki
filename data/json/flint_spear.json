@@ -1,0 +1,71 @@
+{
+  "title": "Flint spear",
+  "url": "https://valheim.fandom.com/wiki/Flint_spear",
+  "slug": "Flint_spear",
+  "categories": [
+    "Weapons",
+    "Spears",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Flint spear",
+    "Internal ID": "SpearFlint",
+    "Type": "Spear",
+    "Source": "Workbench",
+    "Usage": "Weapon",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Wood x9, Flint x15, Leather scraps x3",
+    "Attack speed": "1.04 s (includes picking up)",
+    "Hitbox": "1.9 range, 40 angle, 1.5 height, 0.5 ray",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The flint spear is the first spear. Its primary attack is a melee attack. Its secondary attack throws the spear for 1.5x damage."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Pierce",
+          "Quality 1": "20",
+          "Quality 2": "26",
+          "Quality 3": "32",
+          "Quality 4": "38"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "100",
+          "Quality 2": "150",
+          "Quality 3": "200",
+          "Quality 4": "250"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "5 Wood10 Flint2 Leather scraps",
+          "Quality 2": "3 Wood5 Flint1 Leather scraps",
+          "Quality 3": "6 Wood10 Flint2 Leather scraps",
+          "Quality 4": "9 Wood15 Flint3 Leather scraps"
+        },
+        {
+          "stat": "Workbench level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Like all spears, the flint spear floats if dropped or thrown into water."
+    }
+  ],
+  "full_text": "Flint spear\n\nInternal ID: SpearFlint | Type: Spear | Source: Workbench | Usage: Weapon | Wielding: One-handed | Crafting Materials: Wood x9, Flint x15, Leather scraps x3 | Attack speed: 1.04 s (includes picking up) | Hitbox: 1.9 range, 40 angle, 1.5 height, 0.5 ray | Movement speed: -5%\n\nIntroduction. The flint spear is the first spear. Its primary attack is a melee attack. Its secondary attack throws the spear for 1.5x damage.\n\nNotes. • Like all spears, the flint spear floats if dropped or thrown into water.",
+  "scraped_at": "2026-02-26T01:15:11.414930+00:00"
+}

@@ -1,0 +1,158 @@
+{
+  "title": "Embla Set",
+  "url": "https://valheim.fandom.com/wiki/Embla_Set",
+  "slug": "Embla_Set",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Embla Set is an Ashlands-tier armor. This set is the tier above Carapace Armor and the Eitr-weave Set, and should be considered a \"light armor,\" having a lower armor value than Flametal Armor and the Ask Set. The armor grants even higher Eitr regeneration than the Eitr-weave Set, which makes it the preferred armor when using magic weapons."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "This set of armor has three pieces that are crafted and upgraded at the Galdr table. The Embla Set can currently only be upgraded to quality level 3.",
+      "table_data": [
+        {
+          "Armor piece": "Hood of Embla",
+          "Armor": "19",
+          "Crafting cost": "16 Linen thread15 Refined eitr2 Asksvin hide",
+          "Weight": "1.0",
+          "Movementspeed": "",
+          "Effects": "Eitr regen +30%"
+        },
+        {
+          "Armor piece": "Trousers of Embla",
+          "Armor": "19",
+          "Crafting cost": "20 Linen thread20 Refined eitr10 Asksvin hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +50%"
+        },
+        {
+          "Armor piece": "Robes of Embla",
+          "Armor": "19",
+          "Crafting cost": "20 Linen thread20 Refined eitr10 Asksvin hide5 Flametal",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +50%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "57",
+          "Crafting cost": "56 Linen thread55 Refined eitr22 Asksvin hide5 Flametal",
+          "Weight": "11.0",
+          "Movementspeed": "-4%",
+          "Effects": "Eitr regen +130%"
+        },
+        {
+          "Armor piece": "Hood of Embla",
+          "Armor": "21",
+          "Upgrade cost(Total cost)": "8 (24) Linen thread5 (20) Refined eitr0 (2) Asksvin hide",
+          "Weight": "1.0",
+          "Movementspeed": "",
+          "Effects": "Eitr regen +30%"
+        },
+        {
+          "Armor piece": "Trousers of Embla",
+          "Armor": "21",
+          "Upgrade cost(Total cost)": "10 (30) Linen thread5 (25) Refined eitr0 (10) Asksvin hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +50%"
+        },
+        {
+          "Armor piece": "Robes of Embla",
+          "Armor": "21",
+          "Upgrade cost(Total cost)": "10 (30) Linen thread5 (25) Refined eitr0 (10) Asksvin hide2 (7) Flametal",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +50%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "63",
+          "Upgrade cost(Total cost)": "28 (84) Linen thread15 (70) Refined eitr0 (22) Asksvin hide2 (7) Flametal",
+          "Weight": "11.0",
+          "Movementspeed": "-4%",
+          "Effects": "Eitr regen +130%"
+        },
+        {
+          "Armor piece": "Hood of Embla",
+          "Armor": "23",
+          "Upgrade cost(Total cost)": "16 (40) Linen thread10 (35) Refined eitr0 (2) Asksvin hide",
+          "Weight": "1.0",
+          "Movementspeed": "",
+          "Effects": "Eitr regen +30%"
+        },
+        {
+          "Armor piece": "Trousers of Embla",
+          "Armor": "23",
+          "Upgrade cost(Total cost)": "20 (50) Linen thread10 (35) Refined eitr0 (10) Asksvin hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +50%"
+        },
+        {
+          "Armor piece": "Robes of Embla",
+          "Armor": "23",
+          "Upgrade cost(Total cost)": "20 (50) Linen thread10 (35) Refined eitr0 (10) Asksvin hide4 (11) Flametal",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +50%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "69",
+          "Upgrade cost(Total cost)": "56 (140) Linen thread30 (105) Refined eitr0 (22) Asksvin hide4 (11) Flametal",
+          "Weight": "11.0",
+          "Movementspeed": "-4%",
+          "Effects": "Eitr regen +130%"
+        },
+        {
+          "Armor piece": "Hood of Embla",
+          "Armor": "25",
+          "Upgrade cost(Total cost)": "24 (64) Linen thread15 (50) Refined eitr0 (2) Asksvin hide",
+          "Weight": "1.0",
+          "Movementspeed": "",
+          "Effects": "Eitr regen +30%"
+        },
+        {
+          "Armor piece": "Trousers of Embla",
+          "Armor": "25",
+          "Upgrade cost(Total cost)": "30 (80) Linen thread15 (50) Refined eitr0 (10) Asksvin hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +50%"
+        },
+        {
+          "Armor piece": "Robes of Embla",
+          "Armor": "25",
+          "Upgrade cost(Total cost)": "30 (80) Linen thread15 (50) Refined eitr0 (10) Asksvin hide6 (17) Flametal",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +50%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "75",
+          "Upgrade cost(Total cost)": "84 (224) Linen thread45 (150) Refined eitr0 (22) Asksvin hide6 (17) Flametal",
+          "Weight": "11.0",
+          "Movementspeed": "-4%",
+          "Effects": "Eitr regen +130%"
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• In Norse mythology, Ask and Embla (Old Norse: \"Askr ok Embla\") — man and woman respectively — were the first two humans, created by the gods (one of whom is Odin).\n• The etymology of \"embla\" is uncertain, and two possibilities of the meaning of \"embla\" are generally proposed. The first meaning, \"elm tree\" is reached by deriving *Elm-la from *Almilōn and subsequently to \"almr\" ('elm'). The second suggestion is \"vine\", which is reached through *Ambilō, which may be related to the Greek term ἄμπελος (ámpelos), itself meaning \"vine, liana\"."
+    }
+  ],
+  "full_text": "Embla Set\n\nIntroduction. The Embla Set is an Ashlands-tier armor. This set is the tier above Carapace Armor and the Eitr-weave Set, and should be considered a \"light armor,\" having a lower armor value than Flametal Armor and the Ask Set. The armor grants even higher Eitr regeneration than the Eitr-weave Set, which makes it the preferred armor when using magic weapons.\n\nArmor pieces. This set of armor has three pieces that are crafted and upgraded at the Galdr table. The Embla Set can currently only be upgraded to quality level 3.\n\nTrivia. • In Norse mythology, Ask and Embla (Old Norse: \"Askr ok Embla\") — man and woman respectively — were the first two humans, created by the gods (one of whom is Odin).\n• The etymology of \"embla\" is uncertain, and two possibilities of the meaning of \"embla\" are generally proposed. The first meaning, \"elm tree\" is reached by deriving *Elm-la from *Almilōn and subsequently to \"almr\" ('elm'). The second suggestion is \"vine\", which is reached through *Ambilō, which may be related to the Greek term ἄμπελος (ámpelos), itself meaning \"vine, liana\".",
+  "scraped_at": "2026-02-26T01:21:38.952322+00:00"
+}

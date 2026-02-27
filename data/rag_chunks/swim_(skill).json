@@ -1,0 +1,11 @@
+{
+  "title": "Swimming (skill)",
+  "url": "https://valheim.fandom.com/wiki/Swim_(Skill)",
+  "slug": "Swim_(Skill)",
+  "categories": [
+    "Skills"
+  ],
+  "content": "# Swimming (skill)\n\nDescription: Determines stamina drain while swimming.\n\n# Introduction\n\nSwimming is a skill.\n\n## Effects\n\nRaising the swim skill decreases the amount of stamina that is used down to -50%.\n\n## Leveling up\n\nSwimming in any body of water grant 0.3 Experience per second, even if the player is out of stamina and drowning. Wading and treading water does not grant experience.\n\nCategorias: Skills",
+  "content_length": 410,
+  "scraped_at": "2026-02-26T02:00:02.143269+00:00"
+}

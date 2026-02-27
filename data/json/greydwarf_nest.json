@@ -1,0 +1,79 @@
+{
+  "title": "Greydwarf nest",
+  "url": "https://valheim.fandom.com/wiki/Greydwarf_nest",
+  "slug": "Greydwarf_nest",
+  "categories": [
+    "Building",
+    "Creature spawner"
+  ],
+  "infobox": {
+    "_infobox_title": "Greydwarf nest",
+    "Internal ID": "Spawner_GreydwarfNest",
+    "Usage": "Greydwarf (72% chance), Greydwarf shaman (14% chance), Greydwarf brute (14% chance)",
+    "Weak to (x1.5)": "Fire",
+    "Neutral to (x1)": "Slash, ,, Chop, ,, Lightning",
+    "Resistant to (x0.5)": "Blunt, ,, Pierce",
+    "Immune to (x0)": "Frost, ,, Poison, ,, Pickaxe, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Greydwarf nest is a creature spawner found in Black Forest.\nThe nest can spawn any Greydwarf:\n• Greydwarf (72% chance)\n• Greydwarf shaman (14% chance)\n• Greydwarf brute (14% chance)\nSpawned enemies have a 15% chance to be 1-star and a 2.25% chance to be 2-star.\nThe nest activates when there is a player within 60 meters. The nest attempts to spawn within four meters every 12 seconds until there are three Greydwarfs within 20 meters.",
+      "table_data": [
+        {
+          "Item": "Ancient seed",
+          "Items/Minute": ".37",
+          "Items/Hour": "22.32"
+        },
+        {
+          "Item": "Dandelion",
+          "Items/Minute": ".82",
+          "Items/Hour": "49.25"
+        },
+        {
+          "Item": "Greydwarf Brute trophy",
+          "Items/Minute": "0.07",
+          "Items/Hour": "4.2"
+        },
+        {
+          "Item": "Greydwarf eye",
+          "Items/Minute": "4.32",
+          "Items/Hour": "259.49"
+        },
+        {
+          "Item": "Greydwarf trophy",
+          "Items/Minute": "0.18",
+          "Items/Hour": "10.8"
+        },
+        {
+          "Item": "Greydwarf Shaman trophy",
+          "Items/Minute": "0.07",
+          "Items/Hour": "4.2"
+        },
+        {
+          "Item": "Resin",
+          "Items/Minute": "5",
+          "Items/Hour": "302.51"
+        },
+        {
+          "Item": "Stone",
+          "Items/Minute": "5.86",
+          "Items/Hour": "351.75"
+        },
+        {
+          "Item": "Wood",
+          "Items/Minute": "7.91",
+          "Items/Hour": "474.86"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Only spawns enemies on uncovered terrain. Spawning can be disabled by building a roof around the spawner (four-meter radius).\n• If kept alive, these can provide a useful and infinite source of resources that the hostile creatures may drop.\n• You can turn it into an automatic farm using a Standing brazier. Cover the ground all around the nest in a 4x4 to prevent spawns, and remove a single one on the edge to find a spot where Greydwarfs will spawn. Once you have a spot where they will spawn and everywhere else they can spawn covered, dig down a little, place the brazier, fill it with fuel, and use the Hoe to have the ground in a position where the fire is still lit, but the brazier does not take damage from burning enemies. Block in the brazier (Preferably with stone to prevent the wall from being destroyed) and it's done!"
+    }
+  ],
+  "full_text": "Greydwarf nest\n\nInternal ID: Spawner_GreydwarfNest | Usage: Greydwarf (72% chance), Greydwarf shaman (14% chance), Greydwarf brute (14% chance) | Weak to (x1.5): Fire | Neutral to (x1): Slash, ,, Chop, ,, Lightning | Resistant to (x0.5): Blunt, ,, Pierce | Immune to (x0): Frost, ,, Poison, ,, Pickaxe, ,, Spirit\n\nIntroduction. The Greydwarf nest is a creature spawner found in Black Forest.\nThe nest can spawn any Greydwarf:\n• Greydwarf (72% chance)\n• Greydwarf shaman (14% chance)\n• Greydwarf brute (14% chance)\nSpawned enemies have a 15% chance to be 1-star and a 2.25% chance to be 2-star.\nThe nest activates when there is a player within 60 meters. The nest attempts to spawn within four meters every 12 seconds until there are three Greydwarfs within 20 meters.\n\nNotes. • Only spawns enemies on uncovered terrain. Spawning can be disabled by building a roof around the spawner (four-meter radius).\n• If kept alive, these can provide a useful and infinite source of resources that the hostile creatures may drop.\n• You can turn it into an automatic farm using a Standing brazier. Cover the ground all around the nest in a 4x4 to prevent spawns, and remove a single one on the edge to find a spot where Greydwarfs will spawn. Once you have a spot where they will spawn and everywhere else they can spawn covered, dig down a little, place the brazier, fill it with fuel, and use the Hoe to have the ground in a position where the fire is still lit, but the brazier does not take damage from burning enemies. Block in the brazier (Preferably with stone to prevent the wall from being destroyed) and it's done!",
+  "scraped_at": "2026-02-26T01:38:38.289897+00:00"
+}

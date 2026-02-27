@@ -1,0 +1,39 @@
+{
+  "title": "Mysterious Location",
+  "url": "https://valheim.fandom.com/wiki/Mysterious_Location",
+  "slug": "Mysterious_Location",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Mysterious Location",
+    "Type": "Point of interest",
+    "Internal ID": "PlaceofMystery1 | PlaceofMystery2PlaceofMystery3",
+    "Location": "Ashlands",
+    "Inhabitants": "2-starCharred Twitcher | Charred WarriorCharred MarksmanCharred WarlockLord Reto"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Mysterious Location is a series of three unique Points of interest situated in the Ashlands. They are linked to the quest to craft the unique sword Dyrnwyn.\nEach Mysterious Location is guarded by a Monument of Torment (Elite) spawning only 2-starred Charred."
+    },
+    {
+      "heading": "First Mysterious Location",
+      "level": 2,
+      "text": "The first Mysterious Location consists of a small Grausten ruin with 4 Molten cores and the Dyrnwyn tip fragment on an altar in the middle. The structure has no natural entrance, the player must destroy a part of the wall to access the interior.\nThe position of the first Mysterious Location is indicated by a Vegvisir situated inside 25% of Putrid Holes."
+    },
+    {
+      "heading": "Second Mysterious Location",
+      "level": 2,
+      "text": "The second Mysterious Location consists of a series of Grausten arches with 4 Molten cores and the Dyrnwyn blade fragment on an altar in the middle. The altar can be accessed directly.\nThe position of the second location is indicated by a Vegvisir situated at the first location."
+    },
+    {
+      "heading": "Third Mysterious Location",
+      "level": 2,
+      "text": "The third Mysterious Location is a small Grausten ruin with 4 Molten cores and an entrance to the Tomb of Lord Reto dungeon. The structure has also no natural entrance, the player must destroy a part of the wall to access the interior and the dungeon. The Dyrnwyn hilt fragment is dropped by the miniboss Lord Reto found inside the dungeon.\nThe position of the third location is indicated by a Vegvisir situated at the second location."
+    }
+  ],
+  "full_text": "Mysterious Location\n\nType: Point of interest | Internal ID: PlaceofMystery1 | PlaceofMystery2PlaceofMystery3 | Location: Ashlands | Inhabitants: 2-starCharred Twitcher | Charred WarriorCharred MarksmanCharred WarlockLord Reto\n\nIntroduction. The Mysterious Location is a series of three unique Points of interest situated in the Ashlands. They are linked to the quest to craft the unique sword Dyrnwyn.\nEach Mysterious Location is guarded by a Monument of Torment (Elite) spawning only 2-starred Charred.\n\nFirst Mysterious Location. The first Mysterious Location consists of a small Grausten ruin with 4 Molten cores and the Dyrnwyn tip fragment on an altar in the middle. The structure has no natural entrance, the player must destroy a part of the wall to access the interior.\nThe position of the first Mysterious Location is indicated by a Vegvisir situated inside 25% of Putrid Holes.\n\nSecond Mysterious Location. The second Mysterious Location consists of a series of Grausten arches with 4 Molten cores and the Dyrnwyn blade fragment on an altar in the middle. The altar can be accessed directly.\nThe position of the second location is indicated by a Vegvisir situated at the first location.\n\nThird Mysterious Location. The third Mysterious Location is a small Grausten ruin with 4 Molten cores and an entrance to the Tomb of Lord Reto dungeon. The structure has also no natural entrance, the player must destroy a part of the wall to access the interior and the dungeon. The Dyrnwyn hilt fragment is dropped by the miniboss Lord Reto found inside the dungeon.\nThe position of the third location is indicated by a Vegvisir situated at the second location.",
+  "scraped_at": "2026-02-26T01:48:21.736896+00:00"
+}

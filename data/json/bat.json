@@ -1,0 +1,78 @@
+{
+  "title": "Bat",
+  "url": "https://valheim.fandom.com/wiki/Bat",
+  "slug": "Bat",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Bat",
+    "Internal ID": "Bat",
+    "Faction": "Mountain",
+    "Main biome": "Mountain",
+    "Drops": "Leather scraps",
+    "Abilities": "Melee (10s)",
+    "Weak to (x1.5)": "Fire, ,, Spirit",
+    "Neutral to (x1)": "Lightning, ,, Stagger",
+    "Resistant to (x0.5)": "Blunt, ,, Slash, ,, Pierce",
+    "Immune to (x0)": "Frost, ,, Poison, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bats are aggressive creatures found in Mountains inside Frost Caves. They have a small body size and glossy black coat and wings, capable of flight."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Leather scraps",
+          "0 Star": "50%",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Common spawn point in Frost Caves.",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "No"
+        },
+        {
+          "Type": "Common spawn point in Howling Caverns.",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "Yes (Only 1-Star)"
+        },
+        {
+          "Type": "During \"You stirred the cauldron,\" event after killing Bonemass.",
+          "Limit": "10",
+          "Frequency": "Very common",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Melee",
+      "level": 3,
+      "text": "Lunges forward and bites the player (20 Slash damage). This hits in a 1.5-meter 60-degree horizontal arc. It can use this attack every 10 seconds when 1.5 meters from a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• When the \"You stirred the cauldron,\" event concludes, any remaining bats do not despawn. Therefore, wandering bats might still attack after the end of the event, posing danger especially for tamed animals."
+    }
+  ],
+  "full_text": "Bat\n\nInternal ID: Bat | Faction: Mountain | Main biome: Mountain | Drops: Leather scraps | Abilities: Melee (10s) | Weak to (x1.5): Fire, ,, Spirit | Neutral to (x1): Lightning, ,, Stagger | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce | Immune to (x0): Frost, ,, Poison, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Bats are aggressive creatures found in Mountains inside Frost Caves. They have a small body size and glossy black coat and wings, capable of flight.\n\nMelee. Lunges forward and bites the player (20 Slash damage). This hits in a 1.5-meter 60-degree horizontal arc. It can use this attack every 10 seconds when 1.5 meters from a player.\n\nNotes. • When the \"You stirred the cauldron,\" event concludes, any remaining bats do not despawn. Therefore, wandering bats might still attack after the end of the event, posing danger especially for tamed animals.",
+  "scraped_at": "2026-02-26T01:06:09.631068+00:00"
+}

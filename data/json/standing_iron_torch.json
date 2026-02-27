@@ -1,0 +1,29 @@
+{
+  "title": "Standing iron torch",
+  "url": "https://valheim.fandom.com/wiki/Standing_iron_torch",
+  "slug": "Standing_iron_torch",
+  "categories": [
+    "Furniture",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Standing iron torch",
+    "Type": "Furniture",
+    "Internal ID": "piece_groundtorch",
+    "Source": "Forge",
+    "Usage": "Lightsource",
+    "Crafting Materials": "Iron x2, Resin x2",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Fire, ,, Frost, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Standing iron torch is a light source.\nIt can hold up to six Resin at once. With 1/6 fuel, a standing iron torch will last for 5 hours and 33 minutes. At maximum capacity, a standing iron torch should burn for 33 hours and 20 minutes. This duration is the same for the Standing green-burning iron torch, Standing blue-burning iron torch and Sconce."
+    }
+  ],
+  "full_text": "Standing iron torch\n\nType: Furniture | Internal ID: piece_groundtorch | Source: Forge | Usage: Lightsource | Crafting Materials: Iron x2, Resin x2 | Neutral to (x1): Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\nIntroduction. The Standing iron torch is a light source.\nIt can hold up to six Resin at once. With 1/6 fuel, a standing iron torch will last for 5 hours and 33 minutes. At maximum capacity, a standing iron torch should burn for 33 hours and 20 minutes. This duration is the same for the Standing green-burning iron torch, Standing blue-burning iron torch and Sconce.",
+  "scraped_at": "2026-02-26T01:42:29.486016+00:00"
+}

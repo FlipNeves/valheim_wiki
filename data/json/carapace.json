@@ -1,0 +1,30 @@
+{
+  "title": "Carapace",
+  "url": "https://valheim.fandom.com/wiki/Carapace",
+  "slug": "Carapace",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Carapace",
+    "Type": "Material",
+    "Internal ID": "Carapace",
+    "Source": "Seeker, ,, Seeker Soldier",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Carapace is dropped from Seekers and Seeker Soldiers. It is the primary component in the Mistlands-tier heavy armor: Carapace Armor. Unlike all other primary heavy armor components, carapace can be carried through Portals.\nAs of the Mistlands release, arrows and bolts crafted using Carapace are generally superior to all other arrows and bolts."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Carapace breastplate\n• Carapace greaves\n• Carapace helmet\n• Carapace shield\n• Carapace buckler\n• Carapace spear\n• Carapace arrow\n• Carapace bolt\n• Pulsating Earrings"
+    }
+  ],
+  "full_text": "Carapace\n\nType: Material | Internal ID: Carapace | Source: Seeker, ,, Seeker Soldier | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Carapace is dropped from Seekers and Seeker Soldiers. It is the primary component in the Mistlands-tier heavy armor: Carapace Armor. Unlike all other primary heavy armor components, carapace can be carried through Portals.\nAs of the Mistlands release, arrows and bolts crafted using Carapace are generally superior to all other arrows and bolts.\n\nCrafting. • Carapace breastplate\n• Carapace greaves\n• Carapace helmet\n• Carapace shield\n• Carapace buckler\n• Carapace spear\n• Carapace arrow\n• Carapace bolt\n• Pulsating Earrings",
+  "scraped_at": "2026-02-26T01:31:44.667935+00:00"
+}

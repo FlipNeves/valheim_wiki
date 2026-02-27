@@ -1,0 +1,13 @@
+{
+  "title": "Stone axe",
+  "url": "https://valheim.fandom.com/wiki/Stone_axe",
+  "slug": "Stone_axe",
+  "categories": [
+    "Weapons",
+    "Axes",
+    "Tools"
+  ],
+  "content": "# Stone axe\n\nInternal ID: AxeStone | Type: Axe | Source: Player crafting menu | Usage: Wood cutting | Wielding: One-handed | Crafting Materials: Stone x6 | Attack speed: 2.0 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.2 range, 90 angle, 0.6 height, vertical, no multitarget penalty | Movement speed: -5%\n\n# Introduction\n\nThe stone axe is the first one-handed axe. It can be used to chop down Beech, Fir and Pine trees.\nIts primary attack is a 3-hit combo with double damage on the last hit. Its secondary attack is a slow but powerful overhead swing, perfect for removing tree stumps that are too low to hit with a normal swing.\n\n## Upgrade information\n\n• stat: Slash | Quality 1: 15 | Quality 2: 20 | Quality 3: 25 | Quality 4: 30\n\n• stat: Chop (trees) | Quality 1: 20 | Quality 2: 23 | Quality 3: 26 | Quality 4: 29\n\n• stat: Durability | Quality 1: 100 | Quality 2: 130 | Quality 3: 160 | Quality 4: 190\n\n• stat: Crafting | Quality 1: 5 Wood4 Stone | Quality 2: 2 Stone | Quality 3: 4 Stone | Quality 4: 6 Stone\n\n• stat: Workbench level | Quality 1: 1 | Quality 2: 2 | Quality 3: 3 | Quality 4: 4\n\nCategorias: Weapons, Axes, Tools",
+  "content_length": 1146,
+  "scraped_at": "2026-02-26T01:19:27.336939+00:00"
+}

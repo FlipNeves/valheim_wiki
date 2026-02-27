@@ -1,0 +1,30 @@
+{
+  "title": "Combat Ruin",
+  "url": "https://valheim.fandom.com/wiki/Combat_Ruin",
+  "slug": "Combat_Ruin",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Combat Ruin",
+    "Type": "Structure",
+    "Internal ID": "CombatRuin01",
+    "Location": "Meadows",
+    "Resources": "Bone fragments, ,, Feathers",
+    "Inhabitants": "Skeleton"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Combat Ruins are Points of interest found in the Meadows biome. They look like a wooden battle arena."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "In the central arena there are an Evil bone pile and up to two Bone fragments.\nThere is a chest hidden under the wood platform, on the opposite side of the main entrance. It contains one Wooden mace, one Torch and 1 to 3 Feathers."
+    }
+  ],
+  "full_text": "Combat Ruin\n\nType: Structure | Internal ID: CombatRuin01 | Location: Meadows | Resources: Bone fragments, ,, Feathers | Inhabitants: Skeleton\n\nIntroduction. Combat Ruins are Points of interest found in the Meadows biome. They look like a wooden battle arena.\n\nResources. In the central arena there are an Evil bone pile and up to two Bone fragments.\nThere is a chest hidden under the wood platform, on the opposite side of the main entrance. It contains one Wooden mace, one Torch and 1 to 3 Feathers.",
+  "scraped_at": "2026-02-26T02:05:15.339430+00:00"
+}

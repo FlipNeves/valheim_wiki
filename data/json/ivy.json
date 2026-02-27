@@ -1,0 +1,25 @@
+{
+  "title": "Ivy",
+  "url": "https://valheim.fandom.com/wiki/Ivy",
+  "slug": "Ivy",
+  "categories": [
+    "Work in progress",
+    "Building"
+  ],
+  "infobox": {
+    "_infobox_title": "Ivy",
+    "Type": "Plant",
+    "Internal ID": "VineGreen",
+    "Source": "Ivy seeds",
+    "Usage": "Decoration"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ivy is a plant added in the Bog Witch update that can be planted with the Ivy seeds using the Cultivator. Its only purpose is decorative, it can climb structures when planted, making it pretty good for decorating buildings.\nAfter the ivy has spread to a surface, no connection to cultivated soil is necessary. This means the player can use a temporary support surface to spread ivy to second story walls. Ivy does not require any connection to the ground to continue to grow."
+    }
+  ],
+  "full_text": "Ivy\n\nType: Plant | Internal ID: VineGreen | Source: Ivy seeds | Usage: Decoration\n\nIntroduction. Ivy is a plant added in the Bog Witch update that can be planted with the Ivy seeds using the Cultivator. Its only purpose is decorative, it can climb structures when planted, making it pretty good for decorating buildings.\nAfter the ivy has spread to a surface, no connection to cultivated soil is necessary. This means the player can use a temporary support surface to spread ivy to second story walls. Ivy does not require any connection to the ground to continue to grow.",
+  "scraped_at": "2026-02-26T01:38:43.597126+00:00"
+}

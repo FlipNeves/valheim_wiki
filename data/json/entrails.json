@@ -1,0 +1,30 @@
+{
+  "title": "Entrails",
+  "url": "https://valheim.fandom.com/wiki/Entrails",
+  "slug": "Entrails",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Entrails",
+    "Type": "Material",
+    "Internal ID": "Entrails",
+    "Source": "Draugr, ,, Draugr elite, , Meat piles",
+    "Usage": "Cooking",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Entrails is an item and drops from Draugr and Draugr elite in the Swamp biome and Meadows biome. They can also be obtained from meat piles inside Frost Caves and Howling Caverns in the Mountain biome, or Putrid Holes in the Ashlands."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Sausages"
+    }
+  ],
+  "full_text": "Entrails\n\nType: Material | Internal ID: Entrails | Source: Draugr, ,, Draugr elite, , Meat piles | Usage: Cooking | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Entrails is an item and drops from Draugr and Draugr elite in the Swamp biome and Meadows biome. They can also be obtained from meat piles inside Frost Caves and Howling Caverns in the Mountain biome, or Putrid Holes in the Ashlands.\n\nCrafting. • Sausages",
+  "scraped_at": "2026-02-26T01:33:15.741883+00:00"
+}

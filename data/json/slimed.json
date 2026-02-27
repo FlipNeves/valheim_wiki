@@ -1,0 +1,22 @@
+{
+  "title": "Slimed",
+  "url": "https://valheim.fandom.com/wiki/Slimed",
+  "slug": "Slimed",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Slimed",
+    "Effects": "Movement speed: -50%",
+    "Damage Modifier": "Very weak VS, Fire"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Slimed is a status effect applied to a character by The Queen's spit attack. It is very similar to the Tarred effect."
+    }
+  ],
+  "full_text": "Slimed\n\nEffects: Movement speed: -50% | Damage Modifier: Very weak VS, Fire\n\nIntroduction. Slimed is a status effect applied to a character by The Queen's spit attack. It is very similar to the Tarred effect.",
+  "scraped_at": "2026-02-26T02:01:05.060236+00:00"
+}

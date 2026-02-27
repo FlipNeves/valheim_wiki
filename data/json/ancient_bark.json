@@ -1,0 +1,41 @@
+{
+  "title": "Ancient bark",
+  "url": "https://valheim.fandom.com/wiki/Ancient_bark",
+  "slug": "Ancient_bark",
+  "categories": [
+    "Wood",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Ancient bark",
+    "Type": "Wood",
+    "Internal ID": "ElderBark",
+    "Source": "Ancient Tree, in, Swamp, biomes",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ancient bark is a different type of wood used in midgame building and crafting recipes."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Acquired by chopping Ancient Trees in the Swamp.\n• Requires Bronze axe to acquire.\n• Can be found in Sunken Crypts chests."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Bonfire\n• Butcher's table\n• Longship"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Ancient bark cannot be fed into a Charcoal kiln."
+    }
+  ],
+  "full_text": "Ancient bark\n\nType: Wood | Internal ID: ElderBark | Source: Ancient Tree, in, Swamp, biomes | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Ancient bark is a different type of wood used in midgame building and crafting recipes.\n\nAvailability. • Acquired by chopping Ancient Trees in the Swamp.\n• Requires Bronze axe to acquire.\n• Can be found in Sunken Crypts chests.\n\nBuilding. • Bonfire\n• Butcher's table\n• Longship\n\nNotes. • Ancient bark cannot be fed into a Charcoal kiln.",
+  "scraped_at": "2026-02-26T01:29:48.834825+00:00"
+}

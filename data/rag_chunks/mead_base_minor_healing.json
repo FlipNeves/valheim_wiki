@@ -1,0 +1,13 @@
+{
+  "title": "Minor healing mead",
+  "url": "https://valheim.fandom.com/wiki/Mead_base:_Minor_healing",
+  "slug": "Mead_base:_Minor_healing",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "content": "# Minor healing mead\n\nType: Mead | Internal ID: MeadHealthMinor | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Minor healing x1 | Duration: 10s | Cooldown: 2m | Health Regen: +50 HP over 10s\n\n# Introduction\n\nMinor healing mead is a Black Forest-tier consumable item fermented from Mead base: Minor healing.\n\n## Recipe\n\nMead base: Minor healing is produced in a Mead ketill with:\n• 10 Honey\n• 5 Blueberries\n• 10 Raspberries\n• 1 Dandelion\nSix Minor healing meads are produced by fermenting the mead base for two in-game days.\n\n## Effect\n\nUpon consumption, it restores 50 health over 10 seconds.\nA 2-min cooldown is applied preventing consumption of another healing mead.\n\n## Other locations\n\nOther than brewing, Minor healing meads can be found:\n• In treasure chests at Infested Mines.\n• Destroyed Ancient pots may drop them.\n\nCategorias: Mead, Fermenter recipes, Items",
+  "content_length": 941,
+  "scraped_at": "2026-02-26T02:16:27.171476+00:00"
+}

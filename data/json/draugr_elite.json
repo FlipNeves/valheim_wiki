@@ -1,0 +1,84 @@
+{
+  "title": "Draugr elite",
+  "url": "https://valheim.fandom.com/wiki/Draugr_elite",
+  "slug": "Draugr_elite",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Draugr elite",
+    "Internal ID": "Draugr_Elite",
+    "Faction": "Undead",
+    "Main biome": "Swamp",
+    "Drops": "Draugr Elite trophy | Entrails",
+    "Abilities": "Sword",
+    "Trophy": "Draugr Elite trophy",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Spirit, ,, Stagger",
+    "Resistant to (x0.5)": "Fire",
+    "Immune to (x0)": "Poison, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Draugr elite are aggressive creatures found in the Swamps. They are ancient undead Vikings that have since become bloated in appearance. They are stronger than normal Draugr, but always appear equipped with a melee weapon. They have glowing purple eyes and are relatively rare compared to their weaker counterparts."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Draugr Elite trophy",
+          "0 Star": "10%",
+          "1 Star": "10%",
+          "2 Star": "10%"
+        },
+        {
+          "Item": "Entrails",
+          "0 Star": "2",
+          "1 Star": "4",
+          "2 Star": "8"
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Middle of the Swamps during the night time, despawn at dawn",
+          "Limit": "1",
+          "Frequency": "Rare",
+          "Stars": "No"
+        },
+        {
+          "Type": "Rare spawn point near Inverted Tower structures",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Rarely from Body piles in Swamps, Sunken Crypts or Mountain towers",
+          "Limit": "2",
+          "Frequency": "Every 6 seconds",
+          "Stars": "Yes"
+        }
+      ]
+    },
+    {
+      "heading": "Sword",
+      "level": 3,
+      "text": "Does a horizontal slash that extends 2.2 meters and arcs 90 degrees (58 Slash damage). This attack has a 4-second cooldown and can be used within 1.6 meters of a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Draugr or Draug - \"the undead of Valheim\", also called aptrganga or aptrgangr in the Norse literature. Draugr live in their graves, often guarding treasure buried with them in their burial mound.\n• From a Runestone: \"Long ages ago, the world of Valheim was home to a race of proud and noble people. They built great towers that touched the clouds and delved deep into the earth for precious metals. But their pride was their undoing. They challenged the very gods and went to war against the Aesir and Vanir, destroying themselves completely. Great Odin leveled their cities and Loki consumed their mines in fire. Mighty Thor broke down their towers and Freya sowed their fields with salt tears. Now they are sunk many hundred of years deep. No song sing of their stories, and the earth has claimed their cities. But pride cannot be killed entirely and the warriors who fought in that final battle will not surrender until their bodies are dust and the dust long gone. They return as Draugr, unholy walkers in ancient armour, creatures of rust and despair. Break them, bury them, let them know they are dead.\""
+    }
+  ],
+  "full_text": "Draugr elite\n\nInternal ID: Draugr_Elite | Faction: Undead | Main biome: Swamp | Drops: Draugr Elite trophy | Entrails | Abilities: Sword | Trophy: Draugr Elite trophy | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Spirit, ,, Stagger | Resistant to (x0.5): Fire | Immune to (x0): Poison, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Draugr elite are aggressive creatures found in the Swamps. They are ancient undead Vikings that have since become bloated in appearance. They are stronger than normal Draugr, but always appear equipped with a melee weapon. They have glowing purple eyes and are relatively rare compared to their weaker counterparts.\n\nSword. Does a horizontal slash that extends 2.2 meters and arcs 90 degrees (58 Slash damage). This attack has a 4-second cooldown and can be used within 1.6 meters of a player.\n\nNotes. • Draugr or Draug - \"the undead of Valheim\", also called aptrganga or aptrgangr in the Norse literature. Draugr live in their graves, often guarding treasure buried with them in their burial mound.\n• From a Runestone: \"Long ages ago, the world of Valheim was home to a race of proud and noble people. They built great towers that touched the clouds and delved deep into the earth for precious metals. But their pride was their undoing. They challenged the very gods and went to war against the Aesir and Vanir, destroying themselves completely. Great Odin leveled their cities and Loki consumed their mines in fire. Mighty Thor broke down their towers and Freya sowed their fields with salt tears. Now they are sunk many hundred of years deep. No song sing of their stories, and the earth has claimed their cities. But pride cannot be killed entirely and the warriors who fought in that final battle will not surrender until their bodies are dust and the dust long gone. They return as Draugr, unholy walkers in ancient armour, creatures of rust and despair. Break them, bury them, let them know they are dead.\"",
+  "scraped_at": "2026-02-26T01:06:58.673144+00:00"
+}

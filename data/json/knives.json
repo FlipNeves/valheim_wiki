@@ -1,0 +1,108 @@
+{
+  "title": "Knives",
+  "url": "https://valheim.fandom.com/wiki/Knives",
+  "slug": "Knives",
+  "categories": [
+    "Weapons"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Knives are a weapon class.\nKnives have fast attacks with short range and low stamina cost.\nKnives deal 6x damage against unalerted enemies, whereas most other weapons do 3x."
+    },
+    {
+      "heading": "List of knives",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Flint knife",
+          "Icon": "",
+          "Damage": "Slash: 5/8Pierce: 5/8",
+          "Stamina (primary)": "4",
+          "Stamina (secondary)": "12",
+          "Notes": ""
+        },
+        {
+          "Name": "Copper knife",
+          "Icon": "",
+          "Damage": "Slash: 12/15Pierce: 12/15",
+          "Stamina (primary)": "6",
+          "Stamina (secondary)": "18",
+          "Notes": ""
+        },
+        {
+          "Name": "Butcher knife",
+          "Icon": "",
+          "Damage": "Pure: 1000",
+          "Stamina (primary)": "5",
+          "Stamina (secondary)": "-",
+          "Notes": "Does damage only to tamed animals"
+        },
+        {
+          "Name": "Abyssal Razor",
+          "Icon": "",
+          "Damage": "Slash: 20/23Pierce: 20/23",
+          "Stamina (primary)": "8",
+          "Stamina (secondary)": "24",
+          "Notes": ""
+        },
+        {
+          "Name": "Silver knife",
+          "Icon": "",
+          "Damage": "Slash: 25/28Pierce: 25/28Spirit: 12",
+          "Stamina (primary)": "10",
+          "Stamina (secondary)": "30",
+          "Notes": ""
+        },
+        {
+          "Name": "Black metal knife",
+          "Icon": "",
+          "Damage": "Slash: 34/37Pierce: 34/37",
+          "Stamina (primary)": "12",
+          "Stamina (secondary)": "36",
+          "Notes": ""
+        },
+        {
+          "Name": "Skoll and Hati",
+          "Icon": "",
+          "Damage": "Slash: 45/48Pierce: 45/48",
+          "Stamina (primary)": "14",
+          "Stamina (secondary)": "42",
+          "Notes": "Dual-wielded"
+        }
+      ]
+    },
+    {
+      "heading": "Properties",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Attack type": "Knives (primary)",
+          "Stamina": "1x",
+          "Range": "1.8 m",
+          "Attack speed": "1.74 s (0.44 + 0.58 + 0.72)",
+          "Damage": "1x + 1x + 2x",
+          "Staggering": "1x",
+          "Knockback": "10",
+          "Notes": "Attacking does not move the player. 60 degree arc."
+        },
+        {
+          "Attack type": "Knives (secondary)",
+          "Stamina": "3x",
+          "Range": "1.8 m",
+          "Attack speed": "1.52 s",
+          "Damage": "3x",
+          "Staggering": "1x",
+          "Knockback": "4x",
+          "Notes": "Causes the player to lunge 5 m forward. 45 degree arc."
+        }
+      ]
+    }
+  ],
+  "full_text": "Knives\n\nIntroduction. Knives are a weapon class.\nKnives have fast attacks with short range and low stamina cost.\nKnives deal 6x damage against unalerted enemies, whereas most other weapons do 3x.",
+  "scraped_at": "2026-02-26T01:16:34.774129+00:00"
+}

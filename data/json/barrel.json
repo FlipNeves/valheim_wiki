@@ -1,0 +1,33 @@
+{
+  "title": "Barrel",
+  "url": "https://valheim.fandom.com/wiki/Barrel",
+  "slug": "Barrel",
+  "categories": [
+    "Furniture",
+    "Storage"
+  ],
+  "infobox": {
+    "_infobox_title": "Barrel",
+    "Type": "Furniture",
+    "Source": "Workbench",
+    "Usage": "Stores items (12 slots)",
+    "Crafting Materials": "Wood x10, Barrel hoops x1",
+    "Neutral to (x1)": "Lightning",
+    "Resistant to (x0.5)": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Barrels are storage structures with 12(6x2) item slots. They do not degrade from rain.\nIt requires materials sold by Haldor."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "• Wood x10\n• Barrel hoops x1"
+    }
+  ],
+  "full_text": "Barrel\n\nType: Furniture | Source: Workbench | Usage: Stores items (12 slots) | Crafting Materials: Wood x10, Barrel hoops x1 | Neutral to (x1): Lightning | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Barrels are storage structures with 12(6x2) item slots. They do not degrade from rain.\nIt requires materials sold by Haldor.\n\nRecipe. • Wood x10\n• Barrel hoops x1",
+  "scraped_at": "2026-02-26T01:40:29.110801+00:00"
+}

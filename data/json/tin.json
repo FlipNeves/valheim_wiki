@@ -1,0 +1,43 @@
+{
+  "title": "Tin",
+  "url": "https://valheim.fandom.com/wiki/Tin",
+  "slug": "Tin",
+  "categories": [
+    "Metals",
+    "Materials",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Tin",
+    "Type": "Metal",
+    "Internal ID": "Tin",
+    "Source": "Smelter",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "No",
+    "Crafting Materials": "Tin ore x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Tin is a crafting material smelted from Tin ore in a Smelter.\nJust like Copper ore, Tin ore can only be found in the Black Forest biome. It takes the form of small shiny rock-like deposits on the ground near water (ocean & river shorelines, or small inland lakes).\nAn Antler pickaxe or better is required to mine the rocks, which yield 2-4 Tin ore each.\nOne Tin can be processed with two Copper on the Forge to create one Bronze. There is also an alternate recipe to craft 5 Bronze at a time given sufficient materials (10 copper, 5 tin)."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Cauldron\n• Mead ketill"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Bronze\n• Butcher knife"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Like other metals, Tin cannot be teleported without a Portal stone."
+    }
+  ],
+  "full_text": "Tin\n\nType: Metal | Internal ID: Tin | Source: Smelter | Usage: Building, Crafting | Teleportable (Can go through wood portal?): No | Crafting Materials: Tin ore x1\n\nIntroduction. Tin is a crafting material smelted from Tin ore in a Smelter.\nJust like Copper ore, Tin ore can only be found in the Black Forest biome. It takes the form of small shiny rock-like deposits on the ground near water (ocean & river shorelines, or small inland lakes).\nAn Antler pickaxe or better is required to mine the rocks, which yield 2-4 Tin ore each.\nOne Tin can be processed with two Copper on the Forge to create one Bronze. There is also an alternate recipe to craft 5 Bronze at a time given sufficient materials (10 copper, 5 tin).\n\nBuilding. • Cauldron\n• Mead ketill\n\nCrafting. • Bronze\n• Butcher knife\n\nNotes. • Like other metals, Tin cannot be teleported without a Portal stone.",
+  "scraped_at": "2026-02-26T01:37:07.628205+00:00"
+}

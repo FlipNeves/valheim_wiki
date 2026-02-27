@@ -1,0 +1,30 @@
+{
+  "title": "Asksvin egg",
+  "url": "https://valheim.fandom.com/wiki/Asksvin_egg",
+  "slug": "Asksvin_egg",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Asksvin egg",
+    "Type": "Material",
+    "Internal ID": "AsksvinEgg",
+    "Source": "Asksvin",
+    "Usage": "Taming",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Asksvin eggs are laid by Asksvin in the Ashlands biome. See Asksvin - Breeding for more details."
+    },
+    {
+      "heading": "Hatching",
+      "level": 2,
+      "text": "When placed near a fire or heat source and under a roof (needs shelter) for 30 minutes, the egg will hatch and an Asksvin hatchling will spawn, which will then grow into an adult Asksvin. The egg must be individual - not in a stack - in order to hatch.\nUnlike chicken eggs, Asksvin eggs come in different qualities. The number (quality) at the top right of the icon notes the level (stars) of the hatchling: Quality \"1\" hatches into regular Askvin hatchlings Quality \"2\" hatches into 1-star Askvin hatchlings Quality \"3\" hatches into 2-star Askvin hatchlings."
+    }
+  ],
+  "full_text": "Asksvin egg\n\nType: Material | Internal ID: AsksvinEgg | Source: Asksvin | Usage: Taming | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Asksvin eggs are laid by Asksvin in the Ashlands biome. See Asksvin - Breeding for more details.\n\nHatching. When placed near a fire or heat source and under a roof (needs shelter) for 30 minutes, the egg will hatch and an Asksvin hatchling will spawn, which will then grow into an adult Asksvin. The egg must be individual - not in a stack - in order to hatch.\nUnlike chicken eggs, Asksvin eggs come in different qualities. The number (quality) at the top right of the icon notes the level (stars) of the hatchling: Quality \"1\" hatches into regular Askvin hatchlings Quality \"2\" hatches into 1-star Askvin hatchlings Quality \"3\" hatches into 2-star Askvin hatchlings.",
+  "scraped_at": "2026-02-26T01:29:57.771234+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Burning",
+  "url": "https://valheim.fandom.com/wiki/Burning",
+  "slug": "Burning",
+  "categories": [
+    "Effects"
+  ],
+  "content": "# Burning\n\nEffects: X damage per tick\n\n# Introduction\n\nBurning is a status effect caused by taking Fire damage, for example by walking into a fire or getting hit by a fireball. It lasts for five seconds and ticks every second. Taking additional fire damage will stack damage on top of the current burning effect and recalculate the tick damage. Tick damage can be calculated with:\nt o t a l d a m a g e d u r a t i o n {\\displaystyle {total \\ damage \\over duration}}\nBurning deals Pure damage. Armor and Fire resistance indirectly affect the effect by reducing Fire damage, however they do not affect already acquired effects.\n\n## Notes\n\n• Burning expires 6x faster while being Wet.\n• Being Wet expires ~60x faster while burning.\n• The player is unable to receive the resting effect while burning.\n• Standing on a Campfire with 26 or more armor will not cause burning, as the Fire damage is reduced to less than 1. This assumes no weakness to Fire damage.\n\nCategorias: Effects",
+  "content_length": 976,
+  "scraped_at": "2026-02-26T01:56:32.858561+00:00"
+}

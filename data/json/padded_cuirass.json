@@ -1,0 +1,170 @@
+{
+  "title": "Padded Armor",
+  "url": "https://valheim.fandom.com/wiki/Padded_cuirass",
+  "slug": "Padded_cuirass",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Padded Armor is a Plains-tier armor. This set is the tier above Fenris Set and Wolf Armor and is replaced by Carapace Armor or Eitr-weave Set."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "This set of armor has four pieces, which are crafted and upgraded at both the Forge and the Workbench.",
+      "table_data": [
+        {
+          "Armor piece": "Padded helmet",
+          "Armor": "26",
+          "Crafting cost": "10 Iron15 Linen thread",
+          "Weight": "3.0",
+          "Movementspeed": ""
+        },
+        {
+          "Armor piece": "Padded cuirass",
+          "Armor": "26",
+          "Crafting cost": "10 Iron20 Linen thread",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Padded greaves",
+          "Armor": "26",
+          "Crafting cost": "10 Iron20 Linen thread",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Linen cape",
+          "Armor": "1",
+          "Crafting cost": "20 Linen thread1 Silver",
+          "Weight": "4.0",
+          "Movementspeed": ""
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "79",
+          "Crafting cost": "30 Iron75 Linen thread1 Silver",
+          "Weight": "27.0",
+          "Movementspeed": "-10%"
+        },
+        {
+          "Armor piece": "Padded helmet",
+          "Armor": "28",
+          "Upgrade cost(Total cost)": "5 (15) Iron10 (25) Linen thread",
+          "Weight": "3.0",
+          "Movementspeed": ""
+        },
+        {
+          "Armor piece": "Padded cuirass",
+          "Armor": "28",
+          "Upgrade cost(Total cost)": "3 (13) Iron10 (30)Linen thread",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Padded greaves",
+          "Armor": "28",
+          "Upgrade cost(Total cost)": "3 (13) Iron10 (30)Linen thread",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Linen cape",
+          "Armor": "2",
+          "Upgrade cost(Total cost)": "4 (24) Linen thread(1) Silver",
+          "Weight": "4.0",
+          "Movementspeed": ""
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "86",
+          "Upgrade cost(Total cost)": "11 (41) Iron34 (109) Linen thread(1) Silver",
+          "Weight": "27.0",
+          "Movementspeed": "-10%"
+        },
+        {
+          "Armor piece": "Padded helmet",
+          "Armor": "30",
+          "Upgrade cost(Total cost)": "10 (25) Iron20 (45) Linen thread",
+          "Weight": "3.0",
+          "Movementspeed": ""
+        },
+        {
+          "Armor piece": "Padded cuirass",
+          "Armor": "30",
+          "Upgrade cost(Total cost)": "6 (21) Iron20 (50) Linen thread",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Padded greaves",
+          "Armor": "30",
+          "Upgrade cost(Total cost)": "6 (21) Iron20 (50) Linen thread",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Linen cape",
+          "Armor": "3",
+          "Upgrade cost(Total cost)": "8 (32) Linen thread(1) Silver",
+          "Weight": "4.0",
+          "Movementspeed": ""
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "93",
+          "Upgrade cost(Total cost)": "22 (63) Iron68 (177) Linen thread(1) Silver",
+          "Weight": "27.0",
+          "Movementspeed": "-10%"
+        },
+        {
+          "Armor piece": "Padded helmet",
+          "Armor": "32",
+          "Upgrade cost(Total cost)": "15 (40) Iron30 (75) Linen thread",
+          "Weight": "3.0",
+          "Movementspeed": ""
+        },
+        {
+          "Armor piece": "Padded cuirass",
+          "Armor": "32",
+          "Upgrade cost(Total cost)": "9 (28) Iron30 (80) Linen thread",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Padded greaves",
+          "Armor": "32",
+          "Upgrade cost(Total cost)": "9 (28) Iron30 (80) Linen thread",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Linen cape",
+          "Armor": "4",
+          "Upgrade cost(Total cost)": "12 (44) Linen thread(1) Silver",
+          "Weight": "4.0",
+          "Movementspeed": ""
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "100",
+          "Upgrade cost(Total cost)": "33 (96) Iron102 (279) Linen thread(1) Silver",
+          "Weight": "27.0",
+          "Movementspeed": "-10%"
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Historically, it is yet to be confirmed whether Vikings wore padded armor. Assuming that they did, padded armor plausibly provided comfort as much as protection, more so if worn underneath mail armor (though it provided decent protection, mail armor did little to absorb or dissipate the force of a blow, resulting in bruises at best and broken bones at worst)."
+    }
+  ],
+  "full_text": "Padded Armor\n\nIntroduction. Padded Armor is a Plains-tier armor. This set is the tier above Fenris Set and Wolf Armor and is replaced by Carapace Armor or Eitr-weave Set.\n\nArmor pieces. This set of armor has four pieces, which are crafted and upgraded at both the Forge and the Workbench.\n\nTrivia. • Historically, it is yet to be confirmed whether Vikings wore padded armor. Assuming that they did, padded armor plausibly provided comfort as much as protection, more so if worn underneath mail armor (though it provided decent protection, mail armor did little to absorb or dissipate the force of a blow, resulting in bruises at best and broken bones at worst).",
+  "scraped_at": "2026-02-26T02:07:27.455301+00:00"
+}

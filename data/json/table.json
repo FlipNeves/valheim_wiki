@@ -1,0 +1,75 @@
+{
+  "title": "Tables",
+  "url": "https://valheim.fandom.com/wiki/Table",
+  "slug": "Table",
+  "categories": [
+    "Furniture",
+    "Grants Comfort"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Tables are furniture. They can be used for placing items on top or as simple decorative objects."
+    },
+    {
+      "heading": "Common properties",
+      "level": 2,
+      "text": "Tables provide comfort, but they do not stack with each other: only the highest-comfort table in a player's vicinity will provide comfort.\nAll tables have the following damage resistances:\n• Weak: Chop\n• Neutral: Blunt, Slash, Pickaxe, Fire, Frost, Lightning\n• Resistant: Pierce\n• Immune: Poison, Spirit"
+    },
+    {
+      "heading": "Structures",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Table": "Table",
+          "Materials": "Finewood x6",
+          "Size": "2.5 x 0.8 x 1.2",
+          "Internal id": "piece_table",
+          "Support": "Wood (from 10 to 100)",
+          "Loss": "1/8 vertical, 1/5 horizontal",
+          "Durability": "100",
+          "Damaged by Rain?": "Yes",
+          "Comfort": "1"
+        },
+        {
+          "Table": "Round table",
+          "Materials": "Finewood x10 Tar x2 Iron nails x20",
+          "Size": "2.5 x 0.8 x 2.5",
+          "Internal id": "piece_table_round",
+          "Support": "Wood (from 10 to 100)",
+          "Loss": "1/8 vertical, 1/5 horizontal",
+          "Durability": "150",
+          "Damaged by Rain?": "Yes",
+          "Comfort": "2"
+        },
+        {
+          "Table": "Long heavy table",
+          "Materials": "Finewood x20 Tar x2 Iron nails x20",
+          "Size": "2x8",
+          "Internal id": "piece_table_oak",
+          "Support": "Wood (from 10 to 100)",
+          "Loss": "1/8 vertical, 1/5 horizontal",
+          "Durability": "200",
+          "Damaged by Rain?": "Yes",
+          "Comfort": "2"
+        },
+        {
+          "Table": "Black marble table",
+          "Materials": "Black marble x6 Copper x3",
+          "Size": "2x3",
+          "Internal id": "piece_blackmarble_table",
+          "Support": "Marble (from 100 to 1500)",
+          "Loss": "1/8 vertical, 1/2 horizontal",
+          "Durability": "100",
+          "Damaged by Rain?": "No",
+          "Comfort": "1"
+        }
+      ]
+    }
+  ],
+  "full_text": "Tables\n\nIntroduction. Tables are furniture. They can be used for placing items on top or as simple decorative objects.\n\nCommon properties. Tables provide comfort, but they do not stack with each other: only the highest-comfort table in a player's vicinity will provide comfort.\nAll tables have the following damage resistances:\n• Weak: Chop\n• Neutral: Blunt, Slash, Pickaxe, Fire, Frost, Lightning\n• Resistant: Pierce\n• Immune: Poison, Spirit",
+  "scraped_at": "2026-02-26T02:02:37.218386+00:00"
+}

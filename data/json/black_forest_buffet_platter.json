@@ -1,0 +1,41 @@
+{
+  "title": "Black Forest buffet platter",
+  "url": "https://valheim.fandom.com/wiki/Black_Forest_buffet_platter",
+  "slug": "Black_Forest_buffet_platter",
+  "categories": [
+    "Food",
+    "Feast"
+  ],
+  "infobox": {
+    "_infobox_title": "Black Forest buffet platter",
+    "Type": "Feast",
+    "Internal ID": "FeastBlackforest_Material",
+    "Source": "Food preparation table",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Deer stew x3, Thistle x5, Queen's jam x4, Woodland herb blend x1",
+    "Max Health": "35",
+    "Max Stamina": "35",
+    "Duration": "50m",
+    "Healing": "3 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Black Forest buffet platter is the Black Forest-tier Feast."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Black Forest buffet platter can be produced at a Food preparation table with:\n• Deer stew x3\n• Thistle x5\n• Queen's jam x4\n• Woodland herb blend x1"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Although most of the ingredients are found in the Black Forest, the Woodland herb blend is only sold by The Bog Witch in the Swamp after The Elder has been defeated, so the Black Forest buffet platter will generally be acquired by players who are already at the Swamps stage."
+    }
+  ],
+  "full_text": "Black Forest buffet platter\n\nType: Feast | Internal ID: FeastBlackforest_Material | Source: Food preparation table | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Deer stew x3, Thistle x5, Queen's jam x4, Woodland herb blend x1 | Max Health: 35 | Max Stamina: 35 | Duration: 50m | Healing: 3 hp/tick\n\nIntroduction. Black Forest buffet platter is the Black Forest-tier Feast.\n\nRecipe. Black Forest buffet platter can be produced at a Food preparation table with:\n• Deer stew x3\n• Thistle x5\n• Queen's jam x4\n• Woodland herb blend x1\n\nTrivia. • Although most of the ingredients are found in the Black Forest, the Woodland herb blend is only sold by The Bog Witch in the Swamp after The Elder has been defeated, so the Black Forest buffet platter will generally be acquired by players who are already at the Swamps stage.",
+  "scraped_at": "2026-02-26T01:24:56.813586+00:00"
+}

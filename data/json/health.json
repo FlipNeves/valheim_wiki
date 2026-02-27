@@ -1,0 +1,43 @@
+{
+  "title": "Health",
+  "url": "https://valheim.fandom.com/wiki/Health",
+  "slug": "Health",
+  "categories": [
+    "Mechanics"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Health determines how much damage destructibles, creatures, ore deposits, players, structures and trees can take before getting killed or destroyed.\nReaching 0 health results in death. Players leave behind a tombstone with their inventory contents whereas creatures burst into loot."
+    },
+    {
+      "heading": "Max health",
+      "level": 2,
+      "text": "Players start with 25 health which can be increased by eating food.\nCreatures have a different base health per creature that gets increased with creature level and multiplayer scaling.\nDestructibles, ore deposits, structures and trees have different health per object."
+    },
+    {
+      "heading": "Players",
+      "level": 3,
+      "text": "Players gain health regeneration by eating food. Each food gives 1-6 health regeneration that is applied every 10 seconds.\nHealth regeneration is further modified by Status effects. Positive status effects are additive, while negative status effects are multiplicative. This means the order of effects matters when there are both positive and negative effects. However, Rested and Resting cannot be acquired while having some of the negative status effects.\n• Freezing: 0x\n• Cold: 0.5x\n• Tasty mead: 0.5x\n• Wet: 0.75x\n• Resting: +200%\n• Rested: +50%\n• Lingering healing mead: +25%\nOther sources:\n• Corpse Run: 5 health per second\n• Freezing: -1 health per second\n• Minor healing mead: 50 health over 10 seconds\n• Medium healing mead: 75 health over 10 seconds\n• Lingering healing mead: +25% health regeneration\n• Berserk: +30% health regeneration\n• Vilebone Wrath: +20% health regeneration\n• Heart of the Forest effect: +25% health regeneration\n• Iron Brooch effect: heals 50 health\n• Bracelets of the Brave effect: heals 100 health\n• Brimstone effect: heals 100 health"
+    },
+    {
+      "heading": "Creatures",
+      "level": 3,
+      "text": "Creatures passively regenerate 0.028% of their max health per second (10% over 6 minutes, 100% over 60 minutes).\nOther sources:\n• Consuming items: 5 health for Boar, 10 health for Lox and 20 health for Wolf.\n• Healing from Greydwarf shaman: 20 health\n• Dvergr heal: Heals 400 health over 4 seconds."
+    },
+    {
+      "heading": "Structures",
+      "level": 3,
+      "text": "Destructibles, ore deposits, structures and trees do not regenerate health. Some structures can be repaired by players."
+    },
+    {
+      "heading": "Invincibility",
+      "level": 2,
+      "text": "Invincibility prevents all damage and knockback caused by attacks. Characters are invincible:\n• When using debug fly command\n• When teleporting through portals\n• When entering or exiting dungeons\n• When sleeping\n• During cutscenes\n• When dodging (only works when the attack can be dodged)\n• When PvP is not enabled (only works against players)\n• When dead\nFor example, Troll Caves can be safely exited even when chased by a Troll."
+    }
+  ],
+  "full_text": "Health\n\nIntroduction. Health determines how much damage destructibles, creatures, ore deposits, players, structures and trees can take before getting killed or destroyed.\nReaching 0 health results in death. Players leave behind a tombstone with their inventory contents whereas creatures burst into loot.\n\nMax health. Players start with 25 health which can be increased by eating food.\nCreatures have a different base health per creature that gets increased with creature level and multiplayer scaling.\nDestructibles, ore deposits, structures and trees have different health per object.\n\nPlayers. Players gain health regeneration by eating food. Each food gives 1-6 health regeneration that is applied every 10 seconds.\nHealth regeneration is further modified by Status effects. Positive status effects are additive, while negative status effects are multiplicative. This means the order of effects matters when there are both positive and negative effects. However, Rested and Resting cannot be acquired while having some of the negative status effects.\n• Freezing: 0x\n• Cold: 0.5x\n• Tasty mead: 0.5x\n• Wet: 0.75x\n• Resting: +200%\n• Rested: +50%\n• Lingering healing mead: +25%\nOther sources:\n• Corpse Run: 5 health per second\n• Freezing: -1 health per second\n• Minor healing mead: 50 health over 10 seconds\n• Medium healing mead: 75 health over 10 seconds\n• Lingering healing mead: +25% health regeneration\n• Berserk: +30% health regeneration\n• Vilebone Wrath: +20% health regeneration\n• Heart of the Forest effect: +25% health regeneration\n• Iron Brooch effect: heals 50 health\n• Bracelets of the Brave effect: heals 100 health\n• Brimstone effect: heals 100 health\n\nCreatures. Creatures passively regenerate 0.028% of their max health per second (10% over 6 minutes, 100% over 60 minutes).\nOther sources:\n• Consuming items: 5 health for Boar, 10 health for Lox and 20 health for Wolf.\n• Healing from Greydwarf shaman: 20 health\n• Dvergr heal: Heals 400 health over 4 seconds.\n\nStructures. Destructibles, ore deposits, structures and trees do not regenerate health. Some structures can be repaired by players.\n\nInvincibility. Invincibility prevents all damage and knockback caused by attacks. Characters are invincible:\n• When using debug fly command\n• When teleporting through portals\n• When entering or exiting dungeons\n• When sleeping\n• During cutscenes\n• When dodging (only works when the attack can be dodged)\n• When PvP is not enabled (only works against players)\n• When dead\nFor example, Troll Caves can be safely exited even when chased by a Troll.",
+  "scraped_at": "2026-02-26T01:57:27.317330+00:00"
+}

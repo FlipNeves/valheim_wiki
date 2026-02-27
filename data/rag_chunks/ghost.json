@@ -1,0 +1,11 @@
+{
+  "title": "Ghost",
+  "url": "https://valheim.fandom.com/wiki/Ghost",
+  "slug": "Ghost",
+  "categories": [
+    "Creatures"
+  ],
+  "content": "# Ghost\n\nInternal ID: Ghost | Faction: Undead | Main biome: Black Forest | Drops: Ectoplasm, ,, Ghost trophy | Abilities: Attack | Trophy: Ghost trophy | Weak to (x1.5): Spirit | Neutral to (x1): Fire, ,, Frost, ,, Lightning, ,, Stagger | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce | Immune to (x0): Poison, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\n# Introduction\n\nGhosts are aggressive creatures found in Black Forests within Burial Chambers, and as part of \"You feel a chill down your spine...\" raid event.\n\n## Drops\n\n• Item: Ectoplasm | 0 Star: 1-2\n\n• Item: Ghost trophy | 0 Star: 10%\n\n### Spawning\n\n• Type: Uncommon spawn point in Burial Chambers | Limit: - | Frequency: One time | Stars: No\n\n• Type: During \"You feel a chill down your spine...\" event after defeating Bonemass | Limit: 3 | Frequency: Very common | Stars: No\n\n• Type: Uncommon spawn point in Smouldering Tombs | Limit: - | Frequency: One time | Stars: Yes (only 1-star)\n\n### Attack\n\nSwings their hand sideways in a 1.7-meter 90-degree horizontal arc to scratch the player (25 Slash damage). This attack can be used every 2 seconds when within 1.2 meters of a player.\n\n## Notes\n\n• Like Leviathans, they do not respawn, making them a finite creature when raids are disabled.\n\nCategorias: Creatures",
+  "content_length": 1271,
+  "scraped_at": "2026-02-26T01:07:40.729003+00:00"
+}

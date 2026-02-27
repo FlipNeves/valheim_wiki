@@ -1,0 +1,169 @@
+{
+  "title": "Iron Armor",
+  "url": "https://valheim.fandom.com/wiki/Iron_scale_mail",
+  "slug": "Iron_scale_mail",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Iron Armor is a Swamp-tier armor. This set is the tier above the Troll Set, Bronze Armor, and the Bear Set, and is replaced by the Fenris Set or Wolf Armor."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "This set of armor has three pieces which are crafted and upgraded at the Forge.",
+      "table_data": [
+        {
+          "Armor piece": "Iron helmet",
+          "Armor": "14",
+          "Crafting cost": "20 Iron2 Deer hide",
+          "Weight": "3",
+          "Movement speed": "",
+          "Forge level crafting": "1",
+          "Forge level repairing": "1"
+        },
+        {
+          "Armor piece": "Iron scale mail",
+          "Armor": "14",
+          "Crafting cost": "20 Iron2 Deer hide",
+          "Weight": "15",
+          "Movement speed": "-5%",
+          "Forge level crafting": "2",
+          "Forge level repairing": "2"
+        },
+        {
+          "Armor piece": "Iron greaves",
+          "Armor": "14",
+          "Crafting cost": "20 Iron2 Deer hide",
+          "Weight": "15",
+          "Movement speed": "-5%",
+          "Forge level crafting": "2",
+          "Forge level repairing": "2"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "42",
+          "Crafting cost": "60 Iron6 Deer hide",
+          "Weight": "33",
+          "Movement speed": "-10%",
+          "Forge level crafting": "2",
+          "Forge level repairing": "2"
+        },
+        {
+          "Armor piece": "Iron helmet",
+          "Armor": "16",
+          "Upgrade cost(Total cost)": "5 (25) Iron(2) Deer hide",
+          "Weight": "3",
+          "Movement speed": "",
+          "Forge level crafting": "2",
+          "Forge level repairing": "1"
+        },
+        {
+          "Armor piece": "Iron scale mail",
+          "Armor": "16",
+          "Upgrade cost(Total cost)": "5 (25) Iron(2) Deer hide",
+          "Weight": "15",
+          "Movement speed": "-5%",
+          "Forge level crafting": "3",
+          "Forge level repairing": "2"
+        },
+        {
+          "Armor piece": "Iron greaves",
+          "Armor": "16",
+          "Upgrade cost(Total cost)": "5 (25) Iron(2) Deer hide",
+          "Weight": "15",
+          "Movement speed": "-5%",
+          "Forge level crafting": "3",
+          "Forge level repairing": "2"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "48",
+          "Upgrade cost(Total cost)": "15 (75) Iron(6) Deer hide",
+          "Weight": "33",
+          "Movement speed": "-10%",
+          "Forge level crafting": "3",
+          "Forge level repairing": "2"
+        },
+        {
+          "Armor piece": "Iron helmet",
+          "Armor": "18",
+          "Upgrade cost(Total cost)": "10 (35) Iron(2) Deer hide",
+          "Weight": "3",
+          "Movement speed": "",
+          "Forge level crafting": "3",
+          "Forge level repairing": "1"
+        },
+        {
+          "Armor piece": "Iron scale mail",
+          "Armor": "18",
+          "Upgrade cost(Total cost)": "10 (35) Iron(2) Deer hide",
+          "Weight": "15",
+          "Movement speed": "-5%",
+          "Forge level crafting": "4",
+          "Forge level repairing": "2"
+        },
+        {
+          "Armor piece": "Iron greaves",
+          "Armor": "18",
+          "Upgrade cost(Total cost)": "10 (35) Iron(2) Deer hide",
+          "Weight": "15",
+          "Movement speed": "-5%",
+          "Forge level crafting": "4",
+          "Forge level repairing": "2"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "54",
+          "Upgrade cost(Total cost)": "30 (105) Iron(6) Deer hide",
+          "Weight": "33",
+          "Movement speed": "-10%",
+          "Forge level crafting": "4",
+          "Forge level repairing": "2"
+        },
+        {
+          "Armor piece": "Iron helmet",
+          "Armor": "20",
+          "Upgrade cost(Total cost)": "15 (50) Iron(2) Deer hide",
+          "Weight": "3",
+          "Movement speed": "",
+          "Forge level crafting": "4",
+          "Forge level repairing": "1"
+        },
+        {
+          "Armor piece": "Iron scale mail",
+          "Armor": "20",
+          "Upgrade cost(Total cost)": "15 (50) Iron(2) Deer hide",
+          "Weight": "15",
+          "Movement speed": "-5%",
+          "Forge level crafting": "5",
+          "Forge level repairing": "2"
+        },
+        {
+          "Armor piece": "Iron greaves",
+          "Armor": "20",
+          "Upgrade cost(Total cost)": "15 (50) Iron(2) Deer hide",
+          "Weight": "15",
+          "Movement speed": "-5%",
+          "Forge level crafting": "5",
+          "Forge level repairing": "2"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "60",
+          "Upgrade cost(Total cost)": "45 (150) Iron(6) Deer hide",
+          "Weight": "33",
+          "Movement speed": "-10%",
+          "Forge level crafting": "5",
+          "Forge level repairing": "2"
+        }
+      ]
+    }
+  ],
+  "full_text": "Iron Armor\n\nIntroduction. Iron Armor is a Swamp-tier armor. This set is the tier above the Troll Set, Bronze Armor, and the Bear Set, and is replaced by the Fenris Set or Wolf Armor.\n\nArmor pieces. This set of armor has three pieces which are crafted and upgraded at the Forge.",
+  "scraped_at": "2026-02-26T02:06:54.008447+00:00"
+}

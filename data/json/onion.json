@@ -1,0 +1,77 @@
+{
+  "title": "Onion",
+  "url": "https://valheim.fandom.com/wiki/Onion",
+  "slug": "Onion",
+  "categories": [
+    "Food",
+    "Farming"
+  ],
+  "infobox": {
+    "_infobox_title": "Onion",
+    "Type": "Food",
+    "Internal ID": "Onion",
+    "Source": "Farming, Onion seeds",
+    "Usage": "Crafting, Eating, Farming, Taming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "13",
+    "Max Stamina": "40",
+    "Duration": "15m",
+    "Healing": "1 hp/tick",
+    "Produces": "3, Onion seeds",
+    "Grow Time (s)": "1h 6m 40s, -, 1h 23m 20s",
+    "Needs Cultivated Ground?": "Yes",
+    "Space Needed (m)": "1",
+    "Hospitable Biomes": "Meadows, ,, Black Forest, and, Plains"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Onions are crops grown from Onion seeds. They are obtained in the Mountain biome as seeds, normally located in chests in locations such as ruined shacks or ruined towers. Onions are unlike other farmable crops such as Carrot or Turnip in that they are only found as seeds, and never appear in nature in plant form without a player planting it first."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Onions are grown by planting Onion seeds with the Cultivator.\n• It takes between 4000s and 5000s (between 66m40s and 83m20s, or about 2.22-2.78 in-game days) for them to fully grow."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Result": "Onion soup",
+          "Ingredients": "• Onion x3",
+          "Crafting Station": "Cauldron (2)"
+        },
+        {
+          "Result": "Wolf skewer",
+          "Ingredients": "• Wolf meat x1• Mushroom x2• Onion x1",
+          "Crafting Station": "Cauldron (3)"
+        },
+        {
+          "Result": "Salad",
+          "Ingredients": "• Jotun puffs x3• Onion x3• Cloudberries x3",
+          "Crafting Station": "Cauldron (5)"
+        },
+        {
+          "Result": "Mead base: Animal whispers",
+          "Ingredients": "• Carrot x10• Onion x5• Pungent pebbles x1",
+          "Crafting Station": "Mead ketill"
+        }
+      ]
+    },
+    {
+      "heading": "Farming",
+      "level": 3,
+      "text": "• 3 Onion seeds can be obtained by planting and growing a \"Seed-onion\" using the Cultivator."
+    },
+    {
+      "heading": "Taming",
+      "level": 3,
+      "text": "• Can be fed to hungry Boars to either begin or continue the taming process, or to allow reproduction."
+    }
+  ],
+  "full_text": "Onion\n\nType: Food | Internal ID: Onion | Source: Farming, Onion seeds | Usage: Crafting, Eating, Farming, Taming | Teleportable (Can go through wood portal?): Yes | Max Health: 13 | Max Stamina: 40 | Duration: 15m | Healing: 1 hp/tick | Produces: 3, Onion seeds | Grow Time (s): 1h 6m 40s, -, 1h 23m 20s | Needs Cultivated Ground?: Yes | Space Needed (m): 1 | Hospitable Biomes: Meadows, ,, Black Forest, and, Plains\n\nIntroduction. Onions are crops grown from Onion seeds. They are obtained in the Mountain biome as seeds, normally located in chests in locations such as ruined shacks or ruined towers. Onions are unlike other farmable crops such as Carrot or Turnip in that they are only found as seeds, and never appear in nature in plant form without a player planting it first.\n\nAvailability. • Onions are grown by planting Onion seeds with the Cultivator.\n• It takes between 4000s and 5000s (between 66m40s and 83m20s, or about 2.22-2.78 in-game days) for them to fully grow.\n\nFarming. • 3 Onion seeds can be obtained by planting and growing a \"Seed-onion\" using the Cultivator.\n\nTaming. • Can be fed to hungry Boars to either begin or continue the taming process, or to allow reproduction.",
+  "scraped_at": "2026-02-26T01:27:36.084056+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Minor eitr mead",
+  "url": "https://valheim.fandom.com/wiki/Mead_base:_Minor_eitr",
+  "slug": "Mead_base:_Minor_eitr",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Minor eitr mead",
+    "Type": "Mead",
+    "Internal ID": "MeadEitrMinor",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mead base: Minor eitr x1",
+    "Duration": "10s",
+    "Cooldown": "2m",
+    "Eitr Regen": "+125 Eitr over 10s"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Minor eitr mead is a Mistlands-tier consumable item fermented from Mead base: Minor eitr."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Mead base: Minor eitr is produced in a Mead ketill with:\n• 10 Honey\n• 5 Sap\n• 2 Jotun puffs\n• 5 Magecap\nSix Minor eitr meads are produced by fermenting the mead base for two in-game days."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Upon consumption, it restores 125 eitr over 10 seconds.\nA 2-min cooldown is applied preventing consumption of another eitr mead."
+    }
+  ],
+  "full_text": "Minor eitr mead\n\nType: Mead | Internal ID: MeadEitrMinor | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Minor eitr x1 | Duration: 10s | Cooldown: 2m | Eitr Regen: +125 Eitr over 10s\n\nIntroduction. Minor eitr mead is a Mistlands-tier consumable item fermented from Mead base: Minor eitr.\n\nRecipe. Mead base: Minor eitr is produced in a Mead ketill with:\n• 10 Honey\n• 5 Sap\n• 2 Jotun puffs\n• 5 Magecap\nSix Minor eitr meads are produced by fermenting the mead base for two in-game days.\n\nEffect. Upon consumption, it restores 125 eitr over 10 seconds.\nA 2-min cooldown is applied preventing consumption of another eitr mead.",
+  "scraped_at": "2026-02-26T02:16:07.732046+00:00"
+}

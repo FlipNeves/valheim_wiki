@@ -1,0 +1,31 @@
+{
+  "title": "Flower garland",
+  "url": "https://valheim.fandom.com/wiki/Flower_garland",
+  "slug": "Flower_garland",
+  "categories": [
+    "Furniture"
+  ],
+  "infobox": {
+    "_infobox_title": "Flower garland",
+    "Type": "Furniture",
+    "Internal ID": "piece_CelebrationGarland",
+    "Source": "Workbench",
+    "Usage": "Decoration",
+    "Crafting Materials": "Finewood x2, Dandelion x1",
+    "Support": "Wood (from 10 to 100)",
+    "Loss": "1/8 vertical, 1/5 horizontal",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Flower garland is a decorative object. It needs to be built within the range of a Workbench."
+    }
+  ],
+  "full_text": "Flower garland\n\nType: Furniture | Internal ID: piece_CelebrationGarland | Source: Workbench | Usage: Decoration | Crafting Materials: Finewood x2, Dandelion x1 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Flower garland is a decorative object. It needs to be built within the range of a Workbench.",
+  "scraped_at": "2026-02-26T01:41:17.469737+00:00"
+}

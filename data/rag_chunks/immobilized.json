@@ -1,0 +1,11 @@
+{
+  "title": "Immobilized",
+  "url": "https://valheim.fandom.com/wiki/Immobilized",
+  "slug": "Immobilized",
+  "categories": [
+    "Effects"
+  ],
+  "content": "# Immobilized\n\nEffects: Prevents movement and rotation.\n\n# Introduction\n\nImmobilized is a Status effect that prevents movement and character rotation, it does not prevent attacking, blocking or rolling.\nAn immobilized creature cannot move or change the direction that they are facing, but can still attack if they are facing a target within their range. Creatures that have movements that are part of their attack animations, such as the Morgen, can still perform these movements while immobilized.\n\n## Sources\n\nTrap applies a 5-second Immobilized status, both the one crafted by players and those found in Sealed Tower.\nWeapons upgraded with Jade apply a 10-second Immobilized status with a 20% chance on hit:\n• Klossen\n• Nidhögg the Primal\n• Primal Berserkir axes\n• Primal Slayer\n• Splitnir the Primal\n• Root Fang\nThe Roots invoked by the Staff of the Wild have a 10% chance to apply a 10-second Immobilized status on hit.\n\nCategorias: Effects",
+  "content_length": 945,
+  "scraped_at": "2026-02-26T02:00:18.788806+00:00"
+}

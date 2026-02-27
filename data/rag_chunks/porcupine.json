@@ -1,0 +1,13 @@
+{
+  "title": "Porcupine",
+  "url": "https://valheim.fandom.com/wiki/Porcupine",
+  "slug": "Porcupine",
+  "categories": [
+    "Weapons",
+    "Clubs",
+    "Forge recipes"
+  ],
+  "content": "# Porcupine\n\nInternal ID: MaceNeedle | Type: Club | Source: Forge | Usage: Weapon | Wielding: One-handed | Crafting Materials: Iron x6, Needle x6 | Attack speed: 1.72 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.5 range, 30 angle, 0.8 height, 0.3 ray, vertical | Movement speed: -5%\n\n# Introduction\n\nThe Porcupine is the fifth one-handed club. Its primary attack is a 3-hit attack combo with double damage on the last hit. Its slower secondary attack deals 2.5x damage and 2x staggering.\nIts combination of blunt and pierce damage makes it struggle to take advantage of weaknesses, as most things that are weak to blunt resist pierce, and vice versa; however, this also gives the Porcupine consistent damage output against most enemies because they will be neutral to both or take more from one and less from the other.\n\n## Upgrade information\n\n• stat: Blunt | Quality 1: 50 | Quality 2: 50 | Quality 3: 50 | Quality 4: 50\n\n• stat: Pierce | Quality 1: 45 | Quality 2: 51 | Quality 3: 57 | Quality 4: 63\n\n• stat: Durability | Quality 1: 150 | Quality 2: 200 | Quality 3: 250 | Quality 4: 300\n\n• stat: Crafting | Quality 1: 5 Finewood20 Iron5 Needle10 Linen thread | Quality 2: 2 Iron2 Needle | Quality 3: 4 Iron4 Needle | Quality 4: 6 Iron6 Needle | Total: 5 Finewood32 Iron17 Needle10 Linen thread\n\n• stat: Forge level | Quality 1: 4 | Quality 2: 5 | Quality 3: 6 | Quality 4: 7\n\n## Notes\n\n• It has a slight glowing effect, and will emit a small amount of light even when holstered.\n• It is the only Black metal tier weapon that does not require Black metal to craft, so it can be acquired without needing to transfer or process the Black metal scrap.\n\nCategorias: Weapons, Clubs, Forge recipes",
+  "content_length": 1707,
+  "scraped_at": "2026-02-26T01:17:29.501588+00:00"
+}

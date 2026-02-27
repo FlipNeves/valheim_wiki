@@ -1,0 +1,35 @@
+{
+  "title": "Dandelion",
+  "url": "https://valheim.fandom.com/wiki/Dandelion",
+  "slug": "Dandelion",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Dandelion",
+    "Type": "Material",
+    "Internal ID": "Dandelion",
+    "Source": "Meadows, biome",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Found on the ground in the Meadows biome. Picked dandelions will respawn in the same location after 240 minutes.\n• Dropped by Greydwarf brute."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Spice rack\n• Maypole\n• Yellow banner\n• Yuleklapp (medium)"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Midsummer crown\n• Mead base: Medium healing\n• Mead base: Minor healing\n• Mead base: Vananidir\n• Whole roasted Meadow boar\n• Yellow firework"
+    }
+  ],
+  "full_text": "Dandelion\n\nType: Material | Internal ID: Dandelion | Source: Meadows, biome | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nAvailability. • Found on the ground in the Meadows biome. Picked dandelions will respawn in the same location after 240 minutes.\n• Dropped by Greydwarf brute.\n\nBuilding. • Spice rack\n• Maypole\n• Yellow banner\n• Yuleklapp (medium)\n\nCrafting. • Midsummer crown\n• Mead base: Medium healing\n• Mead base: Minor healing\n• Mead base: Vananidir\n• Whole roasted Meadow boar\n• Yellow firework",
+  "scraped_at": "2026-02-26T01:32:46.049347+00:00"
+}

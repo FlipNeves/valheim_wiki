@@ -1,0 +1,29 @@
+{
+  "title": "Pots",
+  "url": "https://valheim.fandom.com/wiki/Pots",
+  "slug": "Pots",
+  "categories": [
+    "Furniture",
+    "Storage"
+  ],
+  "infobox": {
+    "_infobox_title": "Green Pots",
+    "Type": "Furniture",
+    "Internal ID": "piece_pot3 (small) | piece_pot1 (medium)piece_pot2 (large)",
+    "Usage": "Stores items 1x1, 1x2, 1x3",
+    "Crafting Materials": "Pot shard x3, x4, x5, Charcoal resin x1",
+    "Weak to (x1.5)": "Blunt, ,, Pickaxe",
+    "Neutral to (x1)": "Slash, ,, Chop",
+    "Resistant to (x0.5)": "Pierce, ,, Fire, ,, Frost, ,, Lightning",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Pots are decorative furniture pieces that can be used to store items. They cannot be used for planting.\nPots are crafted from Pot shards dropped from destroying Ancient pots and Charcoal resin dropped from Scorched Trees.\nThey do not require any station to be built."
+    }
+  ],
+  "full_text": "Pots\n\nType: Furniture | Internal ID: piece_pot3 (small) | piece_pot1 (medium)piece_pot2 (large) | Usage: Stores items 1x1, 1x2, 1x3 | Crafting Materials: Pot shard x3, x4, x5, Charcoal resin x1 | Weak to (x1.5): Blunt, ,, Pickaxe | Neutral to (x1): Slash, ,, Chop | Resistant to (x0.5): Pierce, ,, Fire, ,, Frost, ,, Lightning | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Pots are decorative furniture pieces that can be used to store items. They cannot be used for planting.\nPots are crafted from Pot shards dropped from destroying Ancient pots and Charcoal resin dropped from Scorched Trees.\nThey do not require any station to be built.",
+  "scraped_at": "2026-02-26T01:41:49.066034+00:00"
+}

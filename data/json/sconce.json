@@ -1,0 +1,28 @@
+{
+  "title": "Sconce",
+  "url": "https://valheim.fandom.com/wiki/Sconce",
+  "slug": "Sconce",
+  "categories": [
+    "Furniture",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Sconce",
+    "Type": "Furniture",
+    "Internal ID": "piece_walltorch",
+    "Source": "Forge",
+    "Crafting Materials": "Wood x2, Copper x2, Resin x2",
+    "Weak to (x1.5)": "Blunt",
+    "Neutral to (x1)": "Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Pickaxe, ,, Pierce, ,, Slash",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Sconce is a light source that can be built using the Hammer within range of a Forge. It requires Resin as fuel.\nIt can hold up to 6 Resin at once. With 1/6 fuel, a Sconce will last for 5 hours and 33 minutes. At maximum capacity a Sconce should burn for 33 hours and 20 minutes. This duration is the same for the Standing iron torch, Standing green-burning iron torch and Standing blue-burning iron torch, and lasts longer than the Standing wood torch. Sconces need to be 1m below a ceiling from the middle point of the wood diamond or they will turn off.\nA Sconce mounted outside will not be extinguished by a rainstorm."
+    }
+  ],
+  "full_text": "Sconce\n\nType: Furniture | Internal ID: piece_walltorch | Source: Forge | Crafting Materials: Wood x2, Copper x2, Resin x2 | Weak to (x1.5): Blunt | Neutral to (x1): Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Pickaxe, ,, Pierce, ,, Slash | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. The Sconce is a light source that can be built using the Hammer within range of a Forge. It requires Resin as fuel.\nIt can hold up to 6 Resin at once. With 1/6 fuel, a Sconce will last for 5 hours and 33 minutes. At maximum capacity a Sconce should burn for 33 hours and 20 minutes. This duration is the same for the Standing iron torch, Standing green-burning iron torch and Standing blue-burning iron torch, and lasts longer than the Standing wood torch. Sconces need to be 1m below a ceiling from the middle point of the wood diamond or they will turn off.\nA Sconce mounted outside will not be extinguished by a rainstorm.",
+  "scraped_at": "2026-02-26T01:42:08.041851+00:00"
+}

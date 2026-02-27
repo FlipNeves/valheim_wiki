@@ -1,0 +1,62 @@
+{
+  "title": "Summoned Twitcher",
+  "url": "https://valheim.fandom.com/wiki/Summoned_Twitcher",
+  "slug": "Summoned_Twitcher",
+  "categories": [
+    "Minions"
+  ],
+  "infobox": {
+    "_infobox_title": "Summoned Twitcher",
+    "Internal ID": "Charred_Twitcher_Summoned",
+    "Type": "Minion",
+    "Faction": "Demon",
+    "Main biome": "Ashlands",
+    "Drops": "Charred bone",
+    "Abilities": "Scratch, Rock Throw",
+    "Weak to (x1.5)": "Spirit",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Very resistant to (x0.25)": "Fire",
+    "Immune to (x0)": "Poison, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Summoned Twitchers are aggressive creatures summoned by Charred Warlock."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Charred bone",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Summoned by Charred Warlocks",
+          "Limit": "10",
+          "Frequency": "Common",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Attacks and abilities",
+      "level": 2,
+      "text": "They have the same attack moves and damage as regular Charred Twitchers, but only have 50 health."
+    }
+  ],
+  "full_text": "Summoned Twitcher\n\nInternal ID: Charred_Twitcher_Summoned | Type: Minion | Faction: Demon | Main biome: Ashlands | Drops: Charred bone | Abilities: Scratch, Rock Throw | Weak to (x1.5): Spirit | Neutral to (x1): Blunt, ,, Slash, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Very resistant to (x0.25): Fire | Immune to (x0): Poison, ,, Chop, ,, Pickaxe\n\nIntroduction. Summoned Twitchers are aggressive creatures summoned by Charred Warlock.\n\nAttacks and abilities. They have the same attack moves and damage as regular Charred Twitchers, but only have 50 health.",
+  "scraped_at": "2026-02-26T02:19:24.777074+00:00"
+}

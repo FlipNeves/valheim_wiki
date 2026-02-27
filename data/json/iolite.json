@@ -1,0 +1,36 @@
+{
+  "title": "Iolite",
+  "url": "https://valheim.fandom.com/wiki/Iolite",
+  "slug": "Iolite",
+  "categories": [
+    "Materials",
+    "Gems"
+  ],
+  "infobox": {
+    "_infobox_title": "Iolite",
+    "Type": "Material",
+    "Internal ID": "GemstoneBlue",
+    "Source": "Charred Fortress",
+    "Usage": "Crafting, Upgrading",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Iolite is a material used to craft the \"Thunder/Storm\" version of some Ashlands weapons. They have a chance to be found in Charred chests inside Charred Fortresses located in Ashlands.\nA weapon upgraded with Iolite gains 10 lightning damage and has a 25% chance to trigger a Chain Lightning on hit with the normal attack and a 20% chance with the secondary attack, except for the bow. The bow has a 20% chance to trigger with the normal attack."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Nidhögg the Thundering\n• Scourging Slayer\n• Splitnir the Storming\n• Storm Fang\n• Storm Ripper\n• Storm Star\n• Thundering Berserkir axes"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "There is a creature (internal ID \"Goblin_Gem\") that never appears in the actual game, but can be spawned using the console, that drops all three kinds of Ashlands gemstones."
+    }
+  ],
+  "full_text": "Iolite\n\nType: Material | Internal ID: GemstoneBlue | Source: Charred Fortress | Usage: Crafting, Upgrading | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Iolite is a material used to craft the \"Thunder/Storm\" version of some Ashlands weapons. They have a chance to be found in Charred chests inside Charred Fortresses located in Ashlands.\nA weapon upgraded with Iolite gains 10 lightning damage and has a 25% chance to trigger a Chain Lightning on hit with the normal attack and a 20% chance with the secondary attack, except for the bow. The bow has a 20% chance to trigger with the normal attack.\n\nCrafting. • Nidhögg the Thundering\n• Scourging Slayer\n• Splitnir the Storming\n• Storm Fang\n• Storm Ripper\n• Storm Star\n• Thundering Berserkir axes\n\nTrivia. There is a creature (internal ID \"Goblin_Gem\") that never appears in the actual game, but can be spawned using the console, that drops all three kinds of Ashlands gemstones.",
+  "scraped_at": "2026-02-26T01:34:27.466798+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Wood",
+  "url": "https://valheim.fandom.com/wiki/Wood",
+  "slug": "Wood",
+  "categories": [
+    "Wood",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Wood",
+    "Type": "Wood",
+    "Internal ID": "Wood",
+    "Source": "Bushes, ,, Greydwarfs, ,, Trees",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wood is a type of item. It can be used as material to craft structures with the Hammer, or Weapons and Tools from the Workbench and the Forge.\nNot to be confused with Corewood or Finewood."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Players can obtain this item by:\n• Scavenging branches scattered on the ground.\n• Chopping bushes, including berry bushes, to yield a small amount of wood.\n• Cutting down any tree/stump. Beech and Fir trees and stumps will only drop wood. Pine trees and stumps will drop wood and Corewood. Birch and Oak trees and stumps will drop wood and Finewood. Ancient trees will drop wood and Ancient bark.\n• Gathering Greydwarf drops, which includes a bit of wood.\n• Deconstructing naturally-generated wooden buildings and chests."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Wood can be used to place various wooden structures using a Hammer's build menu."
+    },
+    {
+      "heading": "Fuel",
+      "level": 3,
+      "text": "• Wood can be used with Charcoal kiln to produce Coal, which can be used to smelt ores in a Smelter or Blast furnace.\n• Wood can be used to fuel campfires."
+    }
+  ],
+  "full_text": "Wood\n\nType: Wood | Internal ID: Wood | Source: Bushes, ,, Greydwarfs, ,, Trees | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Wood is a type of item. It can be used as material to craft structures with the Hammer, or Weapons and Tools from the Workbench and the Forge.\nNot to be confused with Corewood or Finewood.\n\nAvailability. Players can obtain this item by:\n• Scavenging branches scattered on the ground.\n• Chopping bushes, including berry bushes, to yield a small amount of wood.\n• Cutting down any tree/stump. Beech and Fir trees and stumps will only drop wood. Pine trees and stumps will drop wood and Corewood. Birch and Oak trees and stumps will drop wood and Finewood. Ancient trees will drop wood and Ancient bark.\n• Gathering Greydwarf drops, which includes a bit of wood.\n• Deconstructing naturally-generated wooden buildings and chests.\n\nBuilding. • Wood can be used to place various wooden structures using a Hammer's build menu.\n\nFuel. • Wood can be used with Charcoal kiln to produce Coal, which can be used to smelt ores in a Smelter or Blast furnace.\n• Wood can be used to fuel campfires.",
+  "scraped_at": "2026-02-26T01:37:56.343005+00:00"
+}

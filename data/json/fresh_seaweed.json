@@ -1,0 +1,31 @@
+{
+  "title": "Fresh seaweed",
+  "url": "https://valheim.fandom.com/wiki/Fresh_seaweed",
+  "slug": "Fresh_seaweed",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Fresh seaweed",
+    "Type": "Material",
+    "Internal ID": "FreshSeaweed",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "75, Coins, for 5",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fresh seaweed can be purchased from The Bog Witch at 75 Coins for 5 items."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mead base: Vananidir"
+    }
+  ],
+  "full_text": "Fresh seaweed\n\nType: Material | Internal ID: FreshSeaweed | Source: The Bog Witch | Usage: Crafting | Buy: 75, Coins, for 5 | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Fresh seaweed can be purchased from The Bog Witch at 75 Coins for 5 items.\n\nCrafting. • Mead base: Vananidir",
+  "scraped_at": "2026-02-26T01:34:01.558572+00:00"
+}

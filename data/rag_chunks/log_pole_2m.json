@@ -1,0 +1,11 @@
+{
+  "title": "Log structures",
+  "url": "https://valheim.fandom.com/wiki/Log_pole_2m",
+  "slug": "Log_pole_2m",
+  "categories": [
+    "Building structures"
+  ],
+  "content": "# Log structures\n\n# Introduction\n\nLog structures require Corewood and the proximity of a Workbench to be built and repaired.\n\n## Common properties\n\nLog structures share the following properties:\n\n• Property: Durability | Value: 400\n\n• Property: Support | Value: Hard Wood (from 10 to 140)\n\n• Property: Loss | Value: 1/10 vertical, 1/6 horizontal\n\n• Property: Resistances | Value: Weak: Chop Neutral: Blunt, Slash, Pickaxe, Fire, Frost, Lightning Resistant: Pierce Immune: Poison, Spirit\n\n### Poles and beams\n\n• Structure: Log pole 2m | Materials: Corewood x1 | Size: 2x1 | Damaged by rain: Yes\n\n• Structure: Log pole 4m | Materials: Corewood x2 | Size: 4x1 | Damaged by rain: Yes\n\n• Structure: Log beam 2m | Materials: Corewood x1 | Size: 2x1 | Damaged by rain: Yes\n\n• Structure: Log beam 4m | Materials: Corewood x2 | Size: 4x1 | Damaged by rain: Yes\n\n• Structure: Log beam 45° | Materials: Corewood x1 | Size: 2x1 | Damaged by rain: No\n\n• Structure: Log beam 26° | Materials: Corewood x1 | Size: 2x1 | Damaged by rain: No\n\nCategorias: Building structures",
+  "content_length": 1056,
+  "scraped_at": "2026-02-26T02:13:52.663722+00:00"
+}

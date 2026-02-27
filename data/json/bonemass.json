@@ -1,0 +1,102 @@
+{
+  "title": "Bonemass",
+  "url": "https://valheim.fandom.com/wiki/Bonemass",
+  "slug": "Bonemass",
+  "categories": [
+    "Bosses"
+  ],
+  "infobox": {
+    "_infobox_title": "Bonemass",
+    "Internal ID": "Bonemass",
+    "Type": "Boss",
+    "Faction": "Boss",
+    "Main biome": "Swamp",
+    "Tameable": "No",
+    "Drops": "Bonemass trophy, Wishbone, Bonemass Power",
+    "Abilities": "Area of effect (30s, unblockable), Punch (7s), Throw (50s)",
+    "Trophy": "Bonemass trophy",
+    "Weak to (x1.5)": "Blunt, ,, Frost",
+    "Neutral to (x1)": "Lightning, ,, Spirit",
+    "Resistant to (x0.5)": "Slash",
+    "Very resistant to (x0.25)": "Fire, ,, Pierce",
+    "Immune to (x0)": "Poison, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bonemass is the third boss. He appears as a gigantic humanoid mass comprised of toxic ooze, mud and skeletal remains, likely absorbed from nearby tombs situated close to his altar."
+    },
+    {
+      "heading": "Summoning",
+      "level": 2,
+      "text": "Bonemass' Forsaken Altar is located in Swamps. His location can be found when visiting Sunken Crypts and sometimes ruined structures, where a Vegvisir will reveal his nearest summoning location on the map.\nHe is summoned by placing 10 Withered bones in his Forsaken altar in Swamps. Like all bosses, Bonemass can be summoned as many times as desired, provided the required materials are met."
+    },
+    {
+      "heading": "Attacks and abilities",
+      "level": 2,
+      "text": "Bonemass has an environment aura that forces raining, which means pulling him from the area cannot be used to remove Wet."
+    },
+    {
+      "heading": "Area of effect",
+      "level": 3,
+      "text": "Bonemass will charge up with a thick green cloud before vomiting a wave of poisonous ooze, inflicting the Poison status on everything in a 9-meter radius around him (130 Poison damage). This is signaled when he leans backwards. The poison cloud persists for 15 seconds and will continuously refresh the poison duration on any player that stays inside. This effect cannot be dodged or blocked. Bonemass can use this ability when a player is within 15 meters, and it has a cooldown of 30 seconds. The cloud is centered on the impact point of Bonemass's vomit; due to the size of his collision box, this results in the cloud not reaching very far behind him which gives players a safe area to retreat to that is still within range to strike him."
+    },
+    {
+      "heading": "Punch",
+      "level": 3,
+      "text": "A close-range swipe at a player dealing up to 80 Blunt and 50 Poison damage to players, in addition to 1000 Tier 0 Chop and 1000 Tier 0 Pickaxe damage to any trees or rocks hit. This attack can be used every 7 seconds when a player is within 8 meters. It hits in a horizontal 8.5-meter 66.1-degree arc in front of Bonemass."
+    },
+    {
+      "heading": "Throw",
+      "level": 3,
+      "text": "At 50-second intervals, Bonemass will reach into his armpit to throw out a glob of goop in the general direction of the player at an initial velocity of 20 meters per second with a spread of 5–20 degrees. On impact, this ability will attempt to spawn four random monsters (Skeletons and/or Blobs, with equal chances for both). A maximum of eight summons of each type can be active at once; but the selection of enemies each spawning instance is still random regardless of the status of spawn caps, meaning reaching the spawn cap for one type of summon will not force spawns for the other. Bonemass will still attempt to summon creatures even if both spawn caps are reached. This ability can only be used when a player is within 30 meters."
+    },
+    {
+      "heading": "Aftermath",
+      "level": 2,
+      "text": "Defeating Bonemass provides the player with a Wishbone, which allows the player to easily locate Silver veins beneath the surface of Mountain biomes (as well as buried Muddy scrap piles in Swamp biomes, and other miscellaneous buried treasures in certain locations)."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Bonemass trophy",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Wishbone",
+          "0 Star": "1 per player",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Forsaken power",
+      "level": 3,
+      "text": "Mounting Bonemass' trophy upon his respective stone will allow the player to claim his Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:\n• Damage modifier: Slightly resistant vs Blunt\n• Damage modifier: Slightly resistant vs Slash\n• Damage modifier: Slightly resistant vs Pierce\n• Block stamina usage: -100%\n• Block stamina return: +5\nSee Bonemass' power for more details."
+    },
+    {
+      "heading": "Events",
+      "level": 3,
+      "text": "Defeating Bonemass affects the following events for that world:\n• Disables: Draugr and Skeleton \"A foul smell from the swamp...\"\n• Enables: Blobs and Oozers \"A foul smell from the swamp...\"\n• Enables: \"A skeleton surprise!\"\n• Enables: \"A cold wind blows from the mountains.\" (if Moder has not been defeated)\n• Enables: \"There's a smell of sulfur in the air.\" (if a Surtling has died)\n• Enables: \"You are being hunted.\"\n• Enables: \"You stirred the cauldron.\" (if a Bat has died)\n• Enables: \"You feel a chill down your spine...\"\nNote: Two of these events unlock flying enemies that will be uninhibited by base walls and will attack tame animals. For example, bats will quickly wipe out any outdoor tame boars (if the player has them), most likely before the player can swat them all. Therefore, in order to protect any rare animals (such as a 2-star Boar), it is advisable to build a secure indoor barn area before undertaking Bonemass."
+    },
+    {
+      "heading": "Creature spawning",
+      "level": 3,
+      "text": "Defeating Bonemass unlocks Skeletons to spawn at night in the Meadows, Black Forest, Swamp (additional), Mountain and Plains. They can only have 0 stars."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Bonemass has undergone a model change since Valheim's release.\n• In the in-game trophies menu, there is another description of Bonemass, \"A mess of black soil and old bone, thankfully quiet now.\""
+    }
+  ],
+  "full_text": "Bonemass\n\nInternal ID: Bonemass | Type: Boss | Faction: Boss | Main biome: Swamp | Tameable: No | Drops: Bonemass trophy, Wishbone, Bonemass Power | Abilities: Area of effect (30s, unblockable), Punch (7s), Throw (50s) | Trophy: Bonemass trophy | Weak to (x1.5): Blunt, ,, Frost | Neutral to (x1): Lightning, ,, Spirit | Resistant to (x0.5): Slash | Very resistant to (x0.25): Fire, ,, Pierce | Immune to (x0): Poison, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. Bonemass is the third boss. He appears as a gigantic humanoid mass comprised of toxic ooze, mud and skeletal remains, likely absorbed from nearby tombs situated close to his altar.\n\nSummoning. Bonemass' Forsaken Altar is located in Swamps. His location can be found when visiting Sunken Crypts and sometimes ruined structures, where a Vegvisir will reveal his nearest summoning location on the map.\nHe is summoned by placing 10 Withered bones in his Forsaken altar in Swamps. Like all bosses, Bonemass can be summoned as many times as desired, provided the required materials are met.\n\nAttacks and abilities. Bonemass has an environment aura that forces raining, which means pulling him from the area cannot be used to remove Wet.\n\nArea of effect. Bonemass will charge up with a thick green cloud before vomiting a wave of poisonous ooze, inflicting the Poison status on everything in a 9-meter radius around him (130 Poison damage). This is signaled when he leans backwards. The poison cloud persists for 15 seconds and will continuously refresh the poison duration on any player that stays inside. This effect cannot be dodged or blocked. Bonemass can use this ability when a player is within 15 meters, and it has a cooldown of 30 seconds. The cloud is centered on the impact point of Bonemass's vomit; due to the size of his collision box, this results in the cloud not reaching very far behind him which gives players a safe area to retreat to that is still within range to strike him.\n\nPunch. A close-range swipe at a player dealing up to 80 Blunt and 50 Poison damage to players, in addition to 1000 Tier 0 Chop and 1000 Tier 0 Pickaxe damage to any trees or rocks hit. This attack can be used every 7 seconds when a player is within 8 meters. It hits in a horizontal 8.5-meter 66.1-degree arc in front of Bonemass.\n\nThrow. At 50-second intervals, Bonemass will reach into his armpit to throw out a glob of goop in the general direction of the player at an initial velocity of 20 meters per second with a spread of 5–20 degrees. On impact, this ability will attempt to spawn four random monsters (Skeletons and/or Blobs, with equal chances for both). A maximum of eight summons of each type can be active at once; but the selection of enemies each spawning instance is still random regardless of the status of spawn caps, meaning reaching the spawn cap for one type of summon will not force spawns for the other. Bonemass will still attempt to summon creatures even if both spawn caps are reached. This ability can only be used when a player is within 30 meters.\n\nAftermath. Defeating Bonemass provides the player with a Wishbone, which allows the player to easily locate Silver veins beneath the surface of Mountain biomes (as well as buried Muddy scrap piles in Swamp biomes, and other miscellaneous buried treasures in certain locations).\n\nForsaken power. Mounting Bonemass' trophy upon his respective stone will allow the player to claim his Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:\n• Damage modifier: Slightly resistant vs Blunt\n• Damage modifier: Slightly resistant vs Slash\n• Damage modifier: Slightly resistant vs Pierce\n• Block stamina usage: -100%\n• Block stamina return: +5\nSee Bonemass' power for more details.\n\nEvents. Defeating Bonemass affects the following events for that world:\n• Disables: Draugr and Skeleton \"A foul smell from the swamp...\"\n• Enables: Blobs and Oozers \"A foul smell from the swamp...\"\n• Enables: \"A skeleton surprise!\"\n• Enables: \"A cold wind blows from the mountains.\" (if Moder has not been defeated)\n• Enables: \"There's a smell of sulfur in the air.\" (if a Surtling has died)\n• Enables: \"You are being hunted.\"\n• Enables: \"You stirred the cauldron.\" (if a Bat has died)\n• Enables: \"You feel a chill down your spine...\"\nNote: Two of these events unlock flying enemies that will be uninhibited by base walls and will attack tame animals. For example, bats will quickly wipe out any outdoor tame boars (if the player has them), most likely before the player can swat them all. Therefore, in order to protect any rare animals (such as a 2-star Boar), it is advisable to build a secure indoor barn area before undertaking Bonemass.\n\nCreature spawning. Defeating Bonemass unlocks Skeletons to spawn at night in the Meadows, Black Forest, Swamp (additional), Mountain and Plains. They can only have 0 stars.\n\nNotes. • Bonemass has undergone a model change since Valheim's release.\n• In the in-game trophies menu, there is another description of Bonemass, \"A mess of black soil and old bone, thankfully quiet now.\"",
+  "scraped_at": "2026-02-26T01:39:03.722009+00:00"
+}

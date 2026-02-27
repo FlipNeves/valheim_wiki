@@ -1,0 +1,35 @@
+{
+  "title": "Bear paw",
+  "url": "https://valheim.fandom.com/wiki/Bear_paw",
+  "slug": "Bear_paw",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Bear paw",
+    "Type": "Material",
+    "Internal ID": "BjornPaw",
+    "Source": "Bear",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bear paw is an item found by killing Bear in the Black Forest."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Bearskin rug"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Paws of the Bear\n• Patterns of the Bear"
+    }
+  ],
+  "full_text": "Bear paw\n\nType: Material | Internal ID: BjornPaw | Source: Bear | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Bear paw is an item found by killing Bear in the Black Forest.\n\nBuilding. • Bearskin rug\n\nCrafting. • Paws of the Bear\n• Patterns of the Bear",
+  "scraped_at": "2026-02-26T01:30:42.062583+00:00"
+}

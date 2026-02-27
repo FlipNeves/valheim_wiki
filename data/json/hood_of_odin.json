@@ -1,0 +1,69 @@
+{
+  "title": "Hood of Odin",
+  "url": "https://valheim.fandom.com/wiki/Hood_of_Odin",
+  "slug": "Hood_of_Odin",
+  "categories": [
+    "DLC",
+    "Armor",
+    "Head",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Hood of Odin",
+    "Internal ID": "HelmetOdin",
+    "Type": "Head",
+    "Source": "Workbench",
+    "Crafting Materials": "Leather scraps x15, Coal x6",
+    "Armor": "4",
+    "Set Pieces": "Odin Set"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Hood of Odin is a DLC armor piece. It is only available for the early supporters of Valheim via a Steam code sent out in an email from Iron Gate Studios to those who signed up for the Valheim Beta. Check your email if you signed up!\nThe crafting recipe is unlocked once the player has discovered Leather scraps and Coal. The Hood of Odin is crafted at the Workbench."
+    },
+    {
+      "heading": "Stats",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Durability",
+          "Quality 1": "300",
+          "Quality 2": "400",
+          "Quality 3": "500",
+          "Quality 4": "600"
+        },
+        {
+          "stat": "Armor",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4"
+        },
+        {
+          "stat": "Crafting recipe",
+          "Quality 1": "10 Leather scraps4 Coal",
+          "Quality 2": "5 Leather scraps2 Coal",
+          "Quality 3": "10 Leather scraps4 Coal",
+          "Quality 4": "15 Leather scraps6 Coal"
+        },
+        {
+          "stat": "Workbench level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The cape and hood can be spawned via commands, but cannot be equipped or upgraded without the DLC."
+    }
+  ],
+  "full_text": "Hood of Odin\n\nInternal ID: HelmetOdin | Type: Head | Source: Workbench | Crafting Materials: Leather scraps x15, Coal x6 | Armor: 4 | Set Pieces: Odin Set\n\nIntroduction. Hood of Odin is a DLC armor piece. It is only available for the early supporters of Valheim via a Steam code sent out in an email from Iron Gate Studios to those who signed up for the Valheim Beta. Check your email if you signed up!\nThe crafting recipe is unlocked once the player has discovered Leather scraps and Coal. The Hood of Odin is crafted at the Workbench.\n\nNotes. • The cape and hood can be spawned via commands, but cannot be equipped or upgraded without the DLC.",
+  "scraped_at": "2026-02-26T01:22:21.619921+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Cloudberries",
+  "url": "https://valheim.fandom.com/wiki/Cloudberries",
+  "slug": "Cloudberries",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Cloudberries",
+    "Type": "Food",
+    "Internal ID": "Cloudberry",
+    "Source": "Plains, biome",
+    "Usage": "Building, Crafting, Eating, Taming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "13",
+    "Max Stamina": "40",
+    "Duration": "15m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Cloudberries are berries found growing on the ground in Plains."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Bushes in the Plains biome. Berries will respawn after 300 minutes, 5h. Cloudberry plants will remain intact if ground cover is cleared with the hoe, but they will not regrow if destroyed."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Blue, red and white banner\n• Orange banner\n• White and blue striped banner\n• White banner"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Barley wine base: Fire resistance\n• Lox meat pie\n• Mead base: Lingering stamina\n• Mead base: Medium stamina\n• Mead base: Anti-sting\n• Plains pie picnic\n• Salad"
+    },
+    {
+      "heading": "Taming",
+      "level": 3,
+      "text": "• Lox"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Cloudberries are known to be extremely rare in the wild and are often hard to cultivate (at least in Midgard/Earth), yet in Valheim they are quite common and found in abundance compared to Raspberries and Blueberries."
+    }
+  ],
+  "full_text": "Cloudberries\n\nType: Food | Internal ID: Cloudberry | Source: Plains, biome | Usage: Building, Crafting, Eating, Taming | Teleportable (Can go through wood portal?): Yes | Max Health: 13 | Max Stamina: 40 | Duration: 15m | Healing: 1 hp/tick\n\nIntroduction. Cloudberries are berries found growing on the ground in Plains.\n\nAvailability. • Bushes in the Plains biome. Berries will respawn after 300 minutes, 5h. Cloudberry plants will remain intact if ground cover is cleared with the hoe, but they will not regrow if destroyed.\n\nBuilding. • Blue, red and white banner\n• Orange banner\n• White and blue striped banner\n• White banner\n\nCrafting. • Barley wine base: Fire resistance\n• Lox meat pie\n• Mead base: Lingering stamina\n• Mead base: Medium stamina\n• Mead base: Anti-sting\n• Plains pie picnic\n• Salad\n\nTaming. • Lox\n\nTrivia. • Cloudberries are known to be extremely rare in the wild and are often hard to cultivate (at least in Midgard/Earth), yet in Valheim they are quite common and found in abundance compared to Raspberries and Blueberries.",
+  "scraped_at": "2026-02-26T01:25:46.761082+00:00"
+}

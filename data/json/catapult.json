@@ -1,0 +1,38 @@
+{
+  "title": "Catapult",
+  "url": "https://valheim.fandom.com/wiki/Catapult",
+  "slug": "Catapult",
+  "categories": [
+    "Misc structures"
+  ],
+  "infobox": {
+    "_infobox_title": "Catapult",
+    "Type": "Misc",
+    "Internal ID": "Catapult",
+    "Source": "Workbench",
+    "Usage": "Damage structures",
+    "Crafting Materials": "Flametal x10, Charred cogwheel x1, Ashwood x20",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Fire, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce, ,, Frost",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Catapults are siege engines that use a bucket with a counterweight mechanism to throw an object over a great distance, thus avoiding possible obstacles such as walls and moats.\nThe catapult can launch any items, but Explosive payload and Grausten payload are specially made for the catapult. Fired payloads can cause damage to any structure that is able to receive damage, including Charred Fortress doors and walls."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "Ammo is placed in the bucket by first placing it in a hotbar slot and then pressing the according hotbar number while aiming at the ammo bucket. Once loaded with an item the catapult will immediately shoot.\nThe catapult can be moved in the exact same way as a Cart and can be stabilized on the ground by interacting with the spiked arms on the corners. It can shoot regardless of whether is stabilized or not, but stabilizing might provide a better degree of accuracy. The spikes can also cause damage to objects that touch them (such as players and creatures)."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The catapult seems much less effective at damaging structures than the Battering ram, despite having a much larger range. However, it can also destroy structures located on the other side of obstacles (such as the spawners inside the fortresses) with enough ammo.\n• Range and accuracy depend on the ammo used: Grausten payload has a +55 meters range and will almost always hit the exact same spot. Explosive payload has a 40-50 meters range and is more inaccurate than Grausten payload.\n• While it is intended to be used with payload ammo, other items can be launched if placed in the catapult's ammo bucket, such as stones (Dealing no damage and non-equipment items might be destroyed). Because of this, caution is advised as the player might accidentally launch a piece of equipment.\n• The character can be placed on top of the catapult's bucket and then insert a \"launchable\" item so the character is launched over a huge distance (depending on altitude) alongside the item. The character has limited control on the trajectory and fall damage is still present, due to this, Feather cape is advised. Character is launched first, immediately followed by the item. Moving in any direction while \"flying\" makes an immediate stop.\n• It is possible to place catapults on a Drakkar due to the ship's sheer size using a combination of floors and roofs in order to move the catapult inside the ship (it cannot be built directly on the Drakkar), and then stabilize it (which will not damage the ship). Up to two catapults can be placed in this fashion, primarily due to lack of more space."
+    }
+  ],
+  "full_text": "Catapult\n\nType: Misc | Internal ID: Catapult | Source: Workbench | Usage: Damage structures | Crafting Materials: Flametal x10, Charred cogwheel x1, Ashwood x20 | Neutral to (x1): Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Fire, ,, Lightning | Resistant to (x0.5): Pierce, ,, Frost | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Catapults are siege engines that use a bucket with a counterweight mechanism to throw an object over a great distance, thus avoiding possible obstacles such as walls and moats.\nThe catapult can launch any items, but Explosive payload and Grausten payload are specially made for the catapult. Fired payloads can cause damage to any structure that is able to receive damage, including Charred Fortress doors and walls.\n\nUsage. Ammo is placed in the bucket by first placing it in a hotbar slot and then pressing the according hotbar number while aiming at the ammo bucket. Once loaded with an item the catapult will immediately shoot.\nThe catapult can be moved in the exact same way as a Cart and can be stabilized on the ground by interacting with the spiked arms on the corners. It can shoot regardless of whether is stabilized or not, but stabilizing might provide a better degree of accuracy. The spikes can also cause damage to objects that touch them (such as players and creatures).\n\nNotes. • The catapult seems much less effective at damaging structures than the Battering ram, despite having a much larger range. However, it can also destroy structures located on the other side of obstacles (such as the spawners inside the fortresses) with enough ammo.\n• Range and accuracy depend on the ammo used: Grausten payload has a +55 meters range and will almost always hit the exact same spot. Explosive payload has a 40-50 meters range and is more inaccurate than Grausten payload.\n• While it is intended to be used with payload ammo, other items can be launched if placed in the catapult's ammo bucket, such as stones (Dealing no damage and non-equipment items might be destroyed). Because of this, caution is advised as the player might accidentally launch a piece of equipment.\n• The character can be placed on top of the catapult's bucket and then insert a \"launchable\" item so the character is launched over a huge distance (depending on altitude) alongside the item. The character has limited control on the trajectory and fall damage is still present, due to this, Feather cape is advised. Character is launched first, immediately followed by the item. Moving in any direction while \"flying\" makes an immediate stop.\n• It is possible to place catapults on a Drakkar due to the ship's sheer size using a combination of floors and roofs in order to move the catapult inside the ship (it cannot be built directly on the Drakkar), and then stabilize it (which will not damage the ship). Up to two catapults can be placed in this fashion, primarily due to lack of more space.",
+  "scraped_at": "2026-02-26T02:05:35.346266+00:00"
+}

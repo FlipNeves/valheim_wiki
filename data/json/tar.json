@@ -1,0 +1,30 @@
+{
+  "title": "Tar",
+  "url": "https://valheim.fandom.com/wiki/Tar",
+  "slug": "Tar",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Tar",
+    "Type": "Material",
+    "Internal ID": "Tar",
+    "Source": "Growth",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Tar is an item dropped by Growths or found in and around Tar pits in the Plains biome."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Blob bomb Tar"
+    }
+  ],
+  "full_text": "Tar\n\nType: Material | Internal ID: Tar | Source: Growth | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Tar is an item dropped by Growths or found in and around Tar pits in the Plains biome.\n\nCrafting. • Blob bomb Tar",
+  "scraped_at": "2026-02-26T01:37:00.001878+00:00"
+}

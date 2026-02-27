@@ -1,0 +1,41 @@
+{
+  "title": "Fiery svinstew",
+  "url": "https://valheim.fandom.com/wiki/Fiery_svinstew",
+  "slug": "Fiery_svinstew",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Fiery svinstew",
+    "Type": "Food",
+    "Internal ID": "FierySvinstew",
+    "Source": "Cauldron",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Asksvin tail x1, Vineberry cluster x2, Smoke puff x1",
+    "Max Health": "95",
+    "Max Stamina": "32",
+    "Duration": "25m",
+    "Healing": "6 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fiery svinstew is an Ashlands-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Fiery svinstew can be crafted at a level 5 Cauldron with:\n• 1 Asksvin tail\n• 2 Vineberry cluster\n• 1 Smoke puff"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "Fiery svinstew provides the third highest health gain in the game, behind Mashed meat and Piquant pie."
+    }
+  ],
+  "full_text": "Fiery svinstew\n\nType: Food | Internal ID: FierySvinstew | Source: Cauldron | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Asksvin tail x1, Vineberry cluster x2, Smoke puff x1 | Max Health: 95 | Max Stamina: 32 | Duration: 25m | Healing: 6 hp/tick\n\nIntroduction. Fiery svinstew is an Ashlands-tier food.\n\nRecipe. Fiery svinstew can be crafted at a level 5 Cauldron with:\n• 1 Asksvin tail\n• 2 Vineberry cluster\n• 1 Smoke puff\n\nNotes. Fiery svinstew provides the third highest health gain in the game, behind Mashed meat and Piquant pie.",
+  "scraped_at": "2026-02-26T01:26:08.968265+00:00"
+}

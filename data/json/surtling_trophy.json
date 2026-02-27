@@ -1,0 +1,35 @@
+{
+  "title": "Surtling trophy",
+  "url": "https://valheim.fandom.com/wiki/Surtling_trophy",
+  "slug": "Surtling_trophy",
+  "categories": [
+    "Trophies"
+  ],
+  "infobox": {
+    "_infobox_title": "Surtling trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophySurtling",
+    "Source": "Surtling",
+    "Usage": "Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Surtling trophy is a rare drop from Surtlings found within the Swamp."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Nimble Anklet"
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed in an item stand, emits a small light in a similar way to a fire torch.\n• Can be used to program Balistas."
+    }
+  ],
+  "full_text": "Surtling trophy\n\nType: Trophy | Internal ID: TrophySurtling | Source: Surtling | Usage: Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Surtling trophy is a rare drop from Surtlings found within the Swamp.\n\nCrafting. • Nimble Anklet\n\nMisc. • Can be displayed in an item stand, emits a small light in a similar way to a fire torch.\n• Can be used to program Balistas.",
+  "scraped_at": "2026-02-26T02:15:14.556478+00:00"
+}

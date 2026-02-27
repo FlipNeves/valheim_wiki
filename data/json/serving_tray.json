@@ -1,0 +1,26 @@
+{
+  "title": "Serving tray",
+  "url": "https://valheim.fandom.com/wiki/Serving_tray",
+  "slug": "Serving_tray",
+  "categories": [
+    "Tools"
+  ],
+  "infobox": {
+    "_infobox_title": "Serving tray",
+    "Internal ID": "Feaster",
+    "Type": "Tool",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "140, Coins",
+    "Wielding": "Two-handed"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Serving tray is used to place Food, Mead or Feast items on the ground or on top of structures. Placed items can be eaten directly by players. It is sold by The Bog Witch for 140 Coins.\nFeasts can only be eaten after they have been placed with a Serving tray.\nThe Serving tray remove option can be used to pick placed items. If a feast has already been partially eaten, it will be destroyed instead."
+    }
+  ],
+  "full_text": "Serving tray\n\nInternal ID: Feaster | Type: Tool | Source: The Bog Witch | Usage: Crafting | Buy: 140, Coins | Wielding: Two-handed\n\nIntroduction. The Serving tray is used to place Food, Mead or Feast items on the ground or on top of structures. Placed items can be eaten directly by players. It is sold by The Bog Witch for 140 Coins.\nFeasts can only be eaten after they have been placed with a Serving tray.\nThe Serving tray remove option can be used to pick placed items. If a feast has already been partially eaten, it will be destroyed instead.",
+  "scraped_at": "2026-02-26T01:40:08.367755+00:00"
+}

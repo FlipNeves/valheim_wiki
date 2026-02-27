@@ -1,0 +1,11 @@
+{
+  "title": "Wood iron structures",
+  "url": "https://valheim.fandom.com/wiki/Wood_iron_pole",
+  "slug": "Wood_iron_pole",
+  "categories": [
+    "Building structures"
+  ],
+  "content": "# Wood iron structures\n\n# Introduction\n\nWood iron structures require wood and iron and the proximity of a forge to be built and repaired.\n\n## Common properties\n\nWood iron structures share the following properties:\n\n• Property: Durability | Value: 2000\n\n• Property: Support | Value: Iron (from 20 to 1500)\n\n• Property: Loss | Value: 1/13 vertical, 1/13 horizontal\n\n• Property: Resistances | Value: Weak: Chop Neutral: Blunt, Slash, Pickaxe, Fire, Frost, Lightning Resistant: Pierce Immune: Poison, Spirit\n\n### Poles and beams\n\n• Structure: Wood iron beam | Materials: Wood x2 Iron x1 | Size: 0x2x0 | Damaged by rain: Yes\n\n• Structure: Wood iron pole | Materials: Wood x2 Iron x1 | Size: 0x0x2 | Damaged by rain: Yes\n\n• Structure: Wood iron beam 45° | Materials: Wood x2 Iron x1 | Size: 0x2x2 | Damaged by rain: Yes\n\n• Structure: Wood iron beam 26° | Materials: Wood x2 Iron x1 | Size: 0x2x1 | Damaged by rain: Yes\n\nCategorias: Building structures",
+  "content_length": 945,
+  "scraped_at": "2026-02-26T02:13:57.841987+00:00"
+}

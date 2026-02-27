@@ -1,0 +1,33 @@
+{
+  "title": "Mechanical spring",
+  "url": "https://valheim.fandom.com/wiki/Mechanical_spring",
+  "slug": "Mechanical_spring",
+  "categories": [
+    "Materials",
+    "Artisan table recipes",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Mechanical spring",
+    "Type": "Material",
+    "Internal ID": "MechanicalSpring",
+    "Source": "Artisan table",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "No",
+    "Crafting Materials": "Refined eitr x1, Iron x3"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Mechanical spring is an item and can be crafted at an Artisan table. It is used to construct base defenses and cannot be teleported without a Portal stone."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Trap\n• Ballista\n• Vice"
+    }
+  ],
+  "full_text": "Mechanical spring\n\nType: Material | Internal ID: MechanicalSpring | Source: Artisan table | Usage: Building | Teleportable (Can go through wood portal?): No | Crafting Materials: Refined eitr x1, Iron x3\n\nIntroduction. Mechanical spring is an item and can be crafted at an Artisan table. It is used to construct base defenses and cannot be teleported without a Portal stone.\n\nBuilding. • Trap\n• Ballista\n• Vice",
+  "scraped_at": "2026-02-26T01:35:08.360633+00:00"
+}

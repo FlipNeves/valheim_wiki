@@ -1,0 +1,12 @@
+{
+  "title": "Bed",
+  "url": "https://valheim.fandom.com/wiki/Bed",
+  "slug": "Bed",
+  "categories": [
+    "Furniture",
+    "Beds"
+  ],
+  "content": "# Bed\n\nType: Furniture | Internal ID: bed | Source: Workbench | Usage: Sets a spawn point. | Crafting Materials: Wood, x8 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nBeds are base structures used for sleeping and setting the player's respawn point.\n\n## Sleeping\n\nIt is possible to sleep in a bed after a player has claimed one. Sleeping skips the game clock to the next morning. The game will progress in fast-forward while the player sleeps, meaning that crafting stations that process materials will continue working. This can make sleeping advantageous if the player is attempting to refine a large volume of materials quickly.\nIt is only possible to sleep if:\n• It is afternoon or night.\n• There are no enemies nearby.\n• The bed has a roof and 80% cover.\n• There is a fire nearby.\n• The player is not wet.\nThere is a 10% chance for the player to dream while sleeping on a bed.\n\n## Notes\n\nA bed can be claimed when it has a roof and 80% cover. Press [E] while looking directly at a bed to claim it.\nThe most recent bed claimed by a player will serve as their respawn point. This can be used strategically by building small outposts outside of dungeons or other dangerous areas and placing a bed inside, allowing the player to quickly return and reattempt the area.\nOnce a bed has been claimed by a player, other players cannot override their claim unless the bed is destroyed and re-placed.\nIf your bed (spawn point) is destroyed and you die, you will respawn at the starting location.\nA Bed will increase the Comfort level by 1.\nIf a player sleeps in a bed that is very close to a roof, it is possible to wake up on the other side of the roof.\n\nCategorias: Furniture, Beds",
+  "content_length": 1888,
+  "scraped_at": "2026-02-26T01:40:33.247872+00:00"
+}

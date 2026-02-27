@@ -1,0 +1,12 @@
+{
+  "title": "Swords",
+  "url": "https://valheim.fandom.com/wiki/Swords",
+  "slug": "Swords",
+  "categories": [
+    "Weapons",
+    "Swords"
+  ],
+  "content": "# Swords\n\n# Introduction\n\nSwords are a weapon class.\nSwords have low knockback and low stamina cost for good damage. Sword damage is not reduced when several enemies or objects are hit by a single attack, unlike most other weapons.\n\n## List of swords\n\n• Name: Bronze sword | Damage: Slash: 35/53 | Stamina (primary): 8 | Stamina (secondary): 16\n\n• Name: Iron sword | Damage: Slash: 55/73 | Stamina (primary): 10 | Stamina (secondary): 20\n\n• Name: Silver sword | Damage: Slash: 75/93Spirit: 30/45 | Stamina (primary): 12 | Stamina (secondary): 24\n\n• Name: Black metal sword | Damage: Slash: 95/113 | Stamina (primary): 14 | Stamina (secondary): 28\n\n• Name: Mistwalker | Damage: Slash: 75/75Frost: 40/58Spirit: 0/15 | Stamina (primary): 16 | Stamina (secondary): 32\n\n• Name: Nidhögg | Damage: Slash: 135/153 | Stamina (primary): 16 | Stamina (secondary): 32\n\n• Name: Dyrnwyn | Damage: Slash: 145/163Fire: 10 | Stamina (primary): 16 | Stamina (secondary): 32\n\n• Name: Krom | Damage: Slash: 150/168 | Stamina (primary): 20 | Stamina (secondary): 40\n\n• Name: Slayer | Damage: Slash: 170/188 | Stamina (primary): 20 | Stamina (secondary): 40\n\n## Properties\n\n• Attack type: Swords (primary) | Stamina: 1x | Range: 2.4 m | Attack speed: 2.46 s (0.86 + 0.70 + 0.90) | Damage: 1x + 1x + 2x | Staggering: 1x | Knockback: 40 | Notes: Player moves forward 0.66 m with each swing. 90 degree arc. No multitarget penalty.\n\n• Attack type: Swords (secondary) | Stamina: 2x | Range: 2.7 m | Attack speed: 1.84 s | Damage: 3x | Staggering: 1x | Knockback: 40 | Notes: Player moves forward 0.33 m. 10 degree arc.\n\n• Attack type: Two-handed Swords (primary) | Stamina: 1x | Range: 2.6m | Attack speed: 3.44 s (0.96 + 0.82 + 1.66) | Damage: 1x + 1x + 2x | Staggering: 1x | Knockback: 55 | Notes: 90 degree arc. No multitarget penalty.\n\n• Attack type: Two-handed Swords (secondary) | Stamina: 2x | Range: ? | Attack speed: 2.16 s | Damage: 3x | Staggering: 1x | Knockback: 55\n\nCategorias: Weapons, Swords",
+  "content_length": 1980,
+  "scraped_at": "2026-02-26T01:19:39.640316+00:00"
+}

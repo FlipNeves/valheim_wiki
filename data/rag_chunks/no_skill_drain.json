@@ -1,0 +1,11 @@
+{
+  "title": "No skill drain",
+  "url": "https://valheim.fandom.com/wiki/No_skill_drain",
+  "slug": "No_skill_drain",
+  "categories": [
+    "Effects"
+  ],
+  "content": "# No skill drain\n\nEffects: No XP loss.\n\n# Introduction\n\nNo skill drain is a status effect applied upon death. The effect prevents any further skill experience loss upon new deaths in the next 600 seconds (10 minutes). This effect is reset after each death.\nUnlike all other effects which fade after the player logs out, the No skill drain effect still remains with the character until its duration is over.\n\nCategorias: Effects",
+  "content_length": 427,
+  "scraped_at": "2026-02-26T02:00:43.794720+00:00"
+}

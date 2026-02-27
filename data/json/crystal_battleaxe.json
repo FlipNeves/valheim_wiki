@@ -1,0 +1,86 @@
+{
+  "title": "Crystal battleaxe",
+  "url": "https://valheim.fandom.com/wiki/Crystal_battleaxe",
+  "slug": "Crystal_battleaxe",
+  "categories": [
+    "Weapons",
+    "Axes",
+    "Forge recipes",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Crystal battleaxe",
+    "Internal ID": "BattleaxeCrystal",
+    "Type": "Axe",
+    "Source": "Forge",
+    "Usage": "Weapon",
+    "Crafting Materials": "Ancient bark x15, Silver x45",
+    "Attack speed": "0.84 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "2.5 range, 30 angle, 1.0 height, 0.5 ray",
+    "Movement speed": "-15%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Crystal battleaxe is the second two-handed axe. Its primary attack is a 3-hit attack combo (Wide swing, wide swing, vertical overhead) with double damage on the last hit, 1.5x staggering and no multitarget penalty. Its faster secondary attack deals 0.5x damage and 4x staggering."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Slash",
+          "Quality 1": "90",
+          "Quality 2": "96",
+          "Quality 3": "102",
+          "Quality 4": "108"
+        },
+        {
+          "stat": "Spirit",
+          "Quality 1": "30",
+          "Quality 2": "30",
+          "Quality 3": "30",
+          "Quality 4": "30"
+        },
+        {
+          "stat": "Chop (trees)",
+          "Quality 1": "50",
+          "Quality 2": "52.5",
+          "Quality 3": "55",
+          "Quality 4": "57.5"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "40 Ancient bark30 Silver10 Crystal",
+          "Quality 2": "5 Ancient bark15 Silver",
+          "Quality 3": "10 Ancient bark30 Silver",
+          "Quality 4": "15 Ancient bark45 Silver"
+        },
+        {
+          "stat": "Forge level",
+          "Quality 1": "3",
+          "Quality 2": "4",
+          "Quality 3": "5",
+          "Quality 4": "6"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The first hit is very slow. The last two hits take about the same time, while in total dealing triple damage.\n• General combo starter is the secondary into the primary.\n• The glow effect of the axe makes the wielder slightly easier to detect while sneaking."
+    }
+  ],
+  "full_text": "Crystal battleaxe\n\nInternal ID: BattleaxeCrystal | Type: Axe | Source: Forge | Usage: Weapon | Crafting Materials: Ancient bark x15, Silver x45 | Attack speed: 0.84 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.5 range, 30 angle, 1.0 height, 0.5 ray | Movement speed: -15%\n\nIntroduction. The Crystal battleaxe is the second two-handed axe. Its primary attack is a 3-hit attack combo (Wide swing, wide swing, vertical overhead) with double damage on the last hit, 1.5x staggering and no multitarget penalty. Its faster secondary attack deals 0.5x damage and 4x staggering.\n\nNotes. • The first hit is very slow. The last two hits take about the same time, while in total dealing triple damage.\n• General combo starter is the secondary into the primary.\n• The glow effect of the axe makes the wielder slightly easier to detect while sneaking.",
+  "scraped_at": "2026-02-26T01:13:47.665498+00:00"
+}

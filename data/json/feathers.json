@@ -1,0 +1,30 @@
+{
+  "title": "Feathers",
+  "url": "https://valheim.fandom.com/wiki/Feathers",
+  "slug": "Feathers",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Feathers",
+    "Type": "Material",
+    "Internal ID": "Feathers",
+    "Source": "Birds, Chests, Felled trees",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Dropped by Gulls, Crows, Hens, Chickens, Ash crows, and Voltures.\n• Found within chests in the Meadows and Black Forest biomes, along with chests found throughout Burial Chambers.\n• Chance to drop when chopping down Beech and Fir trees."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Dragon bed"
+    }
+  ],
+  "full_text": "Feathers\n\nType: Material | Internal ID: Feathers | Source: Birds, Chests, Felled trees | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nAvailability. • Dropped by Gulls, Crows, Hens, Chickens, Ash crows, and Voltures.\n• Found within chests in the Meadows and Black Forest biomes, along with chests found throughout Burial Chambers.\n• Chance to drop when chopping down Beech and Fir trees.\n\nBuilding. • Dragon bed",
+  "scraped_at": "2026-02-26T01:33:21.460948+00:00"
+}

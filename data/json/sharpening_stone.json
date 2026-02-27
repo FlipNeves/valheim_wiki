@@ -1,0 +1,31 @@
+{
+  "title": "Sharpening stone",
+  "url": "https://valheim.fandom.com/wiki/Sharpening_stone",
+  "slug": "Sharpening_stone",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Sharpening stone",
+    "Type": "Material",
+    "Internal ID": "SharpeningStone",
+    "Source": "Stonecutter",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Stone x5"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Sharpening stone is an item made at the Stonecutter with five Stone.\nIt can rarely be found in Plains Chests in Fuling Villages, Fuling Outposts and Fuling Ruins."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Grinding wheel"
+    }
+  ],
+  "full_text": "Sharpening stone\n\nType: Material | Internal ID: SharpeningStone | Source: Stonecutter | Usage: Building | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Stone x5\n\nIntroduction. Sharpening stone is an item made at the Stonecutter with five Stone.\nIt can rarely be found in Plains Chests in Fuling Villages, Fuling Outposts and Fuling Ruins.\n\nBuilding. • Grinding wheel",
+  "scraped_at": "2026-02-26T01:36:37.467769+00:00"
+}

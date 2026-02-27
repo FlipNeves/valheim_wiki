@@ -1,0 +1,289 @@
+{
+  "title": "Music",
+  "url": "https://valheim.fandom.com/wiki/Music",
+  "slug": "Music",
+  "categories": [
+    "Mechanics"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Valheim features its own original soundtrack written by Patrik Jarlestam[1], a Swedish/Australian composer. It also features two bonus tracks composed and performed by the duo Ghostwood Empire[2], consisting of Dennis Filatov and Inez Kontio.\nMusic either plays ambiently or continuously depending on user setting.\nSince October 2021, the soundtrack available for purchase and streaming on several major platforms.[3]"
+    },
+    {
+      "heading": "Track listing",
+      "level": 2,
+      "text": "Valheim (Original Game Soundtrack) consists of:",
+      "table_data": [
+        {
+          "#": "1",
+          "Name": "Welcome To Valheim - Menu Theme",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "3:38"
+        },
+        {
+          "#": "2",
+          "Name": "Flight Into Valheim",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "1:40"
+        },
+        {
+          "#": "3",
+          "Name": "The Meadows - A Place To Rest",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "3:40"
+        },
+        {
+          "#": "4",
+          "Name": "Home - A Place To Enjoy",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "3:04"
+        },
+        {
+          "#": "5",
+          "Name": "Dawn Arrives",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "0:33"
+        },
+        {
+          "#": "6",
+          "Name": "Dusk Sends Its Veil",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "0:46"
+        },
+        {
+          "#": "7",
+          "Name": "Eikthyr Rides",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "2:52"
+        },
+        {
+          "#": "8",
+          "Name": "Black Forest - The Darkness",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "3:25"
+        },
+        {
+          "#": "9",
+          "Name": "The Forest Crypt",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "4:24"
+        },
+        {
+          "#": "10",
+          "Name": "The Forest Is Moving",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "1:28"
+        },
+        {
+          "#": "11",
+          "Name": "Elder Awakens",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "2:16"
+        },
+        {
+          "#": "12",
+          "Name": "Out For A Sailing Adventure",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "4:33"
+        },
+        {
+          "#": "13",
+          "Name": "The Plains - Farmstead",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "2:56"
+        },
+        {
+          "#": "14",
+          "Name": "Bonemass Defiles",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "2:10"
+        },
+        {
+          "#": "15",
+          "Name": "The Swamps - Sunken Water",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "5:09"
+        },
+        {
+          "#": "16",
+          "Name": "The Mountains - High Territory",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "4:01"
+        },
+        {
+          "#": "17",
+          "Name": "Moder Protects",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "2:03"
+        },
+        {
+          "#": "18",
+          "Name": "Yagluth Reigns",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "3:29"
+        },
+        {
+          "#": "19",
+          "Name": "Deya Saga",
+          "Composer": "Ghostwood Empire",
+          "Duration": "2:22"
+        },
+        {
+          "#": "20",
+          "Name": "Hearth And Home",
+          "Composer": "Ghostwood Empire",
+          "Duration": "1:47"
+        },
+        {
+          "#": "21",
+          "Name": "Mountains - The red inner sanctum",
+          "Composer": "Patrik Jarlestam, Malin Wikblad",
+          "Duration": "0:56"
+        },
+        {
+          "#": "22",
+          "Name": "Mistlands - Unveiling distant memories",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott, Kinzey Alexander-Swatton, Mattias Hanskov Palm, Phillippa Murphy-Haste",
+          "Duration": "11:27"
+        },
+        {
+          "#": "23",
+          "Name": "Mistlands - Dvergr Excavation Site - Unearthing the past",
+          "Composer": "Patrik Jarlestam, Phillippa Murphy-Haste",
+          "Duration": "1:54"
+        },
+        {
+          "#": "24",
+          "Name": "Mistlands - Dvergr Tower - Magic brewing",
+          "Composer": "Patrik Jarlestam, Phillippa Murphy-Haste",
+          "Duration": "1:31"
+        },
+        {
+          "#": "25",
+          "Name": "Mistlands - Kneel to The Seeker Queen",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "2:23"
+        },
+        {
+          "#": "26",
+          "Name": "Mistlands - Kneel to The Seeker Queen - ambient",
+          "Composer": "Patrik Jarlestam",
+          "Duration": "3:01"
+        },
+        {
+          "#": "27",
+          "Name": "Meadows - Village & Farm - A sigh of human life",
+          "Composer": "Patrik Jarlestam, Kinzey Alexander-Swatton, Freya Schack-Arnott, Mattias Hanskov Palm, Phillippa Murphy-Haste",
+          "Duration": "1:51"
+        },
+        {
+          "#": "28",
+          "Name": "Greydwarf Camp - Smoking soil, moss and bones",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott, Mattias Hanskov Palm, Phillippa Murphy-Haste",
+          "Duration": "2:05"
+        },
+        {
+          "#": "29",
+          "Name": "The wandering adventures of Haldor and Halstein",
+          "Composer": "Patrik Jarlestam, David Eriksson, Freya Schack-Arnott",
+          "Duration": "3:09"
+        },
+        {
+          "#": "30",
+          "Name": "Fuling Encampment - The horde under attack",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott",
+          "Duration": "1:24"
+        },
+        {
+          "#": "31",
+          "Name": "Mountains - Abandoned Cottages",
+          "Composer": "Patrik Jarlestam, Phillippa Murphy-Haste, Mattias Hanskov Palm",
+          "Duration": "1:31"
+        },
+        {
+          "#": "32",
+          "Name": "Plains - Stone Henges - Stones of Morning Darkness",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott, Phillippa Murphy-Haste",
+          "Duration": "1:07"
+        },
+        {
+          "#": "33",
+          "Name": "Black Forest - Smouldering Tomb",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott",
+          "Duration": "2:15"
+        },
+        {
+          "#": "34",
+          "Name": "Mountains - Howling Cavern",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott",
+          "Duration": "2:01"
+        },
+        {
+          "#": "35",
+          "Name": "Plains - Sealed Tower",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott",
+          "Duration": "2:31"
+        },
+        {
+          "#": "36",
+          "Name": "Hildir's tiny emporium of costume changes",
+          "Composer": "Patrik Jarlestam, David Eriksson",
+          "Duration": "1:48"
+        },
+        {
+          "#": "37",
+          "Name": "The Dangers of sailing to Ashlands",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott, Beth Condon, Michael H Dixon, Mattias Hanskov Palm",
+          "Duration": "4:05"
+        },
+        {
+          "#": "38",
+          "Name": "Ashlands - Transformed by Fire",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott, Beth Condon, Anna Cooper, Nicola Bell, Michael H Dixon, Mattias Hanskov Palm",
+          "Duration": "18:34"
+        },
+        {
+          "#": "39",
+          "Name": "Ashlands' Ruins 1 - Where every choice was made of stone",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott, Beth Condon, Anna Cooper, Nicola Bell, Michael H Dixon, Mattias Hanskov Palm",
+          "Duration": "2:30"
+        },
+        {
+          "#": "40",
+          "Name": "Ashlands' Ruins 2 - Soaring high, come laying low",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott, Beth Condon, Anna Cooper, Michael H Dixon, Mattias Hanskov Palm",
+          "Duration": "2:35"
+        },
+        {
+          "#": "41",
+          "Name": "Ashlands' Ruins 3 - For all who lived here",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott, Beth Condon, Anna Cooper, Nicola Bell, Michael H Dixon, Mattias Hanskov Palm",
+          "Duration": "2:42"
+        },
+        {
+          "#": "42",
+          "Name": "Ashlands' Fortress - These stones have witnessed more than most ever will",
+          "Composer": "Patrik Jarlestam, Freya Schack-Arnott, Beth Condon, Anna Cooper, Michael H Dixon, Mattias Hanskov Palm",
+          "Duration": "2:52"
+        },
+        {
+          "#": "43",
+          "Name": "Fader Beckons",
+          "Composer": "Patrik Jarlestam, J.R. Kensington",
+          "Duration": "2:46"
+        },
+        {
+          "#": "44",
+          "Name": "The Dance Of The Witch In The Bog",
+          "Composer": "Patrik Jarlestam, Pablo Sorribes Bernhard, Fredy Clue",
+          "Duration": "5:50"
+        }
+      ]
+    }
+  ],
+  "full_text": "Music\n\nIntroduction. Valheim features its own original soundtrack written by Patrik Jarlestam[1], a Swedish/Australian composer. It also features two bonus tracks composed and performed by the duo Ghostwood Empire[2], consisting of Dennis Filatov and Inez Kontio.\nMusic either plays ambiently or continuously depending on user setting.\nSince October 2021, the soundtrack available for purchase and streaming on several major platforms.[3]\n\nTrack listing. Valheim (Original Game Soundtrack) consists of:",
+  "scraped_at": "2026-02-26T01:59:08.035677+00:00"
+}

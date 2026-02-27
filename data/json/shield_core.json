@@ -1,0 +1,32 @@
+{
+  "title": "Shield core",
+  "url": "https://valheim.fandom.com/wiki/Shield_core",
+  "slug": "Shield_core",
+  "categories": [
+    "Materials",
+    "Artisan table recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Shield core",
+    "Type": "Material",
+    "Internal ID": "ShieldCore",
+    "Source": "Artisan table",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Black core x1, Surtling core x1, Ceramic plate x5"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Shield core is a crafting material that is created at an upgraded Artisan table."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Shield generator"
+    }
+  ],
+  "full_text": "Shield core\n\nType: Material | Internal ID: ShieldCore | Source: Artisan table | Usage: Building | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Black core x1, Surtling core x1, Ceramic plate x5\n\nIntroduction. Shield core is a crafting material that is created at an upgraded Artisan table.\n\nBuilding. • Shield generator",
+  "scraped_at": "2026-02-26T01:36:41.665383+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Staff of Fracturing",
+  "url": "https://valheim.fandom.com/wiki/Staff_of_Fracturing",
+  "slug": "Staff_of_Fracturing",
+  "categories": [
+    "Weapons",
+    "Magic",
+    "Elemental magic",
+    "Galdr table recipes"
+  ],
+  "content": "# Staff of Fracturing\n\nInternal ID: StaffClusterbomb | Type: Elemental magic | Source: Galdr table | Usage: Magic weapon | Wielding: Two-handed | Crafting Materials: Charred bone x15, Ashwood x9, Proustite powder x3 | Movement speed: -5%\n\n# Introduction\n\nThe Staff of Fracturing is a Magic weapon introduced in the Ashlands update. It works in a similar fashion to the Staff of embers, except that instead of a single fireball, it shoots 12 smaller projectiles that explode on impact against a target, if hitting the terrain instead, the projectiles will scatter around and also explode a moment later. Each \"fractured\" piece does blunt with a slight knockback and additional fire damage, which can light enemies on fire.\nDue to the staff shooting individual projectiles, it can potentially deal higher damage against single targets than Staff of embers as the base damage shown is per projectile shot. Additionally, due to how fire damage works, each projectile causes fire to stack, providing a potentially higher damage over time than the Staff of embers, given a significant amount of projectiles reach the target.\nDamage and eitr usage are dependent on the caster's Elemental magic skill level.\n\n## Upgrade information\n\n• stat: Fire | Quality 1: 12 | Quality 2: 18 | Quality 3: 24 | Quality 4: 30\n\n• stat: Blunt | Quality 1: 12 | Quality 2: 12 | Quality 3: 12 | Quality 4: 12\n\n• stat: Durability | Quality 1: 200 | Quality 2: 250 | Quality 3: 300 | Quality 4: 350\n\n• stat: Crafting | Quality 1: 15 Charred bone5 Ashwood8 Proustite powder | Quality 2: 5 Charred bone3 Ashwood1 Proustite powder | Quality 3: 10 Charred bone6 Ashwood2 Proustite powder | Quality 4: 15 Charred bone9 Ashwood3 Proustite powder\n\n• stat: Galdr table level | Quality 1: 2 | Quality 2: 3 | Quality 3: 4 | Quality 4: 5 (not yet available)\n\n## Notes\n\nDue to the long recharge/reload time, the DPS potential of this weapon is limited. However, for melee range burst damage potential, this weapon is unrivaled.\n\nCategorias: Weapons, Magic, Elemental magic, Galdr table recipes",
+  "content_length": 2051,
+  "scraped_at": "2026-02-26T01:19:06.617313+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Iolite",
+  "url": "https://valheim.fandom.com/wiki/Iolite",
+  "slug": "Iolite",
+  "categories": [
+    "Materials",
+    "Gems"
+  ],
+  "content": "# Iolite\n\nType: Material | Internal ID: GemstoneBlue | Source: Charred Fortress | Usage: Crafting, Upgrading | Teleportable (Can go through wood portal?): Yes\n\n# Introduction\n\nIolite is a material used to craft the \"Thunder/Storm\" version of some Ashlands weapons. They have a chance to be found in Charred chests inside Charred Fortresses located in Ashlands.\nA weapon upgraded with Iolite gains 10 lightning damage and has a 25% chance to trigger a Chain Lightning on hit with the normal attack and a 20% chance with the secondary attack, except for the bow. The bow has a 20% chance to trigger with the normal attack.\n\n### Crafting\n\n• Nidhögg the Thundering\n• Scourging Slayer\n• Splitnir the Storming\n• Storm Fang\n• Storm Ripper\n• Storm Star\n• Thundering Berserkir axes\n\n## Trivia\n\nThere is a creature (internal ID \"Goblin_Gem\") that never appears in the actual game, but can be spawned using the console, that drops all three kinds of Ashlands gemstones.\n\nCategorias: Materials, Gems",
+  "content_length": 987,
+  "scraped_at": "2026-02-26T01:34:27.466798+00:00"
+}

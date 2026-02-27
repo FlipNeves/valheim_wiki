@@ -1,0 +1,83 @@
+{
+  "title": "Lava Blob",
+  "url": "https://valheim.fandom.com/wiki/Lava_Blob",
+  "slug": "Lava_Blob",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Lava Blob",
+    "Internal ID": "BlobLava",
+    "Main biome": "Ashlands",
+    "Tameable": "No",
+    "Drops": "Proustite powder | Sulfur",
+    "Abilities": "Area of effect",
+    "Weak to (x1.5)": "Blunt, ,, Frost, ,, Lightning",
+    "Neutral to (x1)": "Slash, ,, Spirit",
+    "Resistant to (x0.5)": "Pierce, ,, Poison",
+    "Immune to (x0)": "Fire, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "No"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lava Blobs are aggressive creatures found in the Ashlands. They are the lava counterparts of Blobs that can spread fire.\nSimilar to their Blob counterparts, the Lava Blob jumps around, and so can close large distance between itself and the player."
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Middle of the Ashlands",
+          "Limit": "2",
+          "Frequency": "Common",
+          "Stars": "No"
+        },
+        {
+          "Type": "When a Blob bomb Lava is used",
+          "Limit": "-",
+          "Frequency": "-",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Area of effect",
+      "level": 3,
+      "text": "Expands rapidly before exploding in a fiery shower that destroys the blob in the process (70 Blunt, 30 Fire, 160 Tier 1 Chop and 160 Tier 1 Pickaxe damage). This explosion has a 6-meter radius and can be used when a player is within that range or immediately upon death. This ability also has the attribute of being able to destroy terrain."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Proustite powder",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Sulfur",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The Lava Blob does not have a head, face, or eyes, but it still has a 'front' and cannot perform its standard explosion attack unless it is facing its target. If it is not facing its target, it will rotate in place until it is, and only then explode."
+    },
+    {
+      "heading": "Tips",
+      "level": 2,
+      "text": "• When the blob growth animation starts, players wanting to avoid being damaged from the explosion should immediately dodge roll or begin sprinting away from the Lava Blob.\n• With careful timing and positioning, players can use the Lava Blob to damage enemies or fell trees without taking any damage themselves."
+    }
+  ],
+  "full_text": "Lava Blob\n\nInternal ID: BlobLava | Main biome: Ashlands | Tameable: No | Drops: Proustite powder | Sulfur | Abilities: Area of effect | Weak to (x1.5): Blunt, ,, Frost, ,, Lightning | Neutral to (x1): Slash, ,, Spirit | Resistant to (x0.5): Pierce, ,, Poison | Immune to (x0): Fire, ,, Chop, ,, Pickaxe | Stagger limit: No\n\nIntroduction. Lava Blobs are aggressive creatures found in the Ashlands. They are the lava counterparts of Blobs that can spread fire.\nSimilar to their Blob counterparts, the Lava Blob jumps around, and so can close large distance between itself and the player.\n\nArea of effect. Expands rapidly before exploding in a fiery shower that destroys the blob in the process (70 Blunt, 30 Fire, 160 Tier 1 Chop and 160 Tier 1 Pickaxe damage). This explosion has a 6-meter radius and can be used when a player is within that range or immediately upon death. This ability also has the attribute of being able to destroy terrain.\n\nNotes. • The Lava Blob does not have a head, face, or eyes, but it still has a 'front' and cannot perform its standard explosion attack unless it is facing its target. If it is not facing its target, it will rotate in place until it is, and only then explode.\n\nTips. • When the blob growth animation starts, players wanting to avoid being damaged from the explosion should immediately dodge roll or begin sprinting away from the Lava Blob.\n• With careful timing and positioning, players can use the Lava Blob to damage enemies or fell trees without taking any damage themselves.",
+  "scraped_at": "2026-02-26T01:08:20.448414+00:00"
+}

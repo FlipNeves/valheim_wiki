@@ -1,0 +1,31 @@
+{
+  "title": "Northern salmon",
+  "url": "https://valheim.fandom.com/wiki/Northern_salmon",
+  "slug": "Northern_salmon",
+  "categories": [
+    "Fish",
+    "Fishing"
+  ],
+  "infobox": {
+    "_infobox_title": "Northern salmon",
+    "Type": "Fish",
+    "Internal ID": "fish10",
+    "Source": "Fishing",
+    "Usage": "Decoration | Cooking",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Northern salmon are passive creatures (fish) found in the waters of the Deep North biome.\nThey can be caught with a fishing pole using Frosty fishing bait which can be made at the Food preparation table by combining 20 Fishing bait and a Drake trophy.\nNeeded to craft a Fishing hat"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Has a unique line: \"Once I was free to jump upstream. But no longer.\""
+    }
+  ],
+  "full_text": "Northern salmon\n\nType: Fish | Internal ID: fish10 | Source: Fishing | Usage: Decoration | Cooking | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Northern salmon are passive creatures (fish) found in the waters of the Deep North biome.\nThey can be caught with a fishing pole using Frosty fishing bait which can be made at the Food preparation table by combining 20 Fishing bait and a Drake trophy.\nNeeded to craft a Fishing hat\n\nNotes. • Has a unique line: \"Once I was free to jump upstream. But no longer.\"",
+  "scraped_at": "2026-02-26T01:55:21.233243+00:00"
+}

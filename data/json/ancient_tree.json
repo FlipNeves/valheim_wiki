@@ -1,0 +1,49 @@
+{
+  "title": "Ancient Tree",
+  "url": "https://valheim.fandom.com/wiki/Ancient_Tree",
+  "slug": "Ancient_Tree",
+  "categories": [
+    "Trees"
+  ],
+  "infobox": {
+    "_infobox_title": "Ancient Tree",
+    "Biome": "Swamp",
+    "Wood Type": "Ancient bark, and, Wood",
+    "Yield": "10",
+    "Tool Needed": "Bronze axe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ancient trees are a type of tree that can be found in the Swamp biome. They are characterized by their lack of leaves, and gnarled shape. A Bronze axe or better is required to damage it.\nAncient trees produce Wood and Ancient bark when destroyed. The yield of each type of wood appears to be random, however an ancient tree will always drop 10 pieces of wood in total.",
+      "table_data": [
+        {
+          "Item": "Wood",
+          "Amount": "0-10",
+          "Chance": "From logs",
+          "Average": "5"
+        },
+        {
+          "Item": "Ancient bark",
+          "Amount": "0-10",
+          "Chance": "From logs",
+          "Average": "5"
+        },
+        {
+          "Item": "Wood",
+          "Amount": "2",
+          "Chance": "From stump",
+          "Average": "2"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• While farming this tree, a player can avoid Leeches by using a Hoe and raising the ground level to pass through the water safely.\n• Do not confuse this tree with fallen trees on the ground (Swamp Only). Fallen trees are just a mesh and cannot be farmed in any way! In other words, there are both fallen trees and standing trees that are larger than \"ancient trees\" and cannot be damaged. They will have no tooltip showing a name, while ancient trees have the name-tooltip show up if you place the cursor/cross-hair over a part of the tree."
+    }
+  ],
+  "full_text": "Ancient Tree\n\nBiome: Swamp | Wood Type: Ancient bark, and, Wood | Yield: 10 | Tool Needed: Bronze axe\n\nIntroduction. Ancient trees are a type of tree that can be found in the Swamp biome. They are characterized by their lack of leaves, and gnarled shape. A Bronze axe or better is required to damage it.\nAncient trees produce Wood and Ancient bark when destroyed. The yield of each type of wood appears to be random, however an ancient tree will always drop 10 pieces of wood in total.\n\nNotes. • While farming this tree, a player can avoid Leeches by using a Hoe and raising the ground level to pass through the water safely.\n• Do not confuse this tree with fallen trees on the ground (Swamp Only). Fallen trees are just a mesh and cannot be farmed in any way! In other words, there are both fallen trees and standing trees that are larger than \"ancient trees\" and cannot be damaged. They will have no tooltip showing a name, while ancient trees have the name-tooltip show up if you place the cursor/cross-hair over a part of the tree.",
+  "scraped_at": "2026-02-26T01:48:42.239470+00:00"
+}

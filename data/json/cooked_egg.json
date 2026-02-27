@@ -1,0 +1,43 @@
+{
+  "title": "Egg",
+  "url": "https://valheim.fandom.com/wiki/Cooked_egg",
+  "slug": "Cooked_egg",
+  "categories": [
+    "Materials",
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Egg",
+    "Type": "Material",
+    "Internal ID": "ChickenEgg",
+    "Source": "Haldor | Hen",
+    "Usage": "Cauldron",
+    "Buy": "1,500, Coins",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Egg is an item and a food source, which can be initially purchased from Haldor to be able to breed Chickens. In order to start a chicken farm, two eggs are required.\nIt can be cooked in a Cauldron to obtain a Cooked egg."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Purchased from Haldor for 1,500 Coins after defeating Yagluth.\n• Found in a chest in the bottom floor of the Sealed Tower structure in the Plains.\n• Naturally spawns if two Hens are well-fed, sheltered, and near each other."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Cooked egg\n• Mushroom omelette"
+    },
+    {
+      "heading": "Hatching",
+      "level": 3,
+      "text": "An egg must be placed (dropped from inventory) near a fire or heat source and under a roof (needs shelter) to hatch. When hovering over an egg, it will indicate whether it is too cold to hatch (note: hovertext may take 5-10 seconds to update). After 30 minutes, the egg will hatch, and a Chicken will spawn and will eventually grow into a Hen. The egg must be placed individually - not in a stack - to hatch."
+    }
+  ],
+  "full_text": "Egg\n\nType: Material | Internal ID: ChickenEgg | Source: Haldor | Hen | Usage: Cauldron | Buy: 1,500, Coins | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Egg is an item and a food source, which can be initially purchased from Haldor to be able to breed Chickens. In order to start a chicken farm, two eggs are required.\nIt can be cooked in a Cauldron to obtain a Cooked egg.\n\nAvailability. • Purchased from Haldor for 1,500 Coins after defeating Yagluth.\n• Found in a chest in the bottom floor of the Sealed Tower structure in the Plains.\n• Naturally spawns if two Hens are well-fed, sheltered, and near each other.\n\nCrafting. • Cooked egg\n• Mushroom omelette\n\nHatching. An egg must be placed (dropped from inventory) near a fire or heat source and under a roof (needs shelter) to hatch. When hovering over an egg, it will indicate whether it is too cold to hatch (note: hovertext may take 5-10 seconds to update). After 30 minutes, the egg will hatch, and a Chicken will spawn and will eventually grow into a Hen. The egg must be placed individually - not in a stack - to hatch.",
+  "scraped_at": "2026-02-26T02:11:05.879147+00:00"
+}

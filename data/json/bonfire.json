@@ -1,0 +1,35 @@
+{
+  "title": "Bonfire",
+  "url": "https://valheim.fandom.com/wiki/Bonfire",
+  "slug": "Bonfire",
+  "categories": [
+    "Misc structures",
+    "Fires",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Bonfire",
+    "Type": "Misc",
+    "Internal ID": "bonfire",
+    "Crafting Materials": "Surtling core x1, Ancient bark x5, Finewood x5, Corewood x5",
+    "Support": "Wood (from 10 to 100)",
+    "Loss": "1/8 vertical, 1/5 horizontal",
+    "Other Effect(s)": "Produces smoke, Removes the Cold Effect, Adds the Fire Effect, Rapidly removes the Wet Effect, Reduces Freezing Effect to Cold Effect",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Lightning",
+    "Immune to (x0)": "Fire, ,, Frost, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bonfires are base structures used for cooking, sleeping and warmth.\nCompared to Campfires, they provide fire over a larger area and do not go out during rain."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Bonfires can only be placed on the ground and on stone structures.\n• Multiple Cooking stations can be placed around the Bonfire, however, the Cauldron does not work as it needs the fire directly underneath it.\n• A Bonfire must be fueled with Wood in order to function. Unlike the Campfire, it requires fueling with Wood immediately after placement in order to burn.\n• With 1/10 fuel, a Bonfire will last for roughly 1 hour and 23 minutes. At maximum capacity, a Bonfire should burn for roughly 13 hours and 53 minutes. This duration is the same for the Campfire.\n• Bonfires in captured Fuling Villages can be recycled for their materials, including the Surtling core, if a Workbench is built in their vicinity.\n• When exposed to rain without roof or strong wind without 70% cover, the fire gets dimmer and the Fire Effect radius drops from 15 meters to 12 meters.\n• Active bonfires create smoke.\n• Using a Surtling core or Black core on a bonfire produces a firework-like effect, that is visible to players outside the normal render distance.\n• One of the few base structures that is not a priority target for creatures."
+    }
+  ],
+  "full_text": "Bonfire\n\nType: Misc | Internal ID: bonfire | Crafting Materials: Surtling core x1, Ancient bark x5, Finewood x5, Corewood x5 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Other Effect(s): Produces smoke, Removes the Cold Effect, Adds the Fire Effect, Rapidly removes the Wet Effect, Reduces Freezing Effect to Cold Effect | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Lightning | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\nIntroduction. Bonfires are base structures used for cooking, sleeping and warmth.\nCompared to Campfires, they provide fire over a larger area and do not go out during rain.\n\nNotes. • Bonfires can only be placed on the ground and on stone structures.\n• Multiple Cooking stations can be placed around the Bonfire, however, the Cauldron does not work as it needs the fire directly underneath it.\n• A Bonfire must be fueled with Wood in order to function. Unlike the Campfire, it requires fueling with Wood immediately after placement in order to burn.\n• With 1/10 fuel, a Bonfire will last for roughly 1 hour and 23 minutes. At maximum capacity, a Bonfire should burn for roughly 13 hours and 53 minutes. This duration is the same for the Campfire.\n• Bonfires in captured Fuling Villages can be recycled for their materials, including the Surtling core, if a Workbench is built in their vicinity.\n• When exposed to rain without roof or strong wind without 70% cover, the fire gets dimmer and the Fire Effect radius drops from 15 meters to 12 meters.\n• Active bonfires create smoke.\n• Using a Surtling core or Black core on a bonfire produces a firework-like effect, that is visible to players outside the normal render distance.\n• One of the few base structures that is not a priority target for creatures.",
+  "scraped_at": "2026-02-26T01:56:52.538757+00:00"
+}

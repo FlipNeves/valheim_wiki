@@ -1,0 +1,40 @@
+{
+  "title": "Ash crow",
+  "url": "https://valheim.fandom.com/wiki/Ash_crow",
+  "slug": "Ash_crow",
+  "categories": [
+    "Passive creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Ash Crow",
+    "Internal ID": "AshCrow",
+    "Type": "Passive",
+    "Main biome": "Ashlands",
+    "Tameable": "No",
+    "Drops": "3, Feathers",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit",
+    "Immune to (x0)": "Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ash crows are passive creatures found in Ashlands around Charred ruins.\nThey are small birds with long legs and heavy, straight bills. These birds are entirely white, including their legs and feet."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Feathers",
+          "0 Star": "3",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Ash crow\n\nInternal ID: AshCrow | Type: Passive | Main biome: Ashlands | Tameable: No | Drops: 3, Feathers | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit | Immune to (x0): Chop, ,, Pickaxe\n\nIntroduction. Ash crows are passive creatures found in Ashlands around Charred ruins.\nThey are small birds with long legs and heavy, straight bills. These birds are entirely white, including their legs and feet.",
+  "scraped_at": "2026-02-26T01:53:44.465666+00:00"
+}

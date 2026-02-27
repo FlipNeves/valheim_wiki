@@ -1,0 +1,35 @@
+{
+  "title": "Scale hide",
+  "url": "https://valheim.fandom.com/wiki/Scale_hide",
+  "slug": "Scale_hide",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Scale hide",
+    "Type": "Material",
+    "Internal ID": "ScaleHide",
+    "Source": "Hare",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Scale hide is a drop from Hares in Mistlands biomes."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Black marble throne\n• Hare rug"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Carapace breastplate\n• Carapace buckler\n• Carapace greaves\n• Carapace helmet\n• Carapace shield\n• Eitr-weave robe\n• Eitr-weave trousers\n• Feather cape\n• Krom\n• Mead base: Lightfoot\n• Resounding Shackle"
+    }
+  ],
+  "full_text": "Scale hide\n\nType: Material | Internal ID: ScaleHide | Source: Hare | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Scale hide is a drop from Hares in Mistlands biomes.\n\nBuilding. • Black marble throne\n• Hare rug\n\nCrafting. • Carapace breastplate\n• Carapace buckler\n• Carapace greaves\n• Carapace helmet\n• Carapace shield\n• Eitr-weave robe\n• Eitr-weave trousers\n• Feather cape\n• Krom\n• Mead base: Lightfoot\n• Resounding Shackle",
+  "scraped_at": "2026-02-26T01:36:21.487888+00:00"
+}

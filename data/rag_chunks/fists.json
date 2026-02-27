@@ -1,0 +1,12 @@
+{
+  "title": "Fists",
+  "url": "https://valheim.fandom.com/wiki/Fists",
+  "slug": "Fists",
+  "categories": [
+    "Weapons",
+    "Unarmed"
+  ],
+  "content": "# Fists\n\n# Introduction\n\nFists is a weapon class.\n\n## Description\n\nWhen a player attacks without a weapon, tool equipped, or use a dedicated Fist weapon such as the Flesh Rippers, they do a Fist strike. The primary attack is a punch, and the secondary attack is a kick that does additional knockback with 6x staggering. The punch has a 2-hit combo where the second punch (left hand) does double damage.\nBare fists can be useful against the weakest of enemies; especially when the player wants to avoid the cost of weapon durability. It also costs less stamina than most weapons.\n\n## List of Fists\n\n• Name: Bare fists | Damage: blunt: 5 | Knockback: 5 | Stamina: 4\n\n• Name: Paws of the Bear | Damage: slash: 25/37 | Knockback: 10 | Stamina: 6\n\n• Name: Flesh Rippers | Damage: slash: 60/72 | Knockback: 20 | Stamina: 10\n\n• Name: Vilebone Maulclaws | Damage: pierce: 60 slash: 20/32 | Knockback: 10 | Stamina: 12\n\n## Properties\n\n• Attack type: Fist (primary) | Stamina: 1x | Range: 2 m | Attack speed: 1.48 s (0.76 + 0.72) | Damage: 1x + 2x | Staggering: 1x | Knockback: 20\n\n• Attack type: Kick (secondary) | Stamina: 2x | Range: 2 m | Attack speed: 1.48 s | Damage: 1x | Staggering: 6x | Knockback: 80\n\n## Notes\n\n• Fists was previously named Unarmed prior to the Frost Caves update.\n\nCategorias: Weapons, Unarmed",
+  "content_length": 1310,
+  "scraped_at": "2026-02-26T01:14:35.921964+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Minor stamina mead",
+  "url": "https://valheim.fandom.com/wiki/Minor_stamina_mead",
+  "slug": "Minor_stamina_mead",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "content": "# Minor stamina mead\n\nType: Mead | Internal ID: MeadStaminaMinor | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Minor stamina x1 | Duration: 2s | Cooldown: 2m | Stamina Regen: +80 Stamina over 2s\n\n# Introduction\n\nMinor stamina mead is a Black Forest-tier consumable item fermented from Mead base: Minor stamina.\n\n## Recipe\n\nMead base: Minor stamina is produced in a Mead ketill with:\n• 10 Honey\n• 10 Raspberries\n• 10 Yellow mushroom\nSix Minor stamina meads are produced by fermenting the mead base for two in-game days.\n\n## Effect\n\nUpon consumption, it restores 80 stamina over 2 seconds.\nA 2-min cooldown is applied preventing consumption of another stamina mead.\n\n## Other locations\n\nOther than brewing, Minor stamina meads can be found:\n• In treasure chests at Infested Mines.\n• Destroyed Ancient pots may drop them.\n\nCategorias: Mead, Fermenter recipes, Items",
+  "content_length": 937,
+  "scraped_at": "2026-02-26T02:11:49.369205+00:00"
+}

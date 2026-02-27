@@ -1,0 +1,13 @@
+{
+  "title": "Egg",
+  "url": "https://valheim.fandom.com/wiki/Egg",
+  "slug": "Egg",
+  "categories": [
+    "Materials",
+    "Food",
+    "Cooking recipes"
+  ],
+  "content": "# Egg\n\nType: Material | Internal ID: ChickenEgg | Source: Haldor | Hen | Usage: Cauldron | Buy: 1,500, Coins | Teleportable (Can go through wood portal?): Yes\n\n# Introduction\n\nEgg is an item and a food source, which can be initially purchased from Haldor to be able to breed Chickens. In order to start a chicken farm, two eggs are required.\nIt can be cooked in a Cauldron to obtain a Cooked egg.\n\n## Availability\n\n• Purchased from Haldor for 1,500 Coins after defeating Yagluth.\n• Found in a chest in the bottom floor of the Sealed Tower structure in the Plains.\n• Naturally spawns if two Hens are well-fed, sheltered, and near each other.\n\n### Crafting\n\n• Cooked egg\n• Mushroom omelette\n\n### Hatching\n\nAn egg must be placed (dropped from inventory) near a fire or heat source and under a roof (needs shelter) to hatch. When hovering over an egg, it will indicate whether it is too cold to hatch (note: hovertext may take 5-10 seconds to update). After 30 minutes, the egg will hatch, and a Chicken will spawn and will eventually grow into a Hen. The egg must be placed individually - not in a stack - to hatch.\n\nCategorias: Materials, Food, Cooking recipes",
+  "content_length": 1158,
+  "scraped_at": "2026-02-26T01:25:57.910271+00:00"
+}

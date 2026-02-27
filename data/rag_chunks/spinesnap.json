@@ -1,0 +1,14 @@
+{
+  "title": "Spinesnap",
+  "url": "https://valheim.fandom.com/wiki/Spinesnap",
+  "slug": "Spinesnap",
+  "categories": [
+    "Weapons",
+    "Bows",
+    "Black forge recipes",
+    "Light sources"
+  ],
+  "content": "# Spinesnap\n\nInternal ID: BowSpineSnap | Type: Bow | Source: Black forge | Usage: Ranged weapon | Crafting Materials: Finewood x15, Bone fragments x60 | Attack speed: 0.8 s + 2.5 s draw time | Movement speed: -5%\n\n# Introduction\n\nThe Spinesnap is the fifth bow and made during the Eitr Age. Its primary attack fires arrows and charging the attack increases accuracy, damage and velocity of the arrow. It does not have a secondary attack.\nIt also adds spirit damage to the arrows.\n\n## Upgrade information\n\n• stat: Pierce | Quality 1: 72 | Quality 2: 76 | Quality 3: 80 | Quality 4: 84\n\n• stat: Spirit | Quality 1: 5 | Quality 2: 10 | Quality 3: 15 | Quality 4: 20\n\n• stat: Durability | Quality 1: 100 | Quality 2: 150 | Quality 3: 200 | Quality 4: 250\n\n• stat: Crafting | Quality 1: 10 Finewood40 Bone fragments10 Refined eitr | Quality 2: 5 Finewood20 Bone fragments | Quality 3: 10 Finewood40 Bone fragments | Quality 4: 15 Finewood60 Bone fragments\n\n• stat: Black forge level | Quality 1: 1 | Quality 2: 2 | Quality 3: 3 | Quality 4: 4\n\n## Notes\n\n• The limbs of the Spinesnap glow faintly crimson at all times. It is very dim compared to most proper light sources, but can provide some light in the dark. The glow effect also makes players slightly easier to detect while sneaking, increasing the visibility of its holder by approximately 10%.\n\nCategorias: Weapons, Bows, Black forge recipes, Light sources",
+  "content_length": 1408,
+  "scraped_at": "2026-02-26T01:18:40.853587+00:00"
+}

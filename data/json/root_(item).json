@@ -1,0 +1,25 @@
+{
+  "title": "Root (item)",
+  "url": "https://valheim.fandom.com/wiki/Root_(item)",
+  "slug": "Root_(item)",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Root",
+    "Type": "Material",
+    "Internal ID": "Root",
+    "Source": "Abomination",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Roots are items dropped by Abominations in Swamps and are used to craft the Root Set."
+    }
+  ],
+  "full_text": "Root (item)\n\nType: Material | Internal ID: Root | Source: Abomination | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Roots are items dropped by Abominations in Swamps and are used to craft the Root Set.",
+  "scraped_at": "2026-02-26T01:36:17.016419+00:00"
+}

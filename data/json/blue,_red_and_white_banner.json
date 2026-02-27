@@ -1,0 +1,115 @@
+{
+  "title": "Banners",
+  "url": "https://valheim.fandom.com/wiki/Blue,_red_and_white_banner",
+  "slug": "Blue,_red_and_white_banner",
+  "categories": [
+    "Furniture"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "All banners are made from Finewood, Leather scraps, and one or more other materials for the color."
+    },
+    {
+      "heading": "Common properties",
+      "level": 2,
+      "text": "Banners share the following properties:",
+      "table_data": [
+        {
+          "Property": "Durability",
+          "Value": "50"
+        },
+        {
+          "Property": "Support",
+          "Value": "Wood (from 10 to 100)"
+        },
+        {
+          "Property": "Loss",
+          "Value": "1/8 vertical, 1/5 horizontal"
+        },
+        {
+          "Property": "Resistances",
+          "Value": "Weak: Chop Neutral: Blunt, Slash, Pickaxe, Fire, Frost, Lightning Resistant: Pierce Immune: Poison, Spirit"
+        },
+        {
+          "Property": "Damaged by Rain?",
+          "Value": "No"
+        },
+        {
+          "Property": "Comfort",
+          "Value": "1 (if no other banners in range)"
+        },
+        {
+          "Property": "Size",
+          "Value": "3x2"
+        }
+      ]
+    },
+    {
+      "heading": "Banners",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Banner": "Black banner",
+          "Materials": "Finewood x2 Leather scraps x6 Coal x4",
+          "Internal id": "piece_banner01"
+        },
+        {
+          "Banner": "Blue banner",
+          "Materials": "Finewood x2 Leather scraps x6 Blueberries x4",
+          "Internal id": "piece_banner02"
+        },
+        {
+          "Banner": "White and red striped banner",
+          "Materials": "Finewood x2 Leather scraps x6 Raspberries x4",
+          "Internal id": "piece_banner03"
+        },
+        {
+          "Banner": "Red banner",
+          "Materials": "Finewood x2 Leather scraps x6 Bloodbag x1",
+          "Internal id": "piece_banner04"
+        },
+        {
+          "Banner": "Green banner",
+          "Materials": "Finewood x2 Leather scraps x6 Guck x1",
+          "Internal id": "piece_banner05"
+        },
+        {
+          "Banner": "Blue, red and white banner",
+          "Materials": "Finewood x2 Leather scraps x6 Blueberries x2 Raspberries x2 Cloudberries x1",
+          "Internal id": "piece_banner06"
+        },
+        {
+          "Banner": "White and blue striped banner",
+          "Materials": "Finewood x2 Leather scraps x6 Blueberries x2 Cloudberries x3",
+          "Internal id": "piece_banner07"
+        },
+        {
+          "Banner": "Yellow banner",
+          "Materials": "Finewood x2 Leather scraps x6 Coal x2 Dandelion x4",
+          "Internal id": "piece_banner08"
+        },
+        {
+          "Banner": "Purple banner",
+          "Materials": "Finewood x2 Leather scraps x6 Blueberries x2 Raspberries x3",
+          "Internal id": "piece_banner09"
+        },
+        {
+          "Banner": "Orange banner",
+          "Materials": "Finewood x2 Leather scraps x6 Carrot x2 Cloudberries x3",
+          "Internal id": "piece_banner10"
+        },
+        {
+          "Banner": "White banner",
+          "Materials": "Finewood x2 Leather scraps x6 Coal x2 Cloudberries x4",
+          "Internal id": "piece_banner11"
+        }
+      ]
+    }
+  ],
+  "full_text": "Banners\n\nIntroduction. All banners are made from Finewood, Leather scraps, and one or more other materials for the color.\n\nCommon properties. Banners share the following properties:",
+  "scraped_at": "2026-02-26T02:03:57.017623+00:00"
+}

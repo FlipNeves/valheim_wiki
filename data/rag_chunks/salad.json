@@ -1,0 +1,12 @@
+{
+  "title": "Salad",
+  "url": "https://valheim.fandom.com/wiki/Salad",
+  "slug": "Salad",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "content": "# Salad\n\nType: Food | Internal ID: Salad | Source: Cauldron | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Jotun puffs x3, Onion x3, Cloudberries x3 | Max Health: 26 | Max Stamina: 80 | Duration: 25m | Healing: 3 hp/tick\n\n# Introduction\n\nSalad is a Mistlands-tier food.\n\n## Availability\n\nThree salads are produced in a level 5 Cauldron with:\n• 3 Jotun puffs\n• 3 Onion\n• 3 Cloudberries\n\n## Notes\n\n• Salad provides the fewest bonuses of the stamina-focused foods in the Mistlands tier, but it is easy to produce in bulk - requiring farmable Jotun puffs and Onions and easily-gatherable Cloudberries. Additionally, each batch of this recipe yields three salads, whereas the other Mistlands stamina food recipes (Mushroom omelette and Fish 'n' bread) yield only one each.\n\nCategorias: Food, Cooking recipes",
+  "content_length": 843,
+  "scraped_at": "2026-02-26T01:28:15.355171+00:00"
+}

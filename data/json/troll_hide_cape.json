@@ -1,0 +1,63 @@
+{
+  "title": "Troll hide cape",
+  "url": "https://valheim.fandom.com/wiki/Troll_hide_cape",
+  "slug": "Troll_hide_cape",
+  "categories": [
+    "Armor",
+    "Capes",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Troll hide cape",
+    "Internal ID": "CapeTrollHide",
+    "Type": "Cape",
+    "Source": "Workbench",
+    "Crafting Materials": "Troll hide x15, Bone fragments x15",
+    "Armor": "4",
+    "Set Pieces": "Troll Set"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Troll hide cape is an armor piece that is part of the Troll Set.\nWearing all four pieces of the set adds the Sneaky Effect."
+    },
+    {
+      "heading": "Stats",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Quality": "Durability",
+          "1": "500",
+          "2": "550",
+          "3": "600",
+          "4": "650"
+        },
+        {
+          "Quality": "Armor",
+          "1": "1",
+          "2": "2",
+          "3": "3",
+          "4": "4"
+        },
+        {
+          "Quality": "Crafting recipe",
+          "1": "10 Troll hide10 Bone fragments",
+          "2": "5 Troll hide5 Bone fragments",
+          "3": "10 Troll hide10 Bone fragments",
+          "4": "15 Troll hide15 Bone fragments"
+        },
+        {
+          "Quality": "Workbench Level",
+          "1": "2",
+          "2": "3",
+          "3": "4",
+          "4": "5"
+        }
+      ]
+    }
+  ],
+  "full_text": "Troll hide cape\n\nInternal ID: CapeTrollHide | Type: Cape | Source: Workbench | Crafting Materials: Troll hide x15, Bone fragments x15 | Armor: 4 | Set Pieces: Troll Set\n\nIntroduction. Troll hide cape is an armor piece that is part of the Troll Set.\nWearing all four pieces of the set adds the Sneaky Effect.",
+  "scraped_at": "2026-02-26T01:24:02.624757+00:00"
+}

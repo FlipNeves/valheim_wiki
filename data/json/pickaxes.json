@@ -1,0 +1,77 @@
+{
+  "title": "Pickaxes",
+  "url": "https://valheim.fandom.com/wiki/Pickaxes",
+  "slug": "Pickaxes",
+  "categories": [
+    "Tools",
+    "Pickaxes",
+    "Weapons"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Pickaxes are a weapon class.\nThey can be used to mine ores, which no other type of player-weapon can do. Pickaxes formerly only hit a single target, but as of the Hearth and Home update, gained a cleaving attribute.\nTheir primary attack is a downward swing. They do not have a secondary attack."
+    },
+    {
+      "heading": "List of pickaxes",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Antler pickaxe",
+          "Icon": "",
+          "Damage (Min/Max)": "Pickaxe/Pierce: 18",
+          "Stamina": "6",
+          "Mineable Ore Deposit": "Stone, Copper, Tin, Muddy scrap pile, Abyssal barnacle"
+        },
+        {
+          "Name": "Bronze pickaxe",
+          "Icon": "",
+          "Damage (Min/Max)": "Pierce: 25/40 Pickaxe: 25/37",
+          "Stamina": "8",
+          "Mineable Ore Deposit": "Stone, Copper, Tin, Muddy scrap pile, Abyssal barnacle"
+        },
+        {
+          "Name": "Iron pickaxe",
+          "Icon": "",
+          "Damage (Min/Max)": "Pickaxe/Pierce: 33/48",
+          "Stamina": "10",
+          "Mineable Ore Deposit": "Stone, Copper, Tin, Muddy scrap pile, Abyssal barnacle, Obsidian, Silver"
+        },
+        {
+          "Name": "Black metal pickaxe",
+          "Icon": "",
+          "Damage (Min/Max)": "Pickaxe/Pierce: 49/64",
+          "Stamina": "14",
+          "Mineable Ore Deposit": "Stone, Copper, Tin, Muddy scrap pile, Abyssal barnacle, Obsidian, Silver, Black marble, Soft tissue, Flametal ore vein"
+        }
+      ]
+    },
+    {
+      "heading": "Properties",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Attack type": "Pickaxe (primary)",
+          "Stamina (base)": "6–14",
+          "Range": "1.8m",
+          "Attack speed": "1.4 s",
+          "Damage": "1x",
+          "Staggering": "1x",
+          "Knockback": "50",
+          "Notes": "20 degree arc."
+        }
+      ]
+    },
+    {
+      "heading": "Tips",
+      "level": 2,
+      "text": "• The simplest way to get your first pickaxe is to defeat the first boss to obtain the antler pickaxe."
+    }
+  ],
+  "full_text": "Pickaxes\n\nIntroduction. Pickaxes are a weapon class.\nThey can be used to mine ores, which no other type of player-weapon can do. Pickaxes formerly only hit a single target, but as of the Hearth and Home update, gained a cleaving attribute.\nTheir primary attack is a downward swing. They do not have a secondary attack.\n\nTips. • The simplest way to get your first pickaxe is to defeat the first boss to obtain the antler pickaxe.",
+  "scraped_at": "2026-02-26T01:17:19.293909+00:00"
+}

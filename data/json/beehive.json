@@ -1,0 +1,35 @@
+{
+  "title": "Beehive",
+  "url": "https://valheim.fandom.com/wiki/Beehive",
+  "slug": "Beehive",
+  "categories": [
+    "Crafting structures"
+  ],
+  "infobox": {
+    "_infobox_title": "Beehive",
+    "Type": "Crafting",
+    "Internal ID": "piece_beehive",
+    "Source": "Workbench",
+    "Crafting Materials": "Wood x10, Queen bee x1",
+    "Support": "Wood (from 10 to 100)",
+    "Loss": "1/8 vertical, 1/5 horizontal",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Beehives are base structures used for producing Honey."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "The bees have a variety of flavor text. During night and in rainy weather, the flavor text always says, \"The bees are sleeping.\"\nDuring the day, the flavor text says, \"The bees are happy.\" or \"The bees are angry.\" depending on the conditions. The factor on happiness is that the beehive has less than 60% cover and is placed in a compatible biome (Meadows, Black Forest, and Plains).\n• A beehive takes approximately 20 minutes in real time to produce one Honey.\n• A beehive can fill up to four Honey at a time."
+    }
+  ],
+  "full_text": "Beehive\n\nType: Crafting | Internal ID: piece_beehive | Source: Workbench | Crafting Materials: Wood x10, Queen bee x1 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Beehives are base structures used for producing Honey.\n\nNotes. The bees have a variety of flavor text. During night and in rainy weather, the flavor text always says, \"The bees are sleeping.\"\nDuring the day, the flavor text says, \"The bees are happy.\" or \"The bees are angry.\" depending on the conditions. The factor on happiness is that the beehive has less than 60% cover and is placed in a compatible biome (Meadows, Black Forest, and Plains).\n• A beehive takes approximately 20 minutes in real time to produce one Honey.\n• A beehive can fill up to four Honey at a time.",
+  "scraped_at": "2026-02-26T01:45:39.161101+00:00"
+}

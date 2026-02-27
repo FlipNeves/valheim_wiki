@@ -1,0 +1,31 @@
+{
+  "title": "Frost (effect)",
+  "url": "https://valheim.fandom.com/wiki/Frost_Effect",
+  "slug": "Frost_Effect",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Frost",
+    "Effects": "Slows movement speed"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Frost is a negative status effect that applies a movement and turn speed penalty on the affected entity. This speed penalty decays exponentially over the duration of the status effect.\nMovement speed reduction starts at 100% and gradually decays towards 0%. Refreshing the effect resets the reduction back to 100%.\nThe debuff duration depends on the amount of health lost; The base duration is 15 seconds for players and 50 seconds for creatures:\nd u r a t i o n = b a s e d u r a t i o n ⋅ d a m a g e m a x h e a l t h {\\textstyle duration = base\\ duration \\cdot {damage \\over {max\\ health}}}\nFor example, receiving 200 Frost damage while at max 150 health and wearing 50 armor causes 50 damage and 5 seconds of Frost Effect.\n5 s = 15 s ⋅ 50 150 {\\textstyle 5s = 15s \\cdot {50 \\over 150}}"
+    },
+    {
+      "heading": "Source",
+      "level": 2,
+      "text": "• Enemies Drake Dvergr mage\n• Minibosses Geirrhafa\n• Bosses Moder"
+    },
+    {
+      "heading": "Resistance",
+      "level": 2,
+      "text": "The player can craft Frost resistance mead or wear armor that grants resistance to Frost to significantly reduce the duration."
+    }
+  ],
+  "full_text": "Frost (effect)\n\nEffects: Slows movement speed\n\nIntroduction. Frost is a negative status effect that applies a movement and turn speed penalty on the affected entity. This speed penalty decays exponentially over the duration of the status effect.\nMovement speed reduction starts at 100% and gradually decays towards 0%. Refreshing the effect resets the reduction back to 100%.\nThe debuff duration depends on the amount of health lost; The base duration is 15 seconds for players and 50 seconds for creatures:\nd u r a t i o n = b a s e d u r a t i o n ⋅ d a m a g e m a x h e a l t h {\\textstyle duration = base\\ duration \\cdot {damage \\over {max\\ health}}}\nFor example, receiving 200 Frost damage while at max 150 health and wearing 50 armor causes 50 damage and 5 seconds of Frost Effect.\n5 s = 15 s ⋅ 50 150 {\\textstyle 5s = 15s \\cdot {50 \\over 150}}\n\nSource. • Enemies Drake Dvergr mage\n• Minibosses Geirrhafa\n• Bosses Moder\n\nResistance. The player can craft Frost resistance mead or wear armor that grants resistance to Frost to significantly reduce the duration.",
+  "scraped_at": "2026-02-26T01:57:09.109046+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Needle arrow",
+  "url": "https://valheim.fandom.com/wiki/Needle_arrow",
+  "slug": "Needle_arrow",
+  "categories": [
+    "Weapons",
+    "Arrows",
+    "Workbench recipes",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Needle arrow",
+    "Internal ID": "ArrowNeedle",
+    "Type": "Arrow",
+    "Source": "Workbench",
+    "Usage": "Bow ammunition",
+    "Crafting Materials": "Needle x4, Feathers x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Needle arrows are ammunition for bows and are the next direct upgrade from obsidian arrows."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• It is unlocked after acquiring a needle and is crafted in the workbench."
+    }
+  ],
+  "full_text": "Needle arrow\n\nInternal ID: ArrowNeedle | Type: Arrow | Source: Workbench | Usage: Bow ammunition | Crafting Materials: Needle x4, Feathers x2\n\nIntroduction. Needle arrows are ammunition for bows and are the next direct upgrade from obsidian arrows.\n\nAvailability. • It is unlocked after acquiring a needle and is crafted in the workbench.",
+  "scraped_at": "2026-02-26T01:16:49.572579+00:00"
+}

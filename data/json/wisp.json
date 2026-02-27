@@ -1,0 +1,35 @@
+{
+  "title": "Wisp",
+  "url": "https://valheim.fandom.com/wiki/Wisp",
+  "slug": "Wisp",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Wisp",
+    "Type": "Material",
+    "Internal ID": "Wisp",
+    "Source": "Wisp fountain",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wisps are collected around Wisp fountains at night. They are used primarily to craft the Wisplight as well as some items and Furniture."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Wisp torch"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Wisplight\n• Mistwalker"
+    }
+  ],
+  "full_text": "Wisp\n\nType: Material | Internal ID: Wisp | Source: Wisp fountain | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Wisps are collected around Wisp fountains at night. They are used primarily to craft the Wisplight as well as some items and Furniture.\n\nBuilding. • Wisp torch\n\nCrafting. • Wisplight\n• Mistwalker",
+  "scraped_at": "2026-02-26T01:37:40.049968+00:00"
+}

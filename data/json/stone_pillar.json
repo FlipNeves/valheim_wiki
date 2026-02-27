@@ -1,0 +1,101 @@
+{
+  "title": "Stone structures",
+  "url": "https://valheim.fandom.com/wiki/Stone_pillar",
+  "slug": "Stone_pillar",
+  "categories": [
+    "Building structures"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Stone structures become available after the acquisition of iron and subsequently a stonecutter. They require stone and the proximity of a stonecutter to be built and repaired.\nStone fortifications are stronger than those from wood, which can make them more resistant against raids."
+    },
+    {
+      "heading": "Common properties",
+      "level": 2,
+      "text": "Stone structures share the following properties:",
+      "table_data": [
+        {
+          "Property": "Durability",
+          "Value": "1500"
+        },
+        {
+          "Property": "Support",
+          "Value": "Stone (from 100 to 1000)"
+        },
+        {
+          "Property": "Loss",
+          "Value": "1/8 vertical, 1/1 horizontal"
+        },
+        {
+          "Property": "Resistances",
+          "Value": "Weak: Pickaxe Neutral: Blunt, Slash, Pierce, Chop, Lightning Resistant: Fire, Frost Immune: Poison, Spirit"
+        },
+        {
+          "Property": "Damaged by rain",
+          "Value": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Floors and stairs",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Structure": "Stone floor 2x2",
+          "Materials": "Stone x6",
+          "Size": "2x2x1"
+        },
+        {
+          "Structure": "Stone stair",
+          "Materials": "Stone x8",
+          "Size": "2x2x1"
+        }
+      ]
+    },
+    {
+      "heading": "Walls",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Structure": "Stone wall 1x1",
+          "Materials": "Stone x3",
+          "Size": "1x1x1"
+        },
+        {
+          "Structure": "Stone wall 2x1",
+          "Materials": "Stone x4",
+          "Size": "2x1x1"
+        },
+        {
+          "Structure": "Stone wall 4x2",
+          "Materials": "Stone x6",
+          "Size": "4x2x1"
+        }
+      ]
+    },
+    {
+      "heading": "Supports",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Structure": "Stone pillar",
+          "Materials": "Stone x5",
+          "Size": "1x1x2"
+        },
+        {
+          "Structure": "Stone arch",
+          "Materials": "Stone x4",
+          "Size": "2x1x1"
+        }
+      ]
+    }
+  ],
+  "full_text": "Stone structures\n\nIntroduction. Stone structures become available after the acquisition of iron and subsequently a stonecutter. They require stone and the proximity of a stonecutter to be built and repaired.\nStone fortifications are stronger than those from wood, which can make them more resistant against raids.\n\nCommon properties. Stone structures share the following properties:",
+  "scraped_at": "2026-02-26T02:13:44.754421+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Dvergr viaduct",
+  "url": "https://valheim.fandom.com/wiki/Dvergr_viaduct",
+  "slug": "Dvergr_viaduct",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Dvergr viaduct",
+    "Type": "Structure",
+    "Internal ID": "Mistlands_Viaduct1 | Mistlands_Viaduct2",
+    "Location": "Mistlands"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Dvergr viaducts are structure made of Black marble found in the Mistlands. They have from 1 to 3 pillars and an internal structure made of Cage floor 2x2 and Cage wall 2x2."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "Part of the pillar is buried in the ground, making certain resources difficult to access.",
+      "table_data": [
+        {
+          "Resources": "Black marble",
+          "Amount": "around 150"
+        },
+        {
+          "Resources": "Iron",
+          "Amount": "48"
+        },
+        {
+          "Resources": "Copper scrap",
+          "Amount": "8"
+        }
+      ]
+    },
+    {
+      "heading": "Tips",
+      "level": 2,
+      "text": "• When the base of the pillars are destroyed the full structure collapse and yields large quantities of Black marble and Iron at low effort.\n• A Hammer with a nearby Stonecutter can destroy all the viaduct parts."
+    }
+  ],
+  "full_text": "Dvergr viaduct\n\nType: Structure | Internal ID: Mistlands_Viaduct1 | Mistlands_Viaduct2 | Location: Mistlands\n\nIntroduction. Dvergr viaducts are structure made of Black marble found in the Mistlands. They have from 1 to 3 pillars and an internal structure made of Cage floor 2x2 and Cage wall 2x2.\n\nDrops. Part of the pillar is buried in the ground, making certain resources difficult to access.\n\nTips. • When the base of the pillars are destroyed the full structure collapse and yields large quantities of Black marble and Iron at low effort.\n• A Hammer with a nearby Stonecutter can destroy all the viaduct parts.",
+  "scraped_at": "2026-02-26T01:52:54.445217+00:00"
+}

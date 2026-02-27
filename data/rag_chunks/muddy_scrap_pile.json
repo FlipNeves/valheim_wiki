@@ -1,0 +1,12 @@
+{
+  "title": "Muddy scrap pile",
+  "url": "https://valheim.fandom.com/wiki/Muddy_scrap_pile",
+  "slug": "Muddy_scrap_pile",
+  "categories": [
+    "Ore deposits",
+    "Resource nodes"
+  ],
+  "content": "# Muddy scrap pile\n\nType: Ore deposits | Internal ID: mudpile2 (whole), mudpile2_frac | Location: InsideSunken Crypts | Buried in theSwamp | Neutral to: Pickaxe | Immune to: Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit\n\n# Introduction\n\nA Muddy scrap pile is a resource node and are found predominantly inside Sunken Crypts within the Swamp biome and require a Pickaxe to be harvested.\nThey have 5 health per segment, making all pickaxes equally good at mining them.\n\n## Availability\n\nBesides being found in the Sunken Crypts, they can also rarely be found underground in the Swamp. Generally, the player will need a Wishbone to find these deposits. However, due to these nodes extending below the water line, it can be challenging to effectively mine them.\nWhen mined, they uniquely do not guarantee resources but instead have a small chance of dropping Scrap iron, Leather scraps or Withered bones.\n\n## Drops\n\nIn Sunken Crypts, Muddy scrap piles have 30 segments and each segment may drop the following when mined:\nThe Muddy scrap piles found outdoors in the Swamp have 20 segments, each segment may drop:\n\n• Item: Drop Rate | Scrap iron: 14.29%(Average 4.3 per pile) | Leather scraps: 2.86%(Average 0.86 per pile) | Withered bone: 2.86%(Average 0.86 per pile)\n\n• Item: Drop Rate | Scrap iron: 29.7%(Average 6 per pile) | Withered bone: 0.3%(Average 0.06 per pile)\n\n## Notes\n\n• Metal deposits do not respawn.\n• Muddy scrap piles are the only metal resource currently in the game not to guarantee items upon being mined.\n• Like other metals, the resulting Scrap iron cannot be teleported through a Wood portal\n\nCategorias: Ore deposits, Resource nodes",
+  "content_length": 1697,
+  "scraped_at": "2026-02-26T01:49:00.186053+00:00"
+}

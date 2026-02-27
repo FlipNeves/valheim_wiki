@@ -1,0 +1,14 @@
+{
+  "title": "Karve",
+  "url": "https://valheim.fandom.com/wiki/Karve",
+  "slug": "Karve",
+  "categories": [
+    "Misc structures",
+    "Storage",
+    "Boats",
+    "Transport"
+  ],
+  "content": "# Karve\n\nType: Misc | Internal ID: Karve | Source: Workbench | Usage: Sailing | Crafting Materials: Finewood x30, Deer hide x10, Resin x20, Bronze nails x80 | Weak to (x1.5): Fire | Neutral to (x1): Blunt, ,, Slash, ,, Lightning | Resistant to (x0.5): Pierce, ,, Frost | Immune to (x0): Chop, ,, Pickaxe, ,, Poison, ,, Spirit\n\n# Introduction\n\nKarves are medium boats with a medium sailing speed, a small amount of storage and good maneuverability. Their moderate cost of construction along with slightly higher health and significantly faster sailing speeds than the Raft make the Karve the first reliable boat for longer ocean voyages. Care should still be taken, since its health makes the Karve deceptively fragile when set upon by Serpents.\nThey travel 3.9–7.0 m/s with full sails, 2.8–4.8 m/s with half sails and 3.14 m/s when paddling.\n\n## Specifications\n\n• 500 HP\n• 10m long x 3m wide x 8m air draft (height from waterline).\n• 2 seats plus pilot (currently any number of people can hold fast)\n• 4 storage slots (cargo weight does not seem to affect handling or speed)\n• Speeds Full sails: 100% wind: 7.0 m/s, high risk of capsizing 50% wind: 5.7 m/s 5% wind: 3.9 m/s Half sails: 100% wind: 4.8 m/s 50% wind: 4.1 m/s 5% wind: 2.8 m/s Paddling: 3.14 m/s\n• 20m turning radius at top speed with full sail\n\n## Notes\n\n• Boats cannot be deconstructed with a hammer, but their resources drop when they are destroyed and can be recovered if a player is standing or swimming in range to pick them up before they sink.\n• The Karve can outrun a Serpent with the wind directly behind it during a thunderstorm; eventually, the Serpent will give up the chase.\n• Karves can capsize from heavy waves during storms, though it is rare. Sail directly towards the waves at less than full sails to minimize the risk.\n\nCategorias: Misc structures, Storage, Boats, Transport",
+  "content_length": 1857,
+  "scraped_at": "2026-02-26T01:51:21.627746+00:00"
+}

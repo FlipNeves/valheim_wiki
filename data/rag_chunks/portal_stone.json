@@ -1,0 +1,11 @@
+{
+  "title": "Portal – Stone",
+  "url": "https://valheim.fandom.com/wiki/Portal_stone",
+  "slug": "Portal_stone",
+  "categories": [
+    "Misc structures"
+  ],
+  "content": "# Portal – Stone\n\nType: Misc | Internal ID: portal_stone | Source: Stonecutter | Usage: Teleports players to a connected portal. | Crafting Materials: Greydwarf eye x10, Grausten x30, Molten core x2 | Other Effect(s): Resistant to ash damage. | Weak to (x1.5): Chop | Neutral to (x1): Slash, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Blunt, ,, Pierce, ,, Pickaxe | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nPortal – Stone is an improved Portal which becomes available soon into the Ashlands biome. It allows players to teleport with items that Wooden portals disallow, such as Ores, Metals, Dragon eggs, Hildir's chests and Mechanical springs.\nA Stonecutter is required to construct the Stone portal.\n\n## Notes\n\n• It connects to any other portal using the same naming system as Wood portals and does not need to connect to the same type of portal.\n• The portal the player steps into must support the materials they want to transport, meaning that while the player can go through a Stone portal that is connected to a Wooden portal with metals in their inventory, the player cannot return through the same portal pair as the Wooden portal does not allow those same metals.\n• As of the Ashlands update Patch 0.218.21, the Stone portal can now be built on all stone floors (previously only on Grausten floor).\n• The Stone Portal is approximately twice as large as the wooden version, requiring an area four walls high, four 2x2 flooring tiles wide, and two 2x2 flooring tiles deep to fit.\n\n## Tips\n\n• Obtaining the materials for a Stone portal (notably Molten cores) should be a priority after arriving into Ashlands. If the player did not bring Iron to construct a Stonecutter, they can first build a Stone portal at base, use it to transport the Iron to Ashlands, and then build a Stone portal there. Thanks to Stone portals, sailing out of Ashlands is never necessary, provided the player has a portal link.\n\nCategorias: Misc structures",
+  "content_length": 1958,
+  "scraped_at": "2026-02-26T01:55:09.946449+00:00"
+}

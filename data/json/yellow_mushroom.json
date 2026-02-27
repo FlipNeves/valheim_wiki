@@ -1,0 +1,35 @@
+{
+  "title": "Yellow mushroom",
+  "url": "https://valheim.fandom.com/wiki/Yellow_Mushroom",
+  "slug": "Yellow_Mushroom",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Yellow mushroom",
+    "Type": "Food",
+    "Internal ID": "MushroomYellow",
+    "Source": "Burial Chambers, ,, Troll Cave, ,, Sunken Crypts",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "10",
+    "Max Stamina": "30",
+    "Duration": "10m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Yellow mushrooms are commonly found in Burial Chambers or Troll Caves in the Black Forest, and Sunken Crypts in the Swamp.\nThey can be eaten raw, or used in a Mead ketill for crafting.\nAs with most plants, these regrow naturally after being picked up. Picked mushrooms will respawn after 240 minutes, 4h. They are the only part of an underground chamber that regenerates.\nBoars will not eat yellow mushrooms."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mead base: Medium stamina\n• Mead base: Minor stamina\n• Mead base: Berserkir"
+    }
+  ],
+  "full_text": "Yellow mushroom\n\nType: Food | Internal ID: MushroomYellow | Source: Burial Chambers, ,, Troll Cave, ,, Sunken Crypts | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Max Health: 10 | Max Stamina: 30 | Duration: 10m | Healing: 1 hp/tick\n\nIntroduction. Yellow mushrooms are commonly found in Burial Chambers or Troll Caves in the Black Forest, and Sunken Crypts in the Swamp.\nThey can be eaten raw, or used in a Mead ketill for crafting.\nAs with most plants, these regrow naturally after being picked up. Picked mushrooms will respawn after 240 minutes, 4h. They are the only part of an underground chamber that regenerates.\nBoars will not eat yellow mushrooms.\n\nCrafting. • Mead base: Medium stamina\n• Mead base: Minor stamina\n• Mead base: Berserkir",
+  "scraped_at": "2026-02-26T01:50:05.564017+00:00"
+}

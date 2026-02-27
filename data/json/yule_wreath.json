@@ -1,0 +1,36 @@
+{
+  "title": "Yule wreath",
+  "url": "https://valheim.fandom.com/wiki/Yule_wreath",
+  "slug": "Yule_wreath",
+  "categories": [
+    "Furniture",
+    "Seasonal Furniture"
+  ],
+  "infobox": {
+    "_infobox_title": "Yule wreath",
+    "Type": "Furniture",
+    "Internal ID": "piece_xmascrown",
+    "Source": "Workbench",
+    "Season": "Yule (Christmas)",
+    "Usage": "Decoration",
+    "Crafting Materials": "Pine cone x4, Red jute x1, Finewood x1",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Yule wreath is a seasonal decorative object. It needs to be built within the range of a Workbench and on a flat, horizontal surface or underside of a surface."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "The Yule wreath cannot be built year-round. It can only be built during the Christmas season, 1 December – 6 January."
+    }
+  ],
+  "full_text": "Yule wreath\n\nType: Furniture | Internal ID: piece_xmascrown | Source: Workbench | Season: Yule (Christmas) | Usage: Decoration | Crafting Materials: Pine cone x4, Red jute x1, Finewood x1 | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Yule wreath is a seasonal decorative object. It needs to be built within the range of a Workbench and on a flat, horizontal surface or underside of a surface.\n\nAvailability. The Yule wreath cannot be built year-round. It can only be built during the Christmas season, 1 December – 6 January.",
+  "scraped_at": "2026-02-26T01:42:49.934933+00:00"
+}

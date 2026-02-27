@@ -1,0 +1,12 @@
+{
+  "title": "Artisan table",
+  "url": "https://valheim.fandom.com/wiki/Artisan_table",
+  "slug": "Artisan_table",
+  "categories": [
+    "Crafting structures",
+    "Crafting"
+  ],
+  "content": "# Artisan table\n\nType: Crafting | Skill: Crafting | Internal ID: piece_artisanstation | Max Level: 2 | Improvements: Artisan press | Crafting Materials: Dragon tear x2, Wood x10 | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nArtisan tables are base structures used for building Blast furnaces, Spinning wheels, Windmills, and Stone oven within 40 meters.\nThey require Dragon tears, so they can only be built after killing Moder. Its upgrade is required to build the Drakkar to reach Ashlands and is obtained by killing The Queen.\nInteracting requires a roof and 70% cover. Building structures does not require roof or any cover.\n\n## Upgrades\n\nUpgrading an Artisan table enables additional crafting recipes. An Artisan table can be upgraded by building the following structures near it:\n\n• Name: Artisan press | Materials: 5 Black marble5 Bronze1 Majestic carapace\n\n### Level 1 (base)\n\n• Wooden missile\n• Black metal missile\n• Flametal missile\n• Mechanical spring\n\n### Level 2\n\n• Ceramic plate\n• Shield core\n\nCategorias: Crafting structures, Crafting",
+  "content_length": 1188,
+  "scraped_at": "2026-02-26T02:13:19.719813+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Poison arrow",
+  "url": "https://valheim.fandom.com/wiki/Poison_arrow",
+  "slug": "Poison_arrow",
+  "categories": [
+    "Weapons",
+    "Arrows",
+    "Workbench recipes",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Poison arrow",
+    "Internal ID": "ArrowPoison",
+    "Type": "Arrow",
+    "Source": "Workbench",
+    "Usage": "Bow ammunition",
+    "Crafting Materials": "Wood x8, Obsidian x4, Feathers x2, Ooze x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Poison arrows are ammunition for bows. Most arrows' damage comes primarily from their pierce damage, with potential secondary damage, like silver arrows. However, poison arrows' damage primarily comes from their damage over time poison effect, with pierce damage being the lesser."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Ooze is found within the Swamp biome by killing Blobs and Oozers.\n• Obsidian can be found within the Mountain biome.\n• Poison arrows can occasionally be found in chests inside Sunken Crypts in the Swamp biome."
+    },
+    {
+      "heading": "Features",
+      "level": 2,
+      "text": "• Deals damage divided between poison and pierce damage.\n• The poison effect stacks with that of the Draugr fang."
+    }
+  ],
+  "full_text": "Poison arrow\n\nInternal ID: ArrowPoison | Type: Arrow | Source: Workbench | Usage: Bow ammunition | Crafting Materials: Wood x8, Obsidian x4, Feathers x2, Ooze x2\n\nIntroduction. Poison arrows are ammunition for bows. Most arrows' damage comes primarily from their pierce damage, with potential secondary damage, like silver arrows. However, poison arrows' damage primarily comes from their damage over time poison effect, with pierce damage being the lesser.\n\nAvailability. • Ooze is found within the Swamp biome by killing Blobs and Oozers.\n• Obsidian can be found within the Mountain biome.\n• Poison arrows can occasionally be found in chests inside Sunken Crypts in the Swamp biome.\n\nFeatures. • Deals damage divided between poison and pierce damage.\n• The poison effect stacks with that of the Draugr fang.",
+  "scraped_at": "2026-02-26T01:17:23.134560+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Fins of Destiny",
+  "url": "https://valheim.fandom.com/wiki/Fins_of_Destiny",
+  "slug": "Fins_of_Destiny",
+  "categories": [
+    "Trinket"
+  ],
+  "infobox": {
+    "_infobox_title": "Fins of Destiny",
+    "Internal ID": "TrinketChitinSwim",
+    "Type": "Trinkets",
+    "Source": "Forge",
+    "Crafting Materials": "Chitin x5, Serpent scale x5, Serpent trophy x1",
+    "Adrenaline Cost": "10",
+    "Effect": "+50% swim speed | -80% swim stamina usage",
+    "Duration": "2m"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fins of Destiny are an Ocean-tier trinket."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Once 10 Adrenaline has been gained, the Fins of Destiny will trigger automatically, providing +50% swim speed and -80% swim stamina usage for 120 seconds."
+    }
+  ],
+  "full_text": "Fins of Destiny\n\nInternal ID: TrinketChitinSwim | Type: Trinkets | Source: Forge | Crafting Materials: Chitin x5, Serpent scale x5, Serpent trophy x1 | Adrenaline Cost: 10 | Effect: +50% swim speed | -80% swim stamina usage | Duration: 2m\n\nIntroduction. Fins of Destiny are an Ocean-tier trinket.\n\nEffects. Once 10 Adrenaline has been gained, the Fins of Destiny will trigger automatically, providing +50% swim speed and -80% swim stamina usage for 120 seconds.",
+  "scraped_at": "2026-02-26T02:09:53.798197+00:00"
+}

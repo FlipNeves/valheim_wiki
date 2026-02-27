@@ -1,0 +1,50 @@
+{
+  "title": "Mushroom",
+  "url": "https://valheim.fandom.com/wiki/Mushroom",
+  "slug": "Mushroom",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Mushroom",
+    "Type": "Food",
+    "Internal ID": "Mushroom",
+    "Source": "Meadows, ,, Black Forest, Swamp",
+    "Usage": "Building, Crafting, Eating, Taming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "15",
+    "Max Stamina": "15",
+    "Duration": "15m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Mushrooms can be found on the ground in the Meadows, Black Forest and Swamp. Picked mushrooms will respawn after 240 minutes, or 4h, at the same place that they were picked. Unlike the case with raspberries and blueberries, which do not return if the plant itself is removed, mushrooms will return if the ground is cleared or even excavated.\nMushrooms are almost negligible as a food, but they are a vital component of some of the best recipes in the later game, as well as being food for tame boars. Since they cannot be cultivated, and do not grow in large numbers at any one place, it is prudent to save some of them from early in the game for later use."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Spice rack"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Carrot soup\n• Serpent stew\n• Wolf skewer\n• Mead base: Berserkir"
+    },
+    {
+      "heading": "Taming",
+      "level": 3,
+      "text": "• Can be fed to hungry Boars to either begin or continue the taming process, or to allow reproduction."
+    },
+    {
+      "heading": "Collection strategies",
+      "level": 2,
+      "text": "Collecting large quantities of mushrooms can be tedious since they cannot be farmed with a cultivator. However, there are strategies to make mushroom collection more manageable. One of the simplest and most effective methods is to mark mushroom locations on your map. This can be done from the start of the game, helping you plan efficient foraging routes.\nAdditionally, once you have enough resources to create multiple portals, you can set up \"portal chains\" for rapid mushroom collection. Start by placing a portal at your base with a short name ending in \"1\". Travel to an area with a large mushroom patch, link up the first portal, and set up a new portal with the same name ending in \"2\", and continue to another mushroom-rich area. Repeat this process as many times as needed. Finally, place a return portal at the last location and link it back to your base. This setup allows for quick and easy mushroom collection every 240 minutes.\nTo keep track of the harvest time, use a pickable ground item near your mushroom portal to act as a timer. Since all ground items respawn every 240 minutes (4 hours), picking up an item at your base after a mushroom harvest will signal when it's time to harvest again once the item reappears."
+    }
+  ],
+  "full_text": "Mushroom\n\nType: Food | Internal ID: Mushroom | Source: Meadows, ,, Black Forest, Swamp | Usage: Building, Crafting, Eating, Taming | Teleportable (Can go through wood portal?): Yes | Max Health: 15 | Max Stamina: 15 | Duration: 15m | Healing: 1 hp/tick\n\nIntroduction. Mushrooms can be found on the ground in the Meadows, Black Forest and Swamp. Picked mushrooms will respawn after 240 minutes, or 4h, at the same place that they were picked. Unlike the case with raspberries and blueberries, which do not return if the plant itself is removed, mushrooms will return if the ground is cleared or even excavated.\nMushrooms are almost negligible as a food, but they are a vital component of some of the best recipes in the later game, as well as being food for tame boars. Since they cannot be cultivated, and do not grow in large numbers at any one place, it is prudent to save some of them from early in the game for later use.\n\nBuilding. • Spice rack\n\nCrafting. • Carrot soup\n• Serpent stew\n• Wolf skewer\n• Mead base: Berserkir\n\nTaming. • Can be fed to hungry Boars to either begin or continue the taming process, or to allow reproduction.\n\nCollection strategies. Collecting large quantities of mushrooms can be tedious since they cannot be farmed with a cultivator. However, there are strategies to make mushroom collection more manageable. One of the simplest and most effective methods is to mark mushroom locations on your map. This can be done from the start of the game, helping you plan efficient foraging routes.\nAdditionally, once you have enough resources to create multiple portals, you can set up \"portal chains\" for rapid mushroom collection. Start by placing a portal at your base with a short name ending in \"1\". Travel to an area with a large mushroom patch, link up the first portal, and set up a new portal with the same name ending in \"2\", and continue to another mushroom-rich area. Repeat this process as many times as needed. Finally, place a return portal at the last location and link it back to your base. This setup allows for quick and easy mushroom collection every 240 minutes.\nTo keep track of the harvest time, use a pickable ground item near your mushroom portal to act as a timer. Since all ground items respawn every 240 minutes (4 hours), picking up an item at your base after a mushroom harvest will signal when it's time to harvest again once the item reappears.",
+  "scraped_at": "2026-02-26T01:27:19.779980+00:00"
+}

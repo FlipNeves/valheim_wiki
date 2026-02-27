@@ -1,0 +1,31 @@
+{
+  "title": "Evil bone pile",
+  "url": "https://valheim.fandom.com/wiki/Evil_bone_pile",
+  "slug": "Evil_bone_pile",
+  "categories": [
+    "Building",
+    "Creature spawner"
+  ],
+  "infobox": {
+    "_infobox_title": "Evil bone pile",
+    "Internal ID": "BonePileSpawner",
+    "Usage": "melee Skeleton (80%), ranged Skeleton (20%)",
+    "Weak to (x1.5)": "Blunt",
+    "Neutral to (x1)": "Slash, ,, Pierce, ,, Fire, ,, Poison, ,, Spirit, ,, Frost, ,, Lightning",
+    "Immune to (x0)": "Pickaxe, ,, Chop"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Evil bone pile is a creature spawner found in Burial Chambers, Swamp and Mountain.\nThe pile can spawn melee and ranged skeletons:\n• melee Skeleton (80% chance)\n• ranged Skeleton (20% chance)\nSpawned enemies have a 12.75% chance to be 1 star and a 2.25% chance to be 2 star.\nThe nest activates when there is a player within 20 meters. The nest attempts to spawn within 2.28 meters every 6 seconds until there are 2 Skeletons within 20 meters."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• In Burial Chambers they may not spawn anything if there are skeletons in nearby rooms.\n• It is recommended to dispose of them as soon as possible because they will continuously spawn in hostile creatures.\n• If kept alive, these can provide a useful and infinite source of resources that the hostile creatures may drop."
+    }
+  ],
+  "full_text": "Evil bone pile\n\nInternal ID: BonePileSpawner | Usage: melee Skeleton (80%), ranged Skeleton (20%) | Weak to (x1.5): Blunt | Neutral to (x1): Slash, ,, Pierce, ,, Fire, ,, Poison, ,, Spirit, ,, Frost, ,, Lightning | Immune to (x0): Pickaxe, ,, Chop\n\nIntroduction. The Evil bone pile is a creature spawner found in Burial Chambers, Swamp and Mountain.\nThe pile can spawn melee and ranged skeletons:\n• melee Skeleton (80% chance)\n• ranged Skeleton (20% chance)\nSpawned enemies have a 12.75% chance to be 1 star and a 2.25% chance to be 2 star.\nThe nest activates when there is a player within 20 meters. The nest attempts to spawn within 2.28 meters every 6 seconds until there are 2 Skeletons within 20 meters.\n\nNotes. • In Burial Chambers they may not spawn anything if there are skeletons in nearby rooms.\n• It is recommended to dispose of them as soon as possible because they will continuously spawn in hostile creatures.\n• If kept alive, these can provide a useful and infinite source of resources that the hostile creatures may drop.",
+  "scraped_at": "2026-02-26T01:38:30.486888+00:00"
+}

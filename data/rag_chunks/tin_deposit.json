@@ -1,0 +1,12 @@
+{
+  "title": "Tin deposit",
+  "url": "https://valheim.fandom.com/wiki/Tin_deposit",
+  "slug": "Tin_deposit",
+  "categories": [
+    "Ore deposits",
+    "Resource nodes"
+  ],
+  "content": "# Tin deposit\n\nType: Ore deposits | Internal ID: MineRock_Tin | Location: Black Forest | Neutral to: Pickaxe | Immune to: Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit\n\n# Introduction\n\nTin deposits are resource nodes and are found in the Black Forest biome. An Antler pickaxe or better is required to harvest Tin ore from the deposit.\n\n## Availability\n\nTin deposits are found near water sources, such as rivers. They appear as medium rocks with distinct dark and silver colored intrusions protruding out from the ground. Each node has 30 health, and yields Tin ore when mined.\n\n## Drops\n\n• Item: Drop Rate | Tin ore: 3-4\n\n## Notes\n\n• Metal deposits do not respawn.\n• Due to their small size, they break entirely from one chunk being harvested.\n• Like other metals, Tin ore cannot be teleported.\n\nCategorias: Ore deposits, Resource nodes",
+  "content_length": 881,
+  "scraped_at": "2026-02-26T01:48:56.118152+00:00"
+}

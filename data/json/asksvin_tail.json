@@ -1,0 +1,49 @@
+{
+  "title": "Asksvin tail",
+  "url": "https://valheim.fandom.com/wiki/Asksvin_tail",
+  "slug": "Asksvin_tail",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Asksvin tail",
+    "Type": "Material",
+    "Internal ID": "AsksvinMeat",
+    "Source": "Asksvin, , Asksvin Hatchling",
+    "Usage": "Food preparation table, ,, Iron cooking station",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Asksvin tail is a food dropped by Asksvin. It can be cooked using an Iron cooking station over a lit Campfire to obtain a Cooked asksvin tail, or Coal if overcooked."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Creature": "Asksvin",
+          "0 Star": "2",
+          "1 Star": "4",
+          "2 Star": "8"
+        }
+      ]
+    },
+    {
+      "heading": "For Asksvin tail",
+      "level": 4,
+      "text": "• Cooked asksvin tail\n• Coal, if left on an Iron cooking station for too long\n• Fiery svinstew\n• Mashed meat\n• Uncooked piquant pie"
+    },
+    {
+      "heading": "For Cooked asksvin tail",
+      "level": 4,
+      "text": "• Ashlands gourmet bowl\nCooked asksvin tail cannot be used to craft recipes using Asksvin tail as ingredient."
+    }
+  ],
+  "full_text": "Asksvin tail\n\nType: Material | Internal ID: AsksvinMeat | Source: Asksvin, , Asksvin Hatchling | Usage: Food preparation table, ,, Iron cooking station | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Asksvin tail is a food dropped by Asksvin. It can be cooked using an Iron cooking station over a lit Campfire to obtain a Cooked asksvin tail, or Coal if overcooked.\n\nFor Asksvin tail. • Cooked asksvin tail\n• Coal, if left on an Iron cooking station for too long\n• Fiery svinstew\n• Mashed meat\n• Uncooked piquant pie\n\nFor Cooked asksvin tail. • Ashlands gourmet bowl\nCooked asksvin tail cannot be used to craft recipes using Asksvin tail as ingredient.",
+  "scraped_at": "2026-02-26T01:24:48.982031+00:00"
+}

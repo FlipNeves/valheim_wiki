@@ -1,0 +1,859 @@
+{
+  "title": "Events",
+  "url": "https://valheim.fandom.com/wiki/Events",
+  "slug": "Events",
+  "categories": [
+    "Mechanics",
+    "Gameplay"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Randomly happening events cause lots of enemies to spawn around the players. Progressing in the game world by defeating bosses causes harder events to appear. Events can be world-based or player-based depending on the world modifier settings in use. World-based events are the default mode.\nFor most events to end, a player must stay in the active event area until the timer runs out. The event timer is paused if there are no players in the event area (except for the \"You are being hunted...\" event).\nEvery 46 minutes there is a 20% chance for a random event;\n• Available events are based on which enemies have been defeated in the game world. Most events require defeating a boss to become available (see Enabled by column). Some events are permanently disabled after defeating a boss (see Disabled by column). Unless player-based raids is enabled, if a raid lists two mobs (e.g. Troll and The Elder), both those mobs must have died on that world for the raid to be enabled.\n• If player based raids are enabled: Most events are based on which Forsaken powers and materials the player has acquired. Some events also check which enemies the player has defeated.\n• For each event, check that any of the players fulfills the following conditions: The player is in the required biome (see Biome column). The player is not in a dungeon. The player is within 40 meters of at least 3 base structures. This is not required for the \"You are being hunted...\" event.\n• Select a random event from possible events (if any).\n• Select a random player from valid players and start the event at the player's position."
+    },
+    {
+      "heading": "World-based event requirements",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Event Name": "army_eikthyr",
+          "Start message": "\"Eikthyr rallies the creatures of the forest.\"",
+          "End message": "\"The creatures are calming down.\"",
+          "Creatures": "Boars and Necks",
+          "Enabled by": "Start of the world",
+          "Disabled by": "Eikthyr",
+          "Biome(s)": "Meadows or Black Forest",
+          "Duration (Seconds)": "90"
+        },
+        {
+          "Event Name": "army_theelder",
+          "Start message": "\"The forest is moving...\"",
+          "End message": "\"The forest rests again.\"",
+          "Creatures": "Greydwarfs, Greydwarf brutes and Greydwarf shamans",
+          "Enabled by": "Eikthyr",
+          "Disabled by": "The Elder",
+          "Biome(s)": "Meadows, Black Forest, Swamp, or Plains",
+          "Duration (Seconds)": "120"
+        },
+        {
+          "Event Name": "army_bonemass",
+          "Start message": "\"A foul smell from the swamp...\"",
+          "End message": "\"The smell is gone.\"",
+          "Creatures": "Draugr and Skeletons",
+          "Enabled by": "The Elder",
+          "Disabled by": "Bonemass",
+          "Biome(s)": "Meadows, Black Forest, Swamp, Mountain, or Plains",
+          "Duration (Seconds)": "150"
+        },
+        {
+          "Event Name": "army_moder",
+          "Start message": "\"A cold wind blows from the mountains.\"",
+          "End message": "\"The cold wind is gone.\"",
+          "Creatures": "Drakes (Also applies Freezing on the area)",
+          "Enabled by": "Bonemass",
+          "Disabled by": "Moder",
+          "Biome(s)": "Meadows, Black Forest, Swamp, Mountain, or Plains",
+          "Duration (Seconds)": "150"
+        },
+        {
+          "Event Name": "army_goblin",
+          "Start message": "\"The horde is attacking!\"",
+          "End message": "\"The horde is retreating.\"",
+          "Creatures": "Fulings, Fuling Berserkers and Fuling shamans",
+          "Enabled by": "Moder",
+          "Disabled by": "Yagluth",
+          "Biome(s)": "Meadows, Black Forest, or Plains",
+          "Duration (Seconds)": "120"
+        },
+        {
+          "Event Name": "army_gjall",
+          "Start message": "\"What's up, Gjall?!\"",
+          "End message": "\"Good bye Gjall.\"",
+          "Creatures": "Gjall and Ticks",
+          "Enabled by": "Yagluth",
+          "Disabled by": "The Queen",
+          "Biome(s)": "Mistlands",
+          "Duration (Seconds)": "90"
+        },
+        {
+          "Event Name": "army_seekers",
+          "Start message": "\"They sought you out.\"",
+          "End message": "\"The search is over.\"",
+          "Creatures": "Seekers and Seeker Broods",
+          "Enabled by": "Yagluth",
+          "Disabled by": "The Queen",
+          "Biome(s)": "Black Forest, Plains, Mistlands, Ashlands, or Deep North",
+          "Duration (Seconds)": "90"
+        },
+        {
+          "Event Name": "army_charred",
+          "Start message": "\"The undead army marches.\"",
+          "End message": "\"The army retreats.\"",
+          "Creatures": "Charred Twitchers, Charred Marksmen and Charred Warriors",
+          "Enabled by": "The Queen",
+          "Disabled by": "Fader",
+          "Biome(s)": "Any",
+          "Duration (Seconds)": "90"
+        },
+        {
+          "Event Name": "army_charredspawners",
+          "Start message": "\"The dead have been summoned.\"",
+          "End message": "\"The dead lie still once more.\"",
+          "Creatures": "Monument of Torments (won't despawn even after the raid is over)",
+          "Enabled by": "The Queen",
+          "Disabled by": "Fader",
+          "Biome(s)": "Any",
+          "Duration (Seconds)": "90"
+        },
+        {
+          "Event Name": "foresttrolls",
+          "Start message": "\"The ground is shaking.\"",
+          "End message": "\"The shakes starts to fade.\"",
+          "Creatures": "Trolls",
+          "Enabled by": "Troll and The Elder",
+          "Disabled by": "",
+          "Biome(s)": "Meadows, Black Forest, Swamp, or Plains",
+          "Duration (Seconds)": "80"
+        },
+        {
+          "Event Name": "blobs",
+          "Start message": "\"A foul smell from the swamp...\"",
+          "End message": "\"The smell is gone.\"",
+          "Creatures": "Blobs and Oozers",
+          "Enabled by": "Bonemass",
+          "Disabled by": "",
+          "Biome(s)": "Meadows, Black Forest, Swamp, or Plains",
+          "Duration (Seconds)": "120"
+        },
+        {
+          "Event Name": "ghosts",
+          "Start message": "\"You feel a chill down your spine...\"",
+          "End message": "\"They have been banished, for now...\"",
+          "Creatures": "Ghosts and Wraiths",
+          "Enabled by": "Bonemass",
+          "Disabled by": "",
+          "Biome(s)": "Meadows, Black Forest, Swamp, Mountain, or Plains",
+          "Duration (Seconds)": "150"
+        },
+        {
+          "Event Name": "skeletons",
+          "Start message": "\"A skeleton surprise!\"",
+          "End message": "\"Skeletons are tired of fighting.\"",
+          "Creatures": "Skeletons and Rancid remains",
+          "Enabled by": "Bonemass",
+          "Disabled by": "",
+          "Biome(s)": "Meadows, Black Forest, Swamp, Plains, or Mistlands",
+          "Duration (Seconds)": "120"
+        },
+        {
+          "Event Name": "surtlings",
+          "Start message": "\"There's a smell of sulfur in the air...\"",
+          "End message": "\"The smell is fading.\"",
+          "Creatures": "Surtlings",
+          "Enabled by": "Surtling and Bonemass",
+          "Disabled by": "",
+          "Biome(s)": "Meadows, Black Forest, Swamp, or Plains",
+          "Duration (Seconds)": "120"
+        },
+        {
+          "Event Name": "wolves",
+          "Start message": "\"You are being hunted...\"",
+          "End message": "\"The hunt is over.\"",
+          "Creatures": "Wolves",
+          "Enabled by": "Bonemass",
+          "Disabled by": "",
+          "Biome(s)": "Mountain or Plains",
+          "Duration (Seconds)": "120"
+        },
+        {
+          "Event Name": "bats",
+          "Start message": "\"You stirred the cauldron.\"",
+          "End message": "\"The cauldron calms.\"",
+          "Creatures": "Bats",
+          "Enabled by": "Bat and Bonemass",
+          "Disabled by": "",
+          "Biome(s)": "Any",
+          "Duration (Seconds)": "120"
+        },
+        {
+          "Event Name": "hildirboss1",
+          "Start message": "\"She's hot on your tail!\"",
+          "End message": "\"She got burnt.\"",
+          "Creatures": "Brenna, Skeletons, and Rancid remains",
+          "Enabled by": "Brass Chest returned to Hildir",
+          "Disabled by": "",
+          "Biome(s)": "Any",
+          "Duration (Seconds)": "90"
+        },
+        {
+          "Event Name": "hildirboss2",
+          "Start message": "\"You get the chills...\"",
+          "End message": "\"You can chill out.\"",
+          "Creatures": "Geirrhafa, Fenrings, and Cultists",
+          "Enabled by": "Silver Chest returned to Hildir",
+          "Disabled by": "",
+          "Biome(s)": "Any",
+          "Duration (Seconds)": "90"
+        },
+        {
+          "Event Name": "hildirboss3",
+          "Start message": "\"They were bros, man.\"",
+          "End message": "\"You broke the code... again.\"",
+          "Creatures": "Zil and Thungr, Fulings, and Fuling Berserkers",
+          "Enabled by": "Bronze Chest returned to Hildir",
+          "Disabled by": "",
+          "Biome(s)": "Any",
+          "Duration (Seconds)": "90"
+        }
+      ]
+    },
+    {
+      "heading": "Player-based requirements",
+      "level": 3,
+      "text": "The events available when player-based events are selected are the same as for world-based events but with different requirements to enable and disable them.\n• Events are enabled by fulfilling any of the requirements. For example trolls are enabled by gaining a Swamp key even when no trolls have been killed.\n• Events are disabled by fulfilling any of the requirements. For example most boss events are disabled by either acquiring the next Forsaken power or a boss drop.",
+      "table_data": [
+        {
+          "Event Name": "army_eikthyr",
+          "Required defeat": "",
+          "Required Forsaken power": "",
+          "Required item": "",
+          "Not required Forsaken power": "Eikthyr power",
+          "Not required item": "Antler pickaxe, Bronze pickaxe, Eikthyr trophy, Hard antler or Iron pickaxe"
+        },
+        {
+          "Event Name": "army_theelder",
+          "Required defeat": "",
+          "Required Forsaken power": "Eikthyr power",
+          "Required item": "Antler pickaxe, Bronze pickaxe Eikthyr trophy, Hard antler or Iron pickaxe",
+          "Not required Forsaken power": "Elder power",
+          "Not required item": "The Elder trophy or Swamp key"
+        },
+        {
+          "Event Name": "army_bonemass",
+          "Required defeat": "",
+          "Required Forsaken power": "Elder power",
+          "Required item": "The Elder trophy or Swamp key",
+          "Not required Forsaken power": "Bonemass power",
+          "Not required item": "Bonemass trophy or Wishbone"
+        },
+        {
+          "Event Name": "army_moder",
+          "Required defeat": "",
+          "Required Forsaken power": "Bonemass power",
+          "Required item": "Bonemass trophy or Wishbone",
+          "Not required Forsaken power": "Moder power",
+          "Not required item": "Dragon tear or Moder trophy"
+        },
+        {
+          "Event Name": "army_goblin",
+          "Required defeat": "",
+          "Required Forsaken power": "",
+          "Required item": "Dragon tear or Moder trophy",
+          "Not required Forsaken power": "Yagluth power",
+          "Not required item": "Torn spirit or Yagluth trophy"
+        },
+        {
+          "Event Name": "army_gjall",
+          "Required defeat": "",
+          "Required Forsaken power": "",
+          "Required item": "Torn spirit, Wisp or Wisplight",
+          "Not required Forsaken power": "Queen power",
+          "Not required item": "Queen drop"
+        },
+        {
+          "Event Name": "army_seekers",
+          "Required defeat": "",
+          "Required Forsaken power": "",
+          "Required item": "Torn spirit, Wisp or Wisplight",
+          "Not required Forsaken power": "Queen power",
+          "Not required item": "Queen drop"
+        },
+        {
+          "Event Name": "army_charred",
+          "Required defeat": "",
+          "Required Forsaken power": "",
+          "Required item": "",
+          "Not required Forsaken power": "",
+          "Not required item": ""
+        },
+        {
+          "Event Name": "army_charredspawners",
+          "Required defeat": "",
+          "Required Forsaken power": "",
+          "Required item": "",
+          "Not required Forsaken power": "",
+          "Not required item": ""
+        },
+        {
+          "Event Name": "foresttrolls",
+          "Required defeat": "Troll and The Elder",
+          "Required Forsaken power": "",
+          "Required item": "The Elder trophy or Swamp key",
+          "Not required Forsaken power": "",
+          "Not required item": ""
+        },
+        {
+          "Event Name": "blobs",
+          "Required defeat": "",
+          "Required Forsaken power": "Bonemass power",
+          "Required item": "Bonemass trophy or Wishbone",
+          "Not required Forsaken power": "",
+          "Not required item": ""
+        },
+        {
+          "Event Name": "ghosts",
+          "Required defeat": "",
+          "Required Forsaken power": "Bonemass power",
+          "Required item": "Bonemass trophy or Wishbone",
+          "Not required Forsaken power": "Moder power",
+          "Not required item": "Dragon tear or Moder trophy"
+        },
+        {
+          "Event Name": "skeletons",
+          "Required defeat": "",
+          "Required Forsaken power": "Bonemass power",
+          "Required item": "Bonemass trophy or Wishbone",
+          "Not required Forsaken power": "",
+          "Not required item": ""
+        },
+        {
+          "Event Name": "surtlings",
+          "Required defeat": "Surtling and Bonemass",
+          "Required Forsaken power": "",
+          "Required item": "Bonemass trophy or Wishbone",
+          "Not required Forsaken power": "",
+          "Not required item": ""
+        },
+        {
+          "Event Name": "wolves",
+          "Required defeat": "",
+          "Required Forsaken power": "Bonemass power",
+          "Required item": "Bonemass trophy or Wishbone",
+          "Not required Forsaken power": "",
+          "Not required item": ""
+        },
+        {
+          "Event Name": "bats",
+          "Required defeat": "Bat and Bonemass",
+          "Required Forsaken power": "",
+          "Required item": "",
+          "Not required Forsaken power": "",
+          "Not required item": ""
+        },
+        {
+          "Event Name": "hildirboss1",
+          "Required defeat": "Brenna",
+          "Required Forsaken power": "",
+          "Required item": "Brass Chest",
+          "Not required Forsaken power": "",
+          "Not required item": ""
+        },
+        {
+          "Event Name": "hildirboss2",
+          "Required defeat": "Geirrhafa",
+          "Required Forsaken power": "",
+          "Required item": "Silver Chest",
+          "Not required Forsaken power": "",
+          "Not required item": ""
+        },
+        {
+          "Event Name": "hildirboss3",
+          "Required defeat": "Zil & Thungr",
+          "Required Forsaken power": "",
+          "Required item": "Bronze Chest",
+          "Not required Forsaken power": "",
+          "Not required item": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning Mechanics",
+      "level": 3,
+      "text": "• Enemies can spawn in any biome, weather or time of the day.\n• Spawned enemies are always in the hunt mode (easier targeting, harder to drop aggro).\n• \"Max spawn\" means the max amount and how many spawns are attempted when the event starts.\n• \"Suppression distance\" is 10 meters, unless otherwise specified.",
+      "table_data": [
+        {
+          "Name": "army_eikthyr",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Neck",
+          "Chance": "100 %",
+          "Interval": "20 s",
+          "Max spawn": "2",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "Boar",
+          "Chance": "100 %",
+          "Interval": "20 s",
+          "Max spawn": "2",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "army_theelder",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Greydwarf",
+          "Chance": "100 %",
+          "Interval": "5 s",
+          "Max spawn": "6",
+          "Minimum altitude": "0 m",
+          "Other": "No suppression distance, group 1-3 with 3 m radius"
+        },
+        {
+          "Name": "Greydwarf shaman",
+          "Chance": "100 %",
+          "Interval": "5 s",
+          "Max spawn": "1",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "Greydwarf brute",
+          "Chance": "100 %",
+          "Interval": "5 s",
+          "Max spawn": "1",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "Greylling",
+          "Chance": "100 %",
+          "Interval": "5 s",
+          "Max spawn": "4",
+          "Minimum altitude": "0 m",
+          "Other": "No suppression distance, group 1-3 with 3 m radius"
+        },
+        {
+          "Name": "army_bonemass",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": "Forces swamprain environment"
+        },
+        {
+          "Name": "Draugr",
+          "Chance": "100 %",
+          "Interval": "5 s",
+          "Max spawn": "3",
+          "Minimum altitude": "-1 m",
+          "Other": ""
+        },
+        {
+          "Name": "Skeleton",
+          "Chance": "100 %",
+          "Interval": "5 s",
+          "Max spawn": "6",
+          "Minimum altitude": "-1 m",
+          "Other": ""
+        },
+        {
+          "Name": "army_moder",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": "Forces snow environment"
+        },
+        {
+          "Name": "Drake",
+          "Chance": "100 %",
+          "Interval": "10 s",
+          "Max spawn": "3",
+          "Minimum altitude": "-1 m",
+          "Other": "90 max tilt, 10 m offset from ground"
+        },
+        {
+          "Name": "army_goblin",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Fuling",
+          "Chance": "58.2 %",
+          "Interval": "10 s",
+          "Max spawn": "8",
+          "Minimum altitude": "0 m",
+          "Other": "Group 1-4 with 1 m radius"
+        },
+        {
+          "Name": "Fuling Berserker",
+          "Chance": "47 %",
+          "Interval": "20 s",
+          "Max spawn": "2",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "Fuling shaman",
+          "Chance": "47 %",
+          "Interval": "20 s",
+          "Max spawn": "1",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "army_gjall",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Gjall",
+          "Chance": "100 %",
+          "Interval": "40 s",
+          "Max spawn": "1",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "Tick",
+          "Chance": "100 %",
+          "Interval": "20 s",
+          "Max spawn": "4",
+          "Minimum altitude": "0 m",
+          "Other": "0-2 stars"
+        },
+        {
+          "Name": "army_seekers",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Seeker",
+          "Chance": "100 %",
+          "Interval": "35 s",
+          "Max spawn": "3",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "Seeker Brood",
+          "Chance": "100 %",
+          "Interval": "20 s",
+          "Max spawn": "8",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "army_charred",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Charred Marksman",
+          "Chance": "100 %",
+          "Interval": "50 s",
+          "Max spawn": "3",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "Charred Twitcher",
+          "Chance": "100 %",
+          "Interval": "40 s",
+          "Max spawn": "3",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "Charred Warrior",
+          "Chance": "100 %",
+          "Interval": "50 s",
+          "Max spawn": "2",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "army_charredspawners",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Monument of Torment",
+          "Chance": "100 %",
+          "Interval": "60 s",
+          "Max spawn": "3",
+          "Minimum altitude": "0 m",
+          "Other": "50 m suppression distance"
+        },
+        {
+          "Name": "Charred Twitcher",
+          "Chance": "100 %",
+          "Interval": "40 s",
+          "Max spawn": "3",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "wolves",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Wolf",
+          "Chance": "100 %",
+          "Interval": "2 s",
+          "Max spawn": "6",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "skeletons",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Skeleton",
+          "Chance": "100 %",
+          "Interval": "10 s",
+          "Max spawn": "20",
+          "Minimum altitude": "-1 m",
+          "Other": "Group 4-6 with 4 m radius"
+        },
+        {
+          "Name": "Rancid remains",
+          "Chance": "54 %",
+          "Interval": "15 s",
+          "Max spawn": "1",
+          "Minimum altitude": "-1 m",
+          "Other": ""
+        },
+        {
+          "Name": "blobs",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": "Forces thunderstorm"
+        },
+        {
+          "Name": "Blob",
+          "Chance": "100 %",
+          "Interval": "2 s",
+          "Max spawn": "5",
+          "Minimum altitude": "-1 m",
+          "Other": "Group 1-3 with 1 m radius"
+        },
+        {
+          "Name": "Oozer",
+          "Chance": "100 %",
+          "Interval": "10 s",
+          "Max spawn": "2",
+          "Minimum altitude": "-1 m",
+          "Other": ""
+        },
+        {
+          "Name": "ghosts",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": "Forces ghosts environment"
+        },
+        {
+          "Name": "Ghost",
+          "Chance": "100 %",
+          "Interval": "10 s",
+          "Max spawn": "3",
+          "Minimum altitude": "-1 m",
+          "Other": "90 max tilt, 10 m offset from ground"
+        },
+        {
+          "Name": "Wraith",
+          "Chance": "100 %",
+          "Interval": "10 s",
+          "Max spawn": "2",
+          "Minimum altitude": "-1 m",
+          "Other": "90 max tilt, 10 m offset from ground"
+        },
+        {
+          "Name": "foresttrolls",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Troll",
+          "Chance": "100 %",
+          "Interval": "20 s",
+          "Max spawn": "2",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "surtlings",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": "Forces ashrain environment"
+        },
+        {
+          "Name": "Surtling",
+          "Chance": "100 %",
+          "Interval": "2 s",
+          "Max spawn": "4",
+          "Minimum altitude": "1 m",
+          "Other": ""
+        },
+        {
+          "Name": "bats",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Bat",
+          "Chance": "100 %",
+          "Interval": "10 s",
+          "Max spawn": "10",
+          "Minimum altitude": "Anywhere",
+          "Other": "Group 2-4 with 4 m radius, 90 max tilt"
+        },
+        {
+          "Name": "hildirboss1",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Brenna",
+          "Chance": "100 %",
+          "Interval": "100 s",
+          "Max spawn": "1",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "Skeleton",
+          "Chance": "100 %",
+          "Interval": "20 s",
+          "Max spawn": "4",
+          "Minimum altitude": "0 m",
+          "Other": "Groups 1-2 with 1 m radius, 1-2 stars"
+        },
+        {
+          "Name": "Rancid remains",
+          "Chance": "100 %",
+          "Interval": "100 s",
+          "Max spawn": "1",
+          "Minimum altitude": "0 m",
+          "Other": "1-2 stars"
+        },
+        {
+          "Name": "hildirboss2",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Geirrhafa",
+          "Chance": "100 %",
+          "Interval": "100 s",
+          "Max spawn": "1",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "Fenring",
+          "Chance": "100 %",
+          "Interval": "30 s",
+          "Max spawn": "3",
+          "Minimum altitude": "0 m",
+          "Other": "Groups 1-2 with 1 m radius, 1-2 stars"
+        },
+        {
+          "Name": "Cultist",
+          "Chance": "100 %",
+          "Interval": "100 s",
+          "Max spawn": "1",
+          "Minimum altitude": "0 m",
+          "Other": "1-2 stars"
+        },
+        {
+          "Name": "hildirboss3",
+          "Chance": "",
+          "Interval": "",
+          "Max spawn": "",
+          "Minimum altitude": "",
+          "Other": ""
+        },
+        {
+          "Name": "Zil & Thungr",
+          "Chance": "100 %",
+          "Interval": "100 s",
+          "Max spawn": "1",
+          "Minimum altitude": "0 m",
+          "Other": ""
+        },
+        {
+          "Name": "Fuling",
+          "Chance": "100 %",
+          "Interval": "20 s",
+          "Max spawn": "4",
+          "Minimum altitude": "0 m",
+          "Other": "Groups 1-2 with 1 m radius, 1-2 stars"
+        },
+        {
+          "Name": "Fuling Berserker",
+          "Chance": "100 %",
+          "Interval": "100 s",
+          "Max spawn": "1",
+          "Minimum altitude": "0 m",
+          "Other": "1-2 stars"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The event area (96 meters radius) is significantly bigger than the visual red circle (64 meters radius). In multiplayer, the event timer ticks when any of the players are in the event area. However event enemies are only spawned when the zone owner is in the event area.\n• Events won't trigger for players who are inside dungeons. Similarly being in a dungeon won't progress events even when inside the event area.\n• If an event is already running when a new one triggers, the previous event will automatically end.\n• The biome check uses the exact biome at the player's position (which can be seen when hovering the bigger minimap) instead of the average biome based on zone corners (which can be seen on the smaller minimap).\n• Base structures suppress spawns which affect where enemies can spawn during the events. Large coverage of base structures may completely prevent enemy spawning. Enemies are spawned 40-80 meters from players which allows them to spawn outside the event area.\n• The source of death for a creature is not tracked. Therefore, despite a player's best efforts to not kill a certain creature to avoid certain events, the environment (e.g. a Surtling walking into water) or a neighboring biome (Lox fighting a Troll) can unlock those events for that world or player.\n• Event enemies spawn in \"hunt mode\" which makes them always alerted and also know where players are located within 200 meters.\n• An event spawning Blobs and Oozers can't deal damage to structures, so players that close their doors are not in any danger.\n• Tamed creatures can easily be killed during events. For example, the \"stirred the cauldron\" event which spawns bats is especially dangerous for weaker tamed creatures (such as boars) held in pens not covered by a roof."
+    }
+  ],
+  "full_text": "Events\n\nIntroduction. Randomly happening events cause lots of enemies to spawn around the players. Progressing in the game world by defeating bosses causes harder events to appear. Events can be world-based or player-based depending on the world modifier settings in use. World-based events are the default mode.\nFor most events to end, a player must stay in the active event area until the timer runs out. The event timer is paused if there are no players in the event area (except for the \"You are being hunted...\" event).\nEvery 46 minutes there is a 20% chance for a random event;\n• Available events are based on which enemies have been defeated in the game world. Most events require defeating a boss to become available (see Enabled by column). Some events are permanently disabled after defeating a boss (see Disabled by column). Unless player-based raids is enabled, if a raid lists two mobs (e.g. Troll and The Elder), both those mobs must have died on that world for the raid to be enabled.\n• If player based raids are enabled: Most events are based on which Forsaken powers and materials the player has acquired. Some events also check which enemies the player has defeated.\n• For each event, check that any of the players fulfills the following conditions: The player is in the required biome (see Biome column). The player is not in a dungeon. The player is within 40 meters of at least 3 base structures. This is not required for the \"You are being hunted...\" event.\n• Select a random event from possible events (if any).\n• Select a random player from valid players and start the event at the player's position.\n\nPlayer-based requirements. The events available when player-based events are selected are the same as for world-based events but with different requirements to enable and disable them.\n• Events are enabled by fulfilling any of the requirements. For example trolls are enabled by gaining a Swamp key even when no trolls have been killed.\n• Events are disabled by fulfilling any of the requirements. For example most boss events are disabled by either acquiring the next Forsaken power or a boss drop.\n\nSpawning Mechanics. • Enemies can spawn in any biome, weather or time of the day.\n• Spawned enemies are always in the hunt mode (easier targeting, harder to drop aggro).\n• \"Max spawn\" means the max amount and how many spawns are attempted when the event starts.\n• \"Suppression distance\" is 10 meters, unless otherwise specified.\n\nNotes. • The event area (96 meters radius) is significantly bigger than the visual red circle (64 meters radius). In multiplayer, the event timer ticks when any of the players are in the event area. However event enemies are only spawned when the zone owner is in the event area.\n• Events won't trigger for players who are inside dungeons. Similarly being in a dungeon won't progress events even when inside the event area.\n• If an event is already running when a new one triggers, the previous event will automatically end.\n• The biome check uses the exact biome at the player's position (which can be seen when hovering the bigger minimap) instead of the average biome based on zone corners (which can be seen on the smaller minimap).\n• Base structures suppress spawns which affect where enemies can spawn during the events. Large coverage of base structures may completely prevent enemy spawning. Enemies are spawned 40-80 meters from players which allows them to spawn outside the event area.\n• The source of death for a creature is not tracked. Therefore, despite a player's best efforts to not kill a certain creature to avoid certain events, the environment (e.g. a Surtling walking into water) or a neighboring biome (Lox fighting a Troll) can unlock those events for that world or player.\n• Event enemies spawn in \"hunt mode\" which makes them always alerted and also know where players are located within 200 meters.\n• An event spawning Blobs and Oozers can't deal damage to structures, so players that close their doors are not in any danger.\n• Tamed creatures can easily be killed during events. For example, the \"stirred the cauldron\" event which spawns bats is especially dangerous for weaker tamed creatures (such as boars) held in pens not covered by a roof.",
+  "scraped_at": "2026-02-26T01:58:17.630290+00:00"
+}

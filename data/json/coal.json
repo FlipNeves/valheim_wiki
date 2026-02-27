@@ -1,0 +1,35 @@
+{
+  "title": "Coal",
+  "url": "https://valheim.fandom.com/wiki/Coal",
+  "slug": "Coal",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Coal",
+    "Type": "Material",
+    "Internal ID": "Coal",
+    "Source": "Surtling, , Burning Meat,, Charcoal kiln, ,, Obliterator",
+    "Usage": "Building, Crafting, Smelting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Coal is a fuel necessary to power Smelters and Blast furnaces while also being used by various crafting recipes."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Dropped by: Surtlings Random Chests\n• Can be crafted: In Charcoal kilns using Wood, Corewood or Finewood In Cooking stations by overcooking any type of meat In Obliterator, by converting items"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The ratio for smelting any metals using Coal as a fuel is roughly 1 Metal for 2.1 Coal.\n• It is possible to create \"passive\" Coal farms by venturing into the Swamp and digging Fire geysers down into the aquifer layer, making the Surtlings they spawn repeatedly take damage before dying and dropping their loot.\n• The Ashlands are a great place to farm Coal, which can be easily transported to other locations using a Portal. Simply place a Wood stack and ignite it with a Campfire or Staff of Embers to quickly receive 50 pieces of Coal per pile.\n• By buying some bait and converting them in the Obliterator, the player can turn 5 Coins into 1 Coal."
+    }
+  ],
+  "full_text": "Coal\n\nType: Material | Internal ID: Coal | Source: Surtling, , Burning Meat,, Charcoal kiln, ,, Obliterator | Usage: Building, Crafting, Smelting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Coal is a fuel necessary to power Smelters and Blast furnaces while also being used by various crafting recipes.\n\nAvailability. • Dropped by: Surtlings Random Chests\n• Can be crafted: In Charcoal kilns using Wood, Corewood or Finewood In Cooking stations by overcooking any type of meat In Obliterator, by converting items\n\nNotes. • The ratio for smelting any metals using Coal as a fuel is roughly 1 Metal for 2.1 Coal.\n• It is possible to create \"passive\" Coal farms by venturing into the Swamp and digging Fire geysers down into the aquifer layer, making the Surtlings they spawn repeatedly take damage before dying and dropping their loot.\n• The Ashlands are a great place to farm Coal, which can be easily transported to other locations using a Portal. Simply place a Wood stack and ignite it with a Campfire or Staff of Embers to quickly receive 50 pieces of Coal per pile.\n• By buying some bait and converting them in the Obliterator, the player can turn 5 Coins into 1 Coal.",
+  "scraped_at": "2026-02-26T01:32:20.260188+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Lingering healing mead",
+  "url": "https://valheim.fandom.com/wiki/Lingering_healing_mead",
+  "slug": "Lingering_healing_mead",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "content": "# Lingering healing mead\n\nType: Mead | Internal ID: MeadHealthLingering | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Lingering health x1 | Max Health: +25% health regen | Duration: 5m\n\n# Introduction\n\nLingering healing mead is an Ashlands-tier consumable item fermented from Mead base: Lingering health.\n\n## Recipe\n\nMead base: Lingering health is produced in a Mead ketill with:\n• 10 Sap\n• 10 Vineberry cluster\n• 10 Smoke puff\nSix Lingering healing meads are produced by fermenting the mead base for two in-game days.\n\n## Effect\n\nUpon consumption, it provides +25% health regeneration for 5 minutes. While active, it prevents the consumption of all types of healing meads.\n\nCategorias: Mead, Fermenter recipes, Items",
+  "content_length": 792,
+  "scraped_at": "2026-02-26T02:11:46.953289+00:00"
+}

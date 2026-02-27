@@ -1,0 +1,32 @@
+{
+  "title": "Wild Beehive",
+  "url": "https://valheim.fandom.com/wiki/Wild_Beehive",
+  "slug": "Wild_Beehive",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Wild Beehive",
+    "Type": "Structure",
+    "Internal ID": "Beehive",
+    "Location": "Meadows, ,, Black Forest",
+    "Resources": "Queen bee, ,, Honey",
+    "Weak to": "Fire",
+    "Neutral to": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Frost, ,, Lightning",
+    "Immune to": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wild beehives are structures found in Abandoned Houses, Abandoned Villages and Draugr Village in the Meadows. They are also found in Contested Towers in the Black Forest."
+    },
+    {
+      "heading": "General",
+      "level": 2,
+      "text": "When destroyed, they drop one Queen bee and 1 to 3 Honey.\nWhen attacked, they deal 10 poison damage in a 4-meter radius. They also attack every 4 seconds if the player is too close."
+    }
+  ],
+  "full_text": "Wild Beehive\n\nType: Structure | Internal ID: Beehive | Location: Meadows, ,, Black Forest | Resources: Queen bee, ,, Honey | Weak to: Fire | Neutral to: Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Frost, ,, Lightning | Immune to: Poison, ,, Spirit\n\nIntroduction. Wild beehives are structures found in Abandoned Houses, Abandoned Villages and Draugr Village in the Meadows. They are also found in Contested Towers in the Black Forest.\n\nGeneral. When destroyed, they drop one Queen bee and 1 to 3 Honey.\nWhen attacked, they deal 10 poison damage in a 4-meter radius. They also attack every 4 seconds if the player is too close.",
+  "scraped_at": "2026-02-26T01:47:06.341850+00:00"
+}

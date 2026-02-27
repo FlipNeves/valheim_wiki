@@ -1,0 +1,30 @@
+{
+  "title": "Bilebag",
+  "url": "https://valheim.fandom.com/wiki/Bilebag",
+  "slug": "Bilebag",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Bilebag",
+    "Type": "Material",
+    "Internal ID": "Bilebag",
+    "Source": "Gjall",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bilebag is an item and can be dropped from Gjall in the Mistlands biome."
+    },
+    {
+      "heading": "Crafting",
+      "level": 2,
+      "text": "• Jotun Bane\n• Bile bomb"
+    }
+  ],
+  "full_text": "Bilebag\n\nType: Material | Internal ID: Bilebag | Source: Gjall | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Bilebag is an item and can be dropped from Gjall in the Mistlands biome.\n\nCrafting. • Jotun Bane\n• Bile bomb",
+  "scraped_at": "2026-02-26T01:30:51.325284+00:00"
+}

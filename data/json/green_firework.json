@@ -1,0 +1,96 @@
+{
+  "title": "Fireworks",
+  "url": "https://valheim.fandom.com/wiki/Green_firework",
+  "slug": "Green_firework",
+  "categories": [
+    "Items",
+    "Fireworks"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fireworks are a type of consumable that can be used on a fire to produce an aesthetic explosion. The message, \"You throw some X into the fire\" appears when activated, \"X\" replaced with the firework you use.\nBasic fireworks can be purchased from Hildir for 50 Coins. Other colored fireworks are crafted by combining Basic fireworks with materials at a Workbench of any level. The color of the explosion matches the color of the firework."
+    },
+    {
+      "heading": "List of fireworks",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Basic fireworks",
+          "Image": "",
+          "Color": "White",
+          "Cost": "50 Coins (Hildir)",
+          "id": "FireworksRocket_White"
+        },
+        {
+          "Name": "Blue fireworks",
+          "Image": "",
+          "Color": "Blue",
+          "Cost": "1 x Basic fireworks1 x Blueberries",
+          "id": "FireworksRocket_Blue"
+        },
+        {
+          "Name": "Cyan fireworks",
+          "Image": "",
+          "Color": "Cyan",
+          "Cost": "1 x Basic fireworks1 x Greydwarf eye",
+          "id": "FireworksRocket_Cyan"
+        },
+        {
+          "Name": "Green fireworks",
+          "Image": "",
+          "Color": "Green",
+          "Cost": "1 x Basic fireworks1 x Guck",
+          "id": "FireworksRocket_Green"
+        },
+        {
+          "Name": "Purple fireworks",
+          "Image": "",
+          "Color": "Purple",
+          "Cost": "1 x Basic fireworks1 x Turnip",
+          "id": "FireworksRocket_Purple"
+        },
+        {
+          "Name": "Red fireworks",
+          "Image": "",
+          "Color": "Red",
+          "Cost": "1 x Basic fireworks1 x Raspberry",
+          "id": "FireworksRocket_Red"
+        },
+        {
+          "Name": "Yellow fireworks",
+          "Image": "",
+          "Color": "Yellow",
+          "Cost": "1 x Basic fireworks1 x Dandelion",
+          "id": "FireworksRocket_Yellow"
+        },
+        {
+          "Name": "Thunder stone",
+          "Image": "",
+          "Color": "Blue & White",
+          "Cost": "",
+          "id": "Thunderstone"
+        },
+        {
+          "Name": "Surtling core",
+          "Image": "",
+          "Color": "Red & Yellow",
+          "Cost": "",
+          "id": "SurtlingCore"
+        },
+        {
+          "Name": "Black core",
+          "Image": "",
+          "Color": "Purple & Blue",
+          "Cost": "",
+          "id": "BlackCore"
+        }
+      ]
+    }
+  ],
+  "full_text": "Fireworks\n\nIntroduction. Fireworks are a type of consumable that can be used on a fire to produce an aesthetic explosion. The message, \"You throw some X into the fire\" appears when activated, \"X\" replaced with the firework you use.\nBasic fireworks can be purchased from Hildir for 50 Coins. Other colored fireworks are crafted by combining Basic fireworks with materials at a Workbench of any level. The color of the explosion matches the color of the firework.",
+  "scraped_at": "2026-02-26T02:14:26.264458+00:00"
+}

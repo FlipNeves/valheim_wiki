@@ -1,0 +1,127 @@
+{
+  "title": "Abandoned House",
+  "url": "https://valheim.fandom.com/wiki/Abandoned_House",
+  "slug": "Abandoned_House",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Abandoned House",
+    "Type": "Point of interest",
+    "Internal ID": "WoodHouse1 | to WoodHouse13",
+    "Location": "Meadows",
+    "Resources": "Wild Beehive, ,, Meadows chest"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Abandoned Houses are isolated ruined structures found in the Meadows. They are mostly made of Wood structures and sometimes contain an unusable Bed. They come in 13 variants.\nWhen the houses are not isolated, they form either an Abandoned Village or a Draugr Village."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "Most version of abandoned Houses have a chance to contain a Meadows chest and a Wild Beehive.",
+      "table_data": [
+        {
+          "Image": "",
+          "version": "1",
+          "Chest": "50%",
+          "Beehive": "25%",
+          "Note": ""
+        },
+        {
+          "Image": "",
+          "version": "2",
+          "Chest": "50%",
+          "Beehive": "25%",
+          "Note": "The chest has a 55% chance to contain a Mysterious axe head."
+        },
+        {
+          "Image": "",
+          "version": "3",
+          "Chest": "No",
+          "Beehive": "25%",
+          "Note": "Can be deconstructed for Corewood."
+        },
+        {
+          "Image": "",
+          "version": "4",
+          "Chest": "No",
+          "Beehive": "25%",
+          "Note": ""
+        },
+        {
+          "Image": "",
+          "version": "5",
+          "Chest": "No",
+          "Beehive": "25%",
+          "Note": ""
+        },
+        {
+          "Image": "",
+          "version": "6",
+          "Chest": "100%",
+          "Beehive": "25%",
+          "Note": "The chest has a 55% chance to contain a Curious axe head."
+        },
+        {
+          "Image": "",
+          "version": "7",
+          "Chest": "50%",
+          "Beehive": "25%",
+          "Note": ""
+        },
+        {
+          "Image": "",
+          "version": "8",
+          "Chest": "No",
+          "Beehive": "No",
+          "Note": "Contain up to 6 Dandelions, with a 20% chance each."
+        },
+        {
+          "Image": "",
+          "version": "9",
+          "Chest": "50%",
+          "Beehive": "25%",
+          "Note": ""
+        },
+        {
+          "Image": "",
+          "version": "10",
+          "Chest": "50%",
+          "Beehive": "25%",
+          "Note": ""
+        },
+        {
+          "Image": "",
+          "version": "11",
+          "Chest": "50%",
+          "Beehive": "25%",
+          "Note": ""
+        },
+        {
+          "Image": "",
+          "version": "12",
+          "Chest": "50%",
+          "Beehive": "No",
+          "Note": "Up to 4 Mushrooms inside, with a 33% chance each."
+        },
+        {
+          "Image": "",
+          "version": "13",
+          "Chest": "50%",
+          "Beehive": "25%",
+          "Note": ""
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Some of the more intact ones can be easily repaired, potentially serving as an expedient field base.\n• For isolated houses found in the Mountain, see Abandoned Cabin."
+    }
+  ],
+  "full_text": "Abandoned House\n\nType: Point of interest | Internal ID: WoodHouse1 | to WoodHouse13 | Location: Meadows | Resources: Wild Beehive, ,, Meadows chest\n\nIntroduction. Abandoned Houses are isolated ruined structures found in the Meadows. They are mostly made of Wood structures and sometimes contain an unusable Bed. They come in 13 variants.\nWhen the houses are not isolated, they form either an Abandoned Village or a Draugr Village.\n\nResources. Most version of abandoned Houses have a chance to contain a Meadows chest and a Wild Beehive.\n\nNotes. • Some of the more intact ones can be easily repaired, potentially serving as an expedient field base.\n• For isolated houses found in the Mountain, see Abandoned Cabin.",
+  "scraped_at": "2026-02-26T01:45:03.565628+00:00"
+}

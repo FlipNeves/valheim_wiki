@@ -1,0 +1,22 @@
+{
+  "title": "Freezing",
+  "url": "https://valheim.fandom.com/wiki/Freezing_Effect",
+  "slug": "Freezing_Effect",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Freezing",
+    "Effects": "Health regen -100% | Stamina regen -60% | 1 damage/s",
+    "Damage Modifier": "Resistant VS Fire"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Freezing is a status effect applied to a character when going in the Mountain, while fighting Moder or during the Drake event.\nIt is counteracted by gaining Resistance from any one of the following: Frost resistance mead, Wolf armor chest, Wolf fur cape, Lox cape, Fenris coat, Shelter Effect, or any source of fire (Campfire). If the player is currently wet, these counters do not apply.\nAdditionally, entering Shelter will reduce Freezing to Cold."
+    }
+  ],
+  "full_text": "Freezing\n\nEffects: Health regen -100% | Stamina regen -60% | 1 damage/s | Damage Modifier: Resistant VS Fire\n\nIntroduction. Freezing is a status effect applied to a character when going in the Mountain, while fighting Moder or during the Drake event.\nIt is counteracted by gaining Resistance from any one of the following: Frost resistance mead, Wolf armor chest, Wolf fur cape, Lox cape, Fenris coat, Shelter Effect, or any source of fire (Campfire). If the player is currently wet, these counters do not apply.\nAdditionally, entering Shelter will reduce Freezing to Cold.",
+  "scraped_at": "2026-02-26T01:55:29.132191+00:00"
+}

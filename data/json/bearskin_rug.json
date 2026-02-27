@@ -1,0 +1,117 @@
+{
+  "title": "Rugs",
+  "url": "https://valheim.fandom.com/wiki/Bearskin_rug",
+  "slug": "Bearskin_rug",
+  "categories": [
+    "Furniture"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Rugs are made from the hides of their respective creature types, while carpets are made from jute. Both are used as decorative objects."
+    },
+    {
+      "heading": "Common properties",
+      "level": 2,
+      "text": "Rugs and carpets share the following properties:",
+      "table_data": [
+        {
+          "Property": "Durability",
+          "Value": "50"
+        },
+        {
+          "Property": "Support",
+          "Value": "Wood (from 10 to 100)"
+        },
+        {
+          "Property": "Loss",
+          "Value": "1/8 vertical, 1/5 horizontal"
+        },
+        {
+          "Property": "Resistances",
+          "Value": "Weak: Chop Neutral: Blunt, Slash, Pickaxe, Fire, Frost, Lightning Resistant: Pierce Immune: Poison, Spirit"
+        },
+        {
+          "Property": "Damaged by Rain?",
+          "Value": "No"
+        },
+        {
+          "Property": "Comfort",
+          "Value": "1 (if no other rugs/carpets in range)"
+        }
+      ]
+    },
+    {
+      "heading": "Rugs",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Rug": "Deer rug",
+          "Materials": "Deer hide x4",
+          "Internal id": "rug_deer",
+          "Size": "2x3"
+        },
+        {
+          "Rug": "Bearskin rug",
+          "Materials": "Bear hide x1 Bear paw x2 Bear trophy x1",
+          "Internal id": "rug_Bjorn",
+          "Size": "4x5"
+        },
+        {
+          "Rug": "Wolf rug",
+          "Materials": "Wolf pelt x4",
+          "Internal id": "rug_wolf",
+          "Size": "2x3"
+        },
+        {
+          "Rug": "Lox rug",
+          "Materials": "Lox pelt x4",
+          "Internal id": "rug_fur",
+          "Size": "2.6x3.6"
+        },
+        {
+          "Rug": "Straw",
+          "Materials": "Barley x1 Flax x1",
+          "Internal id": "rug_straw",
+          "Size": "2×3"
+        },
+        {
+          "Rug": "Hare rug",
+          "Materials": "Scale hide x4",
+          "Internal id": "rug_hare",
+          "Size": "1.8x1.1"
+        },
+        {
+          "Rug": "Asksvin rug",
+          "Materials": "Asksvin hide x4",
+          "Internal id": "rug_asksvin",
+          "Size": "1.8x1.1"
+        }
+      ]
+    },
+    {
+      "heading": "Carpets",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Carpet": "Blue jute carpet",
+          "Materials": "Blue jute x4",
+          "Internal id": "jute_carpet_blue",
+          "Size": "3x3"
+        },
+        {
+          "Carpet": "Red jute carpet",
+          "Materials": "Red jute x4",
+          "Internal id": "jute_carpet",
+          "Size": "4x3"
+        }
+      ]
+    }
+  ],
+  "full_text": "Rugs\n\nIntroduction. Rugs are made from the hides of their respective creature types, while carpets are made from jute. Both are used as decorative objects.\n\nCommon properties. Rugs and carpets share the following properties:",
+  "scraped_at": "2026-02-26T02:02:23.114158+00:00"
+}

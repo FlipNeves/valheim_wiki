@@ -1,0 +1,45 @@
+{
+  "title": "Crystal",
+  "url": "https://valheim.fandom.com/wiki/Crystal",
+  "slug": "Crystal",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Crystal",
+    "Type": "Material",
+    "Internal ID": "Crystal",
+    "Source": "Frost Blob, ,, Stone Golem",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Crystal is a material found in the Mountains."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Drop from Stone Golem.\n• Found in clusters inside Frost Caves.\n• Drop from Frost Blob."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Crystal wall"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Crystal battleaxe\n• Crystal Heart\n• Dvergr lantern"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The pickable crystals inside caves only drop one crystal each when picked. However, they are also easily destructible, and when destroyed they will drop 1–3 crystals each instead."
+    }
+  ],
+  "full_text": "Crystal\n\nType: Material | Internal ID: Crystal | Source: Frost Blob, ,, Stone Golem | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Crystal is a material found in the Mountains.\n\nAvailability. • Drop from Stone Golem.\n• Found in clusters inside Frost Caves.\n• Drop from Frost Blob.\n\nBuilding. • Crystal wall\n\nCrafting. • Crystal battleaxe\n• Crystal Heart\n• Dvergr lantern\n\nNotes. • The pickable crystals inside caves only drop one crystal each when picked. However, they are also easily destructible, and when destroyed they will drop 1–3 crystals each instead.",
+  "scraped_at": "2026-02-26T01:32:33.139088+00:00"
+}

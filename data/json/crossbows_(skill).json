@@ -1,0 +1,31 @@
+{
+  "title": "Crossbows (skill)",
+  "url": "https://valheim.fandom.com/wiki/Crossbows_(skill)",
+  "slug": "Crossbows_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "infobox": {
+    "_infobox_title": "Crossbows (skill)",
+    "Description": "Determines, damage, ,, stamina, cost and, reload time, with Crossbows (skill)."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Crossbows is a skill related to Crossbows weapon class."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Higher skill level in crossbows increases damage and knockback up to +141% and reduces reload time down to -50%, indirectly reducing stamina usage.\nFor the details of damage scaling, see Damage mechanics#Skill factor."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "The player gains 1xp per bolt when hitting a creature."
+    }
+  ],
+  "full_text": "Crossbows (skill)\n\nDescription: Determines, damage, ,, stamina, cost and, reload time, with Crossbows (skill).\n\nIntroduction. Crossbows is a skill related to Crossbows weapon class.\n\nEffects. Higher skill level in crossbows increases damage and knockback up to +141% and reduces reload time down to -50%, indirectly reducing stamina usage.\nFor the details of damage scaling, see Damage mechanics#Skill factor.\n\nLeveling up. The player gains 1xp per bolt when hitting a creature.",
+  "scraped_at": "2026-02-26T01:43:25.800921+00:00"
+}

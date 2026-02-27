@@ -1,0 +1,36 @@
+{
+  "title": "Fish wraps",
+  "url": "https://valheim.fandom.com/wiki/Fish_wraps",
+  "slug": "Fish_wraps",
+  "categories": [
+    "Food",
+    "Fishing"
+  ],
+  "infobox": {
+    "_infobox_title": "Fish wraps",
+    "Type": "Food",
+    "Internal ID": "FishWraps",
+    "Source": "Cauldron, (level 4)",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Cooked fish x2, Barley flour x4",
+    "Max Health": "70",
+    "Max Stamina": "23",
+    "Duration": "25m",
+    "Healing": "4 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fish wraps are a Plains-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Fish wraps are produced in a Level 4 Cauldron with:\n• 2 Cooked fish\n• 4 Barley flour"
+    }
+  ],
+  "full_text": "Fish wraps\n\nType: Food | Internal ID: FishWraps | Source: Cauldron, (level 4) | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Cooked fish x2, Barley flour x4 | Max Health: 70 | Max Stamina: 23 | Duration: 25m | Healing: 4 hp/tick\n\nIntroduction. Fish wraps are a Plains-tier food.\n\nRecipe. Fish wraps are produced in a Level 4 Cauldron with:\n• 2 Cooked fish\n• 4 Barley flour",
+  "scraped_at": "2026-02-26T01:26:17.222131+00:00"
+}

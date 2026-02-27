@@ -1,0 +1,13 @@
+{
+  "title": "Lox cape",
+  "url": "https://valheim.fandom.com/wiki/Lox_cape",
+  "slug": "Lox_cape",
+  "categories": [
+    "Armor",
+    "Capes",
+    "Workbench recipes"
+  ],
+  "content": "# Lox cape\n\nInternal ID: CapeLox | Type: Cape | Source: Workbench | Crafting Materials: Lox pelt x6 | Armor: 4 | Resistances: Resistant (0.5x) vs., Frost\n\n# Introduction\n\nLox cape is a craftable Armor piece.\nLox cape gives resistance (0.5x) to frost.\n\n## Upgrade information\n\n• stat: Durability | Quality 1: 1200 | Quality 2: 1250 | Quality 3: 1300 | Quality 4: 1350\n\n• stat: Armor | Quality 1: 1 | Quality 2: 2 | Quality 3: 3 | Quality 4: 4\n\n• stat: Cost | Quality 1: Lox pelt x6Silver x2 | Quality 2: Lox pelt x2 | Quality 3: Lox pelt x4 | Quality 4: Lox pelt x6\n\n• stat: Workbench level | Quality 1: 2 | Quality 2: 3 | Quality 3: 4 | Quality 4: 5\n\n## Notes\n\n• Frost resist does not stack with Frost resistance mead, Yagluth power or other armor pieces.\n• Frost resist will override the frost weakness from being Wet.\n• Frost resist prevents Cold and Freezing effect.\n\nCategorias: Armor, Capes, Workbench recipes",
+  "content_length": 914,
+  "scraped_at": "2026-02-26T01:22:36.624775+00:00"
+}

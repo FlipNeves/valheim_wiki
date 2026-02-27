@@ -1,0 +1,46 @@
+{
+  "title": "Minor stamina mead",
+  "url": "https://valheim.fandom.com/wiki/Minor_stamina_mead",
+  "slug": "Minor_stamina_mead",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Minor stamina mead",
+    "Type": "Mead",
+    "Internal ID": "MeadStaminaMinor",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mead base: Minor stamina x1",
+    "Duration": "2s",
+    "Cooldown": "2m",
+    "Stamina Regen": "+80 Stamina over 2s"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Minor stamina mead is a Black Forest-tier consumable item fermented from Mead base: Minor stamina."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Mead base: Minor stamina is produced in a Mead ketill with:\n• 10 Honey\n• 10 Raspberries\n• 10 Yellow mushroom\nSix Minor stamina meads are produced by fermenting the mead base for two in-game days."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Upon consumption, it restores 80 stamina over 2 seconds.\nA 2-min cooldown is applied preventing consumption of another stamina mead."
+    },
+    {
+      "heading": "Other locations",
+      "level": 2,
+      "text": "Other than brewing, Minor stamina meads can be found:\n• In treasure chests at Infested Mines.\n• Destroyed Ancient pots may drop them."
+    }
+  ],
+  "full_text": "Minor stamina mead\n\nType: Mead | Internal ID: MeadStaminaMinor | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Minor stamina x1 | Duration: 2s | Cooldown: 2m | Stamina Regen: +80 Stamina over 2s\n\nIntroduction. Minor stamina mead is a Black Forest-tier consumable item fermented from Mead base: Minor stamina.\n\nRecipe. Mead base: Minor stamina is produced in a Mead ketill with:\n• 10 Honey\n• 10 Raspberries\n• 10 Yellow mushroom\nSix Minor stamina meads are produced by fermenting the mead base for two in-game days.\n\nEffect. Upon consumption, it restores 80 stamina over 2 seconds.\nA 2-min cooldown is applied preventing consumption of another stamina mead.\n\nOther locations. Other than brewing, Minor stamina meads can be found:\n• In treasure chests at Infested Mines.\n• Destroyed Ancient pots may drop them.",
+  "scraped_at": "2026-02-26T02:11:49.369205+00:00"
+}

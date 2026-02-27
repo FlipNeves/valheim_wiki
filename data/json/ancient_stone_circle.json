@@ -1,0 +1,28 @@
+{
+  "title": "Ancient Stone Circle",
+  "url": "https://valheim.fandom.com/wiki/Ancient_Stone_Circle",
+  "slug": "Ancient_Stone_Circle",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Ancient Stone Circle",
+    "Type": "Point of interest",
+    "Internal ID": "StoneCircle | Stone1_huge (Stone)",
+    "Location": "Meadows"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ancient Stone Circles can be found within the Meadows Biome and consists of 5 large stone pillars protruding from the ground arranged in a circle.\nThe formation has no specific purpose, and there is no chest buried in the center. However, the stone pillars are indestructible and provide maximum support for building."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Ancient Stone Circles were intended to be the only places where portals could be summoned by throwing a Greydwarf eye into Campfire[1]. They also had a central altar that would give a gift when enough Greydwarfs were killed nearby. Ultimately, these features were abandoned, but the structures remained.[2]"
+    }
+  ],
+  "full_text": "Ancient Stone Circle\n\nType: Point of interest | Internal ID: StoneCircle | Stone1_huge (Stone) | Location: Meadows\n\nIntroduction. Ancient Stone Circles can be found within the Meadows Biome and consists of 5 large stone pillars protruding from the ground arranged in a circle.\nThe formation has no specific purpose, and there is no chest buried in the center. However, the stone pillars are indestructible and provide maximum support for building.\n\nTrivia. • Ancient Stone Circles were intended to be the only places where portals could be summoned by throwing a Greydwarf eye into Campfire[1]. They also had a central altar that would give a gift when enough Greydwarfs were killed nearby. Ultimately, these features were abandoned, but the structures remained.[2]",
+  "scraped_at": "2026-02-26T01:45:18.109636+00:00"
+}

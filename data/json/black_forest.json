@@ -1,0 +1,115 @@
+{
+  "title": "Black Forest",
+  "url": "https://valheim.fandom.com/wiki/Black_Forest",
+  "slug": "Black_Forest",
+  "categories": [
+    "Biomes"
+  ],
+  "infobox": {
+    "_infobox_title": "Black Forest",
+    "Passive": "Crow, Deer, Gull, Perch, Pike, Trollfish",
+    "Hostile": "Bear, Ghost, Greydwarf, Greydwarf brute, Greydwarf shaman, Rancid Remains, Skeleton, Troll",
+    "Boss(es)": "Brenna (miniboss), The Elder",
+    "Unique": "Copper ore from a Copper deposit, Tin ore from a Tin deposit, Thistle, Carrot Seed",
+    "Food": "Yellow Mushroom, Blueberries",
+    "Structures": "Dolmen, Abandoned Outpost, Big Rock Clearing",
+    "Dungeons": "Troll Cave, Burial Chambers, Smouldering Tombs",
+    "NPCs": "Haldor, Halstein"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Black Forest biomes are dangerous, coniferous forests full of dense and lush vegetation. A low blanket of ferns, felled logs, stumps, berry bushes, and Thistle plants is towered over by a canopy of Pine and Fir trees. Rolling hills and spacious dales are broken up by huge exposed boulders and slumbering Copper deposits. The coastline features many coves, inlets, and even marshlands. The shore is lined with glistening Tin deposits, ready to be collected. It is the only biome where Copper and Tin ores can be mined, available to the player after defeating Eikthyr and acquiring an Antler pickaxe.\nLarge amounts of Greydwarfs amble about this sea of trees, along with the occasional Troll and gaggle of Skeletons. The forest is also home to Burial Chambers, the first instanced dungeon area in the game. These chambers are the player's first source of Surtling cores, which allow the creation of a smelting yard and usher in the beginnings of metallurgy. Typically, the player will explore the Black Forest as their second biome, after the Meadows."
+    },
+    {
+      "heading": "Hostile",
+      "level": 4,
+      "text": "• Bear\n• Greydwarf\n• Greydwarf brute\n• Greydwarf shaman\n• Troll\n• Skeleton\n• Rancid Remains\n• Ghost"
+    },
+    {
+      "heading": "Passive",
+      "level": 4,
+      "text": "• Deer\n• Crow\n• Gull\n• Perch\n• Pike\n• Trollfish"
+    },
+    {
+      "heading": "NPCs",
+      "level": 4,
+      "text": "• Haldor\n• Halstein"
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "• Stone\n• Wood\n• Corewood\n• Finewood (from certain furniture in abandoned building spawns and half buried boat spawns)\n• Mushroom\n• Yellow mushroom (from Burial Chambers)\n• Blueberries\n• Thistle\n• Carrot Seed\n• Copper ore from Copper deposits\n• Tin ore from Tin deposits\n• Chests: (2-3 of the following)\n• Barrels: (2-3 of the following)",
+      "table_data": [
+        {
+          "Amount": "1-2",
+          "Item": "Amber",
+          "Chance": "25%"
+        },
+        {
+          "Amount": "5-30",
+          "Item": "Coins",
+          "Chance": "25%"
+        },
+        {
+          "Amount": "2-4",
+          "Item": "Feathers",
+          "Chance": "25%"
+        },
+        {
+          "Amount": "5-10",
+          "Item": "Flinthead arrow",
+          "Chance": "25%"
+        },
+        {
+          "Amount": "2-4",
+          "Item": "Blueberries",
+          "Chance": "12.5%"
+        },
+        {
+          "Amount": "5-8",
+          "Item": "Coal",
+          "Chance": "12.5%"
+        },
+        {
+          "Amount": "2-3",
+          "Item": "Deer hide",
+          "Chance": "12.5%"
+        },
+        {
+          "Amount": "2-3",
+          "Item": "Flint",
+          "Chance": "12.5%"
+        },
+        {
+          "Amount": "2-4",
+          "Item": "Greydwarf eye",
+          "Chance": "12.5%"
+        },
+        {
+          "Amount": "2-3",
+          "Item": "Leather scraps",
+          "Chance": "12.5%"
+        },
+        {
+          "Amount": "3-6",
+          "Item": "Resin",
+          "Chance": "12.5%"
+        },
+        {
+          "Amount": "2-3",
+          "Item": "Tin ore",
+          "Chance": "12.5%"
+        }
+      ]
+    },
+    {
+      "heading": "Dungeons",
+      "level": 2,
+      "text": "• Burial Chambers\n• Troll Cave"
+    }
+  ],
+  "full_text": "Black Forest\n\nPassive: Crow, Deer, Gull, Perch, Pike, Trollfish | Hostile: Bear, Ghost, Greydwarf, Greydwarf brute, Greydwarf shaman, Rancid Remains, Skeleton, Troll | Boss(es): Brenna (miniboss), The Elder | Unique: Copper ore from a Copper deposit, Tin ore from a Tin deposit, Thistle, Carrot Seed | Food: Yellow Mushroom, Blueberries | Structures: Dolmen, Abandoned Outpost, Big Rock Clearing | Dungeons: Troll Cave, Burial Chambers, Smouldering Tombs | NPCs: Haldor, Halstein\n\nIntroduction. Black Forest biomes are dangerous, coniferous forests full of dense and lush vegetation. A low blanket of ferns, felled logs, stumps, berry bushes, and Thistle plants is towered over by a canopy of Pine and Fir trees. Rolling hills and spacious dales are broken up by huge exposed boulders and slumbering Copper deposits. The coastline features many coves, inlets, and even marshlands. The shore is lined with glistening Tin deposits, ready to be collected. It is the only biome where Copper and Tin ores can be mined, available to the player after defeating Eikthyr and acquiring an Antler pickaxe.\nLarge amounts of Greydwarfs amble about this sea of trees, along with the occasional Troll and gaggle of Skeletons. The forest is also home to Burial Chambers, the first instanced dungeon area in the game. These chambers are the player's first source of Surtling cores, which allow the creation of a smelting yard and usher in the beginnings of metallurgy. Typically, the player will explore the Black Forest as their second biome, after the Meadows.\n\nHostile. • Bear\n• Greydwarf\n• Greydwarf brute\n• Greydwarf shaman\n• Troll\n• Skeleton\n• Rancid Remains\n• Ghost\n\nPassive. • Deer\n• Crow\n• Gull\n• Perch\n• Pike\n• Trollfish\n\nNPCs. • Haldor\n• Halstein\n\nResources. • Stone\n• Wood\n• Corewood\n• Finewood (from certain furniture in abandoned building spawns and half buried boat spawns)\n• Mushroom\n• Yellow mushroom (from Burial Chambers)\n• Blueberries\n• Thistle\n• Carrot Seed\n• Copper ore from Copper deposits\n• Tin ore from Tin deposits\n• Chests: (2-3 of the following)\n• Barrels: (2-3 of the following)\n\nDungeons. • Burial Chambers\n• Troll Cave",
+  "scraped_at": "2026-02-26T01:05:21.828365+00:00"
+}

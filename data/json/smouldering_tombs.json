@@ -1,0 +1,87 @@
+{
+  "title": "Smouldering Tombs",
+  "url": "https://valheim.fandom.com/wiki/Smouldering_Tombs",
+  "slug": "Smouldering_Tombs",
+  "categories": [
+    "Points of interest",
+    "Dungeons"
+  ],
+  "infobox": {
+    "_infobox_title": "Smouldering Tombs",
+    "Type": "Dungeon",
+    "Internal ID": "Hildir_crypt",
+    "Location": "Black Forest",
+    "Inhabitants": "Skeletons, Ghosts, Brenna"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Smouldering Tombs are dungeons found in Black Forests."
+    },
+    {
+      "heading": "Description",
+      "level": 2,
+      "text": "The entrance looks quite similar to normal Black Forest dungeons, the Burial Chambers, but with two lighted Standing iron torches on each side.\nEven guarded by Skeletons and Ghosts, the biggest threat is the miniboss Brenna.\nYou may find chests, Surtling cores, Yellow mushrooms, Bone fragments and Coins."
+    },
+    {
+      "heading": "Loot",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Amount": "?",
+          "Item": "Amber",
+          "Chance": "?"
+        },
+        {
+          "Amount": "?",
+          "Item": "Amber pearl",
+          "Chance": "?"
+        },
+        {
+          "Amount": "?",
+          "Item": "Bone fragments",
+          "Chance": "?"
+        },
+        {
+          "Amount": "?",
+          "Item": "Coins",
+          "Chance": "?"
+        },
+        {
+          "Amount": "?",
+          "Item": "Ruby",
+          "Chance": "?"
+        },
+        {
+          "Amount": "?",
+          "Item": "Surtling core",
+          "Chance": "?"
+        },
+        {
+          "Amount": "?",
+          "Item": "Yellow mushroom",
+          "Chance": "?"
+        },
+        {
+          "Amount": "1",
+          "Item": "Hildir's brass chest",
+          "Chance": "100% (Brenna has to be killed)"
+        },
+        {
+          "Amount": "1",
+          "Item": "Brenna trophy",
+          "Chance": "100% (Brenna has to be killed)"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• This special dungeon, with its special miniboss, can be obtained at Hildir's map table.\n• Bring Torches or a Dverger circlet, as dungeons are usually very dark.\n• Campfire and Cooking station can be placed inside dungeons to allow the player to rest."
+    }
+  ],
+  "full_text": "Smouldering Tombs\n\nType: Dungeon | Internal ID: Hildir_crypt | Location: Black Forest | Inhabitants: Skeletons, Ghosts, Brenna\n\nIntroduction. Smouldering Tombs are dungeons found in Black Forests.\n\nDescription. The entrance looks quite similar to normal Black Forest dungeons, the Burial Chambers, but with two lighted Standing iron torches on each side.\nEven guarded by Skeletons and Ghosts, the biggest threat is the miniboss Brenna.\nYou may find chests, Surtling cores, Yellow mushrooms, Bone fragments and Coins.\n\nNotes. • This special dungeon, with its special miniboss, can be obtained at Hildir's map table.\n• Bring Torches or a Dverger circlet, as dungeons are usually very dark.\n• Campfire and Cooking station can be placed inside dungeons to allow the player to rest.",
+  "scraped_at": "2026-02-26T01:46:38.031586+00:00"
+}

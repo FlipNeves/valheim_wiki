@@ -1,0 +1,36 @@
+{
+  "title": "Farming (skill)",
+  "url": "https://valheim.fandom.com/wiki/Farming_(skill)",
+  "slug": "Farming_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "infobox": {
+    "_infobox_title": "Farming (skill)",
+    "Description": "Stamina use, cultivator wear, harvest radius and chance for bonus yields."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Farming is a skill."
+    },
+    {
+      "heading": "Skill benefits",
+      "level": 2,
+      "text": "The Farming skill has the following effect, proportional to the level:\n• A chance to gather one extra product with up to a 25% chance. It works on crops, seeds, mushrooms and berries found in nature.\n• Increases Scythe harvest range from 1.5 meters up to 2.5 meters and decrease stamina usage down to -33%.\n• Decreases Cultivator durability usage and stamina cost down to -50%."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "The following activities give Farming skill experience:\n• Using a Scythe gives 0.25 experience.\n• Using a Cultivator gives 0.25 experience, including growing grass and plowing a field.\n• Harvesting a food or seeds manually gives 0.25 experience. This includes picking foods that cannot be planted such as Raspberries, Mushroom, and Blueberries."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• While it is possible to harvest some crops with weapons that have an area of effect (such as Atgeirs and Sledgehammers), these will not give any experience points when doing so, while using the Scythe would. Furthermore, the scythe allows harvesting other crops the previously-mentioned weapons cannot, such as Carrots, Turnips and Onions.\n• As of patch 0.219.14, the scythe cannot harvest Magecaps and Jotun puffs."
+    }
+  ],
+  "full_text": "Farming (skill)\n\nDescription: Stamina use, cultivator wear, harvest radius and chance for bonus yields.\n\nIntroduction. Farming is a skill.\n\nSkill benefits. The Farming skill has the following effect, proportional to the level:\n• A chance to gather one extra product with up to a 25% chance. It works on crops, seeds, mushrooms and berries found in nature.\n• Increases Scythe harvest range from 1.5 meters up to 2.5 meters and decrease stamina usage down to -33%.\n• Decreases Cultivator durability usage and stamina cost down to -50%.\n\nLeveling up. The following activities give Farming skill experience:\n• Using a Scythe gives 0.25 experience.\n• Using a Cultivator gives 0.25 experience, including growing grass and plowing a field.\n• Harvesting a food or seeds manually gives 0.25 experience. This includes picking foods that cannot be planted such as Raspberries, Mushroom, and Blueberries.\n\nNotes. • While it is possible to harvest some crops with weapons that have an area of effect (such as Atgeirs and Sledgehammers), these will not give any experience points when doing so, while using the Scythe would. Furthermore, the scythe allows harvesting other crops the previously-mentioned weapons cannot, such as Carrots, Turnips and Onions.\n• As of patch 0.219.14, the scythe cannot harvest Magecaps and Jotun puffs.",
+  "scraped_at": "2026-02-26T01:43:36.894510+00:00"
+}

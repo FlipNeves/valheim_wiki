@@ -1,0 +1,13 @@
+{
+  "title": "Bleeding Berserkir axes",
+  "url": "https://valheim.fandom.com/wiki/Bleeding_Berserkir_axes",
+  "slug": "Bleeding_Berserkir_axes",
+  "categories": [
+    "Weapons",
+    "Axes",
+    "Black forge recipes"
+  ],
+  "content": "# Bleeding Berserkir axes\n\nInternal ID: AxeBerzerkrBlood | Type: Axe | Source: Black forge | Usage: Weapon | Wielding: Dual wielded | Crafting Materials: Flametal x15, Bloodstone x3 | Attack speed: 1.93 s | Hitbox: 2.2 range, 90 angle, 0.6 height, no multitarget penalty | Movement speed: -5%\n\n# Introduction\n\nBleeding Berserkir axes are the upgraded form of Berserkir axes using the Bloodstone. Like all upgraded-weapons that use Bloodstone, their hit effect is damage increased by 0.2% for every point of health the player is missing (not the percentage missing).\nAn upgraded Berserkir axes will NOT keep its upgrade level when it is used to craft the Bleeding Berserkir axes using gemstones.\n\n## Upgrade information\n\n• stat: Slash | Quality 1: 140 | Quality 2: 145 | Quality 3: 150 | Quality 4: 155\n\n• stat: Durability | Quality 1: 175 | Quality 2: 225 | Quality 3: 275 | Quality 4: 325\n\n• stat: Crafting | Quality 1: 1 Berserkir axes5 Flametal1 Bloodstone | Quality 2: 5 Flametal1 Bloodstone | Quality 3: 10 Flametal2 Bloodstone | Quality 4: 15 Flametal3 Bloodstone\n\n• stat: Black forge level | Quality 1: 4 | Quality 2: 5 | Quality 3: 6 (not yet available) | Quality 4: 7 (not yet available)\n\nCategorias: Weapons, Axes, Black forge recipes",
+  "content_length": 1244,
+  "scraped_at": "2026-02-26T01:11:40.040614+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Pulsating Earrings",
+  "url": "https://valheim.fandom.com/wiki/Pulsating_Earrings",
+  "slug": "Pulsating_Earrings",
+  "categories": [
+    "Trinket"
+  ],
+  "infobox": {
+    "_infobox_title": "Pulsating Earrings",
+    "Internal ID": "TrinketCarapaceEitr",
+    "Type": "Trinkets",
+    "Source": "Black forge",
+    "Crafting Materials": "Carapace x5, Refined eitr x5, Gjall trophy x1",
+    "Adrenaline Cost": "65",
+    "Effect": "+25% eitr regen",
+    "Duration": "1m"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Pulsating Earrings is a Mistlands-tier trinket."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Once 65 Adrenaline has been gained, the Pulsating Earrings will trigger automatically, providing +25% eitr regeneration for 60 seconds."
+    }
+  ],
+  "full_text": "Pulsating Earrings\n\nInternal ID: TrinketCarapaceEitr | Type: Trinkets | Source: Black forge | Crafting Materials: Carapace x5, Refined eitr x5, Gjall trophy x1 | Adrenaline Cost: 65 | Effect: +25% eitr regen | Duration: 1m\n\nIntroduction. Pulsating Earrings is a Mistlands-tier trinket.\n\nEffects. Once 65 Adrenaline has been gained, the Pulsating Earrings will trigger automatically, providing +25% eitr regeneration for 60 seconds.",
+  "scraped_at": "2026-02-26T02:10:11.323459+00:00"
+}

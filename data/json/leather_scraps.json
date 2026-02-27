@@ -1,0 +1,25 @@
+{
+  "title": "Leather scraps",
+  "url": "https://valheim.fandom.com/wiki/Leather_scraps",
+  "slug": "Leather_scraps",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Leather scraps",
+    "Type": "Material",
+    "Internal ID": "LeatherScraps",
+    "Source": "Boar, ,, Bat, ,, Muddy scrap piles",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Leather scraps can be found in Chests in the Meadows, dropped from Boars and Bats, or mined from Muddy scrap piles."
+    }
+  ],
+  "full_text": "Leather scraps\n\nType: Material | Internal ID: LeatherScraps | Source: Boar, ,, Bat, ,, Muddy scrap piles | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Leather scraps can be found in Chests in the Meadows, dropped from Boars and Bats, or mined from Muddy scrap piles.",
+  "scraped_at": "2026-02-26T01:34:48.570074+00:00"
+}

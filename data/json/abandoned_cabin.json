@@ -1,0 +1,46 @@
+{
+  "title": "Abandoned Cabin",
+  "url": "https://valheim.fandom.com/wiki/Abandoned_Cabin",
+  "slug": "Abandoned_Cabin",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Abandoned Cabin",
+    "Type": "Structure",
+    "Internal ID": "AbandonedLogCabin02 | AbandonedLogCabin03AbandonedLogCabin04",
+    "Location": "Mountains",
+    "Inhabitants": "Skeleton, ,, Stone Golem"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Abandoned Cabins are Points of interest found in the Mountain biome. They are dilapidated buildings made mostly of Log structures."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "They come in three variants. Each have a chance for the following feature:\n• A chance for a Mountain Chest, notably containing Onion seeds and Valuables.\n• A chance for Stone Golems to spawn once.\n• A chance for Skeletons to spawn once.",
+      "table_data": [
+        {
+          "Id": "AbandonedLogCabin02",
+          "Image": "",
+          "Resources": "A 54.6% chance for a chest Up to 2 Stone Golems, with a 10% chance each"
+        },
+        {
+          "Id": "AbandonedLogCabin03",
+          "Image": "",
+          "Resources": "Always has a chest A 10% chance for a Stone Golem Up to 2 Skeletons, with 50% chance each"
+        },
+        {
+          "Id": "AbandonedLogCabin04",
+          "Image": "",
+          "Resources": "Always has a chest Up to 2 Stone Golems, with a 10% chance each Up to 2 Skeletons, with 50% chance each"
+        }
+      ]
+    }
+  ],
+  "full_text": "Abandoned Cabin\n\nType: Structure | Internal ID: AbandonedLogCabin02 | AbandonedLogCabin03AbandonedLogCabin04 | Location: Mountains | Inhabitants: Skeleton, ,, Stone Golem\n\nIntroduction. Abandoned Cabins are Points of interest found in the Mountain biome. They are dilapidated buildings made mostly of Log structures.\n\nResources. They come in three variants. Each have a chance for the following feature:\n• A chance for a Mountain Chest, notably containing Onion seeds and Valuables.\n• A chance for Stone Golems to spawn once.\n• A chance for Skeletons to spawn once.",
+  "scraped_at": "2026-02-26T01:47:18.208565+00:00"
+}

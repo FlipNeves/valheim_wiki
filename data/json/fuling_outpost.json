@@ -1,0 +1,35 @@
+{
+  "title": "Fuling Outpost",
+  "url": "https://valheim.fandom.com/wiki/Fuling_Outpost",
+  "slug": "Fuling_Outpost",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Fuling Outpost",
+    "Type": "Point of interest",
+    "Internal ID": "StoneTower1 | StoneTower3",
+    "Location": "Plains",
+    "Resources": "Fuling totem, ,, Plains Chest",
+    "Inhabitants": "Fuling"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fuling Outposts are Points of interest found in the Plains. They look like isolated stone towers surrounded by wood stakes. They come in two variants."
+    },
+    {
+      "heading": "Restored Outpost",
+      "level": 2,
+      "text": "The Restored Outpost variant has missing walls and the interior is visible from outside.\nA Fuling totem is always present on an altar inside the building at the ground level. It is guarded by up to 6 Fulings with a 54% chance each.\nThe last floor has a 50% chance to be present, if so it has a Plains Chest and up to 3 additional Fulings with a 54% chance each."
+    },
+    {
+      "heading": "Regular Outpost",
+      "level": 2,
+      "text": "The Regular Outpost variant is a full square stone tower with a single door entrance.\nIt is protected but up to 9 Fulings with a 54% chance each. The last floor has a 50% chance to be present, if so it has a Plains Chest and up to 2 additional Fulings with a 54% chance each.\nNotably, this variant has no Fuling totem."
+    }
+  ],
+  "full_text": "Fuling Outpost\n\nType: Point of interest | Internal ID: StoneTower1 | StoneTower3 | Location: Plains | Resources: Fuling totem, ,, Plains Chest | Inhabitants: Fuling\n\nIntroduction. Fuling Outposts are Points of interest found in the Plains. They look like isolated stone towers surrounded by wood stakes. They come in two variants.\n\nRestored Outpost. The Restored Outpost variant has missing walls and the interior is visible from outside.\nA Fuling totem is always present on an altar inside the building at the ground level. It is guarded by up to 6 Fulings with a 54% chance each.\nThe last floor has a 50% chance to be present, if so it has a Plains Chest and up to 3 additional Fulings with a 54% chance each.\n\nRegular Outpost. The Regular Outpost variant is a full square stone tower with a single door entrance.\nIt is protected but up to 9 Fulings with a 54% chance each. The last floor has a 50% chance to be present, if so it has a Plains Chest and up to 2 additional Fulings with a 54% chance each.\nNotably, this variant has no Fuling totem.",
+  "scraped_at": "2026-02-26T01:47:47.939001+00:00"
+}

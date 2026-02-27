@@ -1,0 +1,91 @@
+{
+  "title": "Charred Warlock",
+  "url": "https://valheim.fandom.com/wiki/Charred_Warlock",
+  "slug": "Charred_Warlock",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Charred Warlock",
+    "Internal ID": "Charred_Mage",
+    "Faction": "Demon",
+    "Main biome": "Ashlands",
+    "Drops": "Charred bone | Warlock trophy",
+    "Abilities": "Fire (8s), Summon (10s)",
+    "Trophy": "Warlock trophy",
+    "Weak to (x1.5)": "Spirit",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Lightning, ,, Stagger",
+    "Resistant to (x0.5)": "Pierce, ,, Frost",
+    "Very resistant to (x0.25)": "Fire",
+    "Immune to (x0)": "Poison, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Charred Warlocks are hostile enemies found in the Ashlands."
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Inside Charred Fortress",
+          "Limit": "3",
+          "Frequency": "One time",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Randomly from Effigy of Malice inside Charred Fortress when a player is nearby",
+          "Limit": "none",
+          "Frequency": "Rare",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Randomly from Monument of Torment (Elite) when a player is nearby",
+          "Limit": "none",
+          "Frequency": "Rare",
+          "Stars": "Yes (2 stars only)"
+        }
+      ]
+    },
+    {
+      "heading": "Attacks and abilities",
+      "level": 2,
+      "text": "They have a 50% chance of spawning with a Charred Helmet: a piece from an armor set unique to the Charred which provides 60 Armor."
+    },
+    {
+      "heading": "Fire",
+      "level": 3,
+      "text": "Raises both hands up before thrusting forward with their staff to launch a green ball of fire (100 Pierce damage). The ball travels at 12 meters per second for up to 20 seconds before despawning and has a spread of 2–20 degrees. On impact, this ball creates a 3.5 meter vortex of fire which persists for 7 seconds and inflicts the Burning status (20 Blunt and 70 Fire damage). This attack can be used every 8 seconds when within 20 meters of a player."
+    },
+    {
+      "heading": "Summon",
+      "level": 3,
+      "text": "Raises their unarmed hand then their staff to summon one Summoned Twitcher — a green version of the Charred Twitcher with only 50 health but the same attributes and abilities otherwise — within an area 5 meters from the caster. A maximum of ten Summoned Twitchers can be summoned at once; this limit is shared across all loaded Charred Warlocks. Even when the limit is reach, they will continue to attempt to use this ability. It can be used every 10 seconds when within 30 meters of a player."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Charred bone",
+          "0 Star": "1-2",
+          "1 Star": "2-4",
+          "2 Star": "4-8"
+        },
+        {
+          "Item": "Warlock trophy",
+          "0 Star": "5%",
+          "1 Star": "5%",
+          "2 Star": "5%"
+        }
+      ]
+    }
+  ],
+  "full_text": "Charred Warlock\n\nInternal ID: Charred_Mage | Faction: Demon | Main biome: Ashlands | Drops: Charred bone | Warlock trophy | Abilities: Fire (8s), Summon (10s) | Trophy: Warlock trophy | Weak to (x1.5): Spirit | Neutral to (x1): Blunt, ,, Slash, ,, Lightning, ,, Stagger | Resistant to (x0.5): Pierce, ,, Frost | Very resistant to (x0.25): Fire | Immune to (x0): Poison, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Charred Warlocks are hostile enemies found in the Ashlands.\n\nAttacks and abilities. They have a 50% chance of spawning with a Charred Helmet: a piece from an armor set unique to the Charred which provides 60 Armor.\n\nFire. Raises both hands up before thrusting forward with their staff to launch a green ball of fire (100 Pierce damage). The ball travels at 12 meters per second for up to 20 seconds before despawning and has a spread of 2–20 degrees. On impact, this ball creates a 3.5 meter vortex of fire which persists for 7 seconds and inflicts the Burning status (20 Blunt and 70 Fire damage). This attack can be used every 8 seconds when within 20 meters of a player.\n\nSummon. Raises their unarmed hand then their staff to summon one Summoned Twitcher — a green version of the Charred Twitcher with only 50 health but the same attributes and abilities otherwise — within an area 5 meters from the caster. A maximum of ten Summoned Twitchers can be summoned at once; this limit is shared across all loaded Charred Warlocks. Even when the limit is reach, they will continue to attempt to use this ability. It can be used every 10 seconds when within 30 meters of a player.",
+  "scraped_at": "2026-02-26T01:06:37.483167+00:00"
+}

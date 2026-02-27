@@ -1,0 +1,85 @@
+{
+  "title": "Ghost",
+  "url": "https://valheim.fandom.com/wiki/Ghost",
+  "slug": "Ghost",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Ghost",
+    "Internal ID": "Ghost",
+    "Faction": "Undead",
+    "Main biome": "Black Forest",
+    "Drops": "Ectoplasm, ,, Ghost trophy",
+    "Abilities": "Attack",
+    "Trophy": "Ghost trophy",
+    "Weak to (x1.5)": "Spirit",
+    "Neutral to (x1)": "Fire, ,, Frost, ,, Lightning, ,, Stagger",
+    "Resistant to (x0.5)": "Blunt, ,, Slash, ,, Pierce",
+    "Immune to (x0)": "Poison, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ghosts are aggressive creatures found in Black Forests within Burial Chambers, and as part of \"You feel a chill down your spine...\" raid event."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Ectoplasm",
+          "0 Star": "1-2",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Ghost trophy",
+          "0 Star": "10%",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Uncommon spawn point in Burial Chambers",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"You feel a chill down your spine...\" event after defeating Bonemass",
+          "Limit": "3",
+          "Frequency": "Very common",
+          "Stars": "No"
+        },
+        {
+          "Type": "Uncommon spawn point in Smouldering Tombs",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "Yes (only 1-star)"
+        }
+      ]
+    },
+    {
+      "heading": "Attack",
+      "level": 3,
+      "text": "Swings their hand sideways in a 1.7-meter 90-degree horizontal arc to scratch the player (25 Slash damage). This attack can be used every 2 seconds when within 1.2 meters of a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Like Leviathans, they do not respawn, making them a finite creature when raids are disabled."
+    }
+  ],
+  "full_text": "Ghost\n\nInternal ID: Ghost | Faction: Undead | Main biome: Black Forest | Drops: Ectoplasm, ,, Ghost trophy | Abilities: Attack | Trophy: Ghost trophy | Weak to (x1.5): Spirit | Neutral to (x1): Fire, ,, Frost, ,, Lightning, ,, Stagger | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce | Immune to (x0): Poison, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Ghosts are aggressive creatures found in Black Forests within Burial Chambers, and as part of \"You feel a chill down your spine...\" raid event.\n\nAttack. Swings their hand sideways in a 1.7-meter 90-degree horizontal arc to scratch the player (25 Slash damage). This attack can be used every 2 seconds when within 1.2 meters of a player.\n\nNotes. • Like Leviathans, they do not respawn, making them a finite creature when raids are disabled.",
+  "scraped_at": "2026-02-26T01:07:40.729003+00:00"
+}

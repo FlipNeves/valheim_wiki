@@ -1,0 +1,36 @@
+{
+  "title": "Charred cogwheel",
+  "url": "https://valheim.fandom.com/wiki/Charred_cogwheel",
+  "slug": "Charred_cogwheel",
+  "categories": [
+    "Materials",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Charred cogwheel",
+    "Type": "Material",
+    "Internal ID": "CharredCogwheel",
+    "Source": "Skugg",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "No"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Charred cogwheel is an item introduced in the Ashlands update and is used primarily to construct the Catapult.\nThey can only be teleported by using the Portal Stone, not the regular Portal."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Dropped from the Skugg which can be found in Charred Fortresses."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Catapult"
+    }
+  ],
+  "full_text": "Charred cogwheel\n\nType: Material | Internal ID: CharredCogwheel | Source: Skugg | Usage: Building | Teleportable (Can go through wood portal?): No\n\nIntroduction. The Charred cogwheel is an item introduced in the Ashlands update and is used primarily to construct the Catapult.\nThey can only be teleported by using the Portal Stone, not the regular Portal.\n\nAvailability. Dropped from the Skugg which can be found in Charred Fortresses.\n\nBuilding. • Catapult",
+  "scraped_at": "2026-02-26T01:32:08.434673+00:00"
+}

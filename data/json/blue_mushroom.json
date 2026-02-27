@@ -1,0 +1,39 @@
+{
+  "title": "Blue mushroom",
+  "url": "https://valheim.fandom.com/wiki/Blue_mushroom",
+  "slug": "Blue_mushroom",
+  "categories": [
+    "Unfinished",
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Blue mushroom",
+    "Type": "Food",
+    "Internal ID": "MushroomBlue",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "20",
+    "Max Stamina": "20",
+    "Duration": "10m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Blue mushroom is an unimplemented item."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "The blue mushroom is currently unimplemented, and can only be obtained via console commands."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "As of version 0.147.3 of the game, it has no use and can only be eaten raw."
+    }
+  ],
+  "full_text": "Blue mushroom\n\nType: Food | Internal ID: MushroomBlue | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Max Health: 20 | Max Stamina: 20 | Duration: 10m | Healing: 1 hp/tick\n\nIntroduction. Blue mushroom is an unimplemented item.\n\nAvailability. The blue mushroom is currently unimplemented, and can only be obtained via console commands.\n\nUsage. As of version 0.147.3 of the game, it has no use and can only be eaten raw.",
+  "scraped_at": "2026-02-26T01:25:08.989301+00:00"
+}

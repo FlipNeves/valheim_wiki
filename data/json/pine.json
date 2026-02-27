@@ -1,0 +1,86 @@
+{
+  "title": "Pine",
+  "url": "https://valheim.fandom.com/wiki/Pine",
+  "slug": "Pine",
+  "categories": [
+    "Trees"
+  ],
+  "infobox": {
+    "_infobox_title": "Pine",
+    "Biome": "Black Forest",
+    "Wood Type": "Corewood, and, Wood",
+    "Yield": "30",
+    "Tool Needed": "Stone axe",
+    "Additional Loot": "Pine cone, ,, Feathers, ,, Resin"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Pine is a type of tree that can be found in the Black Forest biome. It is characterized by its tall, skinny trunk. A Stone axe or better is required to damage it.\nPine trees produce Wood and Corewood when destroyed. The yield of each type of wood appears to be random, however, a pine tree will always drop 30 pieces of wood total.\nPine cones can be planted with a cultivator to grow more Pine. Pine trees can be planted in the Meadows. The low drop rate on the Pine Cones makes Pine, and thus Corewood, unsustainable.",
+      "table_data": [
+        {
+          "Item": "Wood",
+          "Amount": "0-30",
+          "Chance": "From logs",
+          "Average": "15"
+        },
+        {
+          "Item": "Corewood",
+          "Amount": "0-30",
+          "Chance": "From logs",
+          "Average": "15"
+        },
+        {
+          "Item": "Wood",
+          "Amount": "2",
+          "Chance": "From stump",
+          "Average": "2"
+        },
+        {
+          "Item": "Pine cone",
+          "Amount": "1",
+          "Chance": "44%",
+          "Average": "0.33"
+        },
+        {
+          "Item": "Feathers",
+          "Amount": "1",
+          "Chance": "11%",
+          "Average": "0.08"
+        },
+        {
+          "Item": "Resin",
+          "Amount": "1",
+          "Chance": "44%",
+          "Average": "0.33"
+        }
+      ]
+    },
+    {
+      "heading": "Planting Pines",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Meadows": "Swamp",
+          "Yes": "No"
+        },
+        {
+          "Meadows": "Mountain",
+          "Yes": "No"
+        },
+        {
+          "Meadows": "Mistlands",
+          "Yes": "No"
+        },
+        {
+          "Meadows": "Ashlands",
+          "Yes": "No"
+        }
+      ]
+    }
+  ],
+  "full_text": "Pine\n\nBiome: Black Forest | Wood Type: Corewood, and, Wood | Yield: 30 | Tool Needed: Stone axe | Additional Loot: Pine cone, ,, Feathers, ,, Resin\n\nIntroduction. Pine is a type of tree that can be found in the Black Forest biome. It is characterized by its tall, skinny trunk. A Stone axe or better is required to damage it.\nPine trees produce Wood and Corewood when destroyed. The yield of each type of wood appears to be random, however, a pine tree will always drop 30 pieces of wood total.\nPine cones can be planted with a cultivator to grow more Pine. Pine trees can be planted in the Meadows. The low drop rate on the Pine Cones makes Pine, and thus Corewood, unsustainable.",
+  "scraped_at": "2026-02-26T01:48:39.559429+00:00"
+}

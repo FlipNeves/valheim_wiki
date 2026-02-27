@@ -1,0 +1,150 @@
+{
+  "title": "Emotes",
+  "url": "https://valheim.fandom.com/wiki/Emotes",
+  "slug": "Emotes",
+  "categories": [
+    "Gameplay"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Emotes are character animations used to express feelings or change stance.\nEmotes can be perfomed by using the emote radial menu. See Controls.\nEmotes may be executed as a command through the developer console, but usually are performed using the in-game chat commands by pressing \"Enter\"."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "The only emote with function is the \"Sit\" emote, which can also be performed by pressing X, and allows resting near campfires.\nThe Mysterious Rock facial expressions can vary depending on the last player emotes. See the namesake page for details."
+    },
+    {
+      "heading": "List of emotes",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Icon": "",
+          "Name": "Wave",
+          "Command": "/wave"
+        },
+        {
+          "Icon": "",
+          "Name": "Sit",
+          "Command": "/sit"
+        },
+        {
+          "Icon": "",
+          "Name": "Challenge",
+          "Command": "/challenge"
+        },
+        {
+          "Icon": "",
+          "Name": "Cheer",
+          "Command": "/cheer"
+        },
+        {
+          "Icon": "",
+          "Name": "No no no",
+          "Command": "/nonono"
+        },
+        {
+          "Icon": "",
+          "Name": "Thumbs up",
+          "Command": "/thumbsup"
+        },
+        {
+          "Icon": "",
+          "Name": "/point",
+          "Command": "/point"
+        },
+        {
+          "Icon": "",
+          "Name": "Blow kiss",
+          "Command": "/blowkiss"
+        },
+        {
+          "Icon": "",
+          "Name": "Bow",
+          "Command": "/bow"
+        },
+        {
+          "Icon": "",
+          "Name": "Cower",
+          "Command": "/cower"
+        },
+        {
+          "Icon": "",
+          "Name": "Cry",
+          "Command": "/cry"
+        },
+        {
+          "Icon": "",
+          "Name": "Despair",
+          "Command": "/despair"
+        },
+        {
+          "Icon": "",
+          "Name": "Flex",
+          "Command": "/flex"
+        },
+        {
+          "Icon": "",
+          "Name": "Come here",
+          "Command": "/comehere"
+        },
+        {
+          "Icon": "",
+          "Name": "Headbang",
+          "Command": "/headbang"
+        },
+        {
+          "Icon": "",
+          "Name": "Kneel",
+          "Command": "/kneel"
+        },
+        {
+          "Icon": "",
+          "Name": "Laugh",
+          "Command": "/laugh"
+        },
+        {
+          "Icon": "",
+          "Name": "Roar",
+          "Command": "/roar"
+        },
+        {
+          "Icon": "",
+          "Name": "Shrug",
+          "Command": "/shrug"
+        },
+        {
+          "Icon": "",
+          "Name": "Dance",
+          "Command": "/dance"
+        },
+        {
+          "Icon": "",
+          "Name": "Relax",
+          "Command": "/relax"
+        },
+        {
+          "Icon": "",
+          "Name": "Toast",
+          "Command": "/toast"
+        },
+        {
+          "Icon": "",
+          "Name": "Rest",
+          "Command": "/rest"
+        },
+        {
+          "Icon": "",
+          "Name": "Vibe",
+          "Command": "/vibe"
+        }
+      ]
+    }
+  ],
+  "full_text": "Emotes\n\nIntroduction. Emotes are character animations used to express feelings or change stance.\nEmotes can be perfomed by using the emote radial menu. See Controls.\nEmotes may be executed as a command through the developer console, but usually are performed using the in-game chat commands by pressing \"Enter\".\n\nUsage. The only emote with function is the \"Sit\" emote, which can also be performed by pressing X, and allows resting near campfires.\nThe Mysterious Rock facial expressions can vary depending on the last player emotes. See the namesake page for details.",
+  "scraped_at": "2026-02-26T01:57:56.522428+00:00"
+}

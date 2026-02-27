@@ -1,0 +1,60 @@
+{
+  "title": "Bronze buckler",
+  "url": "https://valheim.fandom.com/wiki/Bronze_buckler",
+  "slug": "Bronze_buckler",
+  "categories": [
+    "Weapons",
+    "Shields",
+    "Forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Bronze buckler",
+    "Internal ID": "ShieldBronzeBuckler",
+    "Type": "Shield",
+    "Source": "Forge",
+    "Usage": "Blocking",
+    "Wielding": "Off-hand",
+    "Crafting Materials": "Bronze x10, Wood x2",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Bronze buckler is the first buckler shield. Its 2.5x parry bonus makes it superior for parrying attacks in comparison to even tower shields blocking in the same tier, but inferior for blocking to other options."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "The cost to max is 25 Bronze(50 copper and 25 tin), and 7 wood",
+      "table_data": [
+        {
+          "stat": "Block armor",
+          "Quality 1": "16",
+          "Quality 2": "22",
+          "Quality 3": "28"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "10 Bronze4 Wood",
+          "Quality 2": "5 Bronze1 Wood",
+          "Quality 3": "10 Bronze2 Wood"
+        },
+        {
+          "stat": "Forge level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3"
+        }
+      ]
+    }
+  ],
+  "full_text": "Bronze buckler\n\nInternal ID: ShieldBronzeBuckler | Type: Shield | Source: Forge | Usage: Blocking | Wielding: Off-hand | Crafting Materials: Bronze x10, Wood x2 | Movement speed: -5%\n\nIntroduction. The Bronze buckler is the first buckler shield. Its 2.5x parry bonus makes it superior for parrying attacks in comparison to even tower shields blocking in the same tier, but inferior for blocking to other options.\n\nUpgrade information. The cost to max is 25 Bronze(50 copper and 25 tin), and 7 wood",
+  "scraped_at": "2026-02-26T01:12:23.988564+00:00"
+}

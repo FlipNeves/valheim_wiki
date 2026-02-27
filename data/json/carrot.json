@@ -1,0 +1,93 @@
+{
+  "title": "Carrot",
+  "url": "https://valheim.fandom.com/wiki/Carrot",
+  "slug": "Carrot",
+  "categories": [
+    "Food",
+    "Farming",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Carrot",
+    "Type": "Food",
+    "Internal ID": "Carrot",
+    "Source": "Farming, Carrot seeds",
+    "Usage": "Building, Crafting, Eating, Farming, Taming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "10",
+    "Max Stamina": "32",
+    "Duration": "15m",
+    "Healing": "1 hp/tick",
+    "Produces": "3, Carrot seeds",
+    "Grow Time (s)": "1h 6m 40s, -, 1h 23m 20s",
+    "Needs Cultivated Ground?": "Yes",
+    "Space Needed (m)": "1",
+    "Hospitable Biomes": "Meadows, ,, Black Forest, and, Plains"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Carrots are crops grown from Carrot seeds. They can be eaten raw, but are more useful in Cauldron recipes."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Carrots are grown by planting Carrot seeds with the Cultivator.\n• It takes between 1h 6m 40s and 1h 23m 20s (about 2.22-2.78 in-game days) for them to fully grow."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Orange banner\n• Spice rack upgrade for the Cauldron"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Result": "Carrot soup",
+          "Ingredients": "• Mushroom x1• Carrot x3",
+          "Crafting Station": "Cauldron (1)"
+        },
+        {
+          "Result": "Deer stew",
+          "Ingredients": "• Cooked deer meat x1• Blueberries x1• Carrot x1",
+          "Crafting Station": "Cauldron (1)"
+        },
+        {
+          "Result": "Minced meat sauce",
+          "Ingredients": "• Boar meat x1• Neck tail x1• Carrot x1",
+          "Crafting Station": "Cauldron (1)"
+        },
+        {
+          "Result": "Mead base: Animal whispers",
+          "Ingredients": "• Onion x5• Carrot x10• Pungent pebbles x1",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Misthare supreme",
+          "Ingredients": "• Hare meat x1• Jotun puffs x3• Carrot x2",
+          "Crafting Station": "Food preparation table"
+        },
+        {
+          "Result": "Hearty Mountain logger's stew",
+          "Ingredients": "• Wolf skewer x2• Onion soup x3• Carrot x4• Mountain peak pepper powder x1",
+          "Crafting Station": "Food preparation table"
+        }
+      ]
+    },
+    {
+      "heading": "Farming",
+      "level": 3,
+      "text": "• 3 Carrot seeds can be obtained by planting and growing a \"Seed-carrot\" using the Cultivator."
+    },
+    {
+      "heading": "Taming",
+      "level": 3,
+      "text": "• Can be fed to hungry Boars to either begin or continue the taming process, or to allow reproduction."
+    }
+  ],
+  "full_text": "Carrot\n\nType: Food | Internal ID: Carrot | Source: Farming, Carrot seeds | Usage: Building, Crafting, Eating, Farming, Taming | Teleportable (Can go through wood portal?): Yes | Max Health: 10 | Max Stamina: 32 | Duration: 15m | Healing: 1 hp/tick | Produces: 3, Carrot seeds | Grow Time (s): 1h 6m 40s, -, 1h 23m 20s | Needs Cultivated Ground?: Yes | Space Needed (m): 1 | Hospitable Biomes: Meadows, ,, Black Forest, and, Plains\n\nIntroduction. Carrots are crops grown from Carrot seeds. They can be eaten raw, but are more useful in Cauldron recipes.\n\nAvailability. • Carrots are grown by planting Carrot seeds with the Cultivator.\n• It takes between 1h 6m 40s and 1h 23m 20s (about 2.22-2.78 in-game days) for them to fully grow.\n\nBuilding. • Orange banner\n• Spice rack upgrade for the Cauldron\n\nFarming. • 3 Carrot seeds can be obtained by planting and growing a \"Seed-carrot\" using the Cultivator.\n\nTaming. • Can be fed to hungry Boars to either begin or continue the taming process, or to allow reproduction.",
+  "scraped_at": "2026-02-26T01:25:34.575819+00:00"
+}

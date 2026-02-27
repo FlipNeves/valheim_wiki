@@ -1,0 +1,11 @@
+{
+  "title": "Asksvin skeleton",
+  "url": "https://valheim.fandom.com/wiki/Asksvin_skeleton",
+  "slug": "Asksvin_skeleton",
+  "categories": [
+    "Furniture"
+  ],
+  "content": "# Asksvin skeleton\n\nType: Furniture | Internal ID: piece_asksvinskeleton | Source: Workbench | Usage: Decoration | Crafting Materials: Bone fragments x50, Asksvin neck x1, Asksvin pelvis x1, Asksvin ribcage x1, Asksvin skull x1 | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nAsksvin skeleton is decorative furniture made from Asksvin bones found in the Ashlands. It can be mounted like a saddle or a chair but it does not provide any additional Comfort bonus.\n\nCategorias: Furniture",
+  "content_length": 621,
+  "scraped_at": "2026-02-26T01:40:23.115880+00:00"
+}

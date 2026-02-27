@@ -1,0 +1,36 @@
+{
+  "title": "Tin ore",
+  "url": "https://valheim.fandom.com/wiki/Tin_ore",
+  "slug": "Tin_ore",
+  "categories": [
+    "Ores",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Tin ore",
+    "Type": "Ore",
+    "Internal ID": "TinOre",
+    "Source": "Tin deposit",
+    "Usage": "Crafting, Tin",
+    "Teleportable (Can go through wood portal?)": "No"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Tin ore can be turned into Tin in a Smelter using Coal as fuel.\nThis can be further processed at a Forge with two Copper to yield Bronze. Tin is used to open up cooking options for better food."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "It can be mined from Tin deposits which can be found along the shorelines and riverbanks of the Black Forest biome using any pickaxe."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Like other metals, Tin ore cannot be teleported without a Portal stone.\n• Tin Ore can be found by breaking open barrels near stone ruins in the Black Forest, making it possible to find and smelt Tin before obtaining a pickaxe."
+    }
+  ],
+  "full_text": "Tin ore\n\nType: Ore | Internal ID: TinOre | Source: Tin deposit | Usage: Crafting, Tin | Teleportable (Can go through wood portal?): No\n\nIntroduction. Tin ore can be turned into Tin in a Smelter using Coal as fuel.\nThis can be further processed at a Forge with two Copper to yield Bronze. Tin is used to open up cooking options for better food.\n\nAvailability. It can be mined from Tin deposits which can be found along the shorelines and riverbanks of the Black Forest biome using any pickaxe.\n\nNotes. • Like other metals, Tin ore cannot be teleported without a Portal stone.\n• Tin Ore can be found by breaking open barrels near stone ruins in the Black Forest, making it possible to find and smelt Tin before obtaining a pickaxe.",
+  "scraped_at": "2026-02-26T01:49:57.572173+00:00"
+}

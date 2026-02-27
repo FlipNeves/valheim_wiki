@@ -1,0 +1,41 @@
+{
+  "title": "Jack-o-turnip",
+  "url": "https://valheim.fandom.com/wiki/Jack-o-turnip",
+  "slug": "Jack-o-turnip",
+  "categories": [
+    "Furniture",
+    "Seasonal Furniture",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Jack-o-turnip",
+    "Type": "Furniture",
+    "Internal ID": "piece_jackoturnip",
+    "Source": "Workbench",
+    "Season": "Halloween",
+    "Usage": "Resin, -fueled light source.",
+    "Crafting Materials": "Turnip x4, Resin x2",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Fire, ,, Frost, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Jack-o-turnip is a light source.\nIt can hold up to 6 Resin at once. With 1/6 fuel, a Jack-o-turnip will last for 5 hours and 33 minutes. At maximum capacity, it should burn for 33 hours and 20 minutes. This duration is the same for the Standing iron torch, Sconce, Standing green-burning iron torch and Standing blue-burning iron torch, and lasts longer than the Standing wood torch."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "The Jack-o-turnip cannot be built year-round. It can be built only during the Halloween season, 1 October – 6 November. Watch for updates, may not be available on Xbox 10/2023. The ability to build a Jack-o-turnip should trigger upon picking up or harvesting a turnip. For Xbox, it may be necessary to download 'Insider Hub' through the console."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Jack-o-turnips do not frighten Boars when nearby, unlike most light sources."
+    }
+  ],
+  "full_text": "Jack-o-turnip\n\nType: Furniture | Internal ID: piece_jackoturnip | Source: Workbench | Season: Halloween | Usage: Resin, -fueled light source. | Crafting Materials: Turnip x4, Resin x2 | Neutral to (x1): Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\nIntroduction. The Jack-o-turnip is a light source.\nIt can hold up to 6 Resin at once. With 1/6 fuel, a Jack-o-turnip will last for 5 hours and 33 minutes. At maximum capacity, it should burn for 33 hours and 20 minutes. This duration is the same for the Standing iron torch, Sconce, Standing green-burning iron torch and Standing blue-burning iron torch, and lasts longer than the Standing wood torch.\n\nAvailability. The Jack-o-turnip cannot be built year-round. It can be built only during the Halloween season, 1 October – 6 November. Watch for updates, may not be available on Xbox 10/2023. The ability to build a Jack-o-turnip should trigger upon picking up or harvesting a turnip. For Xbox, it may be necessary to download 'Insider Hub' through the console.\n\nNotes. • Jack-o-turnips do not frighten Boars when nearby, unlike most light sources.",
+  "scraped_at": "2026-02-26T01:41:31.155459+00:00"
+}

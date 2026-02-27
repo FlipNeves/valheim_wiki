@@ -1,0 +1,45 @@
+{
+  "title": "Black core",
+  "url": "https://valheim.fandom.com/wiki/Black_core",
+  "slug": "Black_core",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Black core",
+    "Type": "Material",
+    "Internal ID": "BlackCore",
+    "Source": "Dungeons, random chests",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Black cores are resources obtained from Infested Mines that are used to build Mistlands-tier crafting stations.\n15 total cores are required to build one of each station."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Infested Mines in Mistlands. Most often found on stands in hidden rooms, occasionally in other rooms. 0+ Black cores per mine, usually at least two.\nThe number per Infested Mine is highly variable, depending on which specific rooms are randomly generated in the mine, and the number of total rooms in the mine (as each mine has between 16 and 96 rooms). Due to this randomness, it is not uncommon to encounter mines with zero cores. Likewise, it is also possible to find over 10 cores in a single mine."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "• Can be used as a sort of Firework"
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Black forge\n• Galdr table\n• Eitr refinery"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Shield core"
+    }
+  ],
+  "full_text": "Black core\n\nType: Material | Internal ID: BlackCore | Source: Dungeons, random chests | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Black cores are resources obtained from Infested Mines that are used to build Mistlands-tier crafting stations.\n15 total cores are required to build one of each station.\n\nAvailability. • Infested Mines in Mistlands. Most often found on stands in hidden rooms, occasionally in other rooms. 0+ Black cores per mine, usually at least two.\nThe number per Infested Mine is highly variable, depending on which specific rooms are randomly generated in the mine, and the number of total rooms in the mine (as each mine has between 16 and 96 rooms). Due to this randomness, it is not uncommon to encounter mines with zero cores. Likewise, it is also possible to find over 10 cores in a single mine.\n\nUsage. • Can be used as a sort of Firework\n\nBuilding. • Black forge\n• Galdr table\n• Eitr refinery\n\nCrafting. • Shield core",
+  "scraped_at": "2026-02-26T01:30:55.959550+00:00"
+}

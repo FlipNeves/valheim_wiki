@@ -1,0 +1,32 @@
+{
+  "title": "Obsidian arrow",
+  "url": "https://valheim.fandom.com/wiki/Obsidian_arrow",
+  "slug": "Obsidian_arrow",
+  "categories": [
+    "Weapons",
+    "Arrows",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Obsidian arrow",
+    "Internal ID": "ArrowObsidian",
+    "Type": "Arrow",
+    "Source": "Workbench",
+    "Usage": "Bow ammunition",
+    "Crafting Materials": "Wood x8, Obsidian x4, Feathers x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Obsidian arrows are ammunition for bows and are a direct upgrade from Ironhead arrows."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Obsidian can be found in the Mountain biome; it requires an Iron pickaxe to mine.\n• These arrows can be crafted at a Workbench."
+    }
+  ],
+  "full_text": "Obsidian arrow\n\nInternal ID: ArrowObsidian | Type: Arrow | Source: Workbench | Usage: Bow ammunition | Crafting Materials: Wood x8, Obsidian x4, Feathers x2\n\nIntroduction. Obsidian arrows are ammunition for bows and are a direct upgrade from Ironhead arrows.\n\nAvailability. • Obsidian can be found in the Mountain biome; it requires an Iron pickaxe to mine.\n• These arrows can be crafted at a Workbench.",
+  "scraped_at": "2026-02-26T01:17:07.022112+00:00"
+}

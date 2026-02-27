@@ -1,0 +1,40 @@
+{
+  "title": "Eyescream",
+  "url": "https://valheim.fandom.com/wiki/Eyescream",
+  "slug": "Eyescream",
+  "categories": [
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Eyescream",
+    "Type": "Food",
+    "Internal ID": "Eyescream",
+    "Source": "Cauldron, (level 3)",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Greydwarf eye x3, Freeze gland x1",
+    "Max Health": "21",
+    "Max Stamina": "65",
+    "Duration": "25m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Eyescream is a Mountain-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Eyescream is produced in a level 3 Cauldron with:\n• 3 Greydwarf eye\n• 1 Freeze gland"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Eyescream provides the highest stamina gain in the Mountains at 65."
+    }
+  ],
+  "full_text": "Eyescream\n\nType: Food | Internal ID: Eyescream | Source: Cauldron, (level 3) | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Greydwarf eye x3, Freeze gland x1 | Max Health: 21 | Max Stamina: 65 | Duration: 25m | Healing: 1 hp/tick\n\nIntroduction. Eyescream is a Mountain-tier food.\n\nRecipe. Eyescream is produced in a level 3 Cauldron with:\n• 3 Greydwarf eye\n• 1 Freeze gland\n\nNotes. • Eyescream provides the highest stamina gain in the Mountains at 65.",
+  "scraped_at": "2026-02-26T01:26:00.509677+00:00"
+}

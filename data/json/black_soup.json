@@ -1,0 +1,36 @@
+{
+  "title": "Black soup",
+  "url": "https://valheim.fandom.com/wiki/Black_soup",
+  "slug": "Black_soup",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Black soup",
+    "Type": "Food",
+    "Internal ID": "BlackSoup",
+    "Source": "Cauldron",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Bloodbag x1, Honey x1, Turnip x1",
+    "Max Health": "50",
+    "Max Stamina": "17",
+    "Duration": "20m",
+    "Healing": "3 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Black soup is a Swamp-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Black soup is produced in a level 2 Cauldron with:\n• 1 Bloodbag\n• 1 Honey\n• 1 Turnip"
+    }
+  ],
+  "full_text": "Black soup\n\nType: Food | Internal ID: BlackSoup | Source: Cauldron | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Bloodbag x1, Honey x1, Turnip x1 | Max Health: 50 | Max Stamina: 17 | Duration: 20m | Healing: 3 hp/tick\n\nIntroduction. Black soup is a Swamp-tier food.\n\nRecipe. Black soup is produced in a level 2 Cauldron with:\n• 1 Bloodbag\n• 1 Honey\n• 1 Turnip",
+  "scraped_at": "2026-02-26T01:25:00.001938+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Flametal missile",
+  "url": "https://valheim.fandom.com/wiki/Flametal_missile",
+  "slug": "Flametal_missile",
+  "categories": [
+    "Weapons",
+    "Missiles",
+    "Artisan table recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Flametal missile",
+    "Internal ID": "TurretBoltFlametal",
+    "Type": "Missile",
+    "Source": "Artisan table",
+    "Usage": "Ballista ammunition",
+    "Crafting Materials": "Ashwood x10, Flametal x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Flametal missile is a missile used as ammunition for the Ballista, and can be crafted at the Artisan table."
+    }
+  ],
+  "full_text": "Flametal missile\n\nInternal ID: TurretBoltFlametal | Type: Missile | Source: Artisan table | Usage: Ballista ammunition | Crafting Materials: Ashwood x10, Flametal x1\n\nIntroduction. Flametal missile is a missile used as ammunition for the Ballista, and can be crafted at the Artisan table.",
+  "scraped_at": "2026-02-26T01:14:44.439243+00:00"
+}

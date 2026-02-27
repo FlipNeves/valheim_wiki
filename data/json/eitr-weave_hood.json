@@ -1,0 +1,194 @@
+{
+  "title": "Eitr-weave Set",
+  "url": "https://valheim.fandom.com/wiki/Eitr-weave_hood",
+  "slug": "Eitr-weave_hood",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Eitr-weave Set is a Mistlands-tier armor. This set is the tier above Padded Armor and should be considered a \"light armor\" compared to Carapace Armor as its armor values are lower while having less movement speed penalty. The armor offers a unique effect per piece that grants Eitr regeneration, which makes it the preferred armor when using magic weapons like Staff of Embers. The Feather cape also offers a unique effect that negates fall damage entirely. (See: Feather fall)"
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "This set of armor has four pieces which are crafted and upgraded at the Galdr table. The Eitr-weave Set can currently only be upgraded to quality level 3.\n* = set exclusive bonus (none; however, the eitr regen is additive.)",
+      "table_data": [
+        {
+          "Armor piece": "Eitr-weave hood",
+          "Armor": "16",
+          "Crafting cost": "16 Linen thread15 Refined eitr2 Iron",
+          "Weight": "1.0",
+          "Movementspeed": "",
+          "Effects": "Eitr regen +20%"
+        },
+        {
+          "Armor piece": "Eitr-weave robe",
+          "Armor": "16",
+          "Crafting cost": "20 Linen thread20 Refined eitr10 Feathers5 Scale hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +40%"
+        },
+        {
+          "Armor piece": "Eitr-weave trousers",
+          "Armor": "16",
+          "Crafting cost": "20 Linen thread20 Refined eitr10 Scale hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +40%"
+        },
+        {
+          "Armor piece": "Feather cape",
+          "Armor": "1",
+          "Crafting cost": "10 Feathers5 Scale hide20 Refined eitr",
+          "Weight": "4.0",
+          "Movementspeed": "",
+          "Effects": "Resistant vs. FrostFeather fallVery Weak (2x) vs. Fire"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "49",
+          "Crafting cost": "56 Linen thread75 Refined eitr20 Feathers20 Scale hide2 Iron",
+          "Weight": "15.0",
+          "Movementspeed": "-4%",
+          "Effects": "Eitr regen +100% Resistant vs. Frost Feather fall Very Weak (2x) vs. Fire"
+        },
+        {
+          "Armor piece": "Eitr-weave hood",
+          "Armor": "18",
+          "Upgrade cost (Total cost)": "8 (24) Linen thread5 (20) Refined eitr0 (2) Iron",
+          "Weight": "1.0",
+          "Movementspeed": "",
+          "Effects": "Eitr regen +20%"
+        },
+        {
+          "Armor piece": "Eitr-weave robe",
+          "Armor": "18",
+          "Upgrade cost (Total cost)": "10 (30) Linen thread5 (25) Refined eitr0 (10) Feathers0 (5) Scale hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +40%"
+        },
+        {
+          "Armor piece": "Eitr-weave trousers",
+          "Armor": "18",
+          "Upgrade cost (Total cost)": "10 (30) Linen thread5 (25) Refined eitr0 (10) Scale hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +40%"
+        },
+        {
+          "Armor piece": "Feather cape",
+          "Armor": "2",
+          "Upgrade cost (Total cost)": "2 (12) Feathers5 (10) Scale hide3 (23) Refined eitr",
+          "Weight": "4.0",
+          "Movementspeed": "",
+          "Effects": "Resistant vs. FrostFeather fallVery Weak (2x) vs. Fire"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "56",
+          "Upgrade cost (Total cost)": "28 (84) Linen thread18 (93) Refined eitr2 (22) Feathers5 (25) Scale hide0 (2) Iron",
+          "Weight": "15.0",
+          "Movementspeed": "-4%"
+        },
+        {
+          "Armor piece": "Eitr-weave hood",
+          "Armor": "20",
+          "Upgrade cost (Total cost)": "16 (40) Linen thread10 (30) Refined eitr0 (2) Iron",
+          "Weight": "1.0",
+          "Movementspeed": "",
+          "Effects": "Eitr regen +20%"
+        },
+        {
+          "Armor piece": "Eitr-weave robe",
+          "Armor": "20",
+          "Upgrade cost (Total cost)": "20 (50) Linen thread10 (35) Refined eitr0 (10) Feathers0 (5) Scale hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +40%"
+        },
+        {
+          "Armor piece": "Eitr-weave trousers",
+          "Armor": "20",
+          "Upgrade cost (Total cost)": "20 (50) Linen thread10 (35) Refined eitr0 (10) Scale hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +40%"
+        },
+        {
+          "Armor piece": "Feather cape",
+          "Armor": "3",
+          "Upgrade cost (Total cost)": "4 (16) Feathers10 (20) Scale hide6 (29) Refined eitr",
+          "Weight": "4.0",
+          "Movementspeed": "",
+          "Effects": "Resistant vs. FrostFeather fallVery Weak (2x) vs. Fire"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "63",
+          "Upgrade cost (Total cost)": "56 (140) Linen thread36 (129) Refined eitr4 (26) Feathers10 (35) Scale hide0 (2) Iron",
+          "Weight": "15.0",
+          "Movementspeed": "-4%"
+        },
+        {
+          "Armor piece": "Eitr-weave hood",
+          "Armor": "22",
+          "Upgrade cost (Total cost)": "24 (64) Linen thread15 (45) Refined eitr0 (2) Iron",
+          "Weight": "1.0",
+          "Movementspeed": "",
+          "Effects": "Eitr regen +20%"
+        },
+        {
+          "Armor piece": "Eitr-weave robe",
+          "Armor": "22",
+          "Upgrade cost (Total cost)": "30 (80) Linen thread15 (50) Refined eitr0 (10) Feathers0 (5) Scale hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +40%"
+        },
+        {
+          "Armor piece": "Eitr-weave trousers",
+          "Armor": "22",
+          "Upgrade cost (Total cost)": "30 (80) Linen thread15 (50) Refined eitr0 (10) Scale hide",
+          "Weight": "5.0",
+          "Movementspeed": "-2%",
+          "Effects": "Eitr regen +40%"
+        },
+        {
+          "Armor piece": "Feather cape",
+          "Armor": "4",
+          "Upgrade cost (Total cost)": "6 (22) Feathers15 (35) Scale hide9 (38) Refined eitr",
+          "Weight": "4.0",
+          "Movementspeed": "",
+          "Effects": "Resistant vs. FrostFeather fallVery Weak (2x) vs. Fire"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "70",
+          "Upgrade cost (Total cost)": "84 (224) Linen thread54 (183) Refined eitr6 (32) Feathers15 (50) Scale hide0 (2) Iron",
+          "Weight": "15.0",
+          "Movementspeed": "-4%"
+        },
+        {
+          "Eitr-weave Hood": "Eitr-weave Robe",
+          "HelmetMage": "ArmorMageChest"
+        },
+        {
+          "Eitr-weave Hood": "Eitr-weave Trousers",
+          "HelmetMage": "ArmorMageLegs"
+        },
+        {
+          "Eitr-weave Hood": "Feather Cape",
+          "HelmetMage": "CapeFeather"
+        }
+      ]
+    }
+  ],
+  "full_text": "Eitr-weave Set\n\nIntroduction. The Eitr-weave Set is a Mistlands-tier armor. This set is the tier above Padded Armor and should be considered a \"light armor\" compared to Carapace Armor as its armor values are lower while having less movement speed penalty. The armor offers a unique effect per piece that grants Eitr regeneration, which makes it the preferred armor when using magic weapons like Staff of Embers. The Feather cape also offers a unique effect that negates fall damage entirely. (See: Feather fall)\n\nArmor pieces. This set of armor has four pieces which are crafted and upgraded at the Galdr table. The Eitr-weave Set can currently only be upgraded to quality level 3.\n* = set exclusive bonus (none; however, the eitr regen is additive.)",
+  "scraped_at": "2026-02-26T02:07:35.114548+00:00"
+}

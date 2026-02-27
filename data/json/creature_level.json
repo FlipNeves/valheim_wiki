@@ -1,0 +1,33 @@
+{
+  "title": "Creature Level",
+  "url": "https://valheim.fandom.com/wiki/Creature_Level",
+  "slug": "Creature_Level",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Creature level determines the damage, health and the amount of dropped items by creatures."
+    },
+    {
+      "heading": "Description",
+      "level": 2,
+      "text": "A creature's level is indicated by the number of stars displayed next to the creature's name.\n• Level 1 – 0 stars\n• Level 2 – 1 star (⭐)\n• Level 3 – 2 stars (⭐⭐)\nIn addition to the stars, there will also be some visual differences between the levels. Depending on the creature, they may have more features, a different color or a bigger size."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "• +50% damage per level\n• +100% health per level\n• 2x drops per level (excluding Trophies)\n• 2x drop chance per level (up to 100%, excluding Trophies)\nFor example Greydwarf health is 40/80/120 and damage from stone throw attack is 10/15/20 depending on the level. Greydwarf eye is dropped 1/2/4 per level with a 50%/100%/100% chance.\nCreature damage is further increased by 4% and effective health is further increased by 30% for each additional player within 100 meters. These are also applied to tamed creatures. This scaling caps at 5 players.\nInternally the effective health increase from additional players is implemented as a damage reduction so that it can be scaled dynamically. The reduction doesn't apply to shown damage number so it's not visible to the players. For practical purposes, it can be considered as a health increase."
+    },
+    {
+      "heading": "Leveling",
+      "level": 2,
+      "text": "Creatures have a random chance to level up when they are spawned. The random chance is 0%, 10% or 15% per level depending on the source of spawning, the creature being spawned and in some cases the distance from the world center. The random chance is not affected by world progression or the amount of days.\nFollowing rules determine the random chance:\n• 0% chance for bosses (Eikthyr, The Elder, Bonemass, Moder, Yagluth, The Queen and Fader).\n• 0% chance for event creatures.\n• 0% chance for following creatures: Abomination, Blob, Deathsquito, Drake, Fenring, Fuling shaman, Ghost, Greyling, Lox, Oozer, Root, Serpent, Stone Golem, Wraith, Seeker brood, Fallen Valkyrie, Bonemaw and Volture.\n• 10% chance for spawn points (mostly one time), excluding Draugr and creatures listed above.\n• 15% chance for creature spawners.\n• 0% chance for spawn zones within 800 meters of the world center: Boar, Neck.\n• 0% chance for spawn zones within 2000 meters of the world center: Greydwarf brute (Black forest), Troll.\n• 0% or 10% chance for other spawn zones (see the page for more information).\n• 100% chance when breeding based on the parent (about 50% chance when breeding creatures with different levels).\nEach level up is rolled one by one. For example Deer have a 10% chance roll to reach level 2 (⭐) and then if successful, another 10% chance to reach level 3 (⭐⭐). Therefore 1% of all Deer will be level 3 (⭐⭐) (10%*10%) and 9% of all Deer will be level 2 (⭐) (10%-1%)."
+    }
+  ],
+  "full_text": "Creature Level\n\nIntroduction. Creature level determines the damage, health and the amount of dropped items by creatures.\n\nDescription. A creature's level is indicated by the number of stars displayed next to the creature's name.\n• Level 1 – 0 stars\n• Level 2 – 1 star (⭐)\n• Level 3 – 2 stars (⭐⭐)\nIn addition to the stars, there will also be some visual differences between the levels. Depending on the creature, they may have more features, a different color or a bigger size.\n\nEffects. • +50% damage per level\n• +100% health per level\n• 2x drops per level (excluding Trophies)\n• 2x drop chance per level (up to 100%, excluding Trophies)\nFor example Greydwarf health is 40/80/120 and damage from stone throw attack is 10/15/20 depending on the level. Greydwarf eye is dropped 1/2/4 per level with a 50%/100%/100% chance.\nCreature damage is further increased by 4% and effective health is further increased by 30% for each additional player within 100 meters. These are also applied to tamed creatures. This scaling caps at 5 players.\nInternally the effective health increase from additional players is implemented as a damage reduction so that it can be scaled dynamically. The reduction doesn't apply to shown damage number so it's not visible to the players. For practical purposes, it can be considered as a health increase.\n\nLeveling. Creatures have a random chance to level up when they are spawned. The random chance is 0%, 10% or 15% per level depending on the source of spawning, the creature being spawned and in some cases the distance from the world center. The random chance is not affected by world progression or the amount of days.\nFollowing rules determine the random chance:\n• 0% chance for bosses (Eikthyr, The Elder, Bonemass, Moder, Yagluth, The Queen and Fader).\n• 0% chance for event creatures.\n• 0% chance for following creatures: Abomination, Blob, Deathsquito, Drake, Fenring, Fuling shaman, Ghost, Greyling, Lox, Oozer, Root, Serpent, Stone Golem, Wraith, Seeker brood, Fallen Valkyrie, Bonemaw and Volture.\n• 10% chance for spawn points (mostly one time), excluding Draugr and creatures listed above.\n• 15% chance for creature spawners.\n• 0% chance for spawn zones within 800 meters of the world center: Boar, Neck.\n• 0% chance for spawn zones within 2000 meters of the world center: Greydwarf brute (Black forest), Troll.\n• 0% or 10% chance for other spawn zones (see the page for more information).\n• 100% chance when breeding based on the parent (about 50% chance when breeding creatures with different levels).\nEach level up is rolled one by one. For example Deer have a 10% chance roll to reach level 2 (⭐) and then if successful, another 10% chance to reach level 3 (⭐⭐). Therefore 1% of all Deer will be level 3 (⭐⭐) (10%*10%) and 9% of all Deer will be level 2 (⭐) (10%-1%).",
+  "scraped_at": "2026-02-26T01:05:53.896754+00:00"
+}

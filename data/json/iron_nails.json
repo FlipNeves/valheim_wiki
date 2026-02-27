@@ -1,0 +1,31 @@
+{
+  "title": "Iron nails",
+  "url": "https://valheim.fandom.com/wiki/Iron_nails",
+  "slug": "Iron_nails",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Iron nails",
+    "Type": "Material",
+    "Internal ID": "IronNails",
+    "Source": "Forge",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Iron x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Iron nails are crafted at a Forge with a single Iron ingot which yields 10x nails each.\nLike Bronze nails (and unlike Scrap iron or iron ingots) they can be brought through portals."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Armor stand\n• Darkwood chair\n• Dragon bed\n• Drakkar\n• Long heavy table\n• Longship\n• Raven throne\n• Round table\n• Spinning wheel\n• Windmill"
+    }
+  ],
+  "full_text": "Iron nails\n\nType: Material | Internal ID: IronNails | Source: Forge | Usage: Building | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Iron x1\n\nIntroduction. Iron nails are crafted at a Forge with a single Iron ingot which yields 10x nails each.\nLike Bronze nails (and unlike Scrap iron or iron ingots) they can be brought through portals.\n\nBuilding. • Armor stand\n• Darkwood chair\n• Dragon bed\n• Drakkar\n• Long heavy table\n• Longship\n• Raven throne\n• Round table\n• Spinning wheel\n• Windmill",
+  "scraped_at": "2026-02-26T01:34:35.775984+00:00"
+}

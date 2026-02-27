@@ -1,0 +1,11 @@
+{
+  "title": "Cooking (skill)",
+  "url": "https://valheim.fandom.com/wiki/Cooking_(skill)",
+  "slug": "Cooking_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "content": "# Cooking (skill)\n\nDescription: Cooking speed, serving tray wear and chance for bonus yields.\n\n# Introduction\n\nCooking is a skill.\n\n## Effects\n\nThe Cooking skill has the following effect, proportional to the level:\n• Reduces the time to craft down to -60%, applies to Cauldron, Food preparation table and Mead ketill.\n• Up to a 25% chance to craft one extra product. Using the x5 cooking option is even more advantageous, as a cumulative mechanism adds even more additional items. Possible yields are +1, +3, +6, +10 and +15 (instead of +1 to +5 by cooking the same 5 items 1 by 1). This results in an overall +37.5% extra product at max skill level.\n• Down to -50% Serving tray stamina consumption.\nThe chance of an extra product also applies when picking the item from Cooking station, Iron cooking station and Stone oven.\n\n## Leveling up\n\nThe following activities give Cooking skill experience:\n• Crafting a food item gives 0.25 experience.\n• Placing an item on a cooking station gives 0.1 experience.\n• Picking an item from a cooking station gives 0.15 experience (Coal included).\n\n## Trivia\n\n• Uncooked foods are affected twice by the extra drop, when crafted at the Food preparation table and when picked from the Stone oven. This results in a +56.25% yield at max level.\n• This skill was added in version 0.219.13 (Bog Witch)\n\nCategorias: Skills",
+  "content_length": 1352,
+  "scraped_at": "2026-02-26T01:43:19.631521+00:00"
+}

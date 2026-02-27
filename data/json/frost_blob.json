@@ -1,0 +1,60 @@
+{
+  "title": "Frost Blob",
+  "url": "https://valheim.fandom.com/wiki/Frost_Blob",
+  "slug": "Frost_Blob",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Frost Blob",
+    "Internal ID": "BlobFrost",
+    "Faction": "Mountain",
+    "Drops": "Crystal",
+    "Abilities": "Frost AoE",
+    "Weak to (x1.5)": "Blunt, ,, Fire, ,, Lightning",
+    "Neutral to (x1)": "Spirit",
+    "Resistant to (x0.5)": "Slash, ,, Pierce",
+    "Very resistant to (x0.25)": "Frost",
+    "Immune to (x0)": "Poison, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Frost Blobs are aggressive creatures spawned by throwing a Blob bomb: Frost."
+    },
+    {
+      "heading": "Behavior",
+      "level": 2,
+      "text": "Frost Blobs behave like regular Blobs, except their attack deals Frost damage."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Crystal",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "When a Blob bomb: Frost is used",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "No"
+        }
+      ]
+    }
+  ],
+  "full_text": "Frost Blob\n\nInternal ID: BlobFrost | Faction: Mountain | Drops: Crystal | Abilities: Frost AoE | Weak to (x1.5): Blunt, ,, Fire, ,, Lightning | Neutral to (x1): Spirit | Resistant to (x0.5): Slash, ,, Pierce | Very resistant to (x0.25): Frost | Immune to (x0): Poison, ,, Chop, ,, Pickaxe\n\nIntroduction. Frost Blobs are aggressive creatures spawned by throwing a Blob bomb: Frost.\n\nBehavior. Frost Blobs behave like regular Blobs, except their attack deals Frost damage.",
+  "scraped_at": "2026-02-26T01:07:22.705441+00:00"
+}

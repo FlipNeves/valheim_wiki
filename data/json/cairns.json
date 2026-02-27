@@ -1,0 +1,24 @@
+{
+  "title": "Cairns",
+  "url": "https://valheim.fandom.com/wiki/Cairns",
+  "slug": "Cairns",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Cairns",
+    "Type": "Point of interest",
+    "Internal ID": "Waymarker01 | Waymarker02",
+    "Location": "Mountain",
+    "Resources": "Stone"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Cairns are Points of interest found in the Mountain. They look like piles of rocks.\nThey do not have any particular purpose. They can be destroyed for 3 to 6 Stones."
+    }
+  ],
+  "full_text": "Cairns\n\nType: Point of interest | Internal ID: Waymarker01 | Waymarker02 | Location: Mountain | Resources: Stone\n\nIntroduction. Cairns are Points of interest found in the Mountain. They look like piles of rocks.\nThey do not have any particular purpose. They can be destroyed for 3 to 6 Stones.",
+  "scraped_at": "2026-02-26T01:51:58.847591+00:00"
+}

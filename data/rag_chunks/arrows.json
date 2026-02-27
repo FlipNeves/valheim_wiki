@@ -1,0 +1,12 @@
+{
+  "title": "Arrows",
+  "url": "https://valheim.fandom.com/wiki/Arrows",
+  "slug": "Arrows",
+  "categories": [
+    "Weapons",
+    "Arrows"
+  ],
+  "content": "# Arrows\n\n# Introduction\n\nArrows is a type of ammunition for Bows.\nArrow damage is added to base bow damage before any other damage calculation. (See Damage mechanics for details).\nIf you have more than one kind of arrow, you can right click the kind you want in your inventory.\n\n### List of Arrows\n\n• Name: Wood arrow | Total Damage: 22 | Damage Type: Pierce: 22 | Knockback: 10\n\n• Name: Flinthead arrow | Total Damage: 27 | Damage Type: Pierce: 27 | Knockback: 10\n\n• Name: Bronzehead arrow | Total Damage: 32 | Damage Type: Pierce: 32 | Knockback: 10\n\n• Name: Fire arrow | Total Damage: 33 | Damage Type: Pierce: 11Fire: 22 | Knockback: 10\n\n• Name: Ironhead arrow | Total Damage: 42 | Damage Type: Pierce: 42 | Knockback: 10\n\n• Name: Poison arrow | Total Damage: 78 | Damage Type: Pierce: 26Poison: 52 | Knockback: 10\n\n• Name: Obsidian arrow | Total Damage: 52 | Damage Type: Pierce: 52 | Knockback: 10\n\n• Name: Frost arrow | Total Damage: 78 | Damage Type: Pierce: 26Frost: 52 | Knockback: 10\n\n• Name: Silver arrow | Total Damage: 72 | Damage Type: Pierce: 52Spirit: 20 | Knockback: 10\n\n• Name: Needle arrow | Total Damage: 62 | Damage Type: Pierce: 62 | Knockback: 15\n\n• Name: Carapace arrow | Total Damage: 72 | Damage Type: Pierce: 72 | Knockback: 15\n\n• Name: Charred arrow | Total Damage: 82 | Damage Type: Pierce: 82 | Knockback: 15\n\nCategorias: Weapons, Arrows",
+  "content_length": 1369,
+  "scraped_at": "2026-02-26T01:10:27.291148+00:00"
+}

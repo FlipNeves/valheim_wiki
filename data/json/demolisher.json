@@ -1,0 +1,75 @@
+{
+  "title": "Demolisher",
+  "url": "https://valheim.fandom.com/wiki/Demolisher",
+  "slug": "Demolisher",
+  "categories": [
+    "Weapons",
+    "Clubs",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Demolisher",
+    "Internal ID": "SledgeDemolisher",
+    "Type": "Club",
+    "Source": "Black forge",
+    "Usage": "Weapon",
+    "Wielding": "Two-handed",
+    "Crafting Materials": "Yggdrasil wood x6, Iron x45, Refined eitr x6",
+    "Attack speed": "1.7 s",
+    "Hitbox": "2 range, 4 radius, sphere, no multitarget penalty",
+    "Movement speed": "-15%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Demolisher is the third two-handed club. It has no secondary attack. The primary attack slams the ground (after a lengthy swing delay), dealing damage, 2x staggering and knocking back everything in a spherical area of effect with a radius of four meters."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Blunt",
+          "Quality 1": "145",
+          "Quality 2": "151",
+          "Quality 3": "157",
+          "Quality 4": "163",
+          "Total": ""
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "100",
+          "Quality 2": "150",
+          "Quality 3": "200",
+          "Quality 4": "250",
+          "Total": ""
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "10 Yggdrasil wood20 Iron10 Refined eitr",
+          "Quality 2": "2 Yggdrasil wood15 Iron2 Refined eitr",
+          "Quality 3": "4 Yggdrasil wood30 Iron4 Refined eitr",
+          "Quality 4": "6 Yggdrasil wood45 Iron6 Refined eitr",
+          "Total": "22 Yggdrasil wood110 Iron22 Refined eitr"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4",
+          "Total": ""
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The head of the Demolisher appears to be made of Black marble with some Copper components, including copper designs on the sides of the head depicting Yggdrasil. Despite these appearances, neither of those materials are used in its construction."
+    }
+  ],
+  "full_text": "Demolisher\n\nInternal ID: SledgeDemolisher | Type: Club | Source: Black forge | Usage: Weapon | Wielding: Two-handed | Crafting Materials: Yggdrasil wood x6, Iron x45, Refined eitr x6 | Attack speed: 1.7 s | Hitbox: 2 range, 4 radius, sphere, no multitarget penalty | Movement speed: -15%\n\nIntroduction. The Demolisher is the third two-handed club. It has no secondary attack. The primary attack slams the ground (after a lengthy swing delay), dealing damage, 2x staggering and knocking back everything in a spherical area of effect with a radius of four meters.\n\nTrivia. • The head of the Demolisher appears to be made of Black marble with some Copper components, including copper designs on the sides of the head depicting Yggdrasil. Despite these appearances, neither of those materials are used in its construction.",
+  "scraped_at": "2026-02-26T01:13:55.733129+00:00"
+}

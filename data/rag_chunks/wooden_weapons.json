@@ -1,0 +1,11 @@
+{
+  "title": "Wooden weapons",
+  "url": "https://valheim.fandom.com/wiki/Wooden_weapons",
+  "slug": "Wooden_weapons",
+  "categories": [
+    "Weapons"
+  ],
+  "content": "# Wooden weapons\n\n# Introduction\n\nWooden weapons is a series of weapons that deals only 1 damage. They are mainly suited for training and practice matches between players.\nThey can all be repaired at a level 1 Workbench, but they can not be upgraded except for the Wooden sword. All have 12 block armor.\n\n## List of weapons\n\n• Name: Wooden sword | Class: Swords | Stamina: 4 | Durability: 200 | Source: Crafted at Workbench for 5 Wood, 3 Finewood and 2 Corewood. | id: SwordWood\n\n• Name: Wooden axe | Class: Axes | Stamina: 4 | Durability: 125 | Source: Found in chest buried in Viking Graveyard. | id: AxeWood\n\n• Name: Wooden knife | Class: Knives | Stamina: 4 | Durability: 200 | Source: Found in chest buried in Viking Graveyard. | id: KnifeWood\n\n• Name: Wooden mace | Class: Clubs | Stamina: 8 | Durability: 200 | Source: Found in chest in Combat Ruin and in Draugr Village Great Halls. | id: MaceWood\n\n• Name: Wooden spear | Class: Spears | Stamina: 4 | Durability: 100 | Source: Found in chest in Abandoned Outpost and in Abandoned Hut. | id: SpearWood\n\n• Name: Wooden sledge | Class: Sledge hammers | Stamina: 8 | Durability: 100 | Source: Found in chest in Swamp Runestone Tower and in Swamp Graves. | id: SledgeWood\n\n• Name: Wooden battleaxe | Class: Battleaxe | Stamina: 8 | Durability: 200 | Source: Found in Mountain chest. | id: BattleaxeWood\n\n• Name: Wooden atgeir | Class: Polearms | Stamina: 8 | Durability: 175 | Source: Found in Plains chest. | id: AtgeirWood\n\n• Name: Wooden greatsword | Class: Two-handed Swords | Stamina: 8 | Durability: 200 | Source: Found in Infested Mine Treasure chest. | id: THSwordWood\n\nCategorias: Weapons",
+  "content_length": 1650,
+  "scraped_at": "2026-02-26T01:20:11.606245+00:00"
+}

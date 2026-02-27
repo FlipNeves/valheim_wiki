@@ -1,0 +1,30 @@
+{
+  "title": "Bear hide",
+  "url": "https://valheim.fandom.com/wiki/Bear_hide",
+  "slug": "Bear_hide",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Bear hide",
+    "Type": "Material",
+    "Internal ID": "BjornHide",
+    "Source": "Bear | Vile",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bear hide is an item dropped by Bears and Viles."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Bearskin rug"
+    }
+  ],
+  "full_text": "Bear hide\n\nType: Material | Internal ID: BjornHide | Source: Bear | Vile | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Bear hide is an item dropped by Bears and Viles.\n\nBuilding. • Bearskin rug",
+  "scraped_at": "2026-02-26T01:30:39.422843+00:00"
+}

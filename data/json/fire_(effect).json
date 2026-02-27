@@ -1,0 +1,36 @@
+{
+  "title": "Fire (effect)",
+  "url": "https://valheim.fandom.com/wiki/Fire_(effect)",
+  "slug": "Fire_(effect)",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Fire",
+    "Effects": "Reduces the time for the, Wet, effect and removes, Cold, and, Freezing, effects."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fire is a status effect granted when in close proximity to a heat source. It removes Cold and Freezing effects as well as reduces the duration of the Wet effect 10 times faster.\nIf there are no hostile creatures nearby, sitting while having the fire effect will cause the player to begin Resting, with a comfort level of 1. Once the player is under Shelter however, the fire effect no longer provides additional comfort. Instead however, the fire effect along with the shelter effect both allow the player to experience the resting effect without sitting, whilst gaining at least comfort level 2 due to shelter. Only the campfire and hearth will provide additional comfort along with the fire effect, providing 1 and 2 comfort respectively."
+    },
+    {
+      "heading": "When fueled",
+      "level": 3,
+      "text": "• Campfire out to 8 meters\n• Bonfire 15-12m\n• Hearth 12m\n• Standing brazier 5m (variant found in Frost Caves provides Fire Effect in a very small radius only)\n• Hanging brazier 9m (if less than 7m above the player)"
+    },
+    {
+      "heading": "When in use",
+      "level": 3,
+      "text": "• Smelter\n• Charcoal kiln\n• Blast furnace\n• Stone oven\n• Hot tub\n• Forge (either in crafting menu or when attempting to place an object requiring Forge)\n• Black forge (either in crafting menu or when attempting to place an object requiring Black Forge)"
+    },
+    {
+      "heading": "Always",
+      "level": 3,
+      "text": "• The fire bowl used to summon The Elder\n• Fire geysers"
+    }
+  ],
+  "full_text": "Fire (effect)\n\nEffects: Reduces the time for the, Wet, effect and removes, Cold, and, Freezing, effects.\n\nIntroduction. Fire is a status effect granted when in close proximity to a heat source. It removes Cold and Freezing effects as well as reduces the duration of the Wet effect 10 times faster.\nIf there are no hostile creatures nearby, sitting while having the fire effect will cause the player to begin Resting, with a comfort level of 1. Once the player is under Shelter however, the fire effect no longer provides additional comfort. Instead however, the fire effect along with the shelter effect both allow the player to experience the resting effect without sitting, whilst gaining at least comfort level 2 due to shelter. Only the campfire and hearth will provide additional comfort along with the fire effect, providing 1 and 2 comfort respectively.\n\nWhen fueled. • Campfire out to 8 meters\n• Bonfire 15-12m\n• Hearth 12m\n• Standing brazier 5m (variant found in Frost Caves provides Fire Effect in a very small radius only)\n• Hanging brazier 9m (if less than 7m above the player)\n\nWhen in use. • Smelter\n• Charcoal kiln\n• Blast furnace\n• Stone oven\n• Hot tub\n• Forge (either in crafting menu or when attempting to place an object requiring Forge)\n• Black forge (either in crafting menu or when attempting to place an object requiring Black Forge)\n\nAlways. • The fire bowl used to summon The Elder\n• Fire geysers",
+  "scraped_at": "2026-02-26T01:59:53.804410+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Love potion",
+  "url": "https://valheim.fandom.com/wiki/Love_potion",
+  "slug": "Love_potion",
+  "categories": [
+    "Mead"
+  ],
+  "infobox": {
+    "_infobox_title": "Love potion",
+    "Type": "Mead",
+    "Internal ID": "MeadTrollPheromones",
+    "Source": "The Bog Witch",
+    "Usage": "Drinking",
+    "Buy": "110, Coins, for 5",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Duration": "5m",
+    "Cooldown": "0s"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Love potion is a consumable item sold by The Bog Witch at 110 Coins for five potions."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Its consumption increases the spawn rate of Trolls (from 5% to 25%), increases the chance of starred Trolls and increases the maximum number of spawned Trolls (from 1 to 2). All Trolls are also automatically on alert.",
+      "table_data": [
+        {
+          "stat": "Base",
+          "Quality 0": "90%",
+          "Quality 1": "9%",
+          "Quality 2": "1%"
+        },
+        {
+          "stat": "Potion",
+          "Quality 0": "0%",
+          "Quality 1": "87.5%",
+          "Quality 2": "12.5%"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Trolls spawning within 2000 meters of the center of the world remain without star.\n• Trolls spawning in event raids will have at least one star, even if within 2000 meters of the center of the world."
+    }
+  ],
+  "full_text": "Love potion\n\nType: Mead | Internal ID: MeadTrollPheromones | Source: The Bog Witch | Usage: Drinking | Buy: 110, Coins, for 5 | Teleportable (Can go through wood portal?): Yes | Duration: 5m | Cooldown: 0s\n\nIntroduction. Love potion is a consumable item sold by The Bog Witch at 110 Coins for five potions.\n\nEffect. Its consumption increases the spawn rate of Trolls (from 5% to 25%), increases the chance of starred Trolls and increases the maximum number of spawned Trolls (from 1 to 2). All Trolls are also automatically on alert.\n\nNotes. • Trolls spawning within 2000 meters of the center of the world remain without star.\n• Trolls spawning in event raids will have at least one star, even if within 2000 meters of the center of the world.",
+  "scraped_at": "2026-02-26T02:12:14.279335+00:00"
+}

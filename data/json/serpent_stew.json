@@ -1,0 +1,41 @@
+{
+  "title": "Serpent stew",
+  "url": "https://valheim.fandom.com/wiki/Serpent_stew",
+  "slug": "Serpent_stew",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Serpent stew",
+    "Type": "Food",
+    "Internal ID": "SerpentStew",
+    "Source": "Cauldron",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mushroom x1, Cooked serpent meat x1, Honey x2",
+    "Max Health": "80",
+    "Max Stamina": "26",
+    "Duration": "30m",
+    "Healing": "4 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Serpent stew is a Swamp-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Serpent stew is produced in a level 2 Cauldron with:\n• 1 Mushroom\n• 1 Cooked serpent meat\n• 2 Honey\nAs of the Hearth & Home update, to cook serpent stew, it is required to have a cauldron with at least one upgrade, such as the Spice rack (which is normally the easiest one to craft)."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Serpent stew provides very high health compared to most other food items in its tier at 80, and continues to be a useful food source all the way into the Mistlands.\n• Serpent stew is also tied with Meat platter and Honey glazed chicken in terms of health and stamina gain, but falls short in its healing, with the two Mistlands-tier foods healing for 5 hp/tick, whereas Serpent stew heals for 4 hp/tick."
+    }
+  ],
+  "full_text": "Serpent stew\n\nType: Food | Internal ID: SerpentStew | Source: Cauldron | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mushroom x1, Cooked serpent meat x1, Honey x2 | Max Health: 80 | Max Stamina: 26 | Duration: 30m | Healing: 4 hp/tick\n\nIntroduction. Serpent stew is a Swamp-tier food.\n\nRecipe. Serpent stew is produced in a level 2 Cauldron with:\n• 1 Mushroom\n• 1 Cooked serpent meat\n• 2 Honey\nAs of the Hearth & Home update, to cook serpent stew, it is required to have a cauldron with at least one upgrade, such as the Spice rack (which is normally the easiest one to craft).\n\nNotes. • Serpent stew provides very high health compared to most other food items in its tier at 80, and continues to be a useful food source all the way into the Mistlands.\n• Serpent stew is also tied with Meat platter and Honey glazed chicken in terms of health and stamina gain, but falls short in its healing, with the two Mistlands-tier foods healing for 5 hp/tick, whereas Serpent stew heals for 4 hp/tick.",
+  "scraped_at": "2026-02-26T01:28:42.187141+00:00"
+}

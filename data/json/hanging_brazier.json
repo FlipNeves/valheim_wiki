@@ -1,0 +1,42 @@
+{
+  "title": "Hanging brazier",
+  "url": "https://valheim.fandom.com/wiki/Hanging_brazier",
+  "slug": "Hanging_brazier",
+  "categories": [
+    "Furniture",
+    "Fires",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Hanging brazier",
+    "Type": "Furniture",
+    "Internal ID": "piece_brazierceiling01",
+    "Source": "Forge",
+    "Usage": "Coal, -fueled light source.",
+    "Crafting Materials": "Bronze x5, Coal x2, Chain x1",
+    "Support": "Wood (from 10 to 100)",
+    "Loss": "1/8 vertical, 1/5 horizontal",
+    "Other Effect(s)": "Produces smoke, Removes the Cold Effect, Adds the Fire Effect, Rapidly removes the Wet Effect, Reduces Freezing Effect to Cold Effect",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Lightning",
+    "Immune to (x0)": "Fire, ,, Frost, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Hanging brazier is a light source that can be placed on the underside of a surface, and must be built within the range of a Forge."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "The Hanging brazier has all the same functions as a Campfire and is a base structure.\nHanging braziers are fueled with Coal. With 1/5 fuel, a Hanging brazier will last for 5 hours and 33 minutes. At maximum capacity, a Hanging brazier should burn for 27 hours and 47 minutes. It can be used for cooking, however, it does not fit easily like a Campfire does.\nHanging 2–6 meters off the ground (measuring from where the chain connects), the Fire Effect extends out 9 meters. The horizontal distance begins to drop off if hanging from 7 meters high or higher."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• If part of its supporting structure is destroyed, it will not collapse as long as there is another structure that is connected to the ground within ~1 meter of the brazier.\n• Destroying the Hanging brazier with a Hammer will not yield back any Coal and will only return the 5 Bronze and 1 Chain used for its construction. All Coal used as fuel and for the initial construction will not be dropped.\n• Hanging braziers stop working if exposed to rainy weather without a roof."
+    }
+  ],
+  "full_text": "Hanging brazier\n\nType: Furniture | Internal ID: piece_brazierceiling01 | Source: Forge | Usage: Coal, -fueled light source. | Crafting Materials: Bronze x5, Coal x2, Chain x1 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Other Effect(s): Produces smoke, Removes the Cold Effect, Adds the Fire Effect, Rapidly removes the Wet Effect, Reduces Freezing Effect to Cold Effect | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Lightning | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\nIntroduction. The Hanging brazier is a light source that can be placed on the underside of a surface, and must be built within the range of a Forge.\n\nUsage. The Hanging brazier has all the same functions as a Campfire and is a base structure.\nHanging braziers are fueled with Coal. With 1/5 fuel, a Hanging brazier will last for 5 hours and 33 minutes. At maximum capacity, a Hanging brazier should burn for 27 hours and 47 minutes. It can be used for cooking, however, it does not fit easily like a Campfire does.\nHanging 2–6 meters off the ground (measuring from where the chain connects), the Fire Effect extends out 9 meters. The horizontal distance begins to drop off if hanging from 7 meters high or higher.\n\nNotes. • If part of its supporting structure is destroyed, it will not collapse as long as there is another structure that is connected to the ground within ~1 meter of the brazier.\n• Destroying the Hanging brazier with a Hammer will not yield back any Coal and will only return the 5 Bronze and 1 Chain used for its construction. All Coal used as fuel and for the initial construction will not be dropped.\n• Hanging braziers stop working if exposed to rainy weather without a roof.",
+  "scraped_at": "2026-02-26T01:41:21.128392+00:00"
+}

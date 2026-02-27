@@ -1,0 +1,13 @@
+{
+  "title": "Root Fang",
+  "url": "https://valheim.fandom.com/wiki/Root_Fang",
+  "slug": "Root_Fang",
+  "categories": [
+    "Weapons",
+    "Bows",
+    "Black forge recipes"
+  ],
+  "content": "# Root Fang\n\nInternal ID: BowAshlandsRoot | Type: Bow | Source: Black forge | Usage: Ranged weapon | Wielding: Two-handed | Crafting Materials: Flametal x15, Jade x3 | Attack speed: 0.8 s + 2.5 s draw time | Movement speed: -5%\n\n# Introduction\n\nRoot Fang is the upgraded form of Ash Fang using Jade. Like all upgraded-weapons that use Jade, they gain 10 poison damage and their hit effect has a 20% chance to apply Immobilized.\nAn upgraded Ash Fang will NOT keep its upgrade level when it is modified using gemstones.\n\n## Upgrade information\n\n• stat: Pierce | Quality 1: 82 | Quality 2: 86 | Quality 3: 90 | Quality 4: 94\n\n• stat: Poison | Quality 1: 10 | Quality 2: 10 | Quality 3: 10 | Quality 4: 10\n\n• stat: Spirit | Quality 2: 5 | Quality 3: 10 | Quality 4: 15\n\n• stat: Durability | Quality 1: 100 | Quality 2: 150 | Quality 3: 200 | Quality 4: 250\n\n• stat: Crafting | Quality 1: 1 Ash Fang5 Flametal1 Jade | Quality 2: 5 Flametal1 Jade | Quality 3: 10 Flametal2 Jade | Quality 4: 15 Flametal3 Jade\n\n• stat: Black forge level | Quality 1: 4 | Quality 2: 5 | Quality 3: 6 (not yet available) | Quality 4: 7 (not yet available)\n\nCategorias: Weapons, Bows, Black forge recipes",
+  "content_length": 1177,
+  "scraped_at": "2026-02-26T01:17:44.000839+00:00"
+}

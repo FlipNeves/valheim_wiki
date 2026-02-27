@@ -1,0 +1,32 @@
+{
+  "title": "Iron Brooch",
+  "url": "https://valheim.fandom.com/wiki/Iron_Brooch",
+  "slug": "Iron_Brooch",
+  "categories": [
+    "Trinket"
+  ],
+  "infobox": {
+    "_infobox_title": "Iron Brooch",
+    "Internal ID": "TrinketIronHealth",
+    "Type": "Trinkets",
+    "Source": "Forge",
+    "Crafting Materials": "Iron x5, Ancient bark x5, Leech trophy x1",
+    "Adrenaline Cost": "65",
+    "Effect": "+50 health gain | +20 armor",
+    "Duration": "30s"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Iron Brooch is Swamp-tier trinket."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Once 65 Adrenaline has been gained, the Iron Brooch will trigger automatically, providing 50 health immediately and 20 additional armor for 30 seconds."
+    }
+  ],
+  "full_text": "Iron Brooch\n\nInternal ID: TrinketIronHealth | Type: Trinkets | Source: Forge | Crafting Materials: Iron x5, Ancient bark x5, Leech trophy x1 | Adrenaline Cost: 65 | Effect: +50 health gain | +20 armor | Duration: 30s\n\nIntroduction. Iron Brooch is Swamp-tier trinket.\n\nEffects. Once 65 Adrenaline has been gained, the Iron Brooch will trigger automatically, providing 50 health immediately and 20 additional armor for 30 seconds.",
+  "scraped_at": "2026-02-26T02:09:47.172120+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Fenris claw",
+  "url": "https://valheim.fandom.com/wiki/Fenris_claw",
+  "slug": "Fenris_claw",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Fenris claw",
+    "Type": "Material",
+    "Internal ID": "WolfClaw",
+    "Source": "Frost Caves",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fenris claw can only be found in Frost Caves in the Mountain biome.\nFenris claws are not dropped by enemies in Frost Caves, but instead are found atop mysterious pedestals located within the dungeons."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Standing brazier"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Flesh rippers"
+    }
+  ],
+  "full_text": "Fenris claw\n\nType: Material | Internal ID: WolfClaw | Source: Frost Caves | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Fenris claw can only be found in Frost Caves in the Mountain biome.\nFenris claws are not dropped by enemies in Frost Caves, but instead are found atop mysterious pedestals located within the dungeons.\n\nBuilding. • Standing brazier\n\nCrafting. • Flesh rippers",
+  "scraped_at": "2026-02-26T01:33:25.245927+00:00"
+}

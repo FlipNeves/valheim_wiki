@@ -1,0 +1,13 @@
+{
+  "title": "Anti-sting concoction",
+  "url": "https://valheim.fandom.com/wiki/Anti-sting_concoction",
+  "slug": "Anti-sting_concoction",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "content": "# Anti-sting concoction\n\nType: Mead | Internal ID: MeadBugRepellent | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Anti-sting x1 | Duration: 10m | Cooldown: 0s | Other Effect(s): Prevent Deathsquito attacks\n\n# Introduction\n\nAnti-sting concoction is a Plains-tier consumable item fermented from Mead base: Anti-sting.\n\n## Recipe\n\nMead base: Anti-sting is produced in a Mead ketill with:\n• 10 Cloudberries\n• 3 Grouper\n• 1 Fragrant bundle\nSix Anti-sting concoctions are produced by fermenting the mead base for two in-game days.\n\n## Effect\n\nConsuming it grants protection against Deathsquitoes. They will still approach the player, but will flee three to eight meters away instead of attacking.\n\nCategorias: Mead, Fermenter recipes, Items",
+  "content_length": 809,
+  "scraped_at": "2026-02-26T02:12:30.219541+00:00"
+}

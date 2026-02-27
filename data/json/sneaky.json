@@ -1,0 +1,21 @@
+{
+  "title": "Sneaky",
+  "url": "https://valheim.fandom.com/wiki/Sneaky",
+  "slug": "Sneaky",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Sneaky",
+    "Effects": "Sneak +15"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Sneaky is a status effect granted by wearing all four pieces of the Troll armor set. It increases Sneak skill by 15 but does not exceed the skill cap of 100."
+    }
+  ],
+  "full_text": "Sneaky\n\nEffects: Sneak +15\n\nIntroduction. Sneaky is a status effect granted by wearing all four pieces of the Troll armor set. It increases Sneak skill by 15 but does not exceed the skill cap of 100.",
+  "scraped_at": "2026-02-26T02:01:14.540456+00:00"
+}

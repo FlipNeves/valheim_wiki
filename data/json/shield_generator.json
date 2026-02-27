@@ -1,0 +1,44 @@
+{
+  "title": "Shield generator",
+  "url": "https://valheim.fandom.com/wiki/Shield_generator",
+  "slug": "Shield_generator",
+  "categories": [
+    "Crafting structures",
+    "Misc structures",
+    "Weather"
+  ],
+  "infobox": {
+    "_infobox_title": "Shield generator",
+    "Type": "Crafting",
+    "Internal ID": "piece_shieldgenerator",
+    "Source": "Workbench",
+    "Crafting Materials": "Iron x5, Copper x5, Shield core x1",
+    "Neutral to (x1)": "Pickaxe, ,, Lightning",
+    "Resistant to (x0.5)": "Blunt, ,, Slash, ,, Pierce, ,, Chop",
+    "Immune to (x0)": "Fire, ,, Frost, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "The Shield generator dome protects the player and structures within:\n• Protects from Rain, prevents players from getting the Wet Effect and structures from being damaged. (Similar to the Shelter Effect)\n• Protects from Cinder rain in Ashlands, prevents the structure from catching on fire from falling cinder.\n• Protects against incoming projectiles such as Creatures attacks.\n• Protects against Lava balls randomly coming from lava lakes, useful when mining Flametal ore veins close to lava edge."
+    },
+    {
+      "heading": "Behavior",
+      "level": 2,
+      "text": "The Shield generator can be built upon solid ground, Cage, Stone, Black marble or Grausten structures.\nThe radius of effect is 30 meters in a spherical area centered on the Shield generator.\nThe generator can hold up to 10 Bone fragments or Charred bone as fuel and consumes one fuel per 500 damage. Damage will occur when a projectile with an origin outside the radius of effect comes into contact with the shield edge, absorbing the projectile in the process. These absorbed projectiles include the environmental Cinders, and any combat projectiles, ranged or magical, produced by players or creatures. Although the effects of Rain are nullified by the shield, this effect will not cause damage, or consume fuel of the shield generator.\nThe radius of two or more shields overlapping will result in their intersection combining, allowing multiple shields to be chained together into a larger shield."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Due to the shield determining whether to block an incoming projectile based on its origin position, it is possible for the player to fire a projectile from within the shielded region, and as it exits and re-enters the region, will not be absorbed by the shield.\n• Though the effects of Rain are nullified, the Shield generator will not protect Fire Effect yielding structures from being extinguished, still requiring Shelter."
+    },
+    {
+      "heading": "Tips",
+      "level": 2,
+      "text": "• The Shield generator is useful for Farming, where most crops must not be placed under Shelter, normally forcing the player to farm under the effects of rain."
+    }
+  ],
+  "full_text": "Shield generator\n\nType: Crafting | Internal ID: piece_shieldgenerator | Source: Workbench | Crafting Materials: Iron x5, Copper x5, Shield core x1 | Neutral to (x1): Pickaxe, ,, Lightning | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Chop | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\nUsage. The Shield generator dome protects the player and structures within:\n• Protects from Rain, prevents players from getting the Wet Effect and structures from being damaged. (Similar to the Shelter Effect)\n• Protects from Cinder rain in Ashlands, prevents the structure from catching on fire from falling cinder.\n• Protects against incoming projectiles such as Creatures attacks.\n• Protects against Lava balls randomly coming from lava lakes, useful when mining Flametal ore veins close to lava edge.\n\nBehavior. The Shield generator can be built upon solid ground, Cage, Stone, Black marble or Grausten structures.\nThe radius of effect is 30 meters in a spherical area centered on the Shield generator.\nThe generator can hold up to 10 Bone fragments or Charred bone as fuel and consumes one fuel per 500 damage. Damage will occur when a projectile with an origin outside the radius of effect comes into contact with the shield edge, absorbing the projectile in the process. These absorbed projectiles include the environmental Cinders, and any combat projectiles, ranged or magical, produced by players or creatures. Although the effects of Rain are nullified by the shield, this effect will not cause damage, or consume fuel of the shield generator.\nThe radius of two or more shields overlapping will result in their intersection combining, allowing multiple shields to be chained together into a larger shield.\n\nTrivia. • Due to the shield determining whether to block an incoming projectile based on its origin position, it is possible for the player to fire a projectile from within the shielded region, and as it exits and re-enters the region, will not be absorbed by the shield.\n• Though the effects of Rain are nullified, the Shield generator will not protect Fire Effect yielding structures from being extinguished, still requiring Shelter.\n\nTips. • The Shield generator is useful for Farming, where most crops must not be placed under Shelter, normally forcing the player to farm under the effects of rain.",
+  "scraped_at": "2026-02-26T01:54:26.931667+00:00"
+}

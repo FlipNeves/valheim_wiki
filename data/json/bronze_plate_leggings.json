@@ -1,0 +1,133 @@
+{
+  "title": "Bronze Armor",
+  "url": "https://valheim.fandom.com/wiki/Bronze_plate_leggings",
+  "slug": "Bronze_plate_leggings",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bronze Armor is a Black Forest-tier armor. Compared with the other armor set available in the Bronze Age, the Troll Set, it provides higher armor values but reduces the player's movement speed. There is no set bonus for bronze armor.\nThis set is the tier above Rag Armor and Leather Armor and is replaced by Root Set or Iron Armor."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "This set of armor has three pieces which are crafted and upgraded at the Forge.",
+      "table_data": [
+        {
+          "Armor piece": "Bronze helmet",
+          "Armor": "8",
+          "Crafting cost": "5 Bronze2 Deer hide",
+          "Weight": "3.0"
+        },
+        {
+          "Armor piece": "Bronze plate cuirass",
+          "Armor": "8",
+          "Crafting cost": "5 Bronze2 Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Bronze plate leggings",
+          "Armor": "8",
+          "Crafting cost": "5 Bronze2 Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "24",
+          "Crafting cost": "15 Bronze6 Deer hide",
+          "Weight": "23.0",
+          "Movementspeed": "-10%"
+        },
+        {
+          "Armor piece": "Bronze helmet",
+          "Armor": "10",
+          "Upgrade cost(Total cost)": "3 (8) Bronze(2) Deer hide",
+          "Weight": "3.0"
+        },
+        {
+          "Armor piece": "Bronze plate cuirass",
+          "Armor": "10",
+          "Upgrade cost(Total cost)": "3 (8) Bronze(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Bronze plate leggings",
+          "Armor": "10",
+          "Upgrade cost(Total cost)": "3 (8) Bronze(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "30",
+          "Upgrade cost(Total cost)": "9 (24) Bronze(6) Deer hide",
+          "Weight": "23.0",
+          "Movementspeed": "-10%"
+        },
+        {
+          "Armor piece": "Bronze helmet",
+          "Armor": "12",
+          "Upgrade cost(Total cost)": "6 (14) Bronze(2) Deer hide",
+          "Weight": "3.0"
+        },
+        {
+          "Armor piece": "Bronze plate cuirass",
+          "Armor": "12",
+          "Upgrade cost(Total cost)": "6 (14) Bronze(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Bronze plate leggings",
+          "Armor": "12",
+          "Upgrade cost(Total cost)": "6 (14) Bronze(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "36",
+          "Upgrade cost(Total cost)": "18 (42) Bronze(6) Deer hide",
+          "Weight": "23.0",
+          "Movementspeed": "-10%"
+        },
+        {
+          "Armor piece": "Bronze helmet",
+          "Armor": "14",
+          "Upgrade cost(Total cost)": "9 (23) Bronze(2) Deer hide",
+          "Weight": "3.0"
+        },
+        {
+          "Armor piece": "Bronze plate cuirass",
+          "Armor": "14",
+          "Upgrade cost(Total cost)": "9 (23) Bronze(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Bronze plate leggings",
+          "Armor": "14",
+          "Upgrade cost(Total cost)": "9 (23) Bronze(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "42",
+          "Upgrade cost(Total cost)": "27 (69) Bronze(6) Deer hide",
+          "Weight": "23.0",
+          "Movementspeed": "-10%"
+        }
+      ]
+    }
+  ],
+  "full_text": "Bronze Armor\n\nIntroduction. Bronze Armor is a Black Forest-tier armor. Compared with the other armor set available in the Bronze Age, the Troll Set, it provides higher armor values but reduces the player's movement speed. There is no set bonus for bronze armor.\nThis set is the tier above Rag Armor and Leather Armor and is replaced by Root Set or Iron Armor.\n\nArmor pieces. This set of armor has three pieces which are crafted and upgraded at the Forge.",
+  "scraped_at": "2026-02-26T02:06:41.352620+00:00"
+}

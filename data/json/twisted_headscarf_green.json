@@ -1,0 +1,32 @@
+{
+  "title": "Twisted headscarf green",
+  "url": "https://valheim.fandom.com/wiki/Twisted_headscarf_green",
+  "slug": "Twisted_headscarf_green",
+  "categories": [
+    "Armor",
+    "Head"
+  ],
+  "infobox": {
+    "_infobox_title": "Twisted headscarf green",
+    "Internal ID": "HelmetHat2",
+    "Type": "Head",
+    "Source": "Hildir",
+    "Buy": "250, Coins",
+    "Armor": "1",
+    "Base Item Stamina Usage": "-15%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Twisted headscarf green is an armor piece which can be purchased from Hildir for 250 Coins. This item will be in the merchant's assortment only after returning Hildir's silver chest."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 15%."
+    }
+  ],
+  "full_text": "Twisted headscarf green\n\nInternal ID: HelmetHat2 | Type: Head | Source: Hildir | Buy: 250, Coins | Armor: 1 | Base Item Stamina Usage: -15%\n\nIntroduction. Twisted headscarf green is an armor piece which can be purchased from Hildir for 250 Coins. This item will be in the merchant's assortment only after returning Hildir's silver chest.\n\nNotes. • Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 15%.",
+  "scraped_at": "2026-02-26T01:24:11.566370+00:00"
+}

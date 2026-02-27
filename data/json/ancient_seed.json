@@ -1,0 +1,41 @@
+{
+  "title": "Ancient seed",
+  "url": "https://valheim.fandom.com/wiki/Ancient_seed",
+  "slug": "Ancient_seed",
+  "categories": [
+    "Misc Items",
+    "Forsaken offerings"
+  ],
+  "infobox": {
+    "_infobox_title": "Ancient seed",
+    "Type": "Misc",
+    "Internal ID": "AncientSeed",
+    "Source": "Greydwarf brute, Greydwarf nest",
+    "Usage": "Crafting, Summon, The Elder",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ancient seeds are items dropped by killing Greydwarf brutes and destroying Greydwarf nests."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Heart of the Forest"
+    },
+    {
+      "heading": "Summoning",
+      "level": 3,
+      "text": "• A total of three Ancient Seeds are required to summon The Elder. See Forsaken Altars."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• They resemble a seed, with green growths stemming into a mace-like formation.\n• They cannot be planted, and they are unrelated to Ancient Trees."
+    }
+  ],
+  "full_text": "Ancient seed\n\nType: Misc | Internal ID: AncientSeed | Source: Greydwarf brute, Greydwarf nest | Usage: Crafting, Summon, The Elder | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Ancient seeds are items dropped by killing Greydwarf brutes and destroying Greydwarf nests.\n\nCrafting. • Heart of the Forest\n\nSummoning. • A total of three Ancient Seeds are required to summon The Elder. See Forsaken Altars.\n\nNotes. • They resemble a seed, with green growths stemming into a mace-like formation.\n• They cannot be planted, and they are unrelated to Ancient Trees.",
+  "scraped_at": "2026-02-26T02:17:54.686180+00:00"
+}

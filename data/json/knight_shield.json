@@ -1,0 +1,39 @@
+{
+  "title": "Knight shield",
+  "url": "https://valheim.fandom.com/wiki/Knight_shield",
+  "slug": "Knight_shield",
+  "categories": [
+    "Unfinished",
+    "Weapons",
+    "Shields"
+  ],
+  "infobox": {
+    "_infobox_title": "Knight shield",
+    "Internal ID": "ShieldKnight",
+    "Type": "Shield",
+    "Source": "Console",
+    "Usage": "Blocking",
+    "Wielding": "Off-hand",
+    "Crafting Materials": "n/a",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The knight shield is an unused asset with the appearance of a kite shield but the function of a round shield."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Currently only obtainable via console commands. See banded shield for obtainable iron tier round shield."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• It is currently not mounted properly in game. When equipped, it clips into the player's arm and when sheathed or blocking it is mounted/held sideways."
+    }
+  ],
+  "full_text": "Knight shield\n\nInternal ID: ShieldKnight | Type: Shield | Source: Console | Usage: Blocking | Wielding: Off-hand | Crafting Materials: n/a | Movement speed: -5%\n\nIntroduction. The knight shield is an unused asset with the appearance of a kite shield but the function of a round shield.\n\nAvailability. Currently only obtainable via console commands. See banded shield for obtainable iron tier round shield.\n\nNotes. • It is currently not mounted properly in game. When equipped, it clips into the player's arm and when sheathed or blocking it is mounted/held sideways.",
+  "scraped_at": "2026-02-26T01:16:32.490644+00:00"
+}

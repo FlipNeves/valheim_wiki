@@ -1,0 +1,50 @@
+{
+  "title": "Bear meat",
+  "url": "https://valheim.fandom.com/wiki/Bear_meat",
+  "slug": "Bear_meat",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Bear meat",
+    "Type": "Material",
+    "Internal ID": "BjornMeat",
+    "Source": "Bear, ,, Vile",
+    "Usage": "Cooking station",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bear meat is a basic food source. It can be found by killing Bears and Viles.\nWhen placed on a Cooking station or Iron cooking station, Bear meat can be turned into Cooked bear meat, or Coal if overcooked. Unlike other meats, it is not used in any Cauldron recipes."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Creature": "Bear",
+          "0 Star": "2",
+          "1 Star": "4",
+          "2 Star": "8"
+        },
+        {
+          "Creature": "Vile",
+          "0 Star": "2",
+          "1 Star": "–",
+          "2 Star": "–"
+        }
+      ]
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Cooked bear meat\n• Coal, if left on a Cooking station for too long"
+    }
+  ],
+  "full_text": "Bear meat\n\nType: Material | Internal ID: BjornMeat | Source: Bear, ,, Vile | Usage: Cooking station | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Bear meat is a basic food source. It can be found by killing Bears and Viles.\nWhen placed on a Cooking station or Iron cooking station, Bear meat can be turned into Cooked bear meat, or Coal if overcooked. Unlike other meats, it is not used in any Cauldron recipes.\n\nCrafting. • Cooked bear meat\n• Coal, if left on a Cooking station for too long",
+  "scraped_at": "2026-02-26T01:24:53.275537+00:00"
+}

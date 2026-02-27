@@ -1,0 +1,69 @@
+{
+  "title": "Iron tower shield",
+  "url": "https://valheim.fandom.com/wiki/Iron_tower_shield",
+  "slug": "Iron_tower_shield",
+  "categories": [
+    "Weapons",
+    "Shields",
+    "Forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Iron tower shield",
+    "Internal ID": "ShieldIronTower",
+    "Type": "Shield",
+    "Source": "Forge",
+    "Usage": "Blocking",
+    "Wielding": "Off-hand",
+    "Crafting Materials": "Finewood x20, Iron x10",
+    "Movement speed": "-10%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Iron tower shield is the third tower shield. It has more block armor compared to Banded shield but reduces movement speed by 10% as well as increasing dodge roll cost by 10% with a lack of being able to parry, which lets the Banded shield have more block armor when parrying than the Iron tower shield has in normal blocking."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Block armor",
+          "Quality 1": "52",
+          "Quality 2": "58",
+          "Quality 3": "64",
+          "Total": ""
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Total": ""
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "15 Finewood10 Iron",
+          "Quality 2": "10 Finewood5 Iron",
+          "Quality 3": "20 Finewood10 Iron",
+          "Total": "45 Finewood25 Iron"
+        },
+        {
+          "stat": "Forge level",
+          "Quality 1": "2",
+          "Quality 2": "3",
+          "Quality 3": "4",
+          "Total": ""
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• When crafting, players can customize the shield with a few different pre-set designs and colors by clicking the style button beneath the item name in the crafting window. The design can not be changed afterward.\n• Serpent scale shield can also be crafted with Iron while having more block power and less movement penalty, provided the player is able to hunt Serpents."
+    }
+  ],
+  "full_text": "Iron tower shield\n\nInternal ID: ShieldIronTower | Type: Shield | Source: Forge | Usage: Blocking | Wielding: Off-hand | Crafting Materials: Finewood x20, Iron x10 | Movement speed: -10%\n\nIntroduction. The Iron tower shield is the third tower shield. It has more block armor compared to Banded shield but reduces movement speed by 10% as well as increasing dodge roll cost by 10% with a lack of being able to parry, which lets the Banded shield have more block armor when parrying than the Iron tower shield has in normal blocking.\n\nNotes. • When crafting, players can customize the shield with a few different pre-set designs and colors by clicking the style button beneath the item name in the crafting window. The design can not be changed afterward.\n• Serpent scale shield can also be crafted with Iron while having more block power and less movement penalty, provided the player is able to hunt Serpents.",
+  "scraped_at": "2026-02-26T01:16:16.605559+00:00"
+}

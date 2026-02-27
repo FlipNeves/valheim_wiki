@@ -1,0 +1,30 @@
+{
+  "title": "Charred skull",
+  "url": "https://valheim.fandom.com/wiki/Charred_skull",
+  "slug": "Charred_skull",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Charred skull",
+    "Type": "Material",
+    "Internal ID": "Charredskull",
+    "Source": "Ashlands",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Charred skull is a material dropped from Monument of Torment and found in Charred chests in the Ashlands."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Bone throne\n• Pile of skulls"
+    }
+  ],
+  "full_text": "Charred skull\n\nType: Material | Internal ID: Charredskull | Source: Ashlands | Usage: Building | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Charred skull is a material dropped from Monument of Torment and found in Charred chests in the Ashlands.\n\nBuilding. • Bone throne\n• Pile of skulls",
+  "scraped_at": "2026-02-26T01:32:12.574971+00:00"
+}

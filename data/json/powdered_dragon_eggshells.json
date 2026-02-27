@@ -1,0 +1,31 @@
+{
+  "title": "Powdered dragon eggshells",
+  "url": "https://valheim.fandom.com/wiki/Powdered_dragon_eggshells",
+  "slug": "Powdered_dragon_eggshells",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Powdered dragon eggshells",
+    "Type": "Material",
+    "Internal ID": "PowderedDragonEgg",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "120, Coins, for 5",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Powdered dragon eggshells can be purchased from The Bog Witch at 120 Coins for 5 items."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mead base: Troll endurance"
+    }
+  ],
+  "full_text": "Powdered dragon eggshells\n\nType: Material | Internal ID: PowderedDragonEgg | Source: The Bog Witch | Usage: Crafting | Buy: 120, Coins, for 5 | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Powdered dragon eggshells can be purchased from The Bog Witch at 120 Coins for 5 items.\n\nCrafting. • Mead base: Troll endurance",
+  "scraped_at": "2026-02-26T01:35:49.213186+00:00"
+}

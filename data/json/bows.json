@@ -1,0 +1,110 @@
+{
+  "title": "Bows",
+  "url": "https://valheim.fandom.com/wiki/Bows",
+  "slug": "Bows",
+  "categories": [
+    "Weapons",
+    "Bows"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bows is a weapon class.\nBows shoot equipped arrows that cannot be retrieved. Holding down the primary attack button draws the bow back, improving accuracy and damage when the arrow is released. Blocking cancels a draw without firing the arrow.\nBows have 2.5 seconds of draw time at skill level 0, which decreases to a draw time of 0.5 seconds by level 100. However, the bow can only be fired every 0.8 seconds, which can be reached at skill level 85."
+    },
+    {
+      "heading": "List of Bows",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Crude bow",
+          "Icon": "",
+          "Stamina": "4 / s",
+          "Damage Types(Min/Max)": "Pierce: 22/31",
+          "Knockback": "0",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "35 m/s",
+          "Attack noise": "1°",
+          "Hit noise": "20°",
+          "col_10": "15 m",
+          "col_11": "8 m"
+        },
+        {
+          "Name": "Finewood bow",
+          "Icon": "",
+          "Stamina": "6 / s",
+          "Damage Types(Min/Max)": "Pierce: 32/41",
+          "Knockback": "5",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "50 m/s",
+          "Attack noise": "1°",
+          "Hit noise": "20°",
+          "col_10": "15 m",
+          "col_11": "8 m"
+        },
+        {
+          "Name": "Huntsman bow",
+          "Icon": "",
+          "Stamina": "8 / s",
+          "Damage Types(Min/Max)": "Pierce: 42/51",
+          "Knockback": "10",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "50 m/s",
+          "Attack noise": "0°",
+          "Hit noise": "20°",
+          "col_10": "4 m",
+          "col_11": "4 m"
+        },
+        {
+          "Name": "Draugr Fang",
+          "Icon": "",
+          "Stamina": "10 / s",
+          "Damage Types(Min/Max)": "Pierce: 47/56Poison: 5/20",
+          "Knockback": "20",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "60 m/s",
+          "Attack noise": "0°",
+          "Hit noise": "20°",
+          "col_10": "15 m",
+          "col_11": "8 m"
+        },
+        {
+          "Name": "Spinesnap",
+          "Icon": "",
+          "Stamina": "14 / s",
+          "Damage Types(Min/Max)": "Pierce: 72/84Spirit: 5/20",
+          "Knockback": "25",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "60 m/s",
+          "Attack noise": "0°",
+          "Hit noise": "20°",
+          "col_10": "15 m",
+          "col_11": "8 m"
+        },
+        {
+          "Name": "Ash Fang",
+          "Icon": "",
+          "Stamina": "14 / s",
+          "Damage Types(Min/Max)": "Pierce: 82/94 Spirit: 0/15",
+          "Knockback": "25",
+          "Backstab": "3x",
+          "Velocity": "2 m/s",
+          "Spread": "60 m/s",
+          "Attack noise": "0°",
+          "Hit noise": "20°",
+          "col_10": "15 m",
+          "col_11": "8 m"
+        }
+      ]
+    }
+  ],
+  "full_text": "Bows\n\nIntroduction. Bows is a weapon class.\nBows shoot equipped arrows that cannot be retrieved. Holding down the primary attack button draws the bow back, improving accuracy and damage when the arrow is released. Blocking cancels a draw without firing the arrow.\nBows have 2.5 seconds of draw time at skill level 0, which decreases to a draw time of 0.5 seconds by level 100. However, the bow can only be fired every 0.8 seconds, which can be reached at skill level 85.",
+  "scraped_at": "2026-02-26T01:12:14.079130+00:00"
+}

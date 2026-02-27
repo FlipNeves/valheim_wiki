@@ -1,0 +1,21 @@
+{
+  "title": "Dvergr power",
+  "url": "https://valheim.fandom.com/wiki/Dvergr_power",
+  "slug": "Dvergr_power",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Dvergr Power",
+    "Effects": "Increases damage by 20% for 20 seconds"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Dvergr Power is a Status effect that increases damage from all skills by 20% for 20 seconds.\nDuring battle, Support Dvergr mages can cast a support spell that applies Dvergr Power to all Dvergr and players in an 8-meter radius around them."
+    }
+  ],
+  "full_text": "Dvergr power\n\nEffects: Increases damage by 20% for 20 seconds\n\nIntroduction. Dvergr Power is a Status effect that increases damage from all skills by 20% for 20 seconds.\nDuring battle, Support Dvergr mages can cast a support spell that applies Dvergr Power to all Dvergr and players in an 8-meter radius around them.",
+  "scraped_at": "2026-02-26T01:59:35.487179+00:00"
+}

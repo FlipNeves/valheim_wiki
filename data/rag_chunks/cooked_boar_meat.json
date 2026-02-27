@@ -1,0 +1,12 @@
+{
+  "title": "Boar meat",
+  "url": "https://valheim.fandom.com/wiki/Cooked_boar_meat",
+  "slug": "Cooked_boar_meat",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "content": "# Boar meat\n\nType: Material | Internal ID: RawMeat | Source: Boar | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\n# Introduction\n\nBoar meat is a basic food obtained by killing Boars.\nIt can be cooked on a Cooking station or Iron cooking station to obtain Cooked boar meat, or Coal if overcooked.\n\n## Availability\n\n• Creature: Boar | 0 Star: 1 | 1 Star: 2 | 2 Star: 4\n\n### Crafting\n\nCooked boar meat cannot be used to craft recipes using Boar meat as ingredient, or vice versa.\n\n• Result: Cooked boar meat( Coal) | Ingredients: • Boar meat x1 | Crafting Station: Cooking stationor Iron cooking station\n\n• Result: Minced meat sauce | Ingredients: • Boar meat x1• Neck tail x1• Carrot x1 | Crafting Station: Cauldron (1)\n\n• Result: Boar jerky | Ingredients: • Boar meat x1• Honey x1 | Crafting Station: Cauldron (1)\n\n• Result: Sausages x4 | Ingredients: • Entrails x4• Boar meat x1• Thistle x1 | Crafting Station: Cauldron (2)\n\n• Result: Turnip stew | Ingredients: • Boar meat x1• Turnip x3 | Crafting Station: Cauldron (2)\n\n• Result: Whole roasted Meadow boar | Ingredients: • Cooked deer meat x2• Cooked boar meat x5• Dandelion x4• Woodland herb blend x1 | Crafting Station: Food preparation table\n\nCategorias: Materials, Food",
+  "content_length": 1246,
+  "scraped_at": "2026-02-26T02:10:31.365521+00:00"
+}

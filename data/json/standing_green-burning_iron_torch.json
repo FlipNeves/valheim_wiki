@@ -1,0 +1,29 @@
+{
+  "title": "Standing green-burning iron torch",
+  "url": "https://valheim.fandom.com/wiki/Standing_green-burning_iron_torch",
+  "slug": "Standing_green-burning_iron_torch",
+  "categories": [
+    "Furniture",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Standing green-burning iron torch",
+    "Type": "Furniture",
+    "Internal ID": "piece_groundtorch_green",
+    "Source": "Forge",
+    "Usage": "Lightsource",
+    "Crafting Materials": "Iron x2, Guck x2",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Fire, ,, Frost, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Standing green-burning iron torch is a light source that can be built using the Hammer within range of a Forge. It requires Guck as fuel.\nThe standing green-burning iron torch can hold up to six Guck at once. With 1/6 fuel, a standing green-burning iron torch will last for 5 hours and 33 minutes. At its maximum capacity, a standing green-burning iron torch will last for 33 hours and 20 minutes. This duration is the same for the Standing iron torch, Standing blue-burning iron torch and Sconce."
+    }
+  ],
+  "full_text": "Standing green-burning iron torch\n\nType: Furniture | Internal ID: piece_groundtorch_green | Source: Forge | Usage: Lightsource | Crafting Materials: Iron x2, Guck x2 | Neutral to (x1): Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\nIntroduction. The Standing green-burning iron torch is a light source that can be built using the Hammer within range of a Forge. It requires Guck as fuel.\nThe standing green-burning iron torch can hold up to six Guck at once. With 1/6 fuel, a standing green-burning iron torch will last for 5 hours and 33 minutes. At its maximum capacity, a standing green-burning iron torch will last for 33 hours and 20 minutes. This duration is the same for the Standing iron torch, Standing blue-burning iron torch and Sconce.",
+  "scraped_at": "2026-02-26T01:42:25.402445+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Abyssal barnacle",
+  "url": "https://valheim.fandom.com/wiki/Abyssal_barnacle",
+  "slug": "Abyssal_barnacle",
+  "categories": [
+    "Resource nodes"
+  ],
+  "infobox": {
+    "_infobox_title": "Abyssal barnacle",
+    "Type": "Resource nodes",
+    "Location": "Leviathan",
+    "Resources": "Chitin",
+    "Neutral to": "Pickaxe, ,, Lightning",
+    "Immune to": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Abyssal barnacles are a resource node and can be mined with a pickaxe from the backs of Leviathans found in the Ocean biome."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Each mined barnacle has a 10% chance to trigger the Leviathan's retreat, signaled by a howl sound. Make sure to have a nearby boat or land to fall back to when it begins to sink."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Drop Rate",
+          "Chitin": "3-4"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Any type of pickaxe can be used to mine the barnacles, but higher grade ones are recommended as they will allow for more material to be mined.\n• As Chitin is primarily obtained from barnacles, the only way to obtain additional Chitin after all of a world's Leviathans have been mined for it is by fishing using Heavy fishing bait. Chitin can be endlessly obtained this way, although the required bait can be difficult to obtain."
+    }
+  ],
+  "full_text": "Abyssal barnacle\n\nType: Resource nodes | Location: Leviathan | Resources: Chitin | Neutral to: Pickaxe, ,, Lightning | Immune to: Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Poison, ,, Spirit\n\nIntroduction. Abyssal barnacles are a resource node and can be mined with a pickaxe from the backs of Leviathans found in the Ocean biome.\n\nAvailability. Each mined barnacle has a 10% chance to trigger the Leviathan's retreat, signaled by a howl sound. Make sure to have a nearby boat or land to fall back to when it begins to sink.\n\nNotes. • Any type of pickaxe can be used to mine the barnacles, but higher grade ones are recommended as they will allow for more material to be mined.\n• As Chitin is primarily obtained from barnacles, the only way to obtain additional Chitin after all of a world's Leviathans have been mined for it is by fishing using Heavy fishing bait. Chitin can be endlessly obtained this way, although the required bait can be difficult to obtain.",
+  "scraped_at": "2026-02-26T01:49:17.793209+00:00"
+}

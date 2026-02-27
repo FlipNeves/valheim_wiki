@@ -1,0 +1,46 @@
+{
+  "title": "Onion soup",
+  "url": "https://valheim.fandom.com/wiki/Onion_soup",
+  "slug": "Onion_soup",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Onion soup",
+    "Type": "Food",
+    "Internal ID": "OnionSoup",
+    "Source": "Cauldron",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Onion x3",
+    "Max Health": "20",
+    "Max Stamina": "60",
+    "Duration": "20m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Onion soup is a Mountains-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Onion soup is produced in a level 2 Cauldron with:\n• 3 Onion"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Hearty Mountain logger's stew"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Onion soup provides the second-highest stamina gain in the Mountains at 60, second to Eyescream at 65.\n• Onion soup makes up for providing less stamina than Eyescream by being much easier to obtain, only requiring one growable item."
+    }
+  ],
+  "full_text": "Onion soup\n\nType: Food | Internal ID: OnionSoup | Source: Cauldron | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Onion x3 | Max Health: 20 | Max Stamina: 60 | Duration: 20m | Healing: 1 hp/tick\n\nIntroduction. Onion soup is a Mountains-tier food.\n\nRecipe. Onion soup is produced in a level 2 Cauldron with:\n• 3 Onion\n\nCrafting. • Hearty Mountain logger's stew\n\nNotes. • Onion soup provides the second-highest stamina gain in the Mountains at 60, second to Eyescream at 65.\n• Onion soup makes up for providing less stamina than Eyescream by being much easier to obtain, only requiring one growable item.",
+  "scraped_at": "2026-02-26T01:27:40.834026+00:00"
+}

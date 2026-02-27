@@ -1,0 +1,12 @@
+{
+  "title": "Chest",
+  "url": "https://valheim.fandom.com/wiki/Chest",
+  "slug": "Chest",
+  "categories": [
+    "Furniture",
+    "Storage"
+  ],
+  "content": "# Chest\n\nType: Furniture | Internal ID: piece_chest_wood | Source: Workbench | Usage: Stores items (10 slots) | Crafting Materials: Wood x10 | Neutral to (x1): Lightning | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nChests are craftable storage structure. They have 10 (5x2) item slots.\n\nCategorias: Furniture, Storage",
+  "content_length": 415,
+  "scraped_at": "2026-02-26T01:41:00.779882+00:00"
+}

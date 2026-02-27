@@ -1,0 +1,85 @@
+{
+  "title": "Rancid remains",
+  "url": "https://valheim.fandom.com/wiki/Rancid_remains",
+  "slug": "Rancid_remains",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Rancid remains",
+    "Internal ID": "Skeleton_Poison",
+    "Faction": "Undead",
+    "Main biome": "Black Forest",
+    "Drops": "Bone fragments | Rancid Remains trophy",
+    "Abilities": "Mace (3s)",
+    "Trophy": "Rancid Remains trophy",
+    "Weak to (x1.5)": "Blunt, ,, Fire",
+    "Neutral to (x1)": "Slash, ,, Lightning, ,, Spirit, ,, Stagger",
+    "Resistant to (x0.5)": "Pierce, ,, Frost",
+    "Immune to (x0)": "Poison, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Rancid remains are aggressive creatures found in Burial Chambers. They are, as their name suggests, human skeletal remains which have since been resurrected from the dead. Rancid remains are also slightly larger and stronger than regular Skeletons. Their hits inflict poison."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Bone fragments",
+          "0 Star": "3",
+          "1 Star": "6",
+          "2 Star": "12"
+        },
+        {
+          "Item": "Rancid Remains trophy",
+          "0 Star": "10%",
+          "1 Star": "10%",
+          "2 Star": "10%"
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Rare spawn point in Burial Chambers",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "During \"Skeleton surprise\" event after defeating Bonemass",
+          "Limit": "1",
+          "Frequency": "Very common",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"She's hot on your tail\" event after Brass Chest is returned to Hildir",
+          "Limit": "-",
+          "Frequency": "Very common",
+          "Stars": "Yes"
+        }
+      ]
+    },
+    {
+      "heading": "Mace",
+      "level": 3,
+      "text": "Swings their mace sideways in a 2.2-meter 70-degree horizontal arc (20 Blunt and 30 Poison damage). This attack can be used every 3 seconds when within 2.2 meters of a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Rancid remains carry a green flaming Iron mace."
+    }
+  ],
+  "full_text": "Rancid remains\n\nInternal ID: Skeleton_Poison | Faction: Undead | Main biome: Black Forest | Drops: Bone fragments | Rancid Remains trophy | Abilities: Mace (3s) | Trophy: Rancid Remains trophy | Weak to (x1.5): Blunt, ,, Fire | Neutral to (x1): Slash, ,, Lightning, ,, Spirit, ,, Stagger | Resistant to (x0.5): Pierce, ,, Frost | Immune to (x0): Poison, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Rancid remains are aggressive creatures found in Burial Chambers. They are, as their name suggests, human skeletal remains which have since been resurrected from the dead. Rancid remains are also slightly larger and stronger than regular Skeletons. Their hits inflict poison.\n\nMace. Swings their mace sideways in a 2.2-meter 70-degree horizontal arc (20 Blunt and 30 Poison damage). This attack can be used every 3 seconds when within 2.2 meters of a player.\n\nNotes. • Rancid remains carry a green flaming Iron mace.",
+  "scraped_at": "2026-02-26T01:08:53.121722+00:00"
+}

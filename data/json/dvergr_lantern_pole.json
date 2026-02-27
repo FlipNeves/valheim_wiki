@@ -1,0 +1,32 @@
+{
+  "title": "Dvergr lantern pole",
+  "url": "https://valheim.fandom.com/wiki/Dvergr_lantern_pole",
+  "slug": "Dvergr_lantern_pole",
+  "categories": [
+    "Furniture",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Dvergr lantern pole",
+    "Type": "Furniture",
+    "Internal ID": "piece_dvergr_lantern_pole",
+    "Source": "Black forge",
+    "Usage": "Decoration, Lightsource",
+    "Crafting Materials": "Copper x3, Dvergr lantern x1, Chain x1",
+    "Support": "Iron (from 20 to 1500)",
+    "Loss": "1/13 vertical, 1/13 horizontal",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe",
+    "Resistant to (x0.5)": "Pierce, ,, Fire, ,, Frost, ,, Lightning",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Dvergr lantern pole is a light source and does not require any fuel."
+    }
+  ],
+  "full_text": "Dvergr lantern pole\n\nType: Furniture | Internal ID: piece_dvergr_lantern_pole | Source: Black forge | Usage: Decoration, Lightsource | Crafting Materials: Copper x3, Dvergr lantern x1, Chain x1 | Support: Iron (from 20 to 1500) | Loss: 1/13 vertical, 1/13 horizontal | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe | Resistant to (x0.5): Pierce, ,, Fire, ,, Frost, ,, Lightning | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. The Dvergr lantern pole is a light source and does not require any fuel.",
+  "scraped_at": "2026-02-26T01:41:05.925681+00:00"
+}

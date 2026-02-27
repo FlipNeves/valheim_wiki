@@ -1,0 +1,11 @@
+{
+  "title": "Encumbered",
+  "url": "https://valheim.fandom.com/wiki/Encumbered",
+  "slug": "Encumbered",
+  "categories": [
+    "Effects"
+  ],
+  "content": "# Encumbered\n\nEffects: Movement speed: Reduced to 2m/s | Stamina regen: -100% | Removes ability to run, jump, dodge, or block\n\n# Introduction\n\nEncumbered is a status effect applied when a player character is carrying more weight than their maximum capacity. This capacity can be increased by wearing a Megingjord, benefitting from Corpse Run, drinking a Mead of Troll endurance, and/or Moder's Forsaken power.\nOnce an encumbered player's stamina reaches 0, they will not regenerate stamina until they are unencumbered again.\nEncumbered players can not jump and as such will have difficulty with climbing any steep slopes. Neither can they run, dodge, nor block. Five Stamina is drained per second while moving. Movement speed is set to 2 meters per second, unaffected by the Running skill and equipment effects such as Fenris Set or Tonic of Ratatosk, but still affected by other movement speed effects, such as Tarred.\nThe effect will end immediately once the excess weight is removed.\n\nCategorias: Effects",
+  "content_length": 1007,
+  "scraped_at": "2026-02-26T01:59:39.664547+00:00"
+}

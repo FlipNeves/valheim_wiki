@@ -1,0 +1,60 @@
+{
+  "title": "Seeker meat",
+  "url": "https://valheim.fandom.com/wiki/Seeker_meat",
+  "slug": "Seeker_meat",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Seeker meat",
+    "Type": "Material",
+    "Internal ID": "BugMeat",
+    "Source": "Seeker, ,, Seeker Soldier",
+    "Usage": "Cauldron, ,, Iron cooking station, ,, Food preparation table",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Seeker meat is a food dropped by Seekers and Seeker soldiers. It can be cooked directly on an Iron cooking station, but not on a wooden Cooking station, to obtain Cooked Seeker Meat or Coal if overcooked. It is used directly in food recipes at the Food preparation table."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Creature": "Seeker",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Creature": "Seeker soldier",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        }
+      ]
+    },
+    {
+      "heading": "For Seeker meat",
+      "level": 4,
+      "text": "• Cooked seeker meat\n• Coal, if left on an Iron cooking station for too long\n• Meat platter (from Uncooked meat platter)\n• Seeker aspic"
+    },
+    {
+      "heading": "For Cooked seeker meat",
+      "level": 4,
+      "text": "• Mushrooms galore á la Mistlands\nCooked seeker meat cannot be used to craft recipes using Seeker meat as ingredient, or vice versa."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• For magic-oriented players, the Seeker aspic is the best Eitr-granting food available in the Mistlands.\n• Because there are many Seekers in the Mistlands and the production of Meat platters tends to be bottlenecked behind the rarer Hare meat, Cooked seeker meat can serve as a good food option when the player is returning to older biomes or working on base building."
+    }
+  ],
+  "full_text": "Seeker meat\n\nType: Material | Internal ID: BugMeat | Source: Seeker, ,, Seeker Soldier | Usage: Cauldron, ,, Iron cooking station, ,, Food preparation table | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Seeker meat is a food dropped by Seekers and Seeker soldiers. It can be cooked directly on an Iron cooking station, but not on a wooden Cooking station, to obtain Cooked Seeker Meat or Coal if overcooked. It is used directly in food recipes at the Food preparation table.\n\nFor Seeker meat. • Cooked seeker meat\n• Coal, if left on an Iron cooking station for too long\n• Meat platter (from Uncooked meat platter)\n• Seeker aspic\n\nFor Cooked seeker meat. • Mushrooms galore á la Mistlands\nCooked seeker meat cannot be used to craft recipes using Seeker meat as ingredient, or vice versa.\n\nNotes. • For magic-oriented players, the Seeker aspic is the best Eitr-granting food available in the Mistlands.\n• Because there are many Seekers in the Mistlands and the production of Meat platters tends to be bottlenecked behind the rarer Hare meat, Cooked seeker meat can serve as a good food option when the player is returning to older biomes or working on base building.",
+  "scraped_at": "2026-02-26T01:28:33.308712+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Cinder rain",
+  "url": "https://valheim.fandom.com/wiki/Cinder_rain",
+  "slug": "Cinder_rain",
+  "categories": [
+    "Weather"
+  ],
+  "content": "# Cinder rain\n\nType: Environment | Internal ID: CinderSky\n\n# Introduction\n\nCinder rain is a weather condition in Ashlands.\nCinders regularly fall from the sky around the player (60 meters range). Cinders set Fire to the Structures they fall on, they also have a 32.1% chance to set fire on the ground for 30 seconds.\nThe Shield generator can be used to protect from Cinder falling.\nThe amount of cinder depend on the weather condition.\n\n• Weather: Ash Rain | Spawn interval: 20s | Spawn chance: 40% | Number: 1-2 | Average per minute: 1.8\n\n• Weather: Cinder Rain | Spawn interval: 6s | Spawn chance: 70% | Number: 1-13 | Average per minute: 49\n\n• Weather: Thunderstorm | Spawn interval: 1s | Spawn chance: 60% | Number: 1-2 | Average per minute: 54\n\nCategorias: Weather",
+  "content_length": 769,
+  "scraped_at": "2026-02-26T01:54:23.014155+00:00"
+}

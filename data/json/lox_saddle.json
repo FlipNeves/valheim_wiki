@@ -1,0 +1,26 @@
+{
+  "title": "Lox saddle",
+  "url": "https://valheim.fandom.com/wiki/Lox_saddle",
+  "slug": "Lox_saddle",
+  "categories": [
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Lox saddle",
+    "Type": "Tool",
+    "Internal ID": "LoxSaddle",
+    "Source": "Workbench",
+    "Usage": "Transport",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Leather scraps x10, Linen thread x20, Black metal x15"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lox saddle is a craftable item.\nLox saddles grant the ability to ride tamed Lox. To attach, simply put the saddle on the hotbar then activate while aimed at a tamed Lox. The saddle can then be \"teleported\" to, like a boat rudder, by pressing the \"Use\" key (E by default). The saddle can be removed from the Lox by pressing Left-Shift + E."
+    }
+  ],
+  "full_text": "Lox saddle\n\nType: Tool | Internal ID: LoxSaddle | Source: Workbench | Usage: Transport | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Leather scraps x10, Linen thread x20, Black metal x15\n\nIntroduction. Lox saddle is a craftable item.\nLox saddles grant the ability to ride tamed Lox. To attach, simply put the saddle on the hotbar then activate while aimed at a tamed Lox. The saddle can then be \"teleported\" to, like a boat rudder, by pressing the \"Use\" key (E by default). The saddle can be removed from the Lox by pressing Left-Shift + E.",
+  "scraped_at": "2026-02-26T02:13:16.643113+00:00"
+}

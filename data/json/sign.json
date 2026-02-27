@@ -1,0 +1,67 @@
+{
+  "title": "Sign",
+  "url": "https://valheim.fandom.com/wiki/Sign",
+  "slug": "Sign",
+  "categories": [
+    "Furniture"
+  ],
+  "infobox": {
+    "_infobox_title": "Sign",
+    "Type": "Furniture",
+    "Internal ID": "sign",
+    "Usage": "Written notes (max 50 bytes in UTF-8)",
+    "Crafting Materials": "Coal x1, Wood x2",
+    "Support": "Wood (from 10 to 100)",
+    "Loss": "1/8 vertical, 1/5 horizontal",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Sign is a decorative object."
+    },
+    {
+      "heading": "Styling signs",
+      "level": 2,
+      "text": "Signs have a character limit of 50, but adding this much text will make the sign illegible unless most extra characters are for Styling.\nSigns support some basic options for formatting using Unity's Rich Text format1, a markup language which resembles HTML in many aspects.\nSize is in pixels. Quotation marks are optional.\nThe list of supported colors are in the Unit manual.",
+      "table_data": [
+        {
+          "Element": "<b>",
+          "Effect": "Bold text",
+          "Example": "<b>Rare Stuff</b>"
+        },
+        {
+          "Element": "<size>",
+          "Effect": "adjust text Size*",
+          "Example": "<size=\"100\">MONEY</size>"
+        },
+        {
+          "Element": "<color>",
+          "Effect": "change text Color**",
+          "Example": "<color=\"red\">Raw Meat</color>"
+        },
+        {
+          "Element": "<i>",
+          "Effect": "Italicized text",
+          "Example": "<i>very</i> exclusive"
+        }
+      ]
+    },
+    {
+      "heading": "Examples",
+      "level": 2,
+      "text": "• <color=\"magenta\"><size=100>GRLZONLY</size></color>\n• <color=magenta><size=100>GRLZONLY</size></color>\nshould both produce the same result, according to Unity's website."
+    },
+    {
+      "heading": "Tips",
+      "level": 2,
+      "text": "• When placing a sign three dots will appear on the front face of the sign; be sure to align the sign using this indicator.\n• Using Unicode (emojis, etc.) may use up multiple characters.\n• To save characters, omit the closing tags. (technically invalid syntax)\n• Colorization can be done using HTML color tags: <#FF0000> for red, or can be done using the shorthand form <#FF0> for yellow.\n• Use \\n for newlines (or \\v for vertical tabs) rather than <br> for line breaks, to save two characters. Similarly, \\t can be used for horizontal tabs, and \\r for carriage returns.\n• Tag attribute quotes can be omitted. Thus <color=red> and <size=9>.\n• Text is always automatically centered and scaled, thus multiple newlines at the start or end, combined with a fixed size (prevent scaling) would push the text out of the Sign, effectively creating floating neon text!\n• Signs can be built inside dungeons, allowing for a cheap and easy way of indicating directions to avoid getting lost. Using a bright-color format is more recommended to easily read what is written due to the darkness.\n• Some stone walls have an irregular surface which protrudes through the sign and obscures the text. If this is the case, place one sign and then put a second one on top of it to hold your text."
+    }
+  ],
+  "full_text": "Sign\n\nType: Furniture | Internal ID: sign | Usage: Written notes (max 50 bytes in UTF-8) | Crafting Materials: Coal x1, Wood x2 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Sign is a decorative object.\n\nStyling signs. Signs have a character limit of 50, but adding this much text will make the sign illegible unless most extra characters are for Styling.\nSigns support some basic options for formatting using Unity's Rich Text format1, a markup language which resembles HTML in many aspects.\nSize is in pixels. Quotation marks are optional.\nThe list of supported colors are in the Unit manual.\n\nExamples. • <color=\"magenta\"><size=100>GRLZONLY</size></color>\n• <color=magenta><size=100>GRLZONLY</size></color>\nshould both produce the same result, according to Unity's website.\n\nTips. • When placing a sign three dots will appear on the front face of the sign; be sure to align the sign using this indicator.\n• Using Unicode (emojis, etc.) may use up multiple characters.\n• To save characters, omit the closing tags. (technically invalid syntax)\n• Colorization can be done using HTML color tags: <#FF0000> for red, or can be done using the shorthand form <#FF0> for yellow.\n• Use \\n for newlines (or \\v for vertical tabs) rather than <br> for line breaks, to save two characters. Similarly, \\t can be used for horizontal tabs, and \\r for carriage returns.\n• Tag attribute quotes can be omitted. Thus <color=red> and <size=9>.\n• Text is always automatically centered and scaled, thus multiple newlines at the start or end, combined with a fixed size (prevent scaling) would push the text out of the Sign, effectively creating floating neon text!\n• Signs can be built inside dungeons, allowing for a cheap and easy way of indicating directions to avoid getting lost. Using a bright-color format is more recommended to easily read what is written due to the darkness.\n• Some stone walls have an irregular surface which protrudes through the sign and obscures the text. If this is the case, place one sign and then put a second one on top of it to hold your text.",
+  "scraped_at": "2026-02-26T01:42:12.098980+00:00"
+}

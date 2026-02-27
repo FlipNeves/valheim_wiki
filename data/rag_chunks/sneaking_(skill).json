@@ -1,0 +1,11 @@
+{
+  "title": "Sneaking (skill)",
+  "url": "https://valheim.fandom.com/wiki/Sneaking_(skill)",
+  "slug": "Sneaking_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "content": "# Sneaking (skill)\n\nDescription: Determines stamina drain and visibility from mobs while sneaking.\n\n# Introduction\n\nSneaking is a skill.\n\n## Effects\n\nIt reduces the player's visibility to enemies and stamina drain while sneaking by up to 75% non-linearly, with more noticeable reductions in earlier levels.\n\n## Sneaking mechanics\n\nSneak skill also reduces your visibility to enemies as follows:\nWhile sneaking, your visibility is based on the light level of your position, represented in your HUD as a small bar under the reticle. This bar fills with white as you are in brighter locations, and lowers in darker locations. This value directly reduces the effective view range of enemies when considering if you are seen by them. For example, if that \"visibility meter\" is filled 80% white, then enemies around you have 80% of their view range when calculating if you're inside it.\nWith 0 skill, this meter will be at 50% in the darkest dark and 100% in the brightest bright. This means you can cut enemy view range in half at best, if it is dark enough. At 100 skill, the meter will be at 20% in the darkest dark, and 60% in the brightest bright.\nWhile sneaking you make no sound. Sneak considers line-of-sight, but is not chance-based. If the enemy has line-of-sight to you, and you are in their modified view range, they will see you. Enemies do have a frontal view-cone, but it is unknown what are the exact angles, which may vary per enemy.\nIf you are within one or more enemies' view range and none of them are alerted, you gain experience every second spent moving. It does not matter how many enemies you are sneaking near, how close you are, which way they are facing, how dark it is, or how visible you are. You do not have to sneak for a full second to benefit (fractional seconds of sneaking will accumulate).\nYou gain 10% of the base experience per second moving if there are no enemies nearby. Players do not count as enemies, even if pvp-enabled.\nFor an easier way to level up, one could have a wild Boar contained inside a safe area and sneak around it.\n\nCategorias: Skills",
+  "content_length": 2088,
+  "scraped_at": "2026-02-26T01:44:13.136839+00:00"
+}

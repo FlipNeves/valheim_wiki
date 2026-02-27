@@ -1,0 +1,111 @@
+{
+  "title": "Damage mechanics",
+  "url": "https://valheim.fandom.com/wiki/Damage_and_Blocking_Mechanics#Armor",
+  "slug": "Damage_and_Blocking_Mechanics#Armor",
+  "categories": [
+    "Gameplay",
+    "Mechanics"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "This page contains all current combat mechanics and stats."
+    },
+    {
+      "heading": "Damage",
+      "level": 2,
+      "text": "Damage is calculated with the following formula:\nd a m a g e = l i s t e d d a m a g e ⋅ s k i l l f a c t o r ⋅ m u l t i p l i e r s {\\displaystyle damage = listed\\,\\,damage \\cdot skill \\,factor \\cdot multipliers}\nl i s t e d d a m a g e = l i s t e d w e a p o n v a l u e + l i s t e d a m m o v a l u e {\\displaystyle listed\\, damage = listed\\, weapon\\, value + listed\\, ammo\\, value}\ns k i l l f a c t o r = { p l a y e r s : min ( [ 0.25 ⋯ 0.55 ] + 0.006 ⋅ s k i l l l e v e l , 1.0 ) e n e m i e s : 0.75 ⋯ 1.0 } {\\displaystyle skill\\,factor={\\begin{Bmatrix}players:\\min([0.25\\cdots 0.55]+0.006\\cdot skill\\,level,1.0)\\\\enemies:{\\sqrt {0.75\\cdots 1.0}}\\end{Bmatrix}}}\nm u l t i p l i e r s = b a c k s t a b b o n u s ⋅ s t a g g e r b o n u s ⋅ a t t a c k b o n u s ⋅ m u l t i t a r g e t p e n a l t y ⋅ d a m a g e t y p e m o d i f i e r {\\displaystyle multipliers = backstab \\ bonus \\cdot stagger \\ bonus \\cdot attack \\ bonus \\cdot multitarget \\ penalty \\cdot damage\\ type\\ modifier}\nd a m a g e t a k e n = { a r m o r < d a m a g e 2 : d a m a g e − a r m o r a r m o r ≥ d a m a g e 2 : d a m a g e 2 / ( 4 ⋅ a r m o r ) } {\\displaystyle damage\\, taken =\\begin{Bmatrix} armor<\\frac{damage}{2}:damage-armor \\\\ armor\\geq \\frac{damage}{2}: damage^2 / (4 \\cdot armor) \\end{Bmatrix}}\nNote: Only players have armor."
+    },
+    {
+      "heading": "Listed damage",
+      "level": 3,
+      "text": "On the weapon tooltip the orange number shows the listed damage (before the yellow parentheses). Damage from bows is calculated from the sum of listed bow and ammo damage.\nSome weapons have multiple types of damage (such as bows with their ammo or knives with both pierce and slash). In these cases, the resistances are applied separately to each damage type and then the armor is applied to the total damage.\nFor example 100 fire damage and 100 blunt damage with fire resist and 75 armor. First the resistance reduces fire damage to 50 and then 75 armor reduces the 150 total damage to 75. Final damage would be 25 fire and 50 blunt.\nMinimum damage from a creature = sqrt(.75) * damage. This modifier should be applied to the damage before taking armor, blocking, and other modifiers into account."
+    },
+    {
+      "heading": "Skill factor",
+      "level": 3,
+      "text": "On the weapon tooltip a damage range is shown in yellow parentheses. This is determined by the minimum and maximum value of the related skill factor multiplied with the listed damage.\n• Minimum damage increases linearly from 25% of weapon damage at skill level 0 to 85% of weapon damage at skill level 100.\n• Maximum damage increases linearly from 55% of weapon damage at skill level 0 to 100% of weapon damage at skill level 75 and above.\nConsequently:\n• Average damage increases linearly from 40% of weapon damage at skill level 0 to 85% of weapon damage at skill level 75, and to 92.5% of weapon damage at level 100.\nThis correspond to a 1.5% increase of the average damage per level up to level 75, and 0.75% after."
+    },
+    {
+      "heading": "Backstab bonus",
+      "level": 3,
+      "text": "Backstab bonus is applied when attacking unaware enemies. The damage multiplier is shown on the weapon tooltip (from 2x to 10x).\nBackstabbing an enemy gives it a backstab immunity for 5 minutes. Players are immune to backstab."
+    },
+    {
+      "heading": "Stagger bonus",
+      "level": 3,
+      "text": "Staggering is caused either by enough Staggering or by successfully parrying an attack. While staggered, the enemy is unable to act and takes double damage. Players can also get staggered but they won't take extra damage.\nStaggering is caused by Physical and Lightning damage. Some attacks cause increased Staggering.\nDuration of the stagger is different for every enemy and depends on the animation speed."
+    },
+    {
+      "heading": "Attack bonus",
+      "level": 3,
+      "text": "Weapons with an attack chain deal double damage on the third hit.\nMost secondary attacks also deal increased or reduced damage (from 0.5x to 3x).\nEnemies deal 4% more damage for each additional player within 200 meters of the target."
+    },
+    {
+      "heading": "Multitarget penalty",
+      "level": 3,
+      "text": "If applicable for the attack type, hitting multiple entities reduces the damage of the attack. The damage multiplier can be calculated with\nm u l t i p l i e r = 4 3 ⋅ t a r g e t s {\\displaystyle multiplier = \\frac{4}{3 \\cdot targets}}\n• 2 targets: 66.7%\n• 3 targets: 44.4%\n• 4 targets: 33.3%\n• 5 targets: 26.7%\nHowever the total damage will be 33.3% higher than when hitting a single target.\nTrees, rocks, and ground also count as a valid target, even if not using tools that can damage them. This often causes reduced damage when attacking enemies on a higher ground. Pickaxes also deal reduced damage when the hitbox intersects the ground, even though hitting rock makes the ground unaffected by the pickaxe.\nMost player weapons have the multitarget penalty; exceptions are Swords (one-handed primary attack), Clubs (two-handed), Polearms (secondary attack) and Axes (two-handed primary attack).\nMost melee creatures do not have the multitarget penalty; exceptions include but not limited to: Greydwarfs, Skeletons, Wolves. Players can take advantage of this mechanic against these creatures. For example, to parry a strong attack that the player otherwise couldn't, by standing next to a tree to reduce the damage by 33%."
+    },
+    {
+      "heading": "Damage type modifier",
+      "level": 3,
+      "text": "All attacks have a damage type. Enemies have weakness, resistance or immunity against different damage types. Players may also have weaknesses or resistances depending on their status effects and gear. The modifier for weakness and resistance is as follows:\n• Very weak: 200% damage\n• Weak: 150% damage\n• Neutral: 100% damage\n• Resistant: 50% damage\n• Very resistant: 25% damage\n• Immune: 0% damage\nSee Damage types for more info."
+    },
+    {
+      "heading": "Armor",
+      "level": 2,
+      "text": "Armor reduces damage taken from all damage types.\nIf armor is less than half of raw damage, health lost = damage - armor But if armor is more than half of the damage, health lost = (Damage / (Armor*4)) * Damage\nThe formula for \"diminishing returns\" is still fair from the perspective of effective HP. That is, the number of \"hits\" until death increases at the same rate, so each point of armor is worth as much as the next. The below table illustrates this:",
+      "table_data": [
+        {
+          "Armor": "0",
+          "Health Lost": "40",
+          "Hits until death": "2.5"
+        },
+        {
+          "Armor": "10",
+          "Health Lost": "30",
+          "Hits until death": "3.333"
+        },
+        {
+          "Armor": "20",
+          "Health Lost": "20",
+          "Hits until death": "5"
+        },
+        {
+          "Armor": "30",
+          "Health Lost": "13.333",
+          "Hits until death": "7.5"
+        },
+        {
+          "Armor": "40",
+          "Health Lost": "10",
+          "Hits until death": "10"
+        },
+        {
+          "Armor": "50",
+          "Health Lost": "8",
+          "Hits until death": "12.5"
+        },
+        {
+          "Armor": "60",
+          "Health Lost": "6.666",
+          "Hits until death": "15"
+        }
+      ]
+    },
+    {
+      "heading": "Blocking",
+      "level": 2,
+      "text": "Blocking reduces received damage by using the armor formula.\nBlocking has some benefits over dodging:\n• Blocking uses less stamina (except when parrying).\n• Blocking doesn't require precise timing.\n• Parrying causes stagger which doubles the damage."
+    },
+    {
+      "heading": "Dodging",
+      "level": 2,
+      "text": "Dodging turns the player briefly invulnerable, allowing to ignore most sources of damage.\nDodging uses a base 15 Stamina, modified by various effects:\n• Dodge (skill) reduces the stamina cost down to -50%.\n• Dodging an attack returns half the stamina cost.\n• Gear speed penalty increases the stamina cost by the same amount. For example, having -20% speed penalty gives +20% stamina cost.\n• Wearing an Asksvin cloak reduces by -15%, consuming a Berserkir mead by -80%.\nDodge cannot be performed while Encumbered.\nDodging has some benefits over blocking:\n• No damage limit.\n• Works against multiple enemies with the same stamina usage.\n• Allows repositioning by choosing the direction.\n• Works against attacks from any direction.\n• Dodging works against most attacks that cannot be blocked."
+    }
+  ],
+  "full_text": "Damage mechanics\n\nIntroduction. This page contains all current combat mechanics and stats.\n\nDamage. Damage is calculated with the following formula:\nd a m a g e = l i s t e d d a m a g e ⋅ s k i l l f a c t o r ⋅ m u l t i p l i e r s {\\displaystyle damage = listed\\,\\,damage \\cdot skill \\,factor \\cdot multipliers}\nl i s t e d d a m a g e = l i s t e d w e a p o n v a l u e + l i s t e d a m m o v a l u e {\\displaystyle listed\\, damage = listed\\, weapon\\, value + listed\\, ammo\\, value}\ns k i l l f a c t o r = { p l a y e r s : min ( [ 0.25 ⋯ 0.55 ] + 0.006 ⋅ s k i l l l e v e l , 1.0 ) e n e m i e s : 0.75 ⋯ 1.0 } {\\displaystyle skill\\,factor={\\begin{Bmatrix}players:\\min([0.25\\cdots 0.55]+0.006\\cdot skill\\,level,1.0)\\\\enemies:{\\sqrt {0.75\\cdots 1.0}}\\end{Bmatrix}}}\nm u l t i p l i e r s = b a c k s t a b b o n u s ⋅ s t a g g e r b o n u s ⋅ a t t a c k b o n u s ⋅ m u l t i t a r g e t p e n a l t y ⋅ d a m a g e t y p e m o d i f i e r {\\displaystyle multipliers = backstab \\ bonus \\cdot stagger \\ bonus \\cdot attack \\ bonus \\cdot multitarget \\ penalty \\cdot damage\\ type\\ modifier}\nd a m a g e t a k e n = { a r m o r < d a m a g e 2 : d a m a g e − a r m o r a r m o r ≥ d a m a g e 2 : d a m a g e 2 / ( 4 ⋅ a r m o r ) } {\\displaystyle damage\\, taken =\\begin{Bmatrix} armor<\\frac{damage}{2}:damage-armor \\\\ armor\\geq \\frac{damage}{2}: damage^2 / (4 \\cdot armor) \\end{Bmatrix}}\nNote: Only players have armor.\n\nListed damage. On the weapon tooltip the orange number shows the listed damage (before the yellow parentheses). Damage from bows is calculated from the sum of listed bow and ammo damage.\nSome weapons have multiple types of damage (such as bows with their ammo or knives with both pierce and slash). In these cases, the resistances are applied separately to each damage type and then the armor is applied to the total damage.\nFor example 100 fire damage and 100 blunt damage with fire resist and 75 armor. First the resistance reduces fire damage to 50 and then 75 armor reduces the 150 total damage to 75. Final damage would be 25 fire and 50 blunt.\nMinimum damage from a creature = sqrt(.75) * damage. This modifier should be applied to the damage before taking armor, blocking, and other modifiers into account.\n\nSkill factor. On the weapon tooltip a damage range is shown in yellow parentheses. This is determined by the minimum and maximum value of the related skill factor multiplied with the listed damage.\n• Minimum damage increases linearly from 25% of weapon damage at skill level 0 to 85% of weapon damage at skill level 100.\n• Maximum damage increases linearly from 55% of weapon damage at skill level 0 to 100% of weapon damage at skill level 75 and above.\nConsequently:\n• Average damage increases linearly from 40% of weapon damage at skill level 0 to 85% of weapon damage at skill level 75, and to 92.5% of weapon damage at level 100.\nThis correspond to a 1.5% increase of the average damage per level up to level 75, and 0.75% after.\n\nBackstab bonus. Backstab bonus is applied when attacking unaware enemies. The damage multiplier is shown on the weapon tooltip (from 2x to 10x).\nBackstabbing an enemy gives it a backstab immunity for 5 minutes. Players are immune to backstab.\n\nStagger bonus. Staggering is caused either by enough Staggering or by successfully parrying an attack. While staggered, the enemy is unable to act and takes double damage. Players can also get staggered but they won't take extra damage.\nStaggering is caused by Physical and Lightning damage. Some attacks cause increased Staggering.\nDuration of the stagger is different for every enemy and depends on the animation speed.\n\nAttack bonus. Weapons with an attack chain deal double damage on the third hit.\nMost secondary attacks also deal increased or reduced damage (from 0.5x to 3x).\nEnemies deal 4% more damage for each additional player within 200 meters of the target.\n\nMultitarget penalty. If applicable for the attack type, hitting multiple entities reduces the damage of the attack. The damage multiplier can be calculated with\nm u l t i p l i e r = 4 3 ⋅ t a r g e t s {\\displaystyle multiplier = \\frac{4}{3 \\cdot targets}}\n• 2 targets: 66.7%\n• 3 targets: 44.4%\n• 4 targets: 33.3%\n• 5 targets: 26.7%\nHowever the total damage will be 33.3% higher than when hitting a single target.\nTrees, rocks, and ground also count as a valid target, even if not using tools that can damage them. This often causes reduced damage when attacking enemies on a higher ground. Pickaxes also deal reduced damage when the hitbox intersects the ground, even though hitting rock makes the ground unaffected by the pickaxe.\nMost player weapons have the multitarget penalty; exceptions are Swords (one-handed primary attack), Clubs (two-handed), Polearms (secondary attack) and Axes (two-handed primary attack).\nMost melee creatures do not have the multitarget penalty; exceptions include but not limited to: Greydwarfs, Skeletons, Wolves. Players can take advantage of this mechanic against these creatures. For example, to parry a strong attack that the player otherwise couldn't, by standing next to a tree to reduce the damage by 33%.\n\nDamage type modifier. All attacks have a damage type. Enemies have weakness, resistance or immunity against different damage types. Players may also have weaknesses or resistances depending on their status effects and gear. The modifier for weakness and resistance is as follows:\n• Very weak: 200% damage\n• Weak: 150% damage\n• Neutral: 100% damage\n• Resistant: 50% damage\n• Very resistant: 25% damage\n• Immune: 0% damage\nSee Damage types for more info.\n\nArmor. Armor reduces damage taken from all damage types.\nIf armor is less than half of raw damage, health lost = damage - armor But if armor is more than half of the damage, health lost = (Damage / (Armor*4)) * Damage\nThe formula for \"diminishing returns\" is still fair from the perspective of effective HP. That is, the number of \"hits\" until death increases at the same rate, so each point of armor is worth as much as the next. The below table illustrates this:\n\nBlocking. Blocking reduces received damage by using the armor formula.\nBlocking has some benefits over dodging:\n• Blocking uses less stamina (except when parrying).\n• Blocking doesn't require precise timing.\n• Parrying causes stagger which doubles the damage.\n\nDodging. Dodging turns the player briefly invulnerable, allowing to ignore most sources of damage.\nDodging uses a base 15 Stamina, modified by various effects:\n• Dodge (skill) reduces the stamina cost down to -50%.\n• Dodging an attack returns half the stamina cost.\n• Gear speed penalty increases the stamina cost by the same amount. For example, having -20% speed penalty gives +20% stamina cost.\n• Wearing an Asksvin cloak reduces by -15%, consuming a Berserkir mead by -80%.\nDodge cannot be performed while Encumbered.\nDodging has some benefits over blocking:\n• No damage limit.\n• Works against multiple enemies with the same stamina usage.\n• Allows repositioning by choosing the direction.\n• Works against attacks from any direction.\n• Dodging works against most attacks that cannot be blocked.",
+  "scraped_at": "2026-02-26T02:05:40.931129+00:00"
+}

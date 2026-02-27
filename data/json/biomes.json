@@ -1,0 +1,85 @@
+{
+  "title": "Biomes",
+  "url": "https://valheim.fandom.com/wiki/Biomes",
+  "slug": "Biomes",
+  "categories": [
+    "Biomes"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Biomes are regions in the world of Valheim that can be distinguished by their unique aesthetics, as well as the creatures and resources contained within. Additionally, almost every biome is the domain of one of the Forsaken.",
+      "table_data": [
+        {
+          "Biome": "",
+          "Description": "Early Game",
+          "Availability (from the world center)": ""
+        },
+        {
+          "Biome": "Meadows",
+          "Description": "Starting biome of new worlds filled with Birch, Beech, and Oak trees which is inhabited by low level mobs.",
+          "Availability (from the world center)": "From 0 to 5100 meters"
+        },
+        {
+          "Biome": "Black Forest",
+          "Description": "Dark and hostile forest of Fir and Pine trees with more resources, including Corewood, Tin, and Copper.",
+          "Availability (from the world center)": "From 500 to 8000 meters"
+        },
+        {
+          "Biome": "Ocean",
+          "Description": "Found off the coast in deep waters. Home to Leviathans and Sea Serpents.",
+          "Availability (from the world center)": "Below -26 meters altitude (excluding Ashlands)"
+        },
+        {
+          "Biome": "",
+          "Description": "Mid Game",
+          "Availability (from the world center)": ""
+        },
+        {
+          "Biome": "Swamp",
+          "Description": "Dangerous, shadowy area with shallow water full of Leeches, Crypts filled with Draugrs, and poisonous Blobs.",
+          "Availability (from the world center)": "From 2000 to 6000 meters (for worlds created after Mistlands update. In older worlds, 2000 to 8000 meters)."
+        },
+        {
+          "Biome": "Mountain",
+          "Description": "Tall frozen mountains teeming with Wolves and flying Drakes that resist the biome's biting cold.",
+          "Availability (from the world center)": "Above 50 meters altitude (excluding Ashlands), from 600 meters"
+        },
+        {
+          "Biome": "Plains",
+          "Description": "Warm sunny area with golden grass and killer bugs. Home to the Fuling clan, Lox and Deathsquitoes.",
+          "Availability (from the world center)": "From 2900 to 8000 meters"
+        },
+        {
+          "Biome": "",
+          "Description": "Late Game",
+          "Availability (from the world center)": ""
+        },
+        {
+          "Biome": "Mistlands",
+          "Description": "A fog-covered land with rocky terrain and Yggdrasil shoots, inhabited by Hares, Dvergrs and hostile insects such as Seekers.",
+          "Availability (from the world center)": "From 5900 to 10000 meters"
+        },
+        {
+          "Biome": "Ashlands",
+          "Description": "A fiery realm, the terrain changes the more inland one travels, with central parts taken up by lava. The undead army of Charred make up most of the population.",
+          "Availability (from the world center)": "South edge of the world"
+        },
+        {
+          "Biome": "Deep North",
+          "Description": "(Unfinished)Snow-capped hills with frozen rivers in the far north of Valheim.",
+          "Availability (from the world center)": "North edge of the world"
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The term \"biome\" comes from the ecological concept of the same name.\n• At Valheim's launch in February 2021, five of the planned nine biomes were made available to explore. The other four were accessible, but lacked any meaningful content."
+    }
+  ],
+  "full_text": "Biomes\n\nIntroduction. Biomes are regions in the world of Valheim that can be distinguished by their unique aesthetics, as well as the creatures and resources contained within. Additionally, almost every biome is the domain of one of the Forsaken.\n\nTrivia. • The term \"biome\" comes from the ecological concept of the same name.\n• At Valheim's launch in February 2021, five of the planned nine biomes were made available to explore. The other four were accessible, but lacked any meaningful content.",
+  "scraped_at": "2026-02-26T01:05:14.857327+00:00"
+}

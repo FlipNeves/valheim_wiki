@@ -1,0 +1,36 @@
+{
+  "title": "Spicy marmalade",
+  "url": "https://valheim.fandom.com/wiki/Spicy_marmalade",
+  "slug": "Spicy_marmalade",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Spicy marmalade",
+    "Type": "Food",
+    "Internal ID": "SpicyMarmalade",
+    "Source": "Cauldron",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Vineberry cluster x3, Honey x1, Fiddlehead x1",
+    "Max Health": "30",
+    "Max Stamina": "90",
+    "Duration": "25m",
+    "Healing": "4 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Spicy marmalade is an Ashlands-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Spicy marmalade is produced at a level 5 Cauldron with:\n• 3 Vineberry cluster\n• 1 Honey\n• 1 Fiddlehead"
+    }
+  ],
+  "full_text": "Spicy marmalade\n\nType: Food | Internal ID: SpicyMarmalade | Source: Cauldron | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Vineberry cluster x3, Honey x1, Fiddlehead x1 | Max Health: 30 | Max Stamina: 90 | Duration: 25m | Healing: 4 hp/tick\n\nIntroduction. Spicy marmalade is an Ashlands-tier food.\n\nRecipe. Spicy marmalade is produced at a level 5 Cauldron with:\n• 3 Vineberry cluster\n• 1 Honey\n• 1 Fiddlehead",
+  "scraped_at": "2026-02-26T01:28:56.505456+00:00"
+}

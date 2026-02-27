@@ -1,0 +1,131 @@
+{
+  "title": "Charred Warrior",
+  "url": "https://valheim.fandom.com/wiki/Charred_Warrior",
+  "slug": "Charred_Warrior",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Charred Warrior",
+    "Internal ID": "Charred_Melee",
+    "Faction": "Demon",
+    "Main biome": "Ashlands",
+    "Drops": "Charred bone | Warrior trophy",
+    "Abilities": "Swing (3s), Thrust (3s), Feint (8s), Thrust feint (3s)",
+    "Trophy": "Warrior trophy",
+    "Weak to (x1.5)": "Spirit",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Frost, ,, Lightning, ,, Stagger",
+    "Resistant to (x0.5)": "Pierce",
+    "Very resistant to (x0.25)": "Fire",
+    "Immune to (x0)": "Poison, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Charred Warriors are hostile enemies found in the Ashlands."
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Middle of the Ashlands during the daytime",
+          "Limit": "2",
+          "Frequency": "Common",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Middle of the Ashlands during the nighttime, despawn at dawn",
+          "Limit": "none",
+          "Frequency": "Common",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Randomly from Monument of Torment when a player is nearby",
+          "Limit": "none",
+          "Frequency": "Uncommon",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Randomly from Monument of Torment (Elite) when a player is nearby",
+          "Limit": "none",
+          "Frequency": "Uncommon",
+          "Stars": "Yes (2 stars only)"
+        },
+        {
+          "Type": "Randomly from Effigy of Malice inside Charred Fortress when a player is nearby",
+          "Limit": "none",
+          "Frequency": "Uncommon",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Anywhere in the Meadows, Black Forests, Swamp, Mountains or Plains during the nighttime after defeating Fader, despawn at dawn",
+          "Limit": "3",
+          "Frequency": "Very rare",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"The undead army marches.\" event before defeating Fader",
+          "Limit": "3",
+          "Frequency": "Very common",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"The dead have been summoned.\" event (summoned by Monument of Torment) before defeating Fader",
+          "Limit": "none",
+          "Frequency": "Uncommon",
+          "Stars": "Yes"
+        }
+      ]
+    },
+    {
+      "heading": "Swing",
+      "level": 3,
+      "text": "A vertical sword slash that creates a 3-meter 115-degree arc in front (150 Slash damage). It can be used every 3 seconds when within 1.6 meters of a player."
+    },
+    {
+      "heading": "Thrust",
+      "level": 3,
+      "text": "A forward stab that extends in a 3-meter line which arcs slightly by 10 degrees (160 Pierce damage). This attack can be used every 3 seconds when within 1.6 meters of a player."
+    },
+    {
+      "heading": "Feint",
+      "level": 3,
+      "text": "Shares the same windup as the swing, but they will suddenly pause before shifting stances to attack with a different slash that hits in a 3-meter 77.3-degree vertical arc (130 Slash damage). It can be used every 8 seconds when within 1.6 meters of a player. There is practically no difference between the animation for this attack and that of the regular swing[1]; there is more than enough time to react and parry again, but the attack will catch rolling players unless completely moving out of their range."
+    },
+    {
+      "heading": "Thrust feint",
+      "level": 3,
+      "text": "Shares the same windup as the thrust, but they will suddenly pause before attacking with an upward swing from their current stance (160 Pierce damage). This attack creates a vertical arc that is 3 meters long and spans 60 degrees. It can be used every 3 seconds when within 1.6 meters of a player. Similar to the regular feint, there is practically no difference between the animation for this attack and that of the regular thrust[2]; there is more than enough time to react and parry again, but the attack will catch rolling players unless completely moving out of their range."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Charred bone",
+          "0 Star": "1-2",
+          "1 Star": "2-4",
+          "2 Star": "4-8"
+        },
+        {
+          "Item": "Warrior trophy",
+          "0 Star": "5%",
+          "1 Star": "5%",
+          "2 Star": "5%"
+        }
+      ]
+    },
+    {
+      "heading": "Tips",
+      "level": 2,
+      "text": "• It is difficult to predict whether an attack is a feint or not, to parry the attack effectively the player can try to parry the first part of the attack, if no parry animation is played the attack is a feint, then the player can quickly release and hold the block button again to parry the second part."
+    }
+  ],
+  "full_text": "Charred Warrior\n\nInternal ID: Charred_Melee | Faction: Demon | Main biome: Ashlands | Drops: Charred bone | Warrior trophy | Abilities: Swing (3s), Thrust (3s), Feint (8s), Thrust feint (3s) | Trophy: Warrior trophy | Weak to (x1.5): Spirit | Neutral to (x1): Blunt, ,, Slash, ,, Frost, ,, Lightning, ,, Stagger | Resistant to (x0.5): Pierce | Very resistant to (x0.25): Fire | Immune to (x0): Poison, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Charred Warriors are hostile enemies found in the Ashlands.\n\nSwing. A vertical sword slash that creates a 3-meter 115-degree arc in front (150 Slash damage). It can be used every 3 seconds when within 1.6 meters of a player.\n\nThrust. A forward stab that extends in a 3-meter line which arcs slightly by 10 degrees (160 Pierce damage). This attack can be used every 3 seconds when within 1.6 meters of a player.\n\nFeint. Shares the same windup as the swing, but they will suddenly pause before shifting stances to attack with a different slash that hits in a 3-meter 77.3-degree vertical arc (130 Slash damage). It can be used every 8 seconds when within 1.6 meters of a player. There is practically no difference between the animation for this attack and that of the regular swing[1]; there is more than enough time to react and parry again, but the attack will catch rolling players unless completely moving out of their range.\n\nThrust feint. Shares the same windup as the thrust, but they will suddenly pause before attacking with an upward swing from their current stance (160 Pierce damage). This attack creates a vertical arc that is 3 meters long and spans 60 degrees. It can be used every 3 seconds when within 1.6 meters of a player. Similar to the regular feint, there is practically no difference between the animation for this attack and that of the regular thrust[2]; there is more than enough time to react and parry again, but the attack will catch rolling players unless completely moving out of their range.\n\nTips. • It is difficult to predict whether an attack is a feint or not, to parry the attack effectively the player can try to parry the first part of the attack, if no parry animation is played the attack is a feint, then the player can quickly release and hold the block button again to parry the second part.",
+  "scraped_at": "2026-02-26T01:06:41.735333+00:00"
+}

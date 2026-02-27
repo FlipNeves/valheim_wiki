@@ -1,0 +1,41 @@
+{
+  "title": "Tonic of Ratatosk",
+  "url": "https://valheim.fandom.com/wiki/Tonic_of_Ratatosk",
+  "slug": "Tonic_of_Ratatosk",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Tonic of Ratatosk",
+    "Type": "Mead",
+    "Internal ID": "MeadHasty",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mead base: Ratatosk x1",
+    "Duration": "10m",
+    "Cooldown": "0s",
+    "Other Effect(s)": "+15% walking and running speed, +7.5% swimming speed"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Tonic of Ratatosk is a Swamp-tier consumable item fermented from Mead base: Ratatosk."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Mead base: Ratatosk is produced in a Mead ketill with:\n• 10 Honey\n• 10 Blueberries\n• 1 Cured squirrel hamstring\nSix Tonics of Ratatosk are produced by fermenting the mead base for two in-game days."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Consuming it increases player walking and running speed by 15%, and swimming speed by 7.5%."
+    }
+  ],
+  "full_text": "Tonic of Ratatosk\n\nType: Mead | Internal ID: MeadHasty | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Ratatosk x1 | Duration: 10m | Cooldown: 0s | Other Effect(s): +15% walking and running speed, +7.5% swimming speed\n\nIntroduction. Tonic of Ratatosk is a Swamp-tier consumable item fermented from Mead base: Ratatosk.\n\nRecipe. Mead base: Ratatosk is produced in a Mead ketill with:\n• 10 Honey\n• 10 Blueberries\n• 1 Cured squirrel hamstring\nSix Tonics of Ratatosk are produced by fermenting the mead base for two in-game days.\n\nEffect. Consuming it increases player walking and running speed by 15%, and swimming speed by 7.5%.",
+  "scraped_at": "2026-02-26T02:12:17.279746+00:00"
+}

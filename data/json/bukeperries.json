@@ -1,0 +1,41 @@
+{
+  "title": "Bukeperries",
+  "url": "https://valheim.fandom.com/wiki/Bukeperries",
+  "slug": "Bukeperries",
+  "categories": [
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Bukeperries",
+    "Internal ID": "Pukeberries",
+    "Source": "Fuling shaman, ,, Greydwarf shaman",
+    "Usage": "Clearing active Food Buffs",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Duration": "15s",
+    "Other Effect(s)": "Health regen: -100%, Stamina regen: -100%, Movement speed: -50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bukeperries are a type of consumable."
+    },
+    {
+      "heading": "Description",
+      "level": 2,
+      "text": "While being a consumable like other food items, consuming a Bukeperry will not grant any food effects, but instead make the player regurgitate for about 15 seconds. In the process, all active food effects are cleared.\nAfter the effect has completed, the player is free to eat new or different foods."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Drops from Fuling shaman.\n• Drops from Greydwarf shaman."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "While the \"puke\" effect plays, movement is impaired, health is reset to the base 25, and the player takes seven points of damage, making them vulnerable.\nWhile the \"puke\" effect plays, the player will lose one food effect every few seconds. Eating new food before the \"puke\" effect has completed will clear its effect as well, effectively wasting the food.\nThe same effect is achievable with the \"puke\" devcommand, which was available before the Hearth & Home update.\nEating Rotten meat has the same effect as eating Bukeperries and serves as a late game alternative.\nBukeperries is Spoonerism for \"Puke Berries\", being a berry that will make you puke.\nBukeperries, along with the Toadstool, may be an allusion to psychedelics and more specifically ayahuasca, a nauseating psychedelic brew of tree roots the indigenous 'magic men' or shamans of South America used to receive messages from the transmundane, as ayahuasca is notorious for making the consumer vomit and only shaman type enemies drop them."
+    }
+  ],
+  "full_text": "Bukeperries\n\nInternal ID: Pukeberries | Source: Fuling shaman, ,, Greydwarf shaman | Usage: Clearing active Food Buffs | Teleportable (Can go through wood portal?): Yes | Duration: 15s | Other Effect(s): Health regen: -100%, Stamina regen: -100%, Movement speed: -50%\n\nIntroduction. Bukeperries are a type of consumable.\n\nDescription. While being a consumable like other food items, consuming a Bukeperry will not grant any food effects, but instead make the player regurgitate for about 15 seconds. In the process, all active food effects are cleared.\nAfter the effect has completed, the player is free to eat new or different foods.\n\nAvailability. • Drops from Fuling shaman.\n• Drops from Greydwarf shaman.\n\nNotes. While the \"puke\" effect plays, movement is impaired, health is reset to the base 25, and the player takes seven points of damage, making them vulnerable.\nWhile the \"puke\" effect plays, the player will lose one food effect every few seconds. Eating new food before the \"puke\" effect has completed will clear its effect as well, effectively wasting the food.\nThe same effect is achievable with the \"puke\" devcommand, which was available before the Hearth & Home update.\nEating Rotten meat has the same effect as eating Bukeperries and serves as a late game alternative.\nBukeperries is Spoonerism for \"Puke Berries\", being a berry that will make you puke.\nBukeperries, along with the Toadstool, may be an allusion to psychedelics and more specifically ayahuasca, a nauseating psychedelic brew of tree roots the indigenous 'magic men' or shamans of South America used to receive messages from the transmundane, as ayahuasca is notorious for making the consumer vomit and only shaman type enemies drop them.",
+  "scraped_at": "2026-02-26T02:00:51.678347+00:00"
+}

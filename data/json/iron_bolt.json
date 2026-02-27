@@ -1,0 +1,31 @@
+{
+  "title": "Iron bolt",
+  "url": "https://valheim.fandom.com/wiki/Iron_bolt",
+  "slug": "Iron_bolt",
+  "categories": [
+    "Weapons",
+    "Bolts",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Iron bolt",
+    "Internal ID": "BoltIron",
+    "Type": "Bolt",
+    "Source": "Black forge",
+    "Crafting Materials": "Wood x8, Feathers x2, Iron x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Iron bolts are ammunition for crossbows and are the next direct upgrade from Bone bolts."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "It is unlocked after building or using a black forge and is also crafted at one."
+    }
+  ],
+  "full_text": "Iron bolt\n\nInternal ID: BoltIron | Type: Bolt | Source: Black forge | Crafting Materials: Wood x8, Feathers x2, Iron x1\n\nIntroduction. Iron bolts are ammunition for crossbows and are the next direct upgrade from Bone bolts.\n\nAvailability. It is unlocked after building or using a black forge and is also crafted at one.",
+  "scraped_at": "2026-02-26T01:15:47.211221+00:00"
+}

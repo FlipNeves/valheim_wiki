@@ -1,0 +1,35 @@
+{
+  "title": "Growth trophy",
+  "url": "https://valheim.fandom.com/wiki/Growth_trophy",
+  "slug": "Growth_trophy",
+  "categories": [
+    "Trophies"
+  ],
+  "infobox": {
+    "_infobox_title": "Growth trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyGrowth",
+    "Source": "Growth",
+    "Usage": "Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Growth trophy is a rare (10% chance) item dropped by Growths."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Blob bomb Tar"
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed on an item stand.\n• Can be used to program Balistas."
+    }
+  ],
+  "full_text": "Growth trophy\n\nType: Trophy | Internal ID: TrophyGrowth | Source: Growth | Usage: Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Growth trophy is a rare (10% chance) item dropped by Growths.\n\nCrafting. • Blob bomb Tar\n\nMisc. • Can be displayed on an item stand.\n• Can be used to program Balistas.",
+  "scraped_at": "2026-02-26T02:05:12.873127+00:00"
+}

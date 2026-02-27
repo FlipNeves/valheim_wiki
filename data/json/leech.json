@@ -1,0 +1,71 @@
+{
+  "title": "Leech",
+  "url": "https://valheim.fandom.com/wiki/Leech",
+  "slug": "Leech",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Leech",
+    "Internal ID": "Leech",
+    "Faction": "Undead",
+    "Main biome": "Swamp",
+    "Drops": "Bloodbag | Leech trophy",
+    "Abilities": "Bite",
+    "Trophy": "Leech trophy",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Poison",
+    "Immune to (x0)": "Fire, ,, Spirit, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Leeches are aggressive creatures found in Swamps. They are enlarged, aquatic annelid worms that feed off their victims by sucking their blood."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Bloodbag",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Leech trophy",
+          "0 Star": "10%",
+          "1 Star": "10%",
+          "2 Star": "10%"
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Anywhere in waters of Swamps",
+          "Limit": "10",
+          "Frequency": "Common",
+          "Stars": "Yes"
+        }
+      ]
+    },
+    {
+      "heading": "Bite",
+      "level": 3,
+      "text": "Extends their head forward slightly and bites in a 1.5-meter 48.5-degree arc, inflicting the Poison status (20 Pierce and 70 Poison damage). This attack has a 2-second cooldown and can be used within 1.5 meters of a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Whereas regular Leeches are black and red, One-Star leeches are a bright, poisonous green, and Two-Star leeches are purple and bright magenta.\n• Despite the bright colors of the One- and Two-Star Leeches, the darkness of the Swamp can often make it extremely hard to identify the level of a Leech, especially at a distance; using the targeting reticle at close-range to view its rarity is often the most reliable way.\n• Leeches are only on the undead faction because undead don't have blood to drink so they ignore eachother."
+    }
+  ],
+  "full_text": "Leech\n\nInternal ID: Leech | Faction: Undead | Main biome: Swamp | Drops: Bloodbag | Leech trophy | Abilities: Bite | Trophy: Leech trophy | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning | Resistant to (x0.5): Poison | Immune to (x0): Fire, ,, Spirit, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. Leeches are aggressive creatures found in Swamps. They are enlarged, aquatic annelid worms that feed off their victims by sucking their blood.\n\nBite. Extends their head forward slightly and bites in a 1.5-meter 48.5-degree arc, inflicting the Poison status (20 Pierce and 70 Poison damage). This attack has a 2-second cooldown and can be used within 1.5 meters of a player.\n\nNotes. • Whereas regular Leeches are black and red, One-Star leeches are a bright, poisonous green, and Two-Star leeches are purple and bright magenta.\n• Despite the bright colors of the One- and Two-Star Leeches, the darkness of the Swamp can often make it extremely hard to identify the level of a Leech, especially at a distance; using the targeting reticle at close-range to view its rarity is often the most reliable way.\n• Leeches are only on the undead faction because undead don't have blood to drink so they ignore eachother.",
+  "scraped_at": "2026-02-26T01:08:23.490305+00:00"
+}

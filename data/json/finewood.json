@@ -1,0 +1,26 @@
+{
+  "title": "Finewood",
+  "url": "https://valheim.fandom.com/wiki/Finewood",
+  "slug": "Finewood",
+  "categories": [
+    "Wood",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Finewood",
+    "Type": "Wood",
+    "Internal ID": "FineWood",
+    "Source": "Birch, ,, Oak",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Finewood is a crafting resource obtained by chopping down Birch and Oak trees in the Meadows or Plains biomes. The Plains feature plentiful Birch trees, though the dangerous enemies and hazards within tend to make farming Finewood there infeasible until later in the game. Both Birch and Oak trees can be found scattered through forested parts of the Meadows biome. When harvesting them, the player should be careful to preserve any seeds that may be recovered, since they will be able to plant these later for a new supply of wood (Acorns from Oak trees are particularly rare).\nBirch and Oak trees require at least a Bronze axe to chop. This usually means that players must first defeat Eikthyr and craft the Antler pickaxe, which unlocks the ability to mine the ore required for the Bronze axe.\nFinewood can also be looted from Shipwrecks on the coasts of the Black Forest biome, or recovered from furniture in derelict Ruined Towers. A Stone axe is the only requirement to dismantle objects made of Finewood, and shipwrecks in particular may yield a considerable amount. Alternatively, the player can fell or roll other nearby trees or tree trunks onto Birch or Oak trees to knock them down, then repeatedly roll the logs into each other and other trees to damage them (rocks will not work). In this way, players can collect a quantity of Finewood early on. Similarly, a Troll or other large creature may be kited into destroying the trees (another slow, but viable process)."
+    }
+  ],
+  "full_text": "Finewood\n\nType: Wood | Internal ID: FineWood | Source: Birch, ,, Oak | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nAvailability. Finewood is a crafting resource obtained by chopping down Birch and Oak trees in the Meadows or Plains biomes. The Plains feature plentiful Birch trees, though the dangerous enemies and hazards within tend to make farming Finewood there infeasible until later in the game. Both Birch and Oak trees can be found scattered through forested parts of the Meadows biome. When harvesting them, the player should be careful to preserve any seeds that may be recovered, since they will be able to plant these later for a new supply of wood (Acorns from Oak trees are particularly rare).\nBirch and Oak trees require at least a Bronze axe to chop. This usually means that players must first defeat Eikthyr and craft the Antler pickaxe, which unlocks the ability to mine the ore required for the Bronze axe.\nFinewood can also be looted from Shipwrecks on the coasts of the Black Forest biome, or recovered from furniture in derelict Ruined Towers. A Stone axe is the only requirement to dismantle objects made of Finewood, and shipwrecks in particular may yield a considerable amount. Alternatively, the player can fell or roll other nearby trees or tree trunks onto Birch or Oak trees to knock them down, then repeatedly roll the logs into each other and other trees to damage them (rocks will not work). In this way, players can collect a quantity of Finewood early on. Similarly, a Troll or other large creature may be kited into destroying the trees (another slow, but viable process).",
+  "scraped_at": "2026-02-26T01:33:36.382017+00:00"
+}

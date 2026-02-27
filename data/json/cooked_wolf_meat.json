@@ -1,0 +1,44 @@
+{
+  "title": "Wolf meat",
+  "url": "https://valheim.fandom.com/wiki/Cooked_wolf_meat",
+  "slug": "Cooked_wolf_meat",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Wolf meat",
+    "Type": "Material",
+    "Internal ID": "WolfMeat",
+    "Source": "Wolf",
+    "Usage": "Cauldron, ,, Cooking station",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wolf meat is a basic food source obtained by killing Wolves.\nWhen uncooked, it may be used to make the balanced dish Wolf jerky, or the health dish Wolf skewer. When placed on a Cooking station or Iron cooking station, it can be turned into Cooked wolf meat, or Coal if left to burn."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Creature": "Wolf",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        }
+      ]
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Cooked wolf meat\n• Coal, if left on a Cooking station for too long\n• 2 Wolf jerky made using 1x Honey and 1x Wolf meat\n• Wolf skewer made using 1x Wolf meat, 2x Mushroom and 1x Onion\nCooked wolf meat cannot be used to craft recipes using Wolf meat as ingredient."
+    }
+  ],
+  "full_text": "Wolf meat\n\nType: Material | Internal ID: WolfMeat | Source: Wolf | Usage: Cauldron, ,, Cooking station | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Wolf meat is a basic food source obtained by killing Wolves.\nWhen uncooked, it may be used to make the balanced dish Wolf jerky, or the health dish Wolf skewer. When placed on a Cooking station or Iron cooking station, it can be turned into Cooked wolf meat, or Coal if left to burn.\n\nCrafting. • Cooked wolf meat\n• Coal, if left on a Cooking station for too long\n• 2 Wolf jerky made using 1x Honey and 1x Wolf meat\n• Wolf skewer made using 1x Wolf meat, 2x Mushroom and 1x Onion\nCooked wolf meat cannot be used to craft recipes using Wolf meat as ingredient.",
+  "scraped_at": "2026-02-26T02:10:50.168997+00:00"
+}

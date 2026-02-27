@@ -1,0 +1,35 @@
+{
+  "title": "Vile trophy",
+  "url": "https://valheim.fandom.com/wiki/Vile_trophy",
+  "slug": "Vile_trophy",
+  "categories": [
+    "Trophies"
+  ],
+  "infobox": {
+    "_infobox_title": "Vile trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyBjornUndead",
+    "Source": "Vile",
+    "Usage": "Crafting, Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Vile trophy is a rare drop from Viles in the Plains."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Vilebone Visage"
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed in an Item Stand.\n• Can be used to program the Ballista."
+    }
+  ],
+  "full_text": "Vile trophy\n\nType: Trophy | Internal ID: TrophyBjornUndead | Source: Vile | Usage: Crafting, Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Vile trophy is a rare drop from Viles in the Plains.\n\nCrafting. • Vilebone Visage\n\nMisc. • Can be displayed in an Item Stand.\n• Can be used to program the Ballista.",
+  "scraped_at": "2026-02-26T02:09:06.419996+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Bronze Pendant",
+  "url": "https://valheim.fandom.com/wiki/Bronze_Pendant",
+  "slug": "Bronze_Pendant",
+  "categories": [
+    "Trinket"
+  ],
+  "infobox": {
+    "_infobox_title": "Bronze Pendant",
+    "Internal ID": "TrinketBronzeStamina",
+    "Type": "Trinkets",
+    "Source": "Forge",
+    "Crafting Materials": "Bronze x5, Bear trophy x1, Ruby x3",
+    "Adrenaline Cost": "50",
+    "Effect": "+25% stamina regen",
+    "Duration": "1m"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bronze Pendant is a Black Forest-tier trinket, and one of the first available in the game."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Once 50 Adrenaline has been gained, the Bronze Pendant will trigger automatically, providing +25% stamina regeneration for 60 seconds."
+    }
+  ],
+  "full_text": "Bronze Pendant\n\nInternal ID: TrinketBronzeStamina | Type: Trinkets | Source: Forge | Crafting Materials: Bronze x5, Bear trophy x1, Ruby x3 | Adrenaline Cost: 50 | Effect: +25% stamina regen | Duration: 1m\n\nIntroduction. Bronze Pendant is a Black Forest-tier trinket, and one of the first available in the game.\n\nEffects. Once 50 Adrenaline has been gained, the Bronze Pendant will trigger automatically, providing +25% stamina regeneration for 60 seconds.",
+  "scraped_at": "2026-02-26T02:09:44.361542+00:00"
+}

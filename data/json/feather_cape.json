@@ -1,0 +1,71 @@
+{
+  "title": "Feather cape",
+  "url": "https://valheim.fandom.com/wiki/Feather_cape",
+  "slug": "Feather_cape",
+  "categories": [
+    "Armor",
+    "Capes"
+  ],
+  "infobox": {
+    "_infobox_title": "Feather cape",
+    "Internal ID": "CapeFeather",
+    "Type": "Cape",
+    "Source": "Galdr table",
+    "Crafting Materials": "Feather x6, Scale hide x15, Refined eitr x9",
+    "Armor": "4",
+    "Resistances": "Feather fall | FireFrost"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Feather cape is a craftable Armor piece that grants the Feather fall effect consisting of 100% fall damage reduction and fall speed limited to 5 m/s. It provides resistance to frost, however it is very weak against fire. To counter this weakness, it is best to equip a Fire resistance barley wine when fighting enemies with Fire damage, such as a Gjall or the Dvergr fire mage.\nThis cape is ideal for traversing the rough valleys of the Mistlands terrain where one can climb tall rocks and glide over obstacles. \"Sprinting\" while gliding affects the falling angle, but also consumes Stamina."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Durability",
+          "Quality 1": "1200",
+          "Quality 2": "1250",
+          "Quality 3": "1300",
+          "Quality 4": "1350",
+          "Total": ""
+        },
+        {
+          "stat": "Armor",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4",
+          "Total": ""
+        },
+        {
+          "stat": "Cost",
+          "Quality 1": "10 Feathers5 Scale hide20 Refined eitr",
+          "Quality 2": "2 Feathers5 Scale hide3 Refined eitr",
+          "Quality 3": "4 Feathers10 Scale hide6 Refined eitr",
+          "Quality 4": "6 Feathers15 Scale hide9 Refined eitr",
+          "Total": "22 Feathers35 Scale hide38 Refined eitr"
+        },
+        {
+          "stat": "Galdr table level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4",
+          "Total": ""
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• It was changed in the Ashlands update to have Very weak vs fire and +20% jump height bonus. The jump bonus was removed with the The Bog Witch update in favor of the Lightfoot mead."
+    }
+  ],
+  "full_text": "Feather cape\n\nInternal ID: CapeFeather | Type: Cape | Source: Galdr table | Crafting Materials: Feather x6, Scale hide x15, Refined eitr x9 | Armor: 4 | Resistances: Feather fall | FireFrost\n\nIntroduction. Feather cape is a craftable Armor piece that grants the Feather fall effect consisting of 100% fall damage reduction and fall speed limited to 5 m/s. It provides resistance to frost, however it is very weak against fire. To counter this weakness, it is best to equip a Fire resistance barley wine when fighting enemies with Fire damage, such as a Gjall or the Dvergr fire mage.\nThis cape is ideal for traversing the rough valleys of the Mistlands terrain where one can climb tall rocks and glide over obstacles. \"Sprinting\" while gliding affects the falling angle, but also consumes Stamina.\n\nTrivia. • It was changed in the Ashlands update to have Very weak vs fire and +20% jump height bonus. The jump bonus was removed with the The Bog Witch update in favor of the Lightfoot mead.",
+  "scraped_at": "2026-02-26T01:21:50.862942+00:00"
+}

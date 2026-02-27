@@ -1,0 +1,97 @@
+{
+  "title": "Charred Twitcher",
+  "url": "https://valheim.fandom.com/wiki/Charred_Twitcher",
+  "slug": "Charred_Twitcher",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Charred Twitcher",
+    "Internal ID": "Charred_Twitcher",
+    "Faction": "Demon",
+    "Main biome": "Ashlands",
+    "Drops": "Charred bone",
+    "Abilities": "Scratch (3s each for 2 variants), Throw (6s)",
+    "Weak to (x1.5)": "Spirit",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Frost, ,, Lightning, ,, Stagger",
+    "Resistant to (x0.5)": "Pierce",
+    "Very resistant to (x0.25)": "Fire",
+    "Immune to (x0)": "Poison, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Charred Twitchers are hostile enemies found in the Ashlands. These guys are always twitching, as their name suggests.\nThere is an alternate summoned version, with only 50 health, invoked by Warlocks, see Summoned Twitcher."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "Charred Twitchers have no trophy.",
+      "table_data": [
+        {
+          "Item": "Charred bone",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Middle of the Ashlands during the daytime",
+          "Limit": "4",
+          "Frequency": "Common",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Middle of the Ashlands during the nighttime, despawn at dawn",
+          "Limit": "5",
+          "Frequency": "Common",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Randomly from Monument of Torment when a player is nearby",
+          "Limit": "none",
+          "Frequency": "Common",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Randomly from Monument of Torment (Elite) when a player is nearby",
+          "Limit": "none",
+          "Frequency": "Common",
+          "Stars": "Yes (2 stars only)"
+        },
+        {
+          "Type": "During \"The undead army marches.\" event before defeating Fader",
+          "Limit": "3",
+          "Frequency": "Very common",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"The dead have been summoned.\" event (summoned by Monument of Torment) before defeating Fader",
+          "Limit": "none",
+          "Frequency": "Very common",
+          "Stars": "Yes"
+        }
+      ]
+    },
+    {
+      "heading": "Scratch",
+      "level": 3,
+      "text": "Swipes at the player with one of its claws (100 Slash damage). This attack has two variations, each with its own 3-second cooldown: one with the left claw and one with the right. Both variations swing in a 3-meter 115-degree horizontal arc and can be used when within 1.6 meters of a player."
+    },
+    {
+      "heading": "Throw",
+      "level": 3,
+      "text": "Picks up a stone from the ground and lobs it at the player (75 Pierce damage). The stone travels at a random velocity between 50–60 meters per second, with a spread of 4–20 degrees. It can travel for up to 4 seconds before despawning. This attack can be used every 6 seconds when between 6–40 meters of a player."
+    }
+  ],
+  "full_text": "Charred Twitcher\n\nInternal ID: Charred_Twitcher | Faction: Demon | Main biome: Ashlands | Drops: Charred bone | Abilities: Scratch (3s each for 2 variants), Throw (6s) | Weak to (x1.5): Spirit | Neutral to (x1): Blunt, ,, Slash, ,, Frost, ,, Lightning, ,, Stagger | Resistant to (x0.5): Pierce | Very resistant to (x0.25): Fire | Immune to (x0): Poison, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Charred Twitchers are hostile enemies found in the Ashlands. These guys are always twitching, as their name suggests.\nThere is an alternate summoned version, with only 50 health, invoked by Warlocks, see Summoned Twitcher.\n\nDrops. Charred Twitchers have no trophy.\n\nScratch. Swipes at the player with one of its claws (100 Slash damage). This attack has two variations, each with its own 3-second cooldown: one with the left claw and one with the right. Both variations swing in a 3-meter 115-degree horizontal arc and can be used when within 1.6 meters of a player.\n\nThrow. Picks up a stone from the ground and lobs it at the player (75 Pierce damage). The stone travels at a random velocity between 50–60 meters per second, with a spread of 4–20 degrees. It can travel for up to 4 seconds before despawning. This attack can be used every 6 seconds when between 6–40 meters of a player.",
+  "scraped_at": "2026-02-26T01:06:32.703899+00:00"
+}

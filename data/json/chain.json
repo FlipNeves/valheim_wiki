@@ -1,0 +1,45 @@
+{
+  "title": "Chain",
+  "url": "https://valheim.fandom.com/wiki/Chain",
+  "slug": "Chain",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Chain",
+    "Type": "Material",
+    "Internal ID": "Chain",
+    "Source": "Wraith, ,, Sunken Crypts",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Chain is an item which can only be found as a drop or loot. It cannot be crafted."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Wraith drop\n• Found as loot in Sunken Crypts chests.\n• Found in Swamp Chest, located at various Point of interest in the Swamp.\n• Found in chest in Sealed Tower.\n• Found by deconstructing hook and chains in Dvergr Harbors and Dvergr Excavation Sites."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Forge bellows\n• Hanging brazier\n• Iron cooking station\n• Dvergr lantern pole\n• Dvergr wall lantern"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Black metal shield\n• Black metal tower shield\n• Wolf armor chest"
+    },
+    {
+      "heading": "Upgrading",
+      "level": 3,
+      "text": "• Black metal shield\n• Black metal tower shield"
+    }
+  ],
+  "full_text": "Chain\n\nType: Material | Internal ID: Chain | Source: Wraith, ,, Sunken Crypts | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Chain is an item which can only be found as a drop or loot. It cannot be crafted.\n\nAvailability. • Wraith drop\n• Found as loot in Sunken Crypts chests.\n• Found in Swamp Chest, located at various Point of interest in the Swamp.\n• Found in chest in Sealed Tower.\n• Found by deconstructing hook and chains in Dvergr Harbors and Dvergr Excavation Sites.\n\nBuilding. • Forge bellows\n• Hanging brazier\n• Iron cooking station\n• Dvergr lantern pole\n• Dvergr wall lantern\n\nCrafting. • Black metal shield\n• Black metal tower shield\n• Wolf armor chest\n\nUpgrading. • Black metal shield\n• Black metal tower shield",
+  "scraped_at": "2026-02-26T01:31:56.500014+00:00"
+}

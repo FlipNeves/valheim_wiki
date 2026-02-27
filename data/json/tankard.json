@@ -1,0 +1,32 @@
+{
+  "title": "Tankard",
+  "url": "https://valheim.fandom.com/wiki/Tankard",
+  "slug": "Tankard",
+  "categories": [
+    "Tools",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Tankard",
+    "Internal ID": "Tankard",
+    "Type": "Tool",
+    "Source": "Workbench",
+    "Usage": "Consuming mead",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Finewood x5, Resin x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Tankards are items used to consume mead from within an inventory. Mead can, however, be consumed without the use of a tankard."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The description \"Skål!\" is Swedish, Norwegian and Danish for \"toast!\", or \"cheers!\"\n• The Horn of Celebration is a special tankard marking the one-year anniversary of the release of Valheim.\n• The Dvergr tankard is a rare tankard variant which can only be found in the Mistlands.\n• If there is no mead in the player's inventory and they attempt to use the Tankard, a message will display, \"You are out of mead\" even though the model of the Tankard shows liquid inside."
+    }
+  ],
+  "full_text": "Tankard\n\nInternal ID: Tankard | Type: Tool | Source: Workbench | Usage: Consuming mead | Wielding: One-handed | Crafting Materials: Finewood x5, Resin x2\n\nIntroduction. Tankards are items used to consume mead from within an inventory. Mead can, however, be consumed without the use of a tankard.\n\nNotes. • The description \"Skål!\" is Swedish, Norwegian and Danish for \"toast!\", or \"cheers!\"\n• The Horn of Celebration is a special tankard marking the one-year anniversary of the release of Valheim.\n• The Dvergr tankard is a rare tankard variant which can only be found in the Mistlands.\n• If there is no mead in the player's inventory and they attempt to use the Tankard, a message will display, \"You are out of mead\" even though the model of the Tankard shows liquid inside.",
+  "scraped_at": "2026-02-26T01:40:12.380416+00:00"
+}

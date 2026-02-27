@@ -1,0 +1,125 @@
+{
+  "title": "Greydwarf shaman",
+  "url": "https://valheim.fandom.com/wiki/Greydwarf_shaman",
+  "slug": "Greydwarf_shaman",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Greydwarf shaman",
+    "Internal ID": "Greydwarf_Shaman",
+    "Faction": "Forest",
+    "Main biome": "Black Forest",
+    "Drops": "Greydwarf eye | Greydwarf Shaman trophy | Resin | Wood | Bukeperries",
+    "Abilities": "Magic attack (8s), Attack (2s), Heal (10s)",
+    "Trophy": "Greydwarf Shaman trophy",
+    "Very weak to (x2)": "Fire",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Stagger",
+    "Resistant to (x0.5)": "Poison",
+    "Immune to (x0)": "Spirit, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "33%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Greydwarf shamans are aggressive creatures found in Black Forests. They are mossy tree-like beings that act primarily as healers in patrols while also possessing the ability to cast a ranged poison attack."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Greydwarf eye",
+          "0 Star": "50%",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Greydwarf Shaman trophy",
+          "0 Star": "10%",
+          "1 Star": "10%",
+          "2 Star": "10%"
+        },
+        {
+          "Item": "Resin",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Wood",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Bukeperries",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Anywhere in Black Forest during the nighttime, despawn at dawn",
+          "Limit": "2",
+          "Frequency": "Very common",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Anywhere in Meadows during the nighttime after defeating The Elder, despawn at dawn",
+          "Limit": "1",
+          "Frequency": "Common",
+          "Stars": "No"
+        },
+        {
+          "Type": "1 spawn point near small ruins in Black Forest",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Rarely from Greydwarf nests in Black Forest",
+          "Limit": "3",
+          "Frequency": "12 seconds",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "During \"The forest is moving...\" event before defeating The Elder",
+          "Limit": "1",
+          "Frequency": "Very common",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Magic attack",
+      "level": 3,
+      "text": "[1] Creates a 7-meter 35-degree conical blast that inflicts Poison (30 Poison damage). This ability can be used every 8 seconds within 2–5 meters of a player, making it possible to disable the attack by standing close. This attack cannot be blocked."
+    },
+    {
+      "heading": "Attack",
+      "level": 3,
+      "text": "Swings their hand sideways in a 1.7-meter 90-degree horizontal arc to scratch the player (14 Slash damage). This attack can be used every 2 seconds when within 1.2 meters of a player."
+    },
+    {
+      "heading": "Heal",
+      "level": 3,
+      "text": "Lifts both hands up to create a healing mist that heals allies for a total of 20 health, ticking every 0.5 seconds in a 4.32-meter radius around the shaman. However, the effect only lasts for 3.5 seconds, meaning that 17.5 health is healed instead of the full 20."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Whereas ordinary Greydwarf shamans have brown bark flecked with green, One-star Greydwarf shamans have green bark flecked with teal, and Two-stars have blue bark flecked with teal."
+    }
+  ],
+  "full_text": "Greydwarf shaman\n\nInternal ID: Greydwarf_Shaman | Faction: Forest | Main biome: Black Forest | Drops: Greydwarf eye | Greydwarf Shaman trophy | Resin | Wood | Bukeperries | Abilities: Magic attack (8s), Attack (2s), Heal (10s) | Trophy: Greydwarf Shaman trophy | Very weak to (x2): Fire | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Stagger | Resistant to (x0.5): Poison | Immune to (x0): Spirit, ,, Chop, ,, Pickaxe | Stagger limit: 33%\n\nIntroduction. Greydwarf shamans are aggressive creatures found in Black Forests. They are mossy tree-like beings that act primarily as healers in patrols while also possessing the ability to cast a ranged poison attack.\n\nMagic attack. [1] Creates a 7-meter 35-degree conical blast that inflicts Poison (30 Poison damage). This ability can be used every 8 seconds within 2–5 meters of a player, making it possible to disable the attack by standing close. This attack cannot be blocked.\n\nAttack. Swings their hand sideways in a 1.7-meter 90-degree horizontal arc to scratch the player (14 Slash damage). This attack can be used every 2 seconds when within 1.2 meters of a player.\n\nHeal. Lifts both hands up to create a healing mist that heals allies for a total of 20 health, ticking every 0.5 seconds in a 4.32-meter radius around the shaman. However, the effect only lasts for 3.5 seconds, meaning that 17.5 health is healed instead of the full 20.\n\nNotes. • Whereas ordinary Greydwarf shamans have brown bark flecked with green, One-star Greydwarf shamans have green bark flecked with teal, and Two-stars have blue bark flecked with teal.",
+  "scraped_at": "2026-02-26T01:07:54.250269+00:00"
+}

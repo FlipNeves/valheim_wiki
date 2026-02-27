@@ -1,0 +1,75 @@
+{
+  "title": "Forge",
+  "url": "https://valheim.fandom.com/wiki/Forge",
+  "slug": "Forge",
+  "categories": [
+    "Crafting structures",
+    "Crafting",
+    "Building"
+  ],
+  "infobox": {
+    "_infobox_title": "Forge",
+    "Type": "Crafting",
+    "Skill": "Crafting",
+    "Internal ID": "forge",
+    "Source": "Workbench",
+    "Usage": "Build, and, Craft, metal items",
+    "Max Level": "7",
+    "Improvements": "Forge bellows | Anvils | Grinding wheel | Smith's anvil | Forge cooler | Forge toolrack",
+    "Crafting Materials": "Stone x4, Coal x4, Wood x10, Copper x6",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Forges are base structures used for building, crafting and repairing metal items. They require a roof and 70% cover to be usable. Repairing items does not cost any resources."
+    },
+    {
+      "heading": "Upgrades",
+      "level": 2,
+      "text": "Upgrading a forge enables additional crafting recipes and higher upgrade levels for items. Each level also increases the build radius by three meters, up to a maximum of 38 meters. A forge can be upgraded up to level seven by building following structures near it:",
+      "table_data": [
+        {
+          "Icon": "",
+          "Name": "Forge cooler",
+          "Materials": "25 Finewood 10 Copper"
+        },
+        {
+          "Icon": "",
+          "Name": "Anvils",
+          "Materials": "5 Wood 2 Bronze"
+        },
+        {
+          "Icon": "",
+          "Name": "Smith's anvil",
+          "Materials": "5 Wood 20 Iron"
+        },
+        {
+          "Icon": "",
+          "Name": "Forge toolrack",
+          "Materials": "10 Wood 15 Iron"
+        },
+        {
+          "Icon": "",
+          "Name": "Forge bellows",
+          "Materials": "5 Wood 5 Deer hide 4 Chain"
+        },
+        {
+          "Icon": "",
+          "Name": "Grinding wheel",
+          "Materials": "25 Wood 1 Sharpening stone(Requires Stonecutter)"
+        },
+        {
+          "stat": "Total (Forge included)",
+          "Name": "60 Wood 25 Finewood 16 Copper 2 Bronze 35 Iron 5 Deer hide 4 Stone 4 Coal 4 Chain 1 Sharpening stone(Requires Stonecutter)"
+        }
+      ]
+    }
+  ],
+  "full_text": "Forge\n\nType: Crafting | Skill: Crafting | Internal ID: forge | Source: Workbench | Usage: Build, and, Craft, metal items | Max Level: 7 | Improvements: Forge bellows | Anvils | Grinding wheel | Smith's anvil | Forge cooler | Forge toolrack | Crafting Materials: Stone x4, Coal x4, Wood x10, Copper x6 | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Forges are base structures used for building, crafting and repairing metal items. They require a roof and 70% cover to be usable. Repairing items does not cost any resources.\n\nUpgrades. Upgrading a forge enables additional crafting recipes and higher upgrade levels for items. Each level also increases the build radius by three meters, up to a maximum of 38 meters. A forge can be upgraded up to level seven by building following structures near it:",
+  "scraped_at": "2026-02-26T01:38:33.979997+00:00"
+}

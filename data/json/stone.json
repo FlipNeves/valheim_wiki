@@ -1,0 +1,40 @@
+{
+  "title": "Stone",
+  "url": "https://valheim.fandom.com/wiki/Stone",
+  "slug": "Stone",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Stone",
+    "Type": "Material",
+    "Internal ID": "Stone",
+    "Source": "Stones,, Greydwarf, ,, Greydwarf brute, ,, Stone Golem",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Stone is a basic resource. It can be used as a material to build structures with the hammer, or craft weapons and tools from the Workbench and the Forge."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Scavenging stones scattered on the ground. They do not respawn.\n• Mining larger chunks of stone, Copper deposits and Silver veins with a pickaxe.\n• Dropped by Greydwarf, Greydwarf brute and Stone Golem."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Hammer\n• Hoe\n• Sharpening stone\n• Stone axe"
+    },
+    {
+      "heading": "Terraforming",
+      "level": 3,
+      "text": "• Laying Paved road with a Hoe.\n• Raising the ground level with a Hoe."
+    }
+  ],
+  "full_text": "Stone\n\nType: Material | Internal ID: Stone | Source: Stones,, Greydwarf, ,, Greydwarf brute, ,, Stone Golem | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Stone is a basic resource. It can be used as a material to build structures with the hammer, or craft weapons and tools from the Workbench and the Forge.\n\nAvailability. • Scavenging stones scattered on the ground. They do not respawn.\n• Mining larger chunks of stone, Copper deposits and Silver veins with a pickaxe.\n• Dropped by Greydwarf, Greydwarf brute and Stone Golem.\n\nCrafting. • Hammer\n• Hoe\n• Sharpening stone\n• Stone axe\n\nTerraforming. • Laying Paved road with a Hoe.\n• Raising the ground level with a Hoe.",
+  "scraped_at": "2026-02-26T01:36:49.788657+00:00"
+}

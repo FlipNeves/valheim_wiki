@@ -1,0 +1,138 @@
+{
+  "title": "Carapace Armor",
+  "url": "https://valheim.fandom.com/wiki/Carapace_breastplate",
+  "slug": "Carapace_breastplate",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Carapace Armor is a Mistlands-tier armor. This set is the tier above Padded Armor and is replaced by Flametal Armor, the Ask Set, and the Embla Set."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "This set of armor has three pieces which are crafted and upgraded at the Black forge.",
+      "table_data": [
+        {
+          "Armor piece": "Carapace helmet",
+          "Armor": "32",
+          "Crafting cost": "16 Carapace3 Scale hide2 Mandible4 Refined eitr",
+          "Weight": "3.0"
+        },
+        {
+          "Armor piece": "Carapace breastplate",
+          "Armor": "32",
+          "Crafting cost": "20 Carapace3 Scale hide5 Iron4 Refined eitr",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Carapace greaves",
+          "Armor": "32",
+          "Crafting cost": "20 Carapace3 Scale hide5 Iron4 Refined eitr",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "96",
+          "Crafting cost": "56 Carapace9 Scale hide2 Mandible10 Iron12 Refined eitr",
+          "Weight": "23.0",
+          "Movementspeed": "-10%"
+        },
+        {
+          "Armor piece": "Carapace helmet",
+          "Armor": "34",
+          "Upgrade cost(Total cost)": "8 (24) Carapace1 (4) Scale hide0 (2) Mandible2 (6) Refined eitr",
+          "Weight": "3.0"
+        },
+        {
+          "Armor piece": "Carapace breastplate",
+          "Armor": "34",
+          "Upgrade cost(Total cost)": "10 (30) Carapace1 (4) Scale hide0 (5) Iron2 (6) Refined eitr",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Carapace greaves",
+          "Armor": "34",
+          "Upgrade cost(Total cost)": "10 (30) Carapace1 (4) Scale hide0 (5) Iron2 (6) Refined eitr",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "102",
+          "Upgrade cost(Total cost)": "28 (84) Carapace3 (12) Scale hide0 (2) Mandible0 (10) Iron6 (18) Refined eitr",
+          "Weight": "23.0",
+          "Movementspeed": "-10%"
+        },
+        {
+          "Armor piece": "Carapace helmet",
+          "Armor": "36",
+          "Upgrade cost(Total cost)": "16 (40) Carapace2 (6) Scale hide0 (2) Mandible4 (10) Refined eitr",
+          "Weight": "3.0"
+        },
+        {
+          "Armor piece": "Carapace breastplate",
+          "Armor": "36",
+          "Upgrade cost(Total cost)": "20 (50) Carapace2 (6) Scale hide0 (5) Iron4 (10) Refined eitr",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Carapace greaves",
+          "Armor": "36",
+          "Upgrade cost(Total cost)": "20 (50) Carapace2 (6) Scale hide0 (5) Iron4 (10) Refined eitr",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "108",
+          "Upgrade cost(Total cost)": "56 (140) Carapace6 (18) Scale hide0 (2) Mandible0 (10) Iron12 (30) Refined eitr",
+          "Weight": "23.0",
+          "Movementspeed": "-10%"
+        },
+        {
+          "Armor piece": "Carapace helmet",
+          "Armor": "38",
+          "Upgrade cost(Total cost)": "24 (64) Carapace3 (9) Scale hide0 (2) Mandible6 (16) Refined eitr",
+          "Weight": "3.0"
+        },
+        {
+          "Armor piece": "Carapace breastplate",
+          "Armor": "38",
+          "Upgrade cost(Total cost)": "30 (80) Carapace3 (9) Scale hide0 (5) Iron6 (16) Refined eitr",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Carapace greaves",
+          "Armor": "38",
+          "Upgrade cost(Total cost)": "30 (80) Carapace3 (9) Scale hide0 (5) Iron6 (16) Refined eitr",
+          "Weight": "10.0",
+          "Movementspeed": "-5%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "114",
+          "Upgrade cost(Total cost)": "84 (224) Carapace9 (27) Scale hide0 (2) Mandible0 (10) Iron18 (48) Refined eitr",
+          "Weight": "23.0",
+          "Movementspeed": "-10%"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• At its lowest level, Carapace Armor has identical stats to Padded Armor at max level, except for in durability, where Padded armor has more."
+    }
+  ],
+  "full_text": "Carapace Armor\n\nIntroduction. Carapace Armor is a Mistlands-tier armor. This set is the tier above Padded Armor and is replaced by Flametal Armor, the Ask Set, and the Embla Set.\n\nArmor pieces. This set of armor has three pieces which are crafted and upgraded at the Black forge.\n\nNotes. • At its lowest level, Carapace Armor has identical stats to Padded Armor at max level, except for in durability, where Padded armor has more.",
+  "scraped_at": "2026-02-26T02:07:51.419181+00:00"
+}

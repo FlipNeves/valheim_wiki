@@ -1,0 +1,58 @@
+{
+  "title": "Magecap",
+  "url": "https://valheim.fandom.com/wiki/Magecap",
+  "slug": "Magecap",
+  "categories": [
+    "Food",
+    "Farming",
+    "Seeds",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Magecap",
+    "Type": "Food",
+    "Internal ID": "MushroomMagecap",
+    "Source": "Gathered in, Mistlands, and farmable",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "25",
+    "Max Stamina": "25",
+    "Max Eitr": "25",
+    "Duration": "15m",
+    "Healing": "1 hp/tick",
+    "Produces": "3 Magecaps",
+    "Grow Time (s)": "1h 6m 40s, -, 1h 23m 20s",
+    "Needs Cultivated Ground?": "Yes",
+    "Space Needed (m)": "1.6",
+    "Hospitable Biomes": "Mistlands"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Magecaps are crops which grow in the Mistlands. They can be found naturally in the biome and farmed by planting them using a Cultivator."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Magecaps are gathered in the Mistlands.\n• Using a Cultivator, they can be planted in cultivated soil in the Mistlands, which is the only biome they will grow in. Like Flax and Barley, it is planted directly, rather than needing to farm seeds first. One cultivated Magecap will yield three Magecap."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "• Can be replanted to produce more Magecap using a Cultivator within the Mistlands.\n• Can be eaten directly, although the Health and Stamina provided are far inferior to the other food items available in its tier."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Uncooked magically stuffed shroom\n• Mead base: Minor eitr\n• Seeker aspic\n• Sparkling shroomshake\n• Marinated greens\n• Mead base: Lightfoot"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The Magecap is the first food available that increases the player's Eitr when consumed."
+    }
+  ],
+  "full_text": "Magecap\n\nType: Food | Internal ID: MushroomMagecap | Source: Gathered in, Mistlands, and farmable | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Max Health: 25 | Max Stamina: 25 | Max Eitr: 25 | Duration: 15m | Healing: 1 hp/tick | Produces: 3 Magecaps | Grow Time (s): 1h 6m 40s, -, 1h 23m 20s | Needs Cultivated Ground?: Yes | Space Needed (m): 1.6 | Hospitable Biomes: Mistlands\n\nIntroduction. Magecaps are crops which grow in the Mistlands. They can be found naturally in the biome and farmed by planting them using a Cultivator.\n\nAvailability. • Magecaps are gathered in the Mistlands.\n• Using a Cultivator, they can be planted in cultivated soil in the Mistlands, which is the only biome they will grow in. Like Flax and Barley, it is planted directly, rather than needing to farm seeds first. One cultivated Magecap will yield three Magecap.\n\nUsage. • Can be replanted to produce more Magecap using a Cultivator within the Mistlands.\n• Can be eaten directly, although the Health and Stamina provided are far inferior to the other food items available in its tier.\n\nCrafting. • Uncooked magically stuffed shroom\n• Mead base: Minor eitr\n• Seeker aspic\n• Sparkling shroomshake\n• Marinated greens\n• Mead base: Lightfoot\n\nNotes. • The Magecap is the first food available that increases the player's Eitr when consumed.",
+  "scraped_at": "2026-02-26T01:26:50.715468+00:00"
+}

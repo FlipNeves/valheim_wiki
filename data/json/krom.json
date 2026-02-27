@@ -1,0 +1,72 @@
+{
+  "title": "Krom",
+  "url": "https://valheim.fandom.com/wiki/Krom",
+  "slug": "Krom",
+  "categories": [
+    "Weapons",
+    "Swords",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Krom",
+    "Internal ID": "THSwordKrom",
+    "Type": "Sword",
+    "Source": "Black forge",
+    "Usage": "Weapon",
+    "Wielding": "Two-handed",
+    "Crafting Materials": "Iron x45, Bronze x30, Scale hide x15",
+    "Attack speed": "2.16 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "3 range, 30 angle, 1.0 height, 0.5 ray",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Krom is the first two-handed sword. Its primary attack is a wide 3-hit attack combo with double damage on the last hit. Its slower secondary attack is a thrust that deals 3x damage."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Slash",
+          "Quality 1": "150",
+          "Quality 2": "156",
+          "Quality 3": "162",
+          "Quality 4": "168"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "30 Iron20 Bronze5 Scale hide",
+          "Quality 2": "15 Iron10 bronze5 Scale hide",
+          "Quality 3": "30 Iron20 bronze10 Scale hide",
+          "Quality 4": "45 Iron30 bronze15 Scale hide"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The attacks are fairly vertical & wide reaching on the primary attacks with the third attack in the combo being more narrow in the horizonal range\n• The secondary attack is a long reaching thrust that is capable of outreaching most enemies with very excellent damage.\n• Brenna, found in the Smouldering Tomb dungeon, is equipped with a fiery version of Krom with a fiery explosion instead of the thrust.\n• Sword is named after Crom - chief god of Cimmerians from the Conan the Barbarian book series by Robert E. Howard."
+    }
+  ],
+  "full_text": "Krom\n\nInternal ID: THSwordKrom | Type: Sword | Source: Black forge | Usage: Weapon | Wielding: Two-handed | Crafting Materials: Iron x45, Bronze x30, Scale hide x15 | Attack speed: 2.16 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 3 range, 30 angle, 1.0 height, 0.5 ray | Movement speed: -5%\n\nIntroduction. Krom is the first two-handed sword. Its primary attack is a wide 3-hit attack combo with double damage on the last hit. Its slower secondary attack is a thrust that deals 3x damage.\n\nNotes. • The attacks are fairly vertical & wide reaching on the primary attacks with the third attack in the combo being more narrow in the horizonal range\n• The secondary attack is a long reaching thrust that is capable of outreaching most enemies with very excellent damage.\n• Brenna, found in the Smouldering Tomb dungeon, is equipped with a fiery version of Krom with a fiery explosion instead of the thrust.\n• Sword is named after Crom - chief god of Cimmerians from the Conan the Barbarian book series by Robert E. Howard.",
+  "scraped_at": "2026-02-26T01:16:38.890129+00:00"
+}

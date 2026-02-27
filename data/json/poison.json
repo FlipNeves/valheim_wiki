@@ -1,0 +1,36 @@
+{
+  "title": "Poison",
+  "url": "https://valheim.fandom.com/wiki/Poison",
+  "slug": "Poison",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Poison",
+    "Effects": "Applies damage over time"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Poison is a negative status effect that applies a damage overtime effect on the affected entity. It is caused by Poison damage.\nAll resistances like Poison resistance mead are applied at the time of creating the effect and ignored on tick. Therefore any change to resistances after the effect start doesn't change it."
+    },
+    {
+      "heading": "Stacking",
+      "level": 3,
+      "text": "Poison damage does not stack. The effect calculates how much damage remains to be dealt, and if a new poisonous attacks deals more poison damage than the remaining one, the effect is re-created. Otherwise, that incoming damage is ignored."
+    },
+    {
+      "heading": "Calculations",
+      "level": 2,
+      "text": "Duration from total damage is calculated (see below for more precise numbers) as ⌈ ( 1 + X ∗ d a m a g e ) ⌉ {\\displaystyle \\lceil (1+{\\sqrt {X*damage}})\\rceil } where X is 5 against players and 1 against enemies. This means Poison lasts roughly twice as long for players and halves the tick damage. See further section for the technical details.\nTick damage is calculated with t o t a l d a m a g e d u r a t i o n {\\displaystyle {total \\ damage \\over duration}} ."
+    },
+    {
+      "heading": "Extra damage",
+      "level": 3,
+      "text": "Theoretically, the total damage from all ticks should be the same as initial value, but due to rounding the total damage is slightly higher.\n• First we take non-integer value of d u r a t i o n {\\displaystyle duration} as: 1 + X ∗ d a m a g e {\\displaystyle 1+{\\sqrt {X*damage}}}\n• then we take d a m a g e P e r H i t = t o t a l D a m a g e ⌊ d u r a t i o n ⌋ {\\displaystyle damagePerHit={\\frac {totalDamage}{\\lfloor duration\\rfloor }}}\n• then actual number of ticks is ⌊ d u r a t i o n 1.02 ⌋ + 1 {\\displaystyle \\lfloor {\\frac {duration}{1.02}}\\rfloor +1} .\nWhere does this come from? Due to floating number peculiarities[1] and the fact, that Valheim runs physics on fixed 50 FPS, every tick takes 1.02 seconds, but since first tick happens at the beginning of duration, when time = 0, we have an extra one.\nHere's a table with calculations for various damage values: Poison damage google spreadsheets."
+    }
+  ],
+  "full_text": "Poison\n\nEffects: Applies damage over time\n\nIntroduction. Poison is a negative status effect that applies a damage overtime effect on the affected entity. It is caused by Poison damage.\nAll resistances like Poison resistance mead are applied at the time of creating the effect and ignored on tick. Therefore any change to resistances after the effect start doesn't change it.\n\nStacking. Poison damage does not stack. The effect calculates how much damage remains to be dealt, and if a new poisonous attacks deals more poison damage than the remaining one, the effect is re-created. Otherwise, that incoming damage is ignored.\n\nCalculations. Duration from total damage is calculated (see below for more precise numbers) as ⌈ ( 1 + X ∗ d a m a g e ) ⌉ {\\displaystyle \\lceil (1+{\\sqrt {X*damage}})\\rceil } where X is 5 against players and 1 against enemies. This means Poison lasts roughly twice as long for players and halves the tick damage. See further section for the technical details.\nTick damage is calculated with t o t a l d a m a g e d u r a t i o n {\\displaystyle {total \\ damage \\over duration}} .\n\nExtra damage. Theoretically, the total damage from all ticks should be the same as initial value, but due to rounding the total damage is slightly higher.\n• First we take non-integer value of d u r a t i o n {\\displaystyle duration} as: 1 + X ∗ d a m a g e {\\displaystyle 1+{\\sqrt {X*damage}}}\n• then we take d a m a g e P e r H i t = t o t a l D a m a g e ⌊ d u r a t i o n ⌋ {\\displaystyle damagePerHit={\\frac {totalDamage}{\\lfloor duration\\rfloor }}}\n• then actual number of ticks is ⌊ d u r a t i o n 1.02 ⌋ + 1 {\\displaystyle \\lfloor {\\frac {duration}{1.02}}\\rfloor +1} .\nWhere does this come from? Due to floating number peculiarities[1] and the fact, that Valheim runs physics on fixed 50 FPS, every tick takes 1.02 seconds, but since first tick happens at the beginning of duration, when time = 0, we have an extra one.\nHere's a table with calculations for various damage values: Poison damage google spreadsheets.",
+  "scraped_at": "2026-02-26T01:50:53.322699+00:00"
+}

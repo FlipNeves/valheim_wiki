@@ -1,0 +1,1446 @@
+{
+  "title": "Damage",
+  "url": "https://valheim.fandom.com/wiki/Damage#Lightning",
+  "slug": "Damage#Lightning",
+  "categories": [
+    "Gameplay",
+    "Mechanics"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Damage is a reduction of an entity's health points. It affects much of the core gameplay mechanics. Almost every entity, object, or structure utilizes this system in some way."
+    },
+    {
+      "heading": "Damage types",
+      "level": 2,
+      "text": "• Physical Blunt Pierce Slash\n• Elemental Fire Poison Frost Spirit Lightning\n• Terrain Chop (Woodcutting) Pickaxe (Mining) Pure"
+    },
+    {
+      "heading": "Resistances and weaknesses",
+      "level": 2,
+      "text": "Resistances and weaknesses determine how much damage is taken from different damage types. Creatures have innate resistances and weaknesses but are also affected by some status effects. Players may acquire resistances and weaknesses from armor, meads or status effects.\nAt the bottom of this page is a chart of creature Weaknesses, Resistances and Immunities.",
+      "table_data": [
+        {
+          "stat": "Very Weak",
+          "Damage %": "200%",
+          "Damage x": "x2"
+        },
+        {
+          "stat": "Weak",
+          "Damage %": "150%",
+          "Damage x": "x1.5"
+        },
+        {
+          "stat": "Neutral",
+          "Damage %": "100%",
+          "Damage x": "x1"
+        },
+        {
+          "stat": "Resistant",
+          "Damage %": "50%",
+          "Damage x": "x0.5"
+        },
+        {
+          "stat": "Very Resistant",
+          "Damage %": "25%",
+          "Damage x": "x0.25"
+        },
+        {
+          "stat": "Immune",
+          "Damage %": "0%",
+          "Damage x": "x0"
+        }
+      ]
+    },
+    {
+      "heading": "Weak points",
+      "level": 3,
+      "text": "Certain enemies have weak points: areas of their body on which attacks deal different (and usually increased) damage. The mechanics behind this are simple: Each weak point has its own set of resistances defined, and any attacks which hit a weak point use that weak point's own set of resistances in place of the creature's base resistance values for damage calculations."
+    },
+    {
+      "heading": "Physical",
+      "level": 2,
+      "text": "Physical damage can be blocked and is reduced by armor. Physical damage also causes staggering."
+    },
+    {
+      "heading": "Blunt",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Player",
+          "Weak": "",
+          "Resistant": "Bonemass Power"
+        },
+        {
+          "stat": "Black Forest",
+          "Weak": "Skeleton Rancid remains",
+          "Resistant": "Troll (body) Ghost"
+        },
+        {
+          "stat": "Swamp",
+          "Weak": "Blob Oozer Bonemass",
+          "Resistant": "Abomination Wraith"
+        },
+        {
+          "stat": "Mountains",
+          "Weak": "",
+          "Resistant": "Bat"
+        },
+        {
+          "stat": "Plains",
+          "Weak": "Growth",
+          "Resistant": "Lox"
+        },
+        {
+          "stat": "Mistlands",
+          "Weak": "Seeker Soldier (tail)",
+          "Resistant": "Seeker Seeker Soldier Seeker Brood"
+        },
+        {
+          "stat": "Ashlands",
+          "Weak": "Lava Blob",
+          "Resistant": "Morgen"
+        }
+      ]
+    },
+    {
+      "heading": "Damage sources",
+      "level": 4,
+      "text": "• From player: Clubs, Bare fists, Ooze bomb, Staff of Embers\n• From creatures: Abomination, Asksvin, Boar, Bonemass, Fuling (Club), Fuling (Torch), Fuling Berserker, Fuling shaman, Gjall, Greydwarf, Growth, Lox, Root, Seeker, Seeker Soldier, Surtling, Stone Golem, The Elder, Troll, Yagluth, Zil & Thungr"
+    },
+    {
+      "heading": "Pierce",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Players",
+          "Very Weak": "",
+          "Weak": "",
+          "Resistance": "Root harnesk Bonemass Power Serpent scale shield",
+          "Very Resistant": ""
+        },
+        {
+          "stat": "Black Forest",
+          "Very Weak": "",
+          "Weak": "",
+          "Resistance": "Skeleton Rancid remains Ghost",
+          "Very Resistant": ""
+        },
+        {
+          "stat": "Swamp",
+          "Very Weak": "Troll (head)",
+          "Weak": "Troll",
+          "Resistance": "Blob Oozer Wraith",
+          "Very Resistant": "Abomination"
+        },
+        {
+          "stat": "Mountains",
+          "Very Weak": "",
+          "Weak": "",
+          "Resistance": "Bat Stone Golem",
+          "Very Resistant": ""
+        },
+        {
+          "stat": "Plains",
+          "Very Weak": "",
+          "Weak": "",
+          "Resistance": "Growth",
+          "Very Resistant": ""
+        },
+        {
+          "stat": "Mistlands",
+          "Very Weak": "Gjall (eggs)",
+          "Weak": "Tick Seeker Soldier (tail)",
+          "Resistance": "Seeker Seeker Soldier Seeker Brood The Queen Fader",
+          "Very Resistant": "Bonemass Yagluth"
+        },
+        {
+          "stat": "Ashlands",
+          "Very Weak": "Gjall (eggs)",
+          "Weak": "",
+          "Resistance": "Charred Warrior Charred Twitcher Charred Warlock Charred Marksman Morgen Skugg Lava Blob Lord Reto",
+          "Very Resistant": ""
+        }
+      ]
+    },
+    {
+      "heading": "Damage sources",
+      "level": 4,
+      "text": "• From player: Arrows, Bolts, Bows, Crossbows, Knives, Pickaxes, Polearms, Porcupine, Spears, Stagbreaker, Vilebone Maulclaws\n• From creatures: Deathsquito, Draugr (Bow), Eikthyr, Fuling (Spear), Leech, Moder, Seeker, Seeker Brood, Skeleton (Bow), Stone Golem (Spike), The Elder, The Queen, Tick"
+    },
+    {
+      "heading": "Slash",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Player",
+          "Weak": "",
+          "Resistant": "Bonemass Power"
+        },
+        {
+          "stat": "Black Forest",
+          "Weak": "",
+          "Resistant": "Ghost Bonemass"
+        },
+        {
+          "stat": "Swamp",
+          "Weak": "",
+          "Resistant": "Blob Oozer Wraith"
+        },
+        {
+          "stat": "Mountains",
+          "Weak": "",
+          "Resistant": "Bat Stone Golem"
+        },
+        {
+          "stat": "Plains",
+          "Weak": "",
+          "Resistant": "Lox Growth"
+        },
+        {
+          "stat": "Mistlands",
+          "Weak": "Seeker Soldier (tail)",
+          "Resistant": "Seeker Seeker Soldier Seeker Brood"
+        },
+        {
+          "stat": "Ashlands",
+          "Weak": "",
+          "Resistant": "Morgen"
+        }
+      ]
+    },
+    {
+      "heading": "Damage sources",
+      "level": 4,
+      "text": "• From player: Axes, Flesh Rippers, Knives, Paws of the Bear, Swords, Vilebone Maulclaws\n• From creatures: Asksvin, Brenna, Cultist, Bat, Draugr (Axe), Draugr elite, Geirrhafa, Fenring, Fuling (Sword), Greyling, Greydwarf, Greydwarf brute, Greydwarf shaman, Ghost, Lox, Moder, Neck, Seeker Soldier, Serpent, Skeleton (Sword), The Queen, Ulv, Wolf, Wraith"
+    },
+    {
+      "heading": "Fire",
+      "level": 3,
+      "text": "Fire damage applies a Burning debuff instead of causing instant damage. The debuff lasts 5 seconds and ticks every second. Fire damage stacks by adding the new damage to the remaining debuff damage, and then recalculating the tick damage.\nFire damage from physical attacks can be blocked. Fire damage is also reduced by armor. Fire damage that gets reduced to less than 1 won't cause Burning.",
+      "table_data": [
+        {
+          "stat": "Player",
+          "Very Weak": "Tarred",
+          "Weak": "Root Set",
+          "Resistant": "Fenris Set Effect Barley Wine Yagluth Power Freezing & Wet",
+          "Very Resistant": "",
+          "Immune": ""
+        },
+        {
+          "stat": "Meadows",
+          "Very Weak": "Greyling",
+          "Weak": "Neck",
+          "Resistant": "",
+          "Very Resistant": ""
+        },
+        {
+          "stat": "Black Forest",
+          "Very Weak": "Greydwarf Greydwarf brute Greydwarf shaman The Elder",
+          "Weak": "Skeleton Rancid remains Root",
+          "Resistant": "",
+          "Very Resistant": "",
+          "Immune": ""
+        },
+        {
+          "stat": "Ocean",
+          "Very Weak": "",
+          "Weak": "",
+          "Resistant": "",
+          "Very Resistant": "",
+          "Immune": "Serpent"
+        },
+        {
+          "stat": "Swamp",
+          "Very Weak": "",
+          "Weak": "Abomination Wraith",
+          "Resistant": "Draugr Draugr elite Blob Oozer",
+          "Very Resistant": "Surtling Bonemass",
+          "Immune": "Leech"
+        },
+        {
+          "stat": "Mountains",
+          "Very Weak": "",
+          "Weak": "Drake Bat Fenring Moder",
+          "Resistant": "",
+          "Very Resistant": "Ulv",
+          "Immune": "Cultist Stone Golem"
+        },
+        {
+          "stat": "Plains",
+          "Very Weak": "",
+          "Weak": "Lox Growth",
+          "Resistant": "",
+          "Very Resistant": "",
+          "Immune": ""
+        },
+        {
+          "stat": "Mistlands",
+          "Very Weak": "",
+          "Weak": "Seeker Soldier (tail)",
+          "Resistant": "Dvergr mage Gjall (body)",
+          "Very Resistant": "",
+          "Immune": ""
+        },
+        {
+          "stat": "Ashlands",
+          "Very Weak": "",
+          "Weak": "",
+          "Resistant": "Fallen Valkyrie",
+          "Very Resistant": "Charred Twitcher Charred Warrior Charred Warlock Charred Marksman Morgen Asksvin Skugg Lord Reto",
+          "Immune": "Lava Blob Bonemaw Fader"
+        }
+      ]
+    },
+    {
+      "heading": "Damage sources",
+      "level": 4,
+      "text": "• From buildings: Bonfire, Campfire, Hearth\n• From player: Fire arrow, Staff of Embers, Torch, Staff of Fracturing, Dyrnwyn\n• From creatures: Bonemaw, Brenna, Charred Warlock, Cultist, Dvergr mage, Fader, Fallen Valkyrie, Fuling (Torch), Fuling shaman, Gjall, Lava Blob, Surtling, Yagluth, Zil & Thungr"
+    },
+    {
+      "heading": "Poison",
+      "level": 3,
+      "text": "Poison damage applies a Poison debuff instead of causing instant damage. The debuff duration depends on the damage and ticks every second.\nNote: Because of a rounding error, poison may tick one more time than intended.\nPoison damage doesn't stack. The previous debuff is replaced if its remaining damage is less than the new damage.\nPoison damage from physical attacks can be blocked. Poison damage is also reduced by armor.",
+      "table_data": [
+        {
+          "stat": "Player",
+          "Weak": "",
+          "Resistant": "Root mask",
+          "Very Resistant": "Poison resistance mead",
+          "Immune": ""
+        },
+        {
+          "stat": "Meadows",
+          "Weak": "",
+          "Resistant": "Greyling Neck",
+          "Very Resistant": "",
+          "Immune": ""
+        },
+        {
+          "stat": "Black Forest",
+          "Weak": "",
+          "Resistant": "Greydwarf Greydwarf brute Greydwarf shaman",
+          "Very Resistant": "",
+          "Immune": "Skeleton Rancid remains Ghost The Elder Root"
+        },
+        {
+          "stat": "Ocean",
+          "Weak": "",
+          "Resistant": "Serpent",
+          "Very Resistant": "",
+          "Immune": ""
+        },
+        {
+          "stat": "Swamp",
+          "Weak": "",
+          "Resistant": "Leech",
+          "Very Resistant": "",
+          "Immune": "Draugr Draugr elite Blob Oozer Wraith Abomination Surtling Bonemass"
+        },
+        {
+          "stat": "Mountains",
+          "Weak": "Cultist Ulv",
+          "Resistant": "Fenring",
+          "Very Resistant": "",
+          "Immune": "Bat Stone Golem"
+        },
+        {
+          "stat": "Plains",
+          "Weak": "",
+          "Resistant": "",
+          "Very Resistant": "",
+          "Immune": "Growth Yagluth"
+        },
+        {
+          "stat": "Ashlands",
+          "Weak": "",
+          "Resistant": "",
+          "Very Resistant": "Bonemaw Asksvin",
+          "Immune": "Fallen Valkyrie Volture Charred Warrior Charred Twitcher Charred Warlock Charred Marksman Skugg Lava Blob Lord Reto"
+        }
+      ]
+    },
+    {
+      "heading": "Damage sources",
+      "level": 4,
+      "text": "• From dropped items: Refined eitr\n• From buildings: Eitr refinery\n• From player: Draugr Fang, Jotun Bane, Ooze bomb, Poison arrow, Staff of the Wild\n• From creatures: Blob, Bonemass, Greydwarf shaman, Growth, Leech, Oozer, Rancid remains, The Queen, Fallen Valkyrie, Bonemaw"
+    },
+    {
+      "heading": "Frost",
+      "level": 3,
+      "text": "Frost damage causes instant damage which can be blocked and is reduced by armor.\nFrost damage also applies the Frost Effect debuff, reducing movement and turn speed.\n• Weak (1.5x): creatures with Wet , Blob, Bonemass, Oozer, Seeker Soldier (abdomen), Serpent, Surtling, Bonemaw, Lava Blob, Volture\n• Resistant (0.5x): Growth, Dvergr mage, Lox, Rancid remains, Root, Skeleton, Charred Warlock, Lord Reto\n• Immune: Abomination, Bat, Drake, Moder, Stone Golem, Wraith\n• Player sources of Weak (1.5x): Players with Wet\n• Player sources of Resistant (0.5x): Feather cape, Fenris coat, Frost resistance mead, Lox cape, Wolf armor chest, Wolf fur cape, Yagluth Power"
+    },
+    {
+      "heading": "Damage sources",
+      "level": 4,
+      "text": "• From player: Frostner, Frost arrow, Mistwalker, Staff of Frost\n• From creatures: Drake, Dvergr mage, Geirrhafa, Moder"
+    },
+    {
+      "heading": "Spirit",
+      "level": 3,
+      "text": "Spirit damage applies a Spirit debuff instead of causing instant damage. The debuff lasts 3 seconds and ticks every 0.5 seconds.\nNote: Because of a rounding error, a single source of Spirit ticks 7 times instead of 6.\nSpirit damage stacks by adding the new damage to the remaining debuff damage, and then recalculating the tick damage.\n• Weak (1.5x): Bat, Ghost, Wraith, Fallen Valkyrie, Charred Warrior, Charred Twitcher, Charred Warlock, Charred Marksman, Lord Reto\n• Neutral (1x): Blob, Bonemass, Cultist, Draugr, Draugr elite, Eikthyr, Fenring, Growth, Oozer, Rancid remains, Root, Skeleton, Ulv, Yagluth, Morgen, Volture, Lava Blob\n• Immune: Players and all other creatures"
+    },
+    {
+      "heading": "Damage sources",
+      "level": 4,
+      "text": "• From player: Frostner, Crystal battleaxe, Mistwalker, Silver arrow, Silver knife, Silver sword, Spinesnap, Ash Fang\n• From creatures: Fader and Hive"
+    },
+    {
+      "heading": "Lightning",
+      "level": 3,
+      "text": "Lightning damage causes direct damage which can be blocked and is reduced by armor.\nLightning damage also causes staggering and a lingering visual effect, but it doesn't deal any damage over time.\n• Weak (1.5x): creatures with Wet, Blob, Oozer, Seeker Soldier (abdomen) (? Serpent, Leech ?), Morgen\n• Player sources of Weak (1.5x): Players with Wet\n• Player sources of Resistant (0.5x): Players with Yagluth Power"
+    },
+    {
+      "heading": "Damage sources",
+      "level": 4,
+      "text": "• From dropped items: Refined eitr\n• From buildings: Obliterator, Eitr refinery\n• From player: Himminafl & any Ashland weapon upgraded with Iolite\n• From creatures: Eikthyr, Yagluth"
+    },
+    {
+      "heading": "Terrain damage",
+      "level": 2,
+      "text": "Terrain damage includes Chop and Pickaxe damage. Terrain damage is caused by bosses and bigger enemies. Players and most creatures are immune to terrain damage. Additionally terrain damage ignores armor.\nSome trees and ore deposits require a minimum tool tier for them to take damage."
+    },
+    {
+      "heading": "Chop",
+      "level": 3,
+      "text": "Chop damage is used effectively against trees[1] and wood structures[1]. Players and all creatures are immune to this damage type. Listed below are all the sources of chop damage, and their tiers.\nAncient Trees, Birch, and Oak require a tool tier of 2, Yggdrasil shoots require a tool of tier 4. Other trees don't have a requirement.",
+      "table_data": [
+        {
+          "stat": "Tier 0",
+          "Sources": "Stone axe",
+          "col_1": "AsksvinDraugr (Axe)LoxStone Golem",
+          "col_2": "EikthyrThe Elder (Root)Bonemass"
+        },
+        {
+          "stat": "Tier 1",
+          "Sources": "Flint axe",
+          "col_1": "",
+          "col_2": ""
+        },
+        {
+          "stat": "Tier 2",
+          "Sources": "Bronze axe",
+          "col_1": "AbominationFuling BerserkerTroll (Melee)",
+          "col_2": "Yagluth (Nova)"
+        },
+        {
+          "stat": "Tier 3",
+          "Sources": "Iron axeBattleaxeCrystal battleaxe",
+          "col_1": "Morgen",
+          "col_2": "Moder (Melee)The Queen"
+        },
+        {
+          "stat": "Tier 4",
+          "Sources": "Black metal axeBlack metal battleaxeJotun BaneSkull Splittur",
+          "col_1": "AsksvinSeeker Soldier Root (Staff of the Wild)",
+          "col_2": ""
+        },
+        {
+          "stat": "Tier 5",
+          "Sources": "",
+          "col_1": "",
+          "col_2": ""
+        },
+        {
+          "stat": "Tier 6",
+          "Sources": "Berserkir axes",
+          "col_1": "",
+          "col_2": ""
+        }
+      ]
+    },
+    {
+      "heading": "Pickaxe",
+      "level": 3,
+      "text": "Pickaxe damage is used effectively against Rocks, Stone Deposits, Ore Deposits, and Stone Structures. Players and all creatures, with the exception of the Stone Golem, are immune to this damage type. Sources and tiers are listed in the table below.\n• Very Weak (2x): Stone Golem\n• Resistant (0.5x): Skugg\nObsidian deposits and Silver veins require a tool tier of 2; Black marble, Giant remains and Flametal ore veins require a tool tier of 3. Other deposits don't have a requirement.",
+      "table_data": [
+        {
+          "stat": "Tier 0",
+          "Sources": "Antler pickaxe",
+          "col_1": "AsksvinLoxStone Golem",
+          "col_2": "EikthyrThe Elder (Root)Bonemass"
+        },
+        {
+          "stat": "Tier 1",
+          "Sources": "Bronze pickaxe",
+          "col_1": "",
+          "col_2": ""
+        },
+        {
+          "stat": "Tier 2",
+          "Sources": "Iron pickaxe",
+          "col_1": "AbominationFuling BerserkerTroll (Melee)",
+          "col_2": "Yagluth (Nova)"
+        },
+        {
+          "stat": "Tier 3",
+          "Sources": "Black metal pickaxe",
+          "col_1": "Morgen",
+          "col_2": "Moder (Melee)"
+        },
+        {
+          "stat": "Tier 4",
+          "Sources": "",
+          "col_1": "AsksvinSeeker Soldier Root (Staff of the Wild)",
+          "col_2": "The Queen"
+        },
+        {
+          "stat": "Tier 5",
+          "Sources": "Battering ram",
+          "col_1": "",
+          "col_2": ""
+        }
+      ]
+    },
+    {
+      "heading": "Pure",
+      "level": 2,
+      "text": "Pure damage ignores all defenses and can't be mitigated in any way."
+    },
+    {
+      "heading": "Tick damage",
+      "level": 3,
+      "text": "Caused by Burning, Poison and Spirit effects. The value of the tick damage is calculated when the source is applied. (Blocking can stop tick damage from occurring in the first place, but it cannot reduce the amount of tick damage)\n• Against players, once a DoT effect is received, it is too late to mitigate it by drinking a resistance mead.\n• Against enemies, tick damage will always show as white, even if they are weak or resistant to the damage."
+    },
+    {
+      "heading": "Per second",
+      "level": 3,
+      "text": "• Drowning: 5% of max health per second (rounded up).\n• Smoke: 2 damage per second.\n• Water: Vulnerable creatures (Surtlings) take 10 damage per second while standing in water."
+    },
+    {
+      "heading": "Fall damage",
+      "level": 3,
+      "text": "Falling further than 4 meters, you take 6.25 Pure damage per meter; capped at 100 damage. For example; bearing in mind a wall is 2 meters high:\n• Falling from a height on top of 2 walls deals no damage. After that each wall-height causes 12.5 damage.\n• With a player's starting health of 25, falling from the top of 4 wall-heights (8 meters) can be fatal. The actual damage taken varies on the exact height fallen, i.e; falling exactly 7.9 meters would deal 24 points of damage, and not be fatal."
+    },
+    {
+      "heading": "Other",
+      "level": 3,
+      "text": "• Bonfire, Campfire, Hearth: 10 self-damage when dealing damage.\n• Falling out of the map: 99999 damage."
+    },
+    {
+      "heading": "Creature resistance overview",
+      "level": 2,
+      "text": "This table shows the damage multiplier for each damage type for each creature.\nThe default ordering of creatures is roughly in the intended biome progression and can be resorted back to this using the first column.",
+      "table_data": [
+        {
+          "": "1",
+          "Creature": "Neck",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "0.5",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "2",
+          "Creature": "Boar",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "3",
+          "Creature": "Deer",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "4",
+          "Creature": "Greyling",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "2",
+          "Poison DoT": "0.5",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "5",
+          "Creature": "Eikthyr",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "6",
+          "Creature": "Greydwarf",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "2",
+          "Poison DoT": "0.5",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "7",
+          "Creature": "Greydwarf brute",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "2",
+          "Poison DoT": "0.5",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "8",
+          "Creature": "Greydwarf shaman",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "2",
+          "Poison DoT": "0.5",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "9",
+          "Creature": "Skeleton",
+          "Blunt": "1.5",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "0.5",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "10",
+          "Creature": "Rancid remains",
+          "Blunt": "1.5",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "0.5",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "11",
+          "Creature": "Ghost",
+          "Blunt": "0.5",
+          "Pierce": "0.5",
+          "Slash": "0.5",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        },
+        {
+          "": "12",
+          "Creature": "Troll",
+          "Blunt": "0.5",
+          "Pierce": "1.5",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "13",
+          "Creature": "Troll (head)",
+          "Blunt": "1",
+          "Pierce": "2",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "14",
+          "Creature": "The Elder",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "2",
+          "Poison DoT": "0",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "15",
+          "Creature": "Root (creature)",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "0.5",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "16",
+          "Creature": "Brenna",
+          "Blunt": "1.5",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "1.5",
+          "Lightning": "1",
+          "Fire DoT": "0",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "17",
+          "Creature": "Serpent",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1.5",
+          "Lightning": "1",
+          "Fire DoT": "0",
+          "Poison DoT": "0.5",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "18",
+          "Creature": "Abomination",
+          "Blunt": "0.5",
+          "Pierce": "0.25",
+          "Slash": "1",
+          "Frost": "0",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "19",
+          "Creature": "Blob",
+          "Blunt": "1.5",
+          "Pierce": "0.5",
+          "Slash": "0.5",
+          "Frost": "1.5",
+          "Lightning": "1.5",
+          "Fire DoT": "0.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "20",
+          "Creature": "Oozer",
+          "Blunt": "1.5",
+          "Pierce": "0.5",
+          "Slash": "0.5",
+          "Frost": "1.5",
+          "Lightning": "1.5",
+          "Fire DoT": "0.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "21",
+          "Creature": "Draugr",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "22",
+          "Creature": "Draugr elite",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "23",
+          "Creature": "Leech",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0",
+          "Poison DoT": "0.5",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "24",
+          "Creature": "Surtling",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1.5",
+          "Lightning": "1",
+          "Fire DoT": "0",
+          "Poison DoT": "0",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "25",
+          "Creature": "Wraith",
+          "Blunt": "0.5",
+          "Pierce": "0.5",
+          "Slash": "0.5",
+          "Frost": "0",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        },
+        {
+          "": "26",
+          "Creature": "Bonemass",
+          "Blunt": "1.5",
+          "Pierce": "0.25",
+          "Slash": "0.5",
+          "Frost": "1.5",
+          "Lightning": "1",
+          "Fire DoT": "0.25",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "27",
+          "Creature": "Wolf",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "28",
+          "Creature": "Fenring",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "1",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "29",
+          "Creature": "Drake",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "0",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "30",
+          "Creature": "Stone Golem",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "0.5",
+          "Frost": "0",
+          "Lightning": "1",
+          "Fire DoT": "0",
+          "Poison DoT": "0",
+          "Spirit DoT": "0",
+          "Pickaxe": "2"
+        },
+        {
+          "": "31",
+          "Creature": "Bat",
+          "Blunt": "0.5",
+          "Pierce": "0.5",
+          "Slash": "0.5",
+          "Frost": "0",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        },
+        {
+          "": "32",
+          "Creature": "Ulv",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0.25",
+          "Poison DoT": "1.5",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "33",
+          "Creature": "Cultist",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0",
+          "Poison DoT": "1.5",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "34",
+          "Creature": "Moder",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "0",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "35",
+          "Creature": "Geirrhafa",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "0",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "1",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "36",
+          "Creature": "Deathsquito",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "37",
+          "Creature": "Lox",
+          "Blunt": "0.5",
+          "Pierce": "1",
+          "Slash": "0.5",
+          "Frost": "0.5",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "38",
+          "Creature": "Fuling",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "39",
+          "Creature": "Fuling Berserker",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "40",
+          "Creature": "Fuling shaman",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "41",
+          "Creature": "Growth",
+          "Blunt": "1.5",
+          "Pierce": "0.5",
+          "Slash": "0.5",
+          "Frost": "0.5",
+          "Lightning": "1",
+          "Fire DoT": "1.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "42",
+          "Creature": "Yagluth",
+          "Blunt": "1",
+          "Pierce": "0.25",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "43",
+          "Creature": "Zil & Thungr",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "44",
+          "Creature": "Hare",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "45",
+          "Creature": "Tick",
+          "Blunt": "1",
+          "Pierce": "1.5",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "46",
+          "Creature": "Seeker Brood",
+          "Blunt": "0.5",
+          "Pierce": "0.5",
+          "Slash": "0.5",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "47",
+          "Creature": "Seeker",
+          "Blunt": "0.5",
+          "Pierce": "0.5",
+          "Slash": "0.5",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "48",
+          "Creature": "Seeker Soldier",
+          "Blunt": "0.5",
+          "Pierce": "0.5",
+          "Slash": "0.5",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "48.1",
+          "Creature": "Seeker Soldier (abdomen)",
+          "Blunt": "1.5",
+          "Pierce": "1.5",
+          "Slash": "1.5",
+          "Frost": "1.5",
+          "Lightning": "1.5",
+          "Fire DoT": "1.5",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "49",
+          "Creature": "Gjall",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0.5",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "49.1",
+          "Creature": "Gjall (eggs)",
+          "Blunt": "1",
+          "Pierce": "2",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "50",
+          "Creature": "Dvergr rogue",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "51",
+          "Creature": "Dvergr mage",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "0.5",
+          "Lightning": "1",
+          "Fire DoT": "0.5",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "52",
+          "Creature": "The Queen",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "53",
+          "Creature": "Asksvin",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0.5",
+          "Poison DoT": "0.5",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "54",
+          "Creature": "Bonemaw",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1.5",
+          "Lightning": "1",
+          "Fire DoT": "0",
+          "Poison DoT": "0.5",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "55",
+          "Creature": "Charred Warrior",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0.25",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        },
+        {
+          "": "55.1",
+          "Creature": "Summoned Charred Warrior",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        },
+        {
+          "": "56",
+          "Creature": "Charred Marksman",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0.25",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        },
+        {
+          "": "56.1",
+          "Creature": "Summoned Charred Marksman",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        },
+        {
+          "": "57",
+          "Creature": "Charred Warlock",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "0.5",
+          "Lightning": "1",
+          "Fire DoT": "0.25",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        },
+        {
+          "": "58",
+          "Creature": "Charred Twitcher",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0.25",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        },
+        {
+          "": "58.1",
+          "Creature": "Summoned Charred Twitcher",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0.25",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        },
+        {
+          "": "59",
+          "Creature": "Fallen Valkyrie",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        },
+        {
+          "": "60",
+          "Creature": "Lava Blob",
+          "Blunt": "1.5",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "1.5",
+          "Lightning": "1.5",
+          "Fire DoT": "0",
+          "Poison DoT": "0.5",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "61",
+          "Creature": "Morgen",
+          "Blunt": "0.5",
+          "Pierce": "0.5",
+          "Slash": "0.5",
+          "Frost": "1",
+          "Lightning": "1.5",
+          "Fire DoT": "0.5",
+          "Poison DoT": "1",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "62",
+          "Creature": "Skugg",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "0.5",
+          "Fire DoT": "0.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": "0.5"
+        },
+        {
+          "": "63",
+          "Creature": "Volture",
+          "Blunt": "1",
+          "Pierce": "1",
+          "Slash": "1",
+          "Frost": "1.5",
+          "Lightning": "1",
+          "Fire DoT": "1",
+          "Poison DoT": "0",
+          "Spirit DoT": "1",
+          "Pickaxe": ""
+        },
+        {
+          "": "64",
+          "Creature": "Fader",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "1",
+          "Lightning": "1",
+          "Fire DoT": "0",
+          "Poison DoT": "1",
+          "Spirit DoT": "0",
+          "Pickaxe": ""
+        },
+        {
+          "": "65",
+          "Creature": "Lord Reto",
+          "Blunt": "1",
+          "Pierce": "0.5",
+          "Slash": "1",
+          "Frost": "0.5",
+          "Lightning": "1",
+          "Fire DoT": "0.5",
+          "Poison DoT": "0",
+          "Spirit DoT": "1.5",
+          "Pickaxe": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Damage\n\nIntroduction. Damage is a reduction of an entity's health points. It affects much of the core gameplay mechanics. Almost every entity, object, or structure utilizes this system in some way.\n\nDamage types. • Physical Blunt Pierce Slash\n• Elemental Fire Poison Frost Spirit Lightning\n• Terrain Chop (Woodcutting) Pickaxe (Mining) Pure\n\nResistances and weaknesses. Resistances and weaknesses determine how much damage is taken from different damage types. Creatures have innate resistances and weaknesses but are also affected by some status effects. Players may acquire resistances and weaknesses from armor, meads or status effects.\nAt the bottom of this page is a chart of creature Weaknesses, Resistances and Immunities.\n\nWeak points. Certain enemies have weak points: areas of their body on which attacks deal different (and usually increased) damage. The mechanics behind this are simple: Each weak point has its own set of resistances defined, and any attacks which hit a weak point use that weak point's own set of resistances in place of the creature's base resistance values for damage calculations.\n\nPhysical. Physical damage can be blocked and is reduced by armor. Physical damage also causes staggering.\n\nDamage sources. • From player: Clubs, Bare fists, Ooze bomb, Staff of Embers\n• From creatures: Abomination, Asksvin, Boar, Bonemass, Fuling (Club), Fuling (Torch), Fuling Berserker, Fuling shaman, Gjall, Greydwarf, Growth, Lox, Root, Seeker, Seeker Soldier, Surtling, Stone Golem, The Elder, Troll, Yagluth, Zil & Thungr\n\nDamage sources. • From player: Arrows, Bolts, Bows, Crossbows, Knives, Pickaxes, Polearms, Porcupine, Spears, Stagbreaker, Vilebone Maulclaws\n• From creatures: Deathsquito, Draugr (Bow), Eikthyr, Fuling (Spear), Leech, Moder, Seeker, Seeker Brood, Skeleton (Bow), Stone Golem (Spike), The Elder, The Queen, Tick\n\nDamage sources. • From player: Axes, Flesh Rippers, Knives, Paws of the Bear, Swords, Vilebone Maulclaws\n• From creatures: Asksvin, Brenna, Cultist, Bat, Draugr (Axe), Draugr elite, Geirrhafa, Fenring, Fuling (Sword), Greyling, Greydwarf, Greydwarf brute, Greydwarf shaman, Ghost, Lox, Moder, Neck, Seeker Soldier, Serpent, Skeleton (Sword), The Queen, Ulv, Wolf, Wraith\n\nFire. Fire damage applies a Burning debuff instead of causing instant damage. The debuff lasts 5 seconds and ticks every second. Fire damage stacks by adding the new damage to the remaining debuff damage, and then recalculating the tick damage.\nFire damage from physical attacks can be blocked. Fire damage is also reduced by armor. Fire damage that gets reduced to less than 1 won't cause Burning.\n\nDamage sources. • From buildings: Bonfire, Campfire, Hearth\n• From player: Fire arrow, Staff of Embers, Torch, Staff of Fracturing, Dyrnwyn\n• From creatures: Bonemaw, Brenna, Charred Warlock, Cultist, Dvergr mage, Fader, Fallen Valkyrie, Fuling (Torch), Fuling shaman, Gjall, Lava Blob, Surtling, Yagluth, Zil & Thungr\n\nPoison. Poison damage applies a Poison debuff instead of causing instant damage. The debuff duration depends on the damage and ticks every second.\nNote: Because of a rounding error, poison may tick one more time than intended.\nPoison damage doesn't stack. The previous debuff is replaced if its remaining damage is less than the new damage.\nPoison damage from physical attacks can be blocked. Poison damage is also reduced by armor.\n\nDamage sources. • From dropped items: Refined eitr\n• From buildings: Eitr refinery\n• From player: Draugr Fang, Jotun Bane, Ooze bomb, Poison arrow, Staff of the Wild\n• From creatures: Blob, Bonemass, Greydwarf shaman, Growth, Leech, Oozer, Rancid remains, The Queen, Fallen Valkyrie, Bonemaw\n\nFrost. Frost damage causes instant damage which can be blocked and is reduced by armor.\nFrost damage also applies the Frost Effect debuff, reducing movement and turn speed.\n• Weak (1.5x): creatures with Wet , Blob, Bonemass, Oozer, Seeker Soldier (abdomen), Serpent, Surtling, Bonemaw, Lava Blob, Volture\n• Resistant (0.5x): Growth, Dvergr mage, Lox, Rancid remains, Root, Skeleton, Charred Warlock, Lord Reto\n• Immune: Abomination, Bat, Drake, Moder, Stone Golem, Wraith\n• Player sources of Weak (1.5x): Players with Wet\n• Player sources of Resistant (0.5x): Feather cape, Fenris coat, Frost resistance mead, Lox cape, Wolf armor chest, Wolf fur cape, Yagluth Power\n\nDamage sources. • From player: Frostner, Frost arrow, Mistwalker, Staff of Frost\n• From creatures: Drake, Dvergr mage, Geirrhafa, Moder\n\nSpirit. Spirit damage applies a Spirit debuff instead of causing instant damage. The debuff lasts 3 seconds and ticks every 0.5 seconds.\nNote: Because of a rounding error, a single source of Spirit ticks 7 times instead of 6.\nSpirit damage stacks by adding the new damage to the remaining debuff damage, and then recalculating the tick damage.\n• Weak (1.5x): Bat, Ghost, Wraith, Fallen Valkyrie, Charred Warrior, Charred Twitcher, Charred Warlock, Charred Marksman, Lord Reto\n• Neutral (1x): Blob, Bonemass, Cultist, Draugr, Draugr elite, Eikthyr, Fenring, Growth, Oozer, Rancid remains, Root, Skeleton, Ulv, Yagluth, Morgen, Volture, Lava Blob\n• Immune: Players and all other creatures\n\nDamage sources. • From player: Frostner, Crystal battleaxe, Mistwalker, Silver arrow, Silver knife, Silver sword, Spinesnap, Ash Fang\n• From creatures: Fader and Hive\n\nLightning. Lightning damage causes direct damage which can be blocked and is reduced by armor.\nLightning damage also causes staggering and a lingering visual effect, but it doesn't deal any damage over time.\n• Weak (1.5x): creatures with Wet, Blob, Oozer, Seeker Soldier (abdomen) (? Serpent, Leech ?), Morgen\n• Player sources of Weak (1.5x): Players with Wet\n• Player sources of Resistant (0.5x): Players with Yagluth Power\n\nDamage sources. • From dropped items: Refined eitr\n• From buildings: Obliterator, Eitr refinery\n• From player: Himminafl & any Ashland weapon upgraded with Iolite\n• From creatures: Eikthyr, Yagluth\n\nTerrain damage. Terrain damage includes Chop and Pickaxe damage. Terrain damage is caused by bosses and bigger enemies. Players and most creatures are immune to terrain damage. Additionally terrain damage ignores armor.\nSome trees and ore deposits require a minimum tool tier for them to take damage.\n\nChop. Chop damage is used effectively against trees[1] and wood structures[1]. Players and all creatures are immune to this damage type. Listed below are all the sources of chop damage, and their tiers.\nAncient Trees, Birch, and Oak require a tool tier of 2, Yggdrasil shoots require a tool of tier 4. Other trees don't have a requirement.\n\nPickaxe. Pickaxe damage is used effectively against Rocks, Stone Deposits, Ore Deposits, and Stone Structures. Players and all creatures, with the exception of the Stone Golem, are immune to this damage type. Sources and tiers are listed in the table below.\n• Very Weak (2x): Stone Golem\n• Resistant (0.5x): Skugg\nObsidian deposits and Silver veins require a tool tier of 2; Black marble, Giant remains and Flametal ore veins require a tool tier of 3. Other deposits don't have a requirement.\n\nPure. Pure damage ignores all defenses and can't be mitigated in any way.\n\nTick damage. Caused by Burning, Poison and Spirit effects. The value of the tick damage is calculated when the source is applied. (Blocking can stop tick damage from occurring in the first place, but it cannot reduce the amount of tick damage)\n• Against players, once a DoT effect is received, it is too late to mitigate it by drinking a resistance mead.\n• Against enemies, tick damage will always show as white, even if they are weak or resistant to the damage.\n\nPer second. • Drowning: 5% of max health per second (rounded up).\n• Smoke: 2 damage per second.\n• Water: Vulnerable creatures (Surtlings) take 10 damage per second while standing in water.\n\nFall damage. Falling further than 4 meters, you take 6.25 Pure damage per meter; capped at 100 damage. For example; bearing in mind a wall is 2 meters high:\n• Falling from a height on top of 2 walls deals no damage. After that each wall-height causes 12.5 damage.\n• With a player's starting health of 25, falling from the top of 4 wall-heights (8 meters) can be fatal. The actual damage taken varies on the exact height fallen, i.e; falling exactly 7.9 meters would deal 24 points of damage, and not be fatal.\n\nOther. • Bonfire, Campfire, Hearth: 10 self-damage when dealing damage.\n• Falling out of the map: 99999 damage.\n\nCreature resistance overview. This table shows the damage multiplier for each damage type for each creature.\nThe default ordering of creatures is roughly in the intended biome progression and can be resorted back to this using the first column.",
+  "scraped_at": "2026-02-26T02:00:36.043732+00:00"
+}

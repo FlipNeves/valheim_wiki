@@ -1,0 +1,62 @@
+{
+  "title": "Brenna",
+  "url": "https://valheim.fandom.com/wiki/Brenna",
+  "slug": "Brenna",
+  "categories": [
+    "Creatures",
+    "Minibosses"
+  ],
+  "infobox": {
+    "_infobox_title": "Brenna",
+    "Internal ID": "Skeleton_Hildir",
+    "Type": "Miniboss",
+    "Faction": "Undead",
+    "Main biome": "Smouldering Tombs",
+    "Tameable": "No",
+    "Drops": "Hildir's brass chest | Brenna trophy",
+    "Abilities": "Sword (3s), Fire nova (10s)",
+    "Trophy": "Brenna trophy",
+    "Weak to (x1.5)": "Blunt, ,, Frost",
+    "Neutral to (x1)": "Slash, ,, Lightning, ,, Spirit",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Fire, ,, Poison, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Brenna is an aggressive miniboss found in the Black Forest inside Smouldering Tombs as well as during the \"She's hot on your tail!\" event. She is a burning Skeleton with charcoal black bones and fire aspects wielding a fiery version of Krom.\nThe Swedish word \"bränna\", with similar pronunciation, means \"to burn\"."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Hildir's brass chest",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Brenna trophy",
+          "0 Star": "100%",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Sword",
+      "level": 3,
+      "text": "A basic sword slash that hits in a 1.8-meter 90-degree horizontal arc (60 Slash and 20 Fire damage). It can be used every 3 seconds when within 1.6 meters of a player."
+    },
+    {
+      "heading": "Fire nova",
+      "level": 3,
+      "text": "Stabs her sword into the ground, creating a 3-meter radius circular explosion (75 Fire damage). This attack can be used every 10 seconds when a player is in the attack's range."
+    }
+  ],
+  "full_text": "Brenna\n\nInternal ID: Skeleton_Hildir | Type: Miniboss | Faction: Undead | Main biome: Smouldering Tombs | Tameable: No | Drops: Hildir's brass chest | Brenna trophy | Abilities: Sword (3s), Fire nova (10s) | Trophy: Brenna trophy | Weak to (x1.5): Blunt, ,, Frost | Neutral to (x1): Slash, ,, Lightning, ,, Spirit | Resistant to (x0.5): Pierce | Immune to (x0): Fire, ,, Poison, ,, Chop, ,, Pickaxe\n\nIntroduction. Brenna is an aggressive miniboss found in the Black Forest inside Smouldering Tombs as well as during the \"She's hot on your tail!\" event. She is a burning Skeleton with charcoal black bones and fire aspects wielding a fiery version of Krom.\nThe Swedish word \"bränna\", with similar pronunciation, means \"to burn\".\n\nSword. A basic sword slash that hits in a 1.8-meter 90-degree horizontal arc (60 Slash and 20 Fire damage). It can be used every 3 seconds when within 1.6 meters of a player.\n\nFire nova. Stabs her sword into the ground, creating a 3-meter radius circular explosion (75 Fire damage). This attack can be used every 10 seconds when a player is in the attack's range.",
+  "scraped_at": "2026-02-26T01:06:27.025676+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Serpent scale shield",
+  "url": "https://valheim.fandom.com/wiki/Serpent_scale_shield",
+  "slug": "Serpent_scale_shield",
+  "categories": [
+    "Weapons",
+    "Shields",
+    "Forge recipes"
+  ],
+  "content": "# Serpent scale shield\n\nInternal ID: ShieldSerpentscale | Type: Shield | Source: Forge | Usage: Blocking | Wielding: Off-hand | Crafting Materials: Finewood x20, Iron x4, Serpent scale x8 | Movement speed: -10% | Special: Resistant vs., Pierce\n\n# Introduction\n\nThe Serpent scale shield is the fourth tower shield. It has the same block armor compared to Silver shield but provides pierce resistance when blocking and not being able to parry enemy attacks. It requires less Iron to craft compared to Iron tower shield while also having more block power.\n\n## Upgrade information\n\n• stat: Block armor | Quality 1: 60 | Quality 2: 66 | Quality 3: 72\n\n• stat: Durability | Quality 1: 250 | Quality 2: 300 | Quality 3: 350\n\n• stat: Crafting | Quality 1: 10 Finewood4 Iron8 Serpent scale | Quality 2: 10 Finewood2 Iron4 Serpent scale | Quality 3: 20 Finewood4 Iron8 Serpent scale | Total: 40 Finewood10 Iron20 Serpent scale\n\n• stat: Forge level | Quality 1: 3 | Quality 2: 4 | Quality 3: 5\n\n## Notes\n\n• Block armor is equivalent to a Silver tier shield, while only requiring Iron to craft.\n• Tower shields are generally weaker than round shields because of parrying. However, the Serpent scale shield provides a more reliable way to block high amounts of damage if crafted when Iron becomes available.\n• The pierce resistance stacks with other resistance sources, such as pierce resistance obtained by wearing Root harnesk. This makes the Serpent scale shield very useful even in later biomes against high pierce damage dealing enemies such as any Fulings (spear), seekers and Morgens.\n\nCategorias: Weapons, Shields, Forge recipes",
+  "content_length": 1623,
+  "scraped_at": "2026-02-26T01:17:54.433362+00:00"
+}

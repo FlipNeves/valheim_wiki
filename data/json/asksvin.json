@@ -1,0 +1,121 @@
+{
+  "title": "Asksvin",
+  "url": "https://valheim.fandom.com/wiki/Asksvin",
+  "slug": "Asksvin",
+  "categories": [
+    "Creatures",
+    "Tameable creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Asksvin",
+    "Internal ID": "Asksvin",
+    "Faction": "Demon",
+    "Main biome": "Ashlands",
+    "Tameable": "Yes",
+    "Drops": "Asksvin tail | Asksvin hide | Asksvin bladder | Asksvin trophy",
+    "Abilities": "Bite (8s), Headbutt (8s), Pounce (4s)",
+    "Trophy": "Asksvin trophy",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Fire, ,, Poison",
+    "Immune to (x0)": "Spirit, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Asksvin are hostile, tameable, and fast rideable creatures found in the Ashlands. They look like huge, mutated Necks."
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Middle of the Ashlands during the daytime",
+          "Limit": "2",
+          "Frequency": "Common",
+          "Stars": "Yes (max 1 star)"
+        },
+        {
+          "Type": "Middle of the Ashlands during the nighttime, despawn at dawn",
+          "Limit": "2",
+          "Frequency": "Common",
+          "Stars": "Yes"
+        }
+      ]
+    },
+    {
+      "heading": "Attacks and abilities",
+      "level": 2,
+      "text": "Both before and after taming, Asksvin take no damage from lava, despite not being immune to fire damage."
+    },
+    {
+      "heading": "Bite",
+      "level": 3,
+      "text": "Sweeps their head back before rounding forward to chomp down on the player (75 Blunt, 75 Slash, 50 Tier 0 Chop and 50 Tier 0 Pickaxe damage). This extends 4.5 meters in a 45-degree horizontal arc and can be used every 8 seconds when within 4 meters of a player."
+    },
+    {
+      "heading": "Headbutt",
+      "level": 3,
+      "text": "Steps back before bringing their head down and rushing at the player (120 Blunt, 100 Tier 4 Chop and 100 Tier 4 Pickaxe damage). This extends 4 meters in a 45-degree horizontal arc and can be used every 8 seconds when within 6 meters of a player."
+    },
+    {
+      "heading": "Pounce",
+      "level": 3,
+      "text": "Wiggles a little before springing forward at the player (150 Blunt, 50 Tier 0 Chop and 100 Tier 0 Pickaxe damage). This attack hit in a horizontal arc of 5.5 meters and 45 degrees. It can be used every 4 seconds when within 3–6 meters of a player. The attack does high damage to grausten and weaker structures, similar to a Lox, and it can even damage allied creatures."
+    },
+    {
+      "heading": "Aftermath",
+      "level": 2,
+      "text": "Defeating Asksvin allows the player to loot the following items."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "Parts for a buildable Asksvin skeleton can also be found separately in the Ashlands, but they drop from destroying Asksvin skeletons already there, not from killing Asksvin.",
+      "table_data": [
+        {
+          "Item": "Asksvin trophy",
+          "0 Star": "10%",
+          "1 Star": "10%",
+          "2 Star": "10%"
+        },
+        {
+          "Item": "Asksvin bladder",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Asksvin hide",
+          "0 Star": "2",
+          "1 Star": "4",
+          "2 Star": "8"
+        },
+        {
+          "Item": "Asksvin tail",
+          "0 Star": "2",
+          "1 Star": "4",
+          "2 Star": "8"
+        }
+      ]
+    },
+    {
+      "heading": "Taming",
+      "level": 2,
+      "text": "For general taming information and strategies, see Taming.\nSimilar to the Wolf, Level 3 (two-star) Asksvin only spawn at night. Like any creatures spawned at night, Level 3 Asksvin will attempt to flee the active area and despawn during daytime hours if the taming process has not begun. This can be prevented by either (A) trapping them in a pit or pen that they cannot escape (and staying within 64 meters of them) or (B) by starting the taming process, after which they will never despawn.\nAsksvin can be tamed by feeding them Smoke puffs, Vineberry clusters or Fiddleheads. They are rideable by equipping the Asksvin saddle. When riding an Asksvin, players cannot attack. Players riding an Asksvin can traverse lava, and neither the player nor Asksvin will take damage from the lava.\nTamed Asksvin do not do friendly fire damage to players, any other tamed creatures or neutral Dvergr."
+    },
+    {
+      "heading": "Breeding",
+      "level": 2,
+      "text": "Asksvin can breed, provided the Asksvin is happy and well-fed with Fiddlehead or Vineberry cluster or Smoke puff, along with there being another Asksvin at least within three meters, and no more than 10 Asksvin within at least 10 meters. Once the conditions are met, they will accumulate love points with one another until the pregnancy starts. Pregnancy will last a minimum of 90 seconds, then they lay an Asksvin egg. The quality of the Asksvin egg is determined by the Asksvin that laid it. A quality 1 egg in the player's inventory indicates a 0-star Asksvin, quality 2 indicates a 1-star, and quality 3 indicates a 2-star.\nOnce laid, it would take 30 minutes to hatch into Asksvin Hatchling if there is a heat source nearby (Example Campfire). If the heat source is gone or the player puts the egg into their inventory, the timer is reset. Then the Asksvin Hatchling takes 50 minutes to grow into an adult without the need of heat source.\nThey will not breed if the cap is reached, which is 10 Asksvin in 10 meters. However, there is currently no known limit to the eggs themselves."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The word \"Asksvin\" is Swedish for \"ash swine.\" And like swine, the plural for Asksvin is the same as its singular form."
+    }
+  ],
+  "full_text": "Asksvin\n\nInternal ID: Asksvin | Faction: Demon | Main biome: Ashlands | Tameable: Yes | Drops: Asksvin tail | Asksvin hide | Asksvin bladder | Asksvin trophy | Abilities: Bite (8s), Headbutt (8s), Pounce (4s) | Trophy: Asksvin trophy | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning | Resistant to (x0.5): Fire, ,, Poison | Immune to (x0): Spirit, ,, Chop, ,, Pickaxe\n\nIntroduction. Asksvin are hostile, tameable, and fast rideable creatures found in the Ashlands. They look like huge, mutated Necks.\n\nAttacks and abilities. Both before and after taming, Asksvin take no damage from lava, despite not being immune to fire damage.\n\nBite. Sweeps their head back before rounding forward to chomp down on the player (75 Blunt, 75 Slash, 50 Tier 0 Chop and 50 Tier 0 Pickaxe damage). This extends 4.5 meters in a 45-degree horizontal arc and can be used every 8 seconds when within 4 meters of a player.\n\nHeadbutt. Steps back before bringing their head down and rushing at the player (120 Blunt, 100 Tier 4 Chop and 100 Tier 4 Pickaxe damage). This extends 4 meters in a 45-degree horizontal arc and can be used every 8 seconds when within 6 meters of a player.\n\nPounce. Wiggles a little before springing forward at the player (150 Blunt, 50 Tier 0 Chop and 100 Tier 0 Pickaxe damage). This attack hit in a horizontal arc of 5.5 meters and 45 degrees. It can be used every 4 seconds when within 3–6 meters of a player. The attack does high damage to grausten and weaker structures, similar to a Lox, and it can even damage allied creatures.\n\nAftermath. Defeating Asksvin allows the player to loot the following items.\n\nDrops. Parts for a buildable Asksvin skeleton can also be found separately in the Ashlands, but they drop from destroying Asksvin skeletons already there, not from killing Asksvin.\n\nTaming. For general taming information and strategies, see Taming.\nSimilar to the Wolf, Level 3 (two-star) Asksvin only spawn at night. Like any creatures spawned at night, Level 3 Asksvin will attempt to flee the active area and despawn during daytime hours if the taming process has not begun. This can be prevented by either (A) trapping them in a pit or pen that they cannot escape (and staying within 64 meters of them) or (B) by starting the taming process, after which they will never despawn.\nAsksvin can be tamed by feeding them Smoke puffs, Vineberry clusters or Fiddleheads. They are rideable by equipping the Asksvin saddle. When riding an Asksvin, players cannot attack. Players riding an Asksvin can traverse lava, and neither the player nor Asksvin will take damage from the lava.\nTamed Asksvin do not do friendly fire damage to players, any other tamed creatures or neutral Dvergr.\n\nBreeding. Asksvin can breed, provided the Asksvin is happy and well-fed with Fiddlehead or Vineberry cluster or Smoke puff, along with there being another Asksvin at least within three meters, and no more than 10 Asksvin within at least 10 meters. Once the conditions are met, they will accumulate love points with one another until the pregnancy starts. Pregnancy will last a minimum of 90 seconds, then they lay an Asksvin egg. The quality of the Asksvin egg is determined by the Asksvin that laid it. A quality 1 egg in the player's inventory indicates a 0-star Asksvin, quality 2 indicates a 1-star, and quality 3 indicates a 2-star.\nOnce laid, it would take 30 minutes to hatch into Asksvin Hatchling if there is a heat source nearby (Example Campfire). If the heat source is gone or the player puts the egg into their inventory, the timer is reset. Then the Asksvin Hatchling takes 50 minutes to grow into an adult without the need of heat source.\nThey will not breed if the cap is reached, which is 10 Asksvin in 10 meters. However, there is currently no known limit to the eggs themselves.\n\nTrivia. • The word \"Asksvin\" is Swedish for \"ash swine.\" And like swine, the plural for Asksvin is the same as its singular form.",
+  "scraped_at": "2026-02-26T01:06:03.853556+00:00"
+}

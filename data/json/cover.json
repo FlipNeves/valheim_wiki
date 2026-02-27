@@ -1,0 +1,24 @@
+{
+  "title": "Cover",
+  "url": "https://valheim.fandom.com/wiki/Cover",
+  "slug": "Cover",
+  "categories": [
+    "Gameplay",
+    "Mechanics"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Cover determines when players are sheltered and affects behavior of some structures.\nCover is calculated by checking how many of the 17 cover rays are blocked by obstacles. Each ray starts 0.5 meters from the structure cover point and extends to 29.5 meters (30 meters from the cover point).\nCover rays always have the same orientation that doesn't depend on the structure rotation. The directions are:\n• Directly upwards.\n• 8 cardinal directions on a horizontal plane.\n• 8 cardinal directions at 45 degrees between horizontal and vertical plane.\nRoof is checked by finding a non-leaky material directly above within 100 meters.\nThe implementation has several quirks:\n• When very close to walls/roof, some cover lines may start outside the wall/roof (completely ignoring the roof/wall).\n• Same building with a different orientation may have a different cover because cover lines always have the same orientation.\n• Buildings with a very large open area may end up without cover.\n• Terrain, trees or rocks may cause unexpected cover."
+    },
+    {
+      "heading": "Affected structures",
+      "level": 2,
+      "text": "• Artisan table, Forge, Stonecutter, Workbench: 70% cover and roof is required for crafting and repairing.\n• Bed, Dragon bed: 80% cover and roof is needed for setting spawn point and sleeping.\n• Beehive: Less than 60% cover is needed to produce honey.\n• Fermenter:70% cover and roof is needed for fermenting.\n• Bonfire: 70% cover is needed for the stronger fire during strong winds.\n• Campfire, Hearth: 70% cover is needed for fire during strong winds.\n• Player: 80% cover and roof is needed for sheltered.\n• Sconce, Standing blue-burning iron torch, Standing green-burning iron torch, Standing iron torch, Standing wood torch: 0.5 meters of space is needed above for fire.\n• Windmill: Cover percentage directly affects speed. Propeller always blocks 24% - 29% of the cover rays depending on the wind direction."
+    }
+  ],
+  "full_text": "Cover\n\nIntroduction. Cover determines when players are sheltered and affects behavior of some structures.\nCover is calculated by checking how many of the 17 cover rays are blocked by obstacles. Each ray starts 0.5 meters from the structure cover point and extends to 29.5 meters (30 meters from the cover point).\nCover rays always have the same orientation that doesn't depend on the structure rotation. The directions are:\n• Directly upwards.\n• 8 cardinal directions on a horizontal plane.\n• 8 cardinal directions at 45 degrees between horizontal and vertical plane.\nRoof is checked by finding a non-leaky material directly above within 100 meters.\nThe implementation has several quirks:\n• When very close to walls/roof, some cover lines may start outside the wall/roof (completely ignoring the roof/wall).\n• Same building with a different orientation may have a different cover because cover lines always have the same orientation.\n• Buildings with a very large open area may end up without cover.\n• Terrain, trees or rocks may cause unexpected cover.\n\nAffected structures. • Artisan table, Forge, Stonecutter, Workbench: 70% cover and roof is required for crafting and repairing.\n• Bed, Dragon bed: 80% cover and roof is needed for setting spawn point and sleeping.\n• Beehive: Less than 60% cover is needed to produce honey.\n• Fermenter:70% cover and roof is needed for fermenting.\n• Bonfire: 70% cover is needed for the stronger fire during strong winds.\n• Campfire, Hearth: 70% cover is needed for fire during strong winds.\n• Player: 80% cover and roof is needed for sheltered.\n• Sconce, Standing blue-burning iron torch, Standing green-burning iron torch, Standing iron torch, Standing wood torch: 0.5 meters of space is needed above for fire.\n• Windmill: Cover percentage directly affects speed. Propeller always blocks 24% - 29% of the cover rays depending on the wind direction.",
+  "scraped_at": "2026-02-26T01:58:21.681875+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Queen bee",
+  "url": "https://valheim.fandom.com/wiki/Queen_bee",
+  "slug": "Queen_bee",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Queen bee",
+    "Type": "Material",
+    "Internal ID": "QueenBee",
+    "Source": "Wild Beehives",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Queen bee is a material dropped by Wild Beehives."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Beehive"
+    },
+    {
+      "heading": "Note",
+      "level": 2,
+      "text": "Queen bees are not renewable, there is a fix number per world determined by the number of randomly spawned wild beehive. It can be estimated on average at around one hundred per world."
+    }
+  ],
+  "full_text": "Queen bee\n\nType: Material | Internal ID: QueenBee | Source: Wild Beehives | Usage: Building | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Queen bee is a material dropped by Wild Beehives.\n\nBuilding. • Beehive\n\nNote. Queen bees are not renewable, there is a fix number per world determined by the number of randomly spawned wild beehive. It can be estimated on average at around one hundred per world.",
+  "scraped_at": "2026-02-26T01:36:02.136870+00:00"
+}

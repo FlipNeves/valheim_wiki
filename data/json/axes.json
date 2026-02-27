@@ -1,0 +1,196 @@
+{
+  "title": "Axes",
+  "url": "https://valheim.fandom.com/wiki/Axes",
+  "slug": "Axes",
+  "categories": [
+    "Weapons",
+    "Axes",
+    "Tools"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Axes are a weapon class.\nThey are the only type of player weapon that can be used to cut trees. They can also be used against creatures, which makes for a slightly worse sword.\nBattleaxes have enough reach to attack through some walls, enabling the player to hit enemies on the other side of barriers. They can even hit The Queen through the wall in the vestibule inside the Infested Citadel, making for a more efficient cheese victory than even the Demolisher."
+    },
+    {
+      "heading": "List of axes",
+      "level": 2,
+      "text": "All axes are also able to chop Scorched trees found in Ashlands.",
+      "table_data": [
+        {
+          "Name": "Stone axe",
+          "Icon": "",
+          "Damage": "Slash: 15/30Chop: 20/29",
+          "Stamina (primary)": "5",
+          "Stamina (secondary)": "10",
+          "Able to chop": "Up to Pine"
+        },
+        {
+          "Name": "Flint axe",
+          "Icon": "",
+          "Damage": "Slash: 20/35Chop: 30/39",
+          "Stamina (primary)": "6",
+          "Stamina (secondary)": "12",
+          "Able to chop": "Up to Pine"
+        },
+        {
+          "Name": "Bronze axe",
+          "Icon": "",
+          "Damage": "Slash: 40/55Chop: 40/49",
+          "Stamina (primary)": "8",
+          "Stamina (secondary)": "16",
+          "Able to chop": "Up to Birch and Oak"
+        },
+        {
+          "Name": "Iron axe",
+          "Icon": "",
+          "Damage": "Slash: 60/75Chop: 50/59",
+          "Stamina (primary)": "10",
+          "Stamina (secondary)": "20",
+          "Able to chop": "Up to Birch and Oak"
+        },
+        {
+          "Name": "Black metal axe",
+          "Icon": "",
+          "Damage": "Slash: 100/115Chop: 60/69",
+          "Stamina (primary)": "14",
+          "Stamina (secondary)": "28",
+          "Able to chop": "Up to Yggdrasil shoots"
+        },
+        {
+          "Name": "Jotun Bane",
+          "Icon": "",
+          "Damage": "Slash: 80/95Poison: 40/40Chop: 70/79",
+          "Stamina (primary)": "16",
+          "Stamina (secondary)": "32",
+          "Able to chop": "Up to Yggdrasil shoots"
+        },
+        {
+          "Name": "Early axes",
+          "Icon": "",
+          "Damage": "Slash: 30/45Chop: 35/44",
+          "Stamina (primary)": "6",
+          "Stamina (secondary)": "16",
+          "Able to chop": "Up to Birch and Oak"
+        },
+        {
+          "Name": "Berserkir axes",
+          "Icon": "",
+          "Damage": "Slash: 140/155Chop: 80/89",
+          "Stamina (primary)": "16",
+          "Stamina (secondary)": "32",
+          "Able to chop": "Up to Yggdrasil shoots"
+        },
+        {
+          "Name": "Battleaxe",
+          "Icon": "",
+          "Damage": "Slash: 70/88Chop: 40/47.5",
+          "Stamina (primary)": "16",
+          "Stamina (secondary)": "8",
+          "Able to chop": "Up to Birch and Oak"
+        },
+        {
+          "Name": "Crystal battleaxe",
+          "Icon": "",
+          "Damage": "Slash: 90/108Spirit: 30/30Chop: 50/57.5",
+          "Stamina (primary)": "18",
+          "Stamina (secondary)": "9",
+          "Able to chop": "Up to Birch and Oak"
+        },
+        {
+          "Name": "Black metal battleaxe",
+          "Icon": "",
+          "Damage": "Slash: 110/128Chop: 60/67.5",
+          "Stamina (primary)": "20",
+          "Stamina (secondary)": "10",
+          "Able to chop": "Up to Yggdrasil shoots"
+        },
+        {
+          "Name": "Skull Splittur",
+          "Icon": "",
+          "Damage": "Slash: 130/148Chop: 70/77.5",
+          "Stamina (primary)": "22",
+          "Stamina (secondary)": "11",
+          "Able to chop": "Up to Yggdrasil shoots"
+        }
+      ]
+    },
+    {
+      "heading": "Properties",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Attack type": "Axes (primary)",
+          "Stamina": "1x",
+          "Range": "2.2m",
+          "Attack speed": "2.58 s (0.96 + 0.8 + 0.82)",
+          "Attack speed (trees)": "1.3 s",
+          "Damage": "1x + 1x + 2x",
+          "Staggering": "1x",
+          "Knockback": "50–60",
+          "Notes": "Player moves forward 0.25m on the 2nd and 3rd combo swing. 90 degree arc."
+        },
+        {
+          "Attack type": "Axes (secondary)",
+          "Stamina": "2x",
+          "Range": "2.2m",
+          "Attack speed": "2 s",
+          "Attack speed (trees)": "2 s",
+          "Damage": "1.5x",
+          "Staggering": "1x",
+          "Knockback": "1.5x",
+          "Notes": "Vertical downwards swing."
+        },
+        {
+          "Attack type": "Two-handed axes (primary)",
+          "Stamina": "1x",
+          "Range": "2.5m",
+          "Attack speed": "3.20 s (1.58 + 0.92 + 0.7)",
+          "Attack speed (trees)": "1.58 s",
+          "Damage": "1x + 1x + 2x",
+          "Staggering": "1.5x",
+          "Knockback": "70",
+          "Notes": "Player moves forward 0.5m with each swing. 90 degree arc. No multitarget damage penalty."
+        },
+        {
+          "Attack type": "Two-handed axes (secondary)",
+          "Stamina": "0.5x",
+          "Range": "2.5m",
+          "Attack speed": "0.84s",
+          "Attack speed (trees)": "0.84 s",
+          "Damage": "0.5x",
+          "Staggering": "4x",
+          "Knockback": "2x",
+          "Notes": "Player does not move forward during strike. 30 degree arc."
+        },
+        {
+          "Attack type": "Dual-Wielded Axes (primary)",
+          "Stamina": "1x",
+          "Range": "2.2m",
+          "Attack speed": "3.62 s (0.42 + 0.7 + 1.04 + 1.46)",
+          "Attack speed (trees)": "1.3 s",
+          "Damage": "1x + 1x + (1x + 1x) + (1x + 1x)",
+          "Staggering": "1x",
+          "Knockback": "20",
+          "Notes": "Third and fourth movement are double hit"
+        },
+        {
+          "Attack type": "Dual-Wielded Axes (secondary)",
+          "Stamina": "2x",
+          "Range": "2.2m",
+          "Attack speed": "1.93 s",
+          "Attack speed (trees)": "1.93 s",
+          "Damage": "1.5x",
+          "Staggering": "1x",
+          "Knockback": "1.5x",
+          "Notes": "Jump forward and double slash"
+        }
+      ]
+    }
+  ],
+  "full_text": "Axes\n\nIntroduction. Axes are a weapon class.\nThey are the only type of player weapon that can be used to cut trees. They can also be used against creatures, which makes for a slightly worse sword.\nBattleaxes have enough reach to attack through some walls, enabling the player to hit enemies on the other side of barriers. They can even hit The Queen through the wall in the vestibule inside the Infested Citadel, making for a more efficient cheese victory than even the Demolisher.\n\nList of axes. All axes are also able to chop Scorched trees found in Ashlands.",
+  "scraped_at": "2026-02-26T01:10:36.240021+00:00"
+}

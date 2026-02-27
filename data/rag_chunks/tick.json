@@ -1,0 +1,11 @@
+{
+  "title": "Tick",
+  "url": "https://valheim.fandom.com/wiki/Tick",
+  "slug": "Tick",
+  "categories": [
+    "Creatures"
+  ],
+  "content": "# Tick\n\nInternal ID: Tick | Main biome: Mistlands | Tameable: No | Drops: Blood clot, Tick trophy | Abilities: Attach | Trophy: Tick trophy | Weak to (x1.5): Pierce | Neutral to (x1): Blunt, ,, Slash, ,, Fire, ,, Frost, ,, Lightning, ,, Poison | Immune to (x0): Spirit, ,, Chop, ,, Pickaxe\n\n# Introduction\n\nTicks are aggressive creatures found in the Mistlands. Ticks look like giant versions of their namesakes. Their only attack is to latch onto their target and deal constant damage.\n\n### Drops\n\n• Item: Blood clot | 0 Star: 1 | 1 Star: 1 | 2 Star: 1\n\n• Item: Tick trophy | 0 Star: 5% | 1 Star: 5% | 2 Star: 5%\n\n### Spawning\n\n• Type: Anywhere in the Mistlands during the nighttime after defeating The Queen, despawn at dawn | Limit: 3 | Frequency: Very rare | Stars: Yes\n\n• Type: Five spawn points near Giant Remains with skulls in the Mistlands | Limit: - | Frequency: One time | Stars: No\n\n• Type: Common spawn point in the Infested Mines | Limit: - | Frequency: One time | Stars: Yes\n\n• Type: Uncommon spawn point in the Infested Mines | Limit: - | Frequency: Respawns every 4 hours | Stars: Yes\n\n• Type: Spawned by Gjalls (3 per ability) | Limit: 8 | Frequency: Very common | Stars: No\n\n• Type: During \"What's up, Gjall?!\" event before defeating The Queen | Limit: 4 | Frequency: Very common | Stars: Yes\n\n### Attach\n\nTicks attach themselves to the player and suck blood from them every 0.5 seconds (50 Pierce damage). This lasts 5 seconds, dealing damage ten times; parrying the attack forces them to detach. Each attack reaches 1 meter in a 40-degree horizontal arc. The hitbox is calculated from the center of Ticks; this fact combined with the incredibly small hitbox, it is possible for a Tick to attach and be unable to do damage due to not being able to reach the player — especially if they are moving.\n\nCategorias: Creatures",
+  "content_length": 1840,
+  "scraped_at": "2026-02-26T01:09:33.853519+00:00"
+}

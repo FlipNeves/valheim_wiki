@@ -1,0 +1,11 @@
+{
+  "title": "Kvastur",
+  "url": "https://valheim.fandom.com/wiki/Kvastur",
+  "slug": "Kvastur",
+  "categories": [
+    "Creatures"
+  ],
+  "content": "# Kvastur\n\nInternal ID: BogWitchKvastur | Faction: Dvergr | Main biome: Swamp | Drops: Resin | Wood | Kvastur trophy | Abilities: Attack (2s) | Trophy: Kvastur trophy | Very weak to (x2): Fire | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Stagger | Immune to (x0): Poison, ,, Spirit, ,, Pickaxe | Stagger limit: 30%\n\n# Introduction\n\nKvastur is a neutral creature found in The Bog Witch hut. It defends itself if attacked.\nIt will attack monsters close to the hut.\n\n### Drops\n\n• Item: Kvastur trophy | Chance: 100% | Number: 1\n\n• Item: Wood | Chance: 100% | Number: 1\n\n• Item: Resin | Chance: 100% | Number: 1\n\n## Spawning\n\nA Kvastur is initially present in The Bog Witch hut and respawns one minute after being killed.\n\n### Attack\n\nSlams down on the enemy, hitting 2 meters out in a 90-degree vertical arc (80 Blunt damage). This attack has a 2-second cooldown and can be used within 1.2 meters of an enemy.\n\nCategorias: Creatures",
+  "content_length": 981,
+  "scraped_at": "2026-02-26T01:08:15.486126+00:00"
+}

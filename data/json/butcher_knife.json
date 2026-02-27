@@ -1,0 +1,31 @@
+{
+  "title": "Butcher knife",
+  "url": "https://valheim.fandom.com/wiki/Butcher_knife",
+  "slug": "Butcher_knife",
+  "categories": [
+    "Weapons",
+    "Knives",
+    "Forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Butcher knife",
+    "Internal ID": "KnifeButcher",
+    "Type": "Knife",
+    "Source": "Forge",
+    "Usage": "Killing tamed animals",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Wood x2, Tin x4",
+    "Attack speed": "1.74 s (0.44 + 0.58 + 0.72)",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "1.8 range, 60 angle, 0.8 height, 0.2 ray"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Butcher knife is a utility knife. It has no secondary attack.\nIts singular usage is to kill tamed animals without having to enable Friendly fire. The knife can only hurt tamed creatures, and is the only item currently able to do so."
+    }
+  ],
+  "full_text": "Butcher knife\n\nInternal ID: KnifeButcher | Type: Knife | Source: Forge | Usage: Killing tamed animals | Wielding: One-handed | Crafting Materials: Wood x2, Tin x4 | Attack speed: 1.74 s (0.44 + 0.58 + 0.72) | Chain last hit: 2x damage, +20% knockback | Hitbox: 1.8 range, 60 angle, 0.8 height, 0.2 ray\n\nIntroduction. The Butcher knife is a utility knife. It has no secondary attack.\nIts singular usage is to kill tamed animals without having to enable Friendly fire. The knife can only hurt tamed creatures, and is the only item currently able to do so.",
+  "scraped_at": "2026-02-26T01:12:49.346560+00:00"
+}

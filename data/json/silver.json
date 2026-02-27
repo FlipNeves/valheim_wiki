@@ -1,0 +1,53 @@
+{
+  "title": "Silver",
+  "url": "https://valheim.fandom.com/wiki/Silver",
+  "slug": "Silver",
+  "categories": [
+    "Metals",
+    "Materials",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Silver",
+    "Type": "Metal",
+    "Internal ID": "Silver",
+    "Source": "Smelting",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "No",
+    "Crafting Materials": "Silver ore x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Silver is a crafting material smelted from Silver ore in a Smelter using Coal as fuel. Silver can also be obtained directly from destroying Ancient pots found in ruins and Putrid Holes within the Ashlands biome."
+    },
+    {
+      "heading": "Mountain",
+      "level": 4,
+      "text": "• Crystal battleaxe\n• Drake helmet\n• Draugr fang\n• Fang spear\n• Flesh rippers\n• Frostner\n• Silver arrow\n• Silver knife\n• Silver shield\n• Silver sword\n• Wolf armor chest\n• Wolf armor legs\n• Wolf fur cape\n• Scythe\n• Wolf Sight\n• Crystal Heart"
+    },
+    {
+      "heading": "Plains",
+      "level": 4,
+      "text": "• Linen cape\n• Lox cape"
+    },
+    {
+      "heading": "Mistlands",
+      "level": 4,
+      "text": "• Himminafl\n• Wisplight"
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Butcher's table\n• Treasure chest"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• A Wishbone is generally required to find Silver veins, however they can rarely be found exposed to the surface.\n• Silver veins can also be found by slamming patches of ground with Stagbreaker. If the text \"Too Hard\" pops up under the slam, and there are no rocks nearby, there is most likely silver underground.\n• Like other metals, Silver cannot be teleported without a Portal stone.\n• If dug completely around and underneath (so it's floating), the entire node can be destroyed by destroying one piece.\n• It takes 214 Silver to craft one of each base equipment (armor, weapons, tools) in the Mountain Tier. Further 516 Silver to fully upgrade (total 730 Silver). 222 Silver to craft one of each base equipment in all Biomes tiers. Further 521 Silver to fully upgrade (total 743 Silver)."
+    }
+  ],
+  "full_text": "Silver\n\nType: Metal | Internal ID: Silver | Source: Smelting | Usage: Crafting | Teleportable (Can go through wood portal?): No | Crafting Materials: Silver ore x1\n\nIntroduction. Silver is a crafting material smelted from Silver ore in a Smelter using Coal as fuel. Silver can also be obtained directly from destroying Ancient pots found in ruins and Putrid Holes within the Ashlands biome.\n\nMountain. • Crystal battleaxe\n• Drake helmet\n• Draugr fang\n• Fang spear\n• Flesh rippers\n• Frostner\n• Silver arrow\n• Silver knife\n• Silver shield\n• Silver sword\n• Wolf armor chest\n• Wolf armor legs\n• Wolf fur cape\n• Scythe\n• Wolf Sight\n• Crystal Heart\n\nPlains. • Linen cape\n• Lox cape\n\nMistlands. • Himminafl\n• Wisplight\n\nBuilding. • Butcher's table\n• Treasure chest\n\nNotes. • A Wishbone is generally required to find Silver veins, however they can rarely be found exposed to the surface.\n• Silver veins can also be found by slamming patches of ground with Stagbreaker. If the text \"Too Hard\" pops up under the slam, and there are no rocks nearby, there is most likely silver underground.\n• Like other metals, Silver cannot be teleported without a Portal stone.\n• If dug completely around and underneath (so it's floating), the entire node can be destroyed by destroying one piece.\n• It takes 214 Silver to craft one of each base equipment (armor, weapons, tools) in the Mountain Tier. Further 516 Silver to fully upgrade (total 730 Silver). 222 Silver to craft one of each base equipment in all Biomes tiers. Further 521 Silver to fully upgrade (total 743 Silver).",
+  "scraped_at": "2026-02-26T01:36:44.079498+00:00"
+}

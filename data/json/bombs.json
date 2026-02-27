@@ -1,0 +1,59 @@
+{
+  "title": "Bombs",
+  "url": "https://valheim.fandom.com/wiki/Bombs",
+  "slug": "Bombs",
+  "categories": [
+    "Weapons",
+    "Bombs"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bombs are weapons that are thrown by the character and consumed when used.\nSee Blob bombs for a type of bombs that summon a creature on impact."
+    },
+    {
+      "heading": "List of bombs",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Ooze bomb",
+          "Icon": "",
+          "Damage": "5",
+          "Damage type": "Blunt",
+          "AoE damage": "poison: 40",
+          "AoE radius": "4 m",
+          "AoE duration": "10 s",
+          "Backstab": "3x",
+          "Knockback": "40"
+        },
+        {
+          "Name": "Bile bomb",
+          "Icon": "",
+          "Damage": "5",
+          "Damage type": "Blunt",
+          "AoE damage": "fire: 15poison: 30",
+          "AoE radius": "4 m",
+          "AoE duration": "10 s",
+          "Backstab": "3x",
+          "Knockback": "40"
+        },
+        {
+          "Name": "Smoke bomb",
+          "Icon": "",
+          "Damage": "5",
+          "Damage type": "Blunt",
+          "AoE damage": "smoked: 2/s",
+          "AoE radius": "3 m",
+          "AoE duration": "10 s",
+          "Backstab": "3x",
+          "Knockback": "40"
+        }
+      ]
+    }
+  ],
+  "full_text": "Bombs\n\nIntroduction. Bombs are weapons that are thrown by the character and consumed when used.\nSee Blob bombs for a type of bombs that summon a creature on impact.",
+  "scraped_at": "2026-02-26T01:12:05.590258+00:00"
+}

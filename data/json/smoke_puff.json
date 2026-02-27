@@ -1,0 +1,44 @@
+{
+  "title": "Smoke puff",
+  "url": "https://valheim.fandom.com/wiki/Smoke_puff",
+  "slug": "Smoke_puff",
+  "categories": [
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Smoke puff",
+    "Type": "Food",
+    "Internal ID": "MushroomSmokePuff",
+    "Source": "Found in the, Ashlands, biome",
+    "Usage": "Crafting, Eating, Taming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "15",
+    "Max Stamina": "15",
+    "Duration": "15m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Smoke puff is a raw balanced Ashlands-tier food which is used in various recipes."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Smoke puffs can be found scattered throughout the Ashlands biome, including on or around rocks or Ashlands ruins. They respawn every 4 hours."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Fiery svinstew\n• Marinated greens\n• Mead base: Lingering health\n• Smoke bomb\n• Sparkling shroomshake"
+    },
+    {
+      "heading": "Taming",
+      "level": 3,
+      "text": "• Asksvin"
+    }
+  ],
+  "full_text": "Smoke puff\n\nType: Food | Internal ID: MushroomSmokePuff | Source: Found in the, Ashlands, biome | Usage: Crafting, Eating, Taming | Teleportable (Can go through wood portal?): Yes | Max Health: 15 | Max Stamina: 15 | Duration: 15m | Healing: 1 hp/tick\n\nIntroduction. Smoke puff is a raw balanced Ashlands-tier food which is used in various recipes.\n\nAvailability. Smoke puffs can be found scattered throughout the Ashlands biome, including on or around rocks or Ashlands ruins. They respawn every 4 hours.\n\nCrafting. • Fiery svinstew\n• Marinated greens\n• Mead base: Lingering health\n• Smoke bomb\n• Sparkling shroomshake\n\nTaming. • Asksvin",
+  "scraped_at": "2026-02-26T01:28:49.505800+00:00"
+}

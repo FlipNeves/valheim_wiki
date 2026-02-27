@@ -1,0 +1,77 @@
+{
+  "title": "Bronze atgeir",
+  "url": "https://valheim.fandom.com/wiki/Bronze_atgeir",
+  "slug": "Bronze_atgeir",
+  "categories": [
+    "Weapons",
+    "Polearms",
+    "Forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Bronze atgeir",
+    "Internal ID": "AtgeirBronze",
+    "Type": "Polearm",
+    "Source": "Forge",
+    "Usage": "Weapon",
+    "Wielding": "Two-handed",
+    "Crafting Materials": "Bronze x12",
+    "Attack speed": "1.56 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "3.0 range, 360 angle, 1.0 height, 0.3 ray, no multitarget penalty",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Bronze atgeir is the first polearm. Its primary attack is a 3-hit attack combo with double damage on the last hit. Its secondary attack does normal damage and 6x staggering around the player."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Pierce",
+          "Quality 1": "45",
+          "Quality 2": "51",
+          "Quality 3": "57",
+          "Quality 4": "63"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "125",
+          "Quality 2": "175",
+          "Quality 3": "225",
+          "Quality 4": "275"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "10 Wood8 Bronze2 Leather scraps",
+          "Quality 2": "4 Bronze",
+          "Quality 3": "8 Bronze",
+          "Quality 4": "12 Bronze"
+        },
+        {
+          "stat": "Forge level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The secondary attack is enough to stagger most creatures."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Historically, no archeological find has been made to establish the existence of this weapon. The atgeir is only mentioned in one of the Icelandic sagas, composed at the end of the 13th century. This could mean that the weapon was, in fact, based upon 13th century polearms (thus the weapon's category name used in Valheim), before being retroactively attributed to the Viking period."
+    }
+  ],
+  "full_text": "Bronze atgeir\n\nInternal ID: AtgeirBronze | Type: Polearm | Source: Forge | Usage: Weapon | Wielding: Two-handed | Crafting Materials: Bronze x12 | Attack speed: 1.56 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 3.0 range, 360 angle, 1.0 height, 0.3 ray, no multitarget penalty | Movement speed: -5%\n\nIntroduction. The Bronze atgeir is the first polearm. Its primary attack is a 3-hit attack combo with double damage on the last hit. Its secondary attack does normal damage and 6x staggering around the player.\n\nNotes. • The secondary attack is enough to stagger most creatures.\n\nTrivia. • Historically, no archeological find has been made to establish the existence of this weapon. The atgeir is only mentioned in one of the Icelandic sagas, composed at the end of the 13th century. This could mean that the weapon was, in fact, based upon 13th century polearms (thus the weapon's category name used in Valheim), before being retroactively attributed to the Viking period.",
+  "scraped_at": "2026-02-26T01:12:16.442524+00:00"
+}

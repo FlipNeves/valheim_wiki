@@ -1,0 +1,35 @@
+{
+  "title": "Wisplight",
+  "url": "https://valheim.fandom.com/wiki/Wisplight",
+  "slug": "Wisplight",
+  "categories": [
+    "Accessories",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Wisplight",
+    "Internal ID": "Demister",
+    "Type": "Accessory",
+    "Source": "Workbench",
+    "Crafting Materials": "Silver x1, Wisp x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Wisplight is an accessory made of Silver and Wisp at a Workbench. It is unlocked after acquiring a Wisp for the first time."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "The light clears the Mist of Mistlands in a 10m radius around itself. The orb loosely follows the player and can briefly leave the player in a fog if they change direction too quickly.\nIt is equipped in the accessory slot, and thus allows players to wear a full set of armor in addition to the light. The Wisplight conflicts with the Megingjord and the Wishbone, which occupy the same equipment slot."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• When equipped, the message \"You release the bound wisp\" will appear.\n• The mist is also cleared by Wisp torches, the Mistwalker, and some Dvergr structures. Using the Mistwalker to clear the mist allows you to temporarily wear the Megingjord to transport Iron and Copper scrap. Its range is much less than the Wisplight, so this tactic shouldn't be used unless the extra carry weight is needed."
+    }
+  ],
+  "full_text": "Wisplight\n\nInternal ID: Demister | Type: Accessory | Source: Workbench | Crafting Materials: Silver x1, Wisp x1\n\nIntroduction. The Wisplight is an accessory made of Silver and Wisp at a Workbench. It is unlocked after acquiring a Wisp for the first time.\n\nUsage. The light clears the Mist of Mistlands in a 10m radius around itself. The orb loosely follows the player and can briefly leave the player in a fog if they change direction too quickly.\nIt is equipped in the accessory slot, and thus allows players to wear a full set of armor in addition to the light. The Wisplight conflicts with the Megingjord and the Wishbone, which occupy the same equipment slot.\n\nNotes. • When equipped, the message \"You release the bound wisp\" will appear.\n• The mist is also cleared by Wisp torches, the Mistwalker, and some Dvergr structures. Using the Mistwalker to clear the mist allows you to temporarily wear the Megingjord to transport Iron and Copper scrap. Its range is much less than the Wisplight, so this tactic shouldn't be used unless the extra carry weight is needed.",
+  "scraped_at": "2026-02-26T01:53:04.902456+00:00"
+}

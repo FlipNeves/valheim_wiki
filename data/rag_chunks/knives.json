@@ -1,0 +1,11 @@
+{
+  "title": "Knives",
+  "url": "https://valheim.fandom.com/wiki/Knives",
+  "slug": "Knives",
+  "categories": [
+    "Weapons"
+  ],
+  "content": "# Knives\n\n# Introduction\n\nKnives are a weapon class.\nKnives have fast attacks with short range and low stamina cost.\nKnives deal 6x damage against unalerted enemies, whereas most other weapons do 3x.\n\n## List of knives\n\n• Name: Flint knife | Damage: Slash: 5/8Pierce: 5/8 | Stamina (primary): 4 | Stamina (secondary): 12\n\n• Name: Copper knife | Damage: Slash: 12/15Pierce: 12/15 | Stamina (primary): 6 | Stamina (secondary): 18\n\n• Name: Butcher knife | Damage: Pure: 1000 | Stamina (primary): 5 | Stamina (secondary): - | Notes: Does damage only to tamed animals\n\n• Name: Abyssal Razor | Damage: Slash: 20/23Pierce: 20/23 | Stamina (primary): 8 | Stamina (secondary): 24\n\n• Name: Silver knife | Damage: Slash: 25/28Pierce: 25/28Spirit: 12 | Stamina (primary): 10 | Stamina (secondary): 30\n\n• Name: Black metal knife | Damage: Slash: 34/37Pierce: 34/37 | Stamina (primary): 12 | Stamina (secondary): 36\n\n• Name: Skoll and Hati | Damage: Slash: 45/48Pierce: 45/48 | Stamina (primary): 14 | Stamina (secondary): 42 | Notes: Dual-wielded\n\n## Properties\n\n• Attack type: Knives (primary) | Stamina: 1x | Range: 1.8 m | Attack speed: 1.74 s (0.44 + 0.58 + 0.72) | Damage: 1x + 1x + 2x | Staggering: 1x | Knockback: 10 | Notes: Attacking does not move the player. 60 degree arc.\n\n• Attack type: Knives (secondary) | Stamina: 3x | Range: 1.8 m | Attack speed: 1.52 s | Damage: 3x | Staggering: 1x | Knockback: 4x | Notes: Causes the player to lunge 5 m forward. 45 degree arc.\n\nCategorias: Weapons",
+  "content_length": 1488,
+  "scraped_at": "2026-02-26T01:16:34.774129+00:00"
+}

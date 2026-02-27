@@ -1,0 +1,12 @@
+{
+  "title": "Bombs",
+  "url": "https://valheim.fandom.com/wiki/Bombs",
+  "slug": "Bombs",
+  "categories": [
+    "Weapons",
+    "Bombs"
+  ],
+  "content": "# Bombs\n\n# Introduction\n\nBombs are weapons that are thrown by the character and consumed when used.\nSee Blob bombs for a type of bombs that summon a creature on impact.\n\n## List of bombs\n\n• Name: Ooze bomb | Damage: 5 | Damage type: Blunt | AoE damage: poison: 40 | AoE radius: 4 m | AoE duration: 10 s | Backstab: 3x | Knockback: 40\n\n• Name: Bile bomb | Damage: 5 | Damage type: Blunt | AoE damage: fire: 15poison: 30 | AoE radius: 4 m | AoE duration: 10 s | Backstab: 3x | Knockback: 40\n\n• Name: Smoke bomb | Damage: 5 | Damage type: Blunt | AoE damage: smoked: 2/s | AoE radius: 3 m | AoE duration: 10 s | Backstab: 3x | Knockback: 40\n\nCategorias: Weapons, Bombs",
+  "content_length": 665,
+  "scraped_at": "2026-02-26T01:12:05.590258+00:00"
+}

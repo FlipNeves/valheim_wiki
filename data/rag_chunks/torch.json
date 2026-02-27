@@ -1,0 +1,14 @@
+{
+  "title": "Torch",
+  "url": "https://valheim.fandom.com/wiki/Torch",
+  "slug": "Torch",
+  "categories": [
+    "Weapons",
+    "Clubs",
+    "Light sources",
+    "Tools"
+  ],
+  "content": "# Torch\n\nInternal ID: Torch | Type: Club | Source: Player crafting menu | Usage: Light source, Weapon | Crafting Materials: Wood x1, Resin x1 | Attack speed: 2.46 s (0.86 + 0.80 + 0.90) | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.4 range, 90 angle, 0.8 height, 0.3 ray | Movement speed: -5%\n\n# Introduction\n\nThe Torch is a utility club. Its primary attack is a 3-hit combo with double damage on the last hit. It does not have a secondary attack.\nIt provides light. When equipped, it has the same effect as a fire, scaring off Necks, untamed Boars, Greylings and Greydwarfs.\nIt can be equipped in both main and off-hand.\n\n## Upgrade information\n\n• stat: Blunt | Quality 1: 4\n\n• stat: Fire | Quality 1: 15\n\n• stat: Durability | Quality 1: 20\n\n• stat: Crafting | Quality 1: 1 Wood1 Resin\n\n• stat: Workbench level | Quality 1: 1\n\n## Notes\n\n• The player starts the game with a torch.\n• The torch passively loses durability when equipped and will stay lit for a maximum of 10 minutes (night lasts for nine minutes).\n• Torches cannot be repaired and will simply disappear when their durability reaches 0%.\n• Cannot be placed on an Item Stand.\n• Despite its description, the torch does not provide the player with warmth.\n\nCategorias: Weapons, Clubs, Light sources, Tools",
+  "content_length": 1275,
+  "scraped_at": "2026-02-26T01:19:44.843101+00:00"
+}

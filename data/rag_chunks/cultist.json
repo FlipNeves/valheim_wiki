@@ -1,0 +1,11 @@
+{
+  "title": "Cultist",
+  "url": "https://valheim.fandom.com/wiki/Cultist",
+  "slug": "Cultist",
+  "categories": [
+    "Creatures"
+  ],
+  "content": "# Cultist\n\nInternal ID: Fenring_Cultist | Faction: Mountain | Main biome: Mountain | Drops: Red jute | Cultist trophy | Abilities: Fireclaw double (10s), Fireclaw (2s), Flames (10s) | Trophy: Cultist trophy | Weak to (x1.5): Poison | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Spirit, ,, Stagger | Immune to (x0): Fire, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\n# Introduction\n\nCultists are aggressive creatures found in Mountains inside Frost Caves. Their appearance is distinctly werewolf-like, however, unlike Fenrings and Ulvs, they wear tattered red hooded cloaks.\n\n### Drops\n\n• Item: Cultist trophy | 0 Star: 10%\n\n• Item: Red jute | 0 Star: 1-2\n\n### Spawning\n\n• Type: Rare spawn point in Frost Caves. | Limit: - | Frequency: One time | Stars: No\n\n### Fireclaw double\n\nThe exact same as Fireclaw[1], but swings a second time with its other hand and has a 10-second cooldown (35 Slash 40 Fire damage each hit).\n\n### Fireclaw\n\nSwings its claw in a 90-degree horizontal arc that is 3 meters long to scratch the player, which applies the Burning status (35 Slash 40 Fire damage). This attack has a 2-second cooldown and can be used within 1.5 meters of the player.\n\n### Flames\n\nBrings both arms down before sending out a blast of fire which applies the Burning status (50 Fire damage). It hits in a 4-meter 35-degree horizontal arc and can hit through walls. This attack cannot be blocked, has a cooldown of 10 seconds, and can be used 2–6 meters from a player; it cannot be used if the player stands close.\n\nCategorias: Creatures",
+  "content_length": 1560,
+  "scraped_at": "2026-02-26T01:06:44.368394+00:00"
+}

@@ -1,0 +1,205 @@
+{
+  "title": "Controls",
+  "url": "https://valheim.fandom.com/wiki/Controls",
+  "slug": "Controls",
+  "categories": [
+    "User interface"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "These are default controls for Valheim. In the settings menu, keyboard keys can be reassigned, and certain options can be adjusted for controllers.",
+      "table_data": [
+        {
+          "Action": "Move around",
+          "Default Key": "WASD",
+          "Steam/Xbox Controllers": "Left Stick"
+        },
+        {
+          "Action": "Look around",
+          "Default Key": "Move mouse",
+          "Steam/Xbox Controllers": "Right Stick"
+        },
+        {
+          "Action": "Fire",
+          "Default Key": "LMB",
+          "Steam/Xbox Controllers": "Right Trigger"
+        },
+        {
+          "Action": "Block",
+          "Default Key": "RMB",
+          "Steam/Xbox Controllers": "Left Trigger"
+        },
+        {
+          "Action": "Jump",
+          "Default Key": "Space",
+          "Steam/Xbox Controllers": "B Button"
+        },
+        {
+          "Action": "Run",
+          "Default Key": "Left shift",
+          "Steam/Xbox Controllers": "Left Bumper"
+        },
+        {
+          "Action": "Barrel roll",
+          "Default Key": "RMB + Space / WASD",
+          "Steam/Xbox Controllers": "Left Trigger + B Button"
+        },
+        {
+          "Action": "Interact (use, pickup etc.)",
+          "Default Key": "E",
+          "Steam/Xbox Controllers": "A Button"
+        },
+        {
+          "Action": "Use Hotbar Slot Item",
+          "Default Key": "1–8",
+          "Steam/Xbox Controllers": "Dpad Up (Dpad Left or right to switch)"
+        },
+        {
+          "Action": "Open inventory",
+          "Default Key": "I / Tab",
+          "Steam/Xbox Controllers": "Y Button"
+        },
+        {
+          "Action": "Move in Inventory Area",
+          "Default Key": "Move Mouse",
+          "Steam/Xbox Controllers": "Left/Right Bumper"
+        },
+        {
+          "Action": "Split Stack",
+          "Default Key": "Shift + Left Click",
+          "Steam/Xbox Controllers": "Left Trigger + A Button"
+        },
+        {
+          "Action": "Move/Drop Stack",
+          "Default Key": "Ctrl + Left Click",
+          "Steam/Xbox Controllers": "Right Trigger + A Button"
+        },
+        {
+          "Action": "Repair Tools",
+          "Default Key": "Click Button at Bench",
+          "Steam/Xbox Controllers": "Right Stick down in Crafting Area"
+        },
+        {
+          "Action": "Toggle minimap",
+          "Default Key": "M (, and . to zoom mini)",
+          "Steam/Xbox Controllers": "Menu/Select Button"
+        },
+        {
+          "Action": "Zoom map",
+          "Default Key": "Mouse Wheel",
+          "Steam/Xbox Controllers": "In mini map Left/Right Trigger"
+        },
+        {
+          "Action": "Move map",
+          "Default Key": "Left Click and Drag",
+          "Steam/Xbox Controllers": "Left Stick"
+        },
+        {
+          "Action": "Select map marker",
+          "Default Key": "Left Click",
+          "Steam/Xbox Controllers": "Dpad Up/Down"
+        },
+        {
+          "Action": "Place map markers",
+          "Default Key": "Double Left Click",
+          "Steam/Xbox Controllers": "A Button"
+        },
+        {
+          "Action": "Remove map markers",
+          "Default Key": "Right Click",
+          "Steam/Xbox Controllers": "B Button"
+        },
+        {
+          "Action": "Toggle map markers",
+          "Default Key": "Left Click on Marker",
+          "Steam/Xbox Controllers": "Dpad Right on marker you want to toggle"
+        },
+        {
+          "Action": "Zoom camera in",
+          "Default Key": "Mouse scroll up",
+          "Steam/Xbox Controllers": ""
+        },
+        {
+          "Action": "Zoom camera out",
+          "Default Key": "Mouse scroll down",
+          "Steam/Xbox Controllers": ""
+        },
+        {
+          "Action": "Toggle chat box",
+          "Default Key": "Enter",
+          "Steam/Xbox Controllers": ""
+        },
+        {
+          "Action": "Submit",
+          "Default Key": "Enter",
+          "Steam/Xbox Controllers": ""
+        },
+        {
+          "Action": "Cancel",
+          "Default Key": "Escape",
+          "Steam/Xbox Controllers": ""
+        },
+        {
+          "Action": "Screenshot",
+          "Default Key": "F12",
+          "Steam/Xbox Controllers": ""
+        },
+        {
+          "Action": "Hide HUD",
+          "Default Key": "Ctrl + F3",
+          "Steam/Xbox Controllers": ""
+        },
+        {
+          "Action": "Auto Walk",
+          "Default Key": "Q",
+          "Steam/Xbox Controllers": ""
+        },
+        {
+          "Action": "Sit",
+          "Default Key": "X",
+          "Steam/Xbox Controllers": "X Button"
+        },
+        {
+          "Action": "Sneak",
+          "Default Key": "Left ctrl",
+          "Steam/Xbox Controllers": "Left Stick Click"
+        },
+        {
+          "Action": "Secondary Attack",
+          "Default Key": "Middle Mouse Button",
+          "Steam/Xbox Controllers": "Right Bumper"
+        },
+        {
+          "Action": "Boss Power",
+          "Default Key": "F",
+          "Steam/Xbox Controllers": "Dpad Down"
+        },
+        {
+          "Action": "Settings/Exit Menu",
+          "Default Key": "Esc",
+          "Steam/Xbox Controllers": "Start/Menu Button"
+        },
+        {
+          "Action": "Toggle Hide/Show Weapon/Shield",
+          "Default Key": "R",
+          "Steam/Xbox Controllers": "Right Stick Click"
+        },
+        {
+          "Action": "Toggle Building Snap Placement",
+          "Default Key": "Shift",
+          "Steam/Xbox Controllers": "Left Bumper"
+        },
+        {
+          "Action": "Open emote wheel",
+          "Default Key": "T",
+          "Steam/Xbox Controllers": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Controls\n\nIntroduction. These are default controls for Valheim. In the settings menu, keyboard keys can be reassigned, and certain options can be adjusted for controllers.",
+  "scraped_at": "2026-02-26T01:58:45.607425+00:00"
+}

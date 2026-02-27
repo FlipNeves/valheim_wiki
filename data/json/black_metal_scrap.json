@@ -1,0 +1,36 @@
+{
+  "title": "Black metal scrap",
+  "url": "https://valheim.fandom.com/wiki/Black_metal_scrap",
+  "slug": "Black_metal_scrap",
+  "categories": [
+    "Ores",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Black metal scrap",
+    "Type": "Ore",
+    "Internal ID": "BlackMetalScrap",
+    "Source": "Plains, biome,, Fuling, ,, Fuling Berserker, ,, Fuling shaman",
+    "Usage": "Smelting",
+    "Teleportable (Can go through wood portal?)": "No"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Black metal scrap is used to craft the fourth level of equipment materials, following Silver."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Unlike other metals, Black metal scrap is not mined from deposits. It is dropped by Fulings or found in chests in the Plains biome."
+    },
+    {
+      "heading": "Smelting",
+      "level": 3,
+      "text": "• Black metal (requires a Blast furnace to be smelted and cannot be teleported without a Portal stone)."
+    }
+  ],
+  "full_text": "Black metal scrap\n\nType: Ore | Internal ID: BlackMetalScrap | Source: Plains, biome,, Fuling, ,, Fuling Berserker, ,, Fuling shaman | Usage: Smelting | Teleportable (Can go through wood portal?): No\n\nIntroduction. Black metal scrap is used to craft the fourth level of equipment materials, following Silver.\n\nAvailability. Unlike other metals, Black metal scrap is not mined from deposits. It is dropped by Fulings or found in chests in the Plains biome.\n\nSmelting. • Black metal (requires a Blast furnace to be smelted and cannot be teleported without a Portal stone).",
+  "scraped_at": "2026-02-26T01:52:28.520037+00:00"
+}

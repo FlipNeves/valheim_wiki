@@ -1,0 +1,32 @@
+{
+  "title": "Simple tunic red",
+  "url": "https://valheim.fandom.com/wiki/Simple_tunic_red",
+  "slug": "Simple_tunic_red",
+  "categories": [
+    "Armor",
+    "Body"
+  ],
+  "infobox": {
+    "_infobox_title": "Simple tunic red",
+    "Internal ID": "ArmorTunic4",
+    "Type": "Body",
+    "Source": "Hildir",
+    "Buy": "350, Coins",
+    "Armor": "1",
+    "Base Item Stamina Usage": "-20%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Simple tunic red is an armor piece which can be purchased from Hildir for 350 Coins. This item will be in the merchant's assortment only after returning Hildir's brass chest."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 20%."
+    }
+  ],
+  "full_text": "Simple tunic red\n\nInternal ID: ArmorTunic4 | Type: Body | Source: Hildir | Buy: 350, Coins | Armor: 1 | Base Item Stamina Usage: -20%\n\nIntroduction. Simple tunic red is an armor piece which can be purchased from Hildir for 350 Coins. This item will be in the merchant's assortment only after returning Hildir's brass chest.\n\nNotes. • Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 20%.",
+  "scraped_at": "2026-02-26T01:23:45.457808+00:00"
+}

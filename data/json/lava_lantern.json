@@ -1,0 +1,33 @@
+{
+  "title": "Lava lantern",
+  "url": "https://valheim.fandom.com/wiki/Lava_lantern",
+  "slug": "Lava_lantern",
+  "categories": [
+    "Furniture",
+    "Grants Comfort",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Lava lantern",
+    "Type": "Furniture",
+    "Internal ID": "piece_Lavalantern",
+    "Source": "Black forge",
+    "Usage": "Comfort, , Decoration, Light Source",
+    "Crafting Materials": "Flametal x1, Proustite powder x1, Sulfur x1",
+    "Support": "Wood (from 10 to 100)",
+    "Loss": "1/8 vertical, 1/5 horizontal",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lava lantern is a decorative light source that does not require any kind of fuel. It increases Comfort by 1 when placed nearby.\nIt requires a Workbench and materials from Ashlands to be built."
+    }
+  ],
+  "full_text": "Lava lantern\n\nType: Furniture | Internal ID: piece_Lavalantern | Source: Black forge | Usage: Comfort, , Decoration, Light Source | Crafting Materials: Flametal x1, Proustite powder x1, Sulfur x1 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Lava lantern is a decorative light source that does not require any kind of fuel. It increases Comfort by 1 when placed nearby.\nIt requires a Workbench and materials from Ashlands to be built.",
+  "scraped_at": "2026-02-26T01:41:36.327440+00:00"
+}

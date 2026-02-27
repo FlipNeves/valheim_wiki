@@ -1,0 +1,71 @@
+{
+  "title": "Asksvin cloak",
+  "url": "https://valheim.fandom.com/wiki/Asksvin_cloak",
+  "slug": "Asksvin_cloak",
+  "categories": [
+    "Armor",
+    "Capes"
+  ],
+  "infobox": {
+    "_infobox_title": "Asksvin cloak",
+    "Internal ID": "CapeAsksvin",
+    "Type": "Cape",
+    "Source": "Galdr table",
+    "Crafting Materials": "Asksvin hide x6",
+    "Armor": "4",
+    "Resistances": "Wind Runeffect | Frost"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Asksvin cloak is a craftable Cape piece available in Ashlands. It offers a -15% dodge stamina usage and the Wind run effect. Wind run increases running speed up to +25% and decreases running stamina usage down to -100% based on wind direction and wind strength.\nAn alternative option for an Ashlands-tier cape is the Ashen cape which offers more combat bonuses."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Durability",
+          "Quality 1": "1500",
+          "Quality 2": "1550",
+          "Quality 3": "1600",
+          "Quality 4": "1650",
+          "Total": ""
+        },
+        {
+          "stat": "Armor",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4",
+          "Total": ""
+        },
+        {
+          "stat": "Cost",
+          "Quality 1": "6 Asksvin hide2 Morgen sinew",
+          "Quality 2": "2 Asksvin hide",
+          "Quality 3": "4 Asksvin hide",
+          "Quality 4": "6 Asksvin hide",
+          "Total": "18 Asksvin hide2 Morgen sinew"
+        },
+        {
+          "stat": "Galdr table level",
+          "Quality 1": "2",
+          "Quality 2": "3",
+          "Quality 3": "4",
+          "Quality 4": "5 (not yet available)",
+          "Total": ""
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The Wind run affect works similar to sailing ships.\n• Wind strength affects the speed boost.\n• Before patch 0.219.16, the Asksvin cloak had a -15% Run stamina usage, no dodge stamina reduction, the Wind run effect had a movement bonus up to +100% and no run stamina reduction."
+    }
+  ],
+  "full_text": "Asksvin cloak\n\nInternal ID: CapeAsksvin | Type: Cape | Source: Galdr table | Crafting Materials: Asksvin hide x6 | Armor: 4 | Resistances: Wind Runeffect | Frost\n\nIntroduction. Asksvin cloak is a craftable Cape piece available in Ashlands. It offers a -15% dodge stamina usage and the Wind run effect. Wind run increases running speed up to +25% and decreases running stamina usage down to -100% based on wind direction and wind strength.\nAn alternative option for an Ashlands-tier cape is the Ashen cape which offers more combat bonuses.\n\nNotes. • The Wind run affect works similar to sailing ships.\n• Wind strength affects the speed boost.\n• Before patch 0.219.16, the Asksvin cloak had a -15% Run stamina usage, no dodge stamina reduction, the Wind run effect had a movement bonus up to +100% and no run stamina reduction.",
+  "scraped_at": "2026-02-26T01:20:30.490632+00:00"
+}

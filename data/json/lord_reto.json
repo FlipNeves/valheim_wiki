@@ -1,0 +1,68 @@
+{
+  "title": "Lord Reto",
+  "url": "https://valheim.fandom.com/wiki/Lord_Reto",
+  "slug": "Lord_Reto",
+  "categories": [
+    "Creatures",
+    "Minibosses"
+  ],
+  "infobox": {
+    "_infobox_title": "Lord Reto",
+    "Internal ID": "Charred_Melee_Dyrnwyn",
+    "Faction": "Demon",
+    "Main biome": "Ashlands",
+    "Abilities": "Swing (3s), Thrust (3s), Feint (8s), Thrust feint (3s)",
+    "Weak to (x1.5)": "Spirit",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Lightning, ,, Stagger",
+    "Resistant to (x0.5)": "Pierce, ,, Fire, ,, Frost",
+    "Immune to (x0)": "Poison, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "0.5"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lord Reto is a miniboss found in the Ashlands. He is part of the sub-quest to craft the Dyrnwyn.\nHe can be found inside the dungeon Tomb of Lord Reto. The location of the dungeon is given by following a series of 3 Vegvisirs, see Mysterious Location for details."
+    },
+    {
+      "heading": "Attacks and abilities",
+      "level": 2,
+      "text": "Lord Reto spawns naturally with 2 stars, so all of his stats are listed with those multipliers taken into account. He has an attack move set similar to a regular Charred Warrior, but more health and damage than even a 2-starred Charred Warrior. He is also capable of killing a player in one-hit, even if they have got the currently max health and best armor possible. (Piquant Pie, Mashed Meat and Fiery Svinstew which provides 300 health.)"
+    },
+    {
+      "heading": "Swing",
+      "level": 3,
+      "text": "A vertical sword slash that creates a 3-meter 115-degree arc in front (480 Slash damage). It can be used every 3 seconds when within 1.6 meters of a player."
+    },
+    {
+      "heading": "Thrust",
+      "level": 3,
+      "text": "A forward stab that extends in a 3-meter line which arcs slightly by 10 degrees (460 Pierce damage). This attack can be used every 3 seconds when within 1.6 meters of a player."
+    },
+    {
+      "heading": "Feint",
+      "level": 3,
+      "text": "Shares the same windup as the swing, but Lord Reto will suddenly pause before shifting stances to attack with a different slash that hits in a 3-meter 77.3-degree vertical arc (500 Slash damage). It can be used every 8 seconds when within 1.6 meters of a player. There is practically no difference between the animation for this attack and that of the regular swing[1]; there is more than enough time to react and parry again, but the attack will catch rolling players unless completely moving out of his range."
+    },
+    {
+      "heading": "Thrust feint",
+      "level": 3,
+      "text": "Shares the same windup as the thrust, but Lord Reto will suddenly pause before attacking with an upward swing from his current stance (420 Pierce damage). This attack creates a vertical arc that is 3 meters long and spans 60 degrees. It can be used every 3 seconds when within 1.6 meters of a player. Similar to the regular feint, there is practically no difference between the animation for this attack and that of the regular thrust[2]; there is more than enough time to react and parry again, but the attack will catch rolling players unless completely moving out of his range."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Dyrnwyn hilt fragment",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Lord Reto\n\nInternal ID: Charred_Melee_Dyrnwyn | Faction: Demon | Main biome: Ashlands | Abilities: Swing (3s), Thrust (3s), Feint (8s), Thrust feint (3s) | Weak to (x1.5): Spirit | Neutral to (x1): Blunt, ,, Slash, ,, Lightning, ,, Stagger | Resistant to (x0.5): Pierce, ,, Fire, ,, Frost | Immune to (x0): Poison, ,, Chop, ,, Pickaxe | Stagger limit: 0.5\n\nIntroduction. Lord Reto is a miniboss found in the Ashlands. He is part of the sub-quest to craft the Dyrnwyn.\nHe can be found inside the dungeon Tomb of Lord Reto. The location of the dungeon is given by following a series of 3 Vegvisirs, see Mysterious Location for details.\n\nAttacks and abilities. Lord Reto spawns naturally with 2 stars, so all of his stats are listed with those multipliers taken into account. He has an attack move set similar to a regular Charred Warrior, but more health and damage than even a 2-starred Charred Warrior. He is also capable of killing a player in one-hit, even if they have got the currently max health and best armor possible. (Piquant Pie, Mashed Meat and Fiery Svinstew which provides 300 health.)\n\nSwing. A vertical sword slash that creates a 3-meter 115-degree arc in front (480 Slash damage). It can be used every 3 seconds when within 1.6 meters of a player.\n\nThrust. A forward stab that extends in a 3-meter line which arcs slightly by 10 degrees (460 Pierce damage). This attack can be used every 3 seconds when within 1.6 meters of a player.\n\nFeint. Shares the same windup as the swing, but Lord Reto will suddenly pause before shifting stances to attack with a different slash that hits in a 3-meter 77.3-degree vertical arc (500 Slash damage). It can be used every 8 seconds when within 1.6 meters of a player. There is practically no difference between the animation for this attack and that of the regular swing[1]; there is more than enough time to react and parry again, but the attack will catch rolling players unless completely moving out of his range.\n\nThrust feint. Shares the same windup as the thrust, but Lord Reto will suddenly pause before attacking with an upward swing from his current stance (420 Pierce damage). This attack creates a vertical arc that is 3 meters long and spans 60 degrees. It can be used every 3 seconds when within 1.6 meters of a player. Similar to the regular feint, there is practically no difference between the animation for this attack and that of the regular thrust[2]; there is more than enough time to react and parry again, but the attack will catch rolling players unless completely moving out of his range.",
+  "scraped_at": "2026-02-26T01:08:26.872435+00:00"
+}

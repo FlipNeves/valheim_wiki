@@ -1,0 +1,31 @@
+{
+  "title": "Charred bolt",
+  "url": "https://valheim.fandom.com/wiki/Charred_bolt",
+  "slug": "Charred_bolt",
+  "categories": [
+    "Weapons",
+    "Black forge recipes",
+    "Bolts"
+  ],
+  "infobox": {
+    "_infobox_title": "Charred bolt",
+    "Internal ID": "BoltCharred",
+    "Type": "Bolts",
+    "Source": "Black forge",
+    "Crafting Materials": "Charred bone x2, Ashwood x8, Feathers x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Charred bolts are ammunition for crossbows and are the next direct upgrade from Carapace bolts."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• It is unlocked after acquiring Charred bone and Ashwood from the Ashlands and is crafted at a Black forge."
+    }
+  ],
+  "full_text": "Charred bolt\n\nInternal ID: BoltCharred | Type: Bolts | Source: Black forge | Crafting Materials: Charred bone x2, Ashwood x8, Feathers x2\n\nIntroduction. Charred bolts are ammunition for crossbows and are the next direct upgrade from Carapace bolts.\n\nAvailability. • It is unlocked after acquiring Charred bone and Ashwood from the Ashlands and is crafted at a Black forge.",
+  "scraped_at": "2026-02-26T01:13:15.526341+00:00"
+}

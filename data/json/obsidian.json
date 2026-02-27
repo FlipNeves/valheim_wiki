@@ -1,0 +1,40 @@
+{
+  "title": "Obsidian",
+  "url": "https://valheim.fandom.com/wiki/Obsidian",
+  "slug": "Obsidian",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Obsidian",
+    "Type": "Material",
+    "Internal ID": "Obsidian",
+    "Source": "Obsidian deposit, in the, Mountain, biome",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Obsidian is black volcanic glass found in the Mountain. Finding it unlocks the Tool shelf upgrade for the Workbench and two different kinds of elemental arrows."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Obsidian occurs in boulder-like deposits on the slopes of Mountains. It is more likely to be found on the higher slopes. Obsidian deposits require an Iron pickaxe or better to mine. The glass-like deposits shatter when struck and so are best harvested from the low side, to avoid losing any shards.\nAlternatively, Obsidian can sometimes be found inside loot chests inside Frost Caves, which are also located in Mountain biomes.\nUnlike metal and metal ores, Obsidian can be taken through portals."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Tool shelf"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Frost arrow\n• Obsidian arrow\n• Poison arrow"
+    }
+  ],
+  "full_text": "Obsidian\n\nType: Material | Internal ID: Obsidian | Source: Obsidian deposit, in the, Mountain, biome | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Obsidian is black volcanic glass found in the Mountain. Finding it unlocks the Tool shelf upgrade for the Workbench and two different kinds of elemental arrows.\n\nAvailability. Obsidian occurs in boulder-like deposits on the slopes of Mountains. It is more likely to be found on the higher slopes. Obsidian deposits require an Iron pickaxe or better to mine. The glass-like deposits shatter when struck and so are best harvested from the low side, to avoid losing any shards.\nAlternatively, Obsidian can sometimes be found inside loot chests inside Frost Caves, which are also located in Mountain biomes.\nUnlike metal and metal ores, Obsidian can be taken through portals.\n\nBuilding. • Tool shelf\n\nCrafting. • Frost arrow\n• Obsidian arrow\n• Poison arrow",
+  "scraped_at": "2026-02-26T01:35:38.082155+00:00"
+}

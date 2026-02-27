@@ -1,0 +1,32 @@
+{
+  "title": "Nimble Anklet",
+  "url": "https://valheim.fandom.com/wiki/Nimble_Anklet",
+  "slug": "Nimble_Anklet",
+  "categories": [
+    "Trinket"
+  ],
+  "infobox": {
+    "_infobox_title": "Nimble Anklet",
+    "Internal ID": "TrinketIronStamina",
+    "Type": "Trinkets",
+    "Source": "Forge",
+    "Crafting Materials": "Iron x5, Withered bone x5, Surtling trophy x1",
+    "Adrenaline Cost": "60",
+    "Effect": "50 stamina gain | +15% movement speed",
+    "Duration": "30s"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Nimble Anklet is a Swamp-tier trinket."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Once 60 Adrenaline has been gained, the Nimble Anklet will trigger automatically, providing 50 stamina immediately, and +15% movement speed for 30 seconds."
+    }
+  ],
+  "full_text": "Nimble Anklet\n\nInternal ID: TrinketIronStamina | Type: Trinkets | Source: Forge | Crafting Materials: Iron x5, Withered bone x5, Surtling trophy x1 | Adrenaline Cost: 60 | Effect: 50 stamina gain | +15% movement speed | Duration: 30s\n\nIntroduction. Nimble Anklet is a Swamp-tier trinket.\n\nEffects. Once 60 Adrenaline has been gained, the Nimble Anklet will trigger automatically, providing 50 stamina immediately, and +15% movement speed for 30 seconds.",
+  "scraped_at": "2026-02-26T02:09:50.945442+00:00"
+}

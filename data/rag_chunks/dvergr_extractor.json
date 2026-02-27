@@ -1,0 +1,12 @@
+{
+  "title": "Dvergr extractor",
+  "url": "https://valheim.fandom.com/wiki/Dvergr_extractor",
+  "slug": "Dvergr_extractor",
+  "categories": [
+    "Materials",
+    "Can't be Teleported"
+  ],
+  "content": "# Dvergr extractor\n\nType: Material | Internal ID: DvergrNeedle | Source: Dvergr component crate | Usage: Placing, Sap extractor | Teleportable (Can go through wood portal?): No\n\n# Introduction\n\nThe Dvergr extractor is an item found in the Mistlands. It is a key component in the creation of Sap extractors. Unlike other miscellaneous materials, it cannot be teleported without a Portal stone.\n\n## Availability\n\nDvergr extractors can be found in the Dvergr component crates that spawn in inhabited Dvergr settlements in the Mistlands.\n\n### Building\n\n• Sap extractor\n\n## Notes\n\nBreaking the crates that contain these extractors directly will anger the nearby Dvergr. Destroying it indirectly by ramming it with a cart or luring hostile mobs to them does not.\n\nCategorias: Materials, Can't be Teleported",
+  "content_length": 800,
+  "scraped_at": "2026-02-26T01:33:08.063416+00:00"
+}

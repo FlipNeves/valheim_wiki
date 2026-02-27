@@ -1,0 +1,27 @@
+{
+  "title": "Effigy of Malice",
+  "url": "https://valheim.fandom.com/wiki/Effigy_of_Malice",
+  "slug": "Effigy_of_Malice",
+  "categories": [
+    "Building",
+    "Creature spawner"
+  ],
+  "infobox": {
+    "_infobox_title": "Effigy of Malice",
+    "Internal ID": "Spawner_CharredCross",
+    "Usage": "Charred Warrior (43.2% chance), Charred Marksman (43.2% chance), Charred Warlock (8.6% chance)",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe, ,, Frost, ,, Spirit",
+    "Resistant to (x0.5)": "Pierce, ,, Fire, ,, Lightning",
+    "Immune to (x0)": "Poison, ,"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Effigy of Malice is a creature spawner found in Charred Fortresses within the Ashlands. The Effigy can spawn any Charred:\n• Charred Warrior (43.2% chance)\n• Charred Marksman (43.2% chance)\n• Charred Warlock (8.6% chance)\nSpawned enemies have a 4.75% chance to be 1-star and a 0.25% chance to be 2-star.\nThe Effigy activates when there is a player within 60 meters. The effigy attempts to spawn within four meters every 12 seconds."
+    }
+  ],
+  "full_text": "Effigy of Malice\n\nInternal ID: Spawner_CharredCross | Usage: Charred Warrior (43.2% chance), Charred Marksman (43.2% chance), Charred Warlock (8.6% chance) | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Frost, ,, Spirit | Resistant to (x0.5): Pierce, ,, Fire, ,, Lightning | Immune to (x0): Poison, ,\n\nIntroduction. The Effigy of Malice is a creature spawner found in Charred Fortresses within the Ashlands. The Effigy can spawn any Charred:\n• Charred Warrior (43.2% chance)\n• Charred Marksman (43.2% chance)\n• Charred Warlock (8.6% chance)\nSpawned enemies have a 4.75% chance to be 1-star and a 0.25% chance to be 2-star.\nThe Effigy activates when there is a player within 60 meters. The effigy attempts to spawn within four meters every 12 seconds.",
+  "scraped_at": "2026-02-26T01:38:25.430991+00:00"
+}

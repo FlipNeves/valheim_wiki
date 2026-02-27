@@ -1,0 +1,44 @@
+{
+  "title": "Lox meat",
+  "url": "https://valheim.fandom.com/wiki/Cooked_lox_meat",
+  "slug": "Cooked_lox_meat",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Lox meat",
+    "Type": "Material",
+    "Internal ID": "LoxMeat",
+    "Source": "Lox",
+    "Usage": "Cooking, Taming",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lox meat is a basic food obtained by killing Lox. It can be cooked directly on an Iron cooking station, but not on a wooden Cooking station, to obtain Cooked lox meat, or Coal if overcooked. It is used directly in food recipes at the Food preparation table."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Creature": "Lox",
+          "0 Star": "4-5",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Cooked lox meat\n• Coal, if left on an Iron cooking station for too long\n• Lox meat pie (from Unbaked lox pie)\n• Meat platter (from Uncooked meat platter)\nCooked lox meat cannot be used to craft recipes using Lox meat as ingredient."
+    }
+  ],
+  "full_text": "Lox meat\n\nType: Material | Internal ID: LoxMeat | Source: Lox | Usage: Cooking, Taming | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Lox meat is a basic food obtained by killing Lox. It can be cooked directly on an Iron cooking station, but not on a wooden Cooking station, to obtain Cooked lox meat, or Coal if overcooked. It is used directly in food recipes at the Food preparation table.\n\nCrafting. • Cooked lox meat\n• Coal, if left on an Iron cooking station for too long\n• Lox meat pie (from Unbaked lox pie)\n• Meat platter (from Uncooked meat platter)\nCooked lox meat cannot be used to craft recipes using Lox meat as ingredient.",
+  "scraped_at": "2026-02-26T02:10:53.460151+00:00"
+}

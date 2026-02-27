@@ -1,0 +1,32 @@
+{
+  "title": "Crystal Heart",
+  "url": "https://valheim.fandom.com/wiki/Crystal_Heart",
+  "slug": "Crystal_Heart",
+  "categories": [
+    "Trinket"
+  ],
+  "infobox": {
+    "_infobox_title": "Crystal Heart",
+    "Internal ID": "TrinketSilverResist",
+    "Type": "Trinkets",
+    "Source": "Forge",
+    "Crafting Materials": "Silver x5, Crystal x5, Stone Golem trophy x1",
+    "Adrenaline Cost": "80",
+    "Effect": "Slightly resistant (25%) VS Blunt | Slightly resistant (25%) VS Slash | Slightly resistant (25%) VS Pierce",
+    "Duration": "50s"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Crystal Heart is a Mountain-tier trinket."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Once 80 Adrenaline has been gained, the Crystal Heart will trigger automatically, providing a slight resistance (25%) to all physical damage (Blunt, Slash, and Pierce) for 50 seconds.\nCrystal Heart's effect does not stack with Bonemass' forsaken power."
+    }
+  ],
+  "full_text": "Crystal Heart\n\nInternal ID: TrinketSilverResist | Type: Trinkets | Source: Forge | Crafting Materials: Silver x5, Crystal x5, Stone Golem trophy x1 | Adrenaline Cost: 80 | Effect: Slightly resistant (25%) VS Blunt | Slightly resistant (25%) VS Slash | Slightly resistant (25%) VS Pierce | Duration: 50s\n\nIntroduction. Crystal Heart is a Mountain-tier trinket.\n\nEffects. Once 80 Adrenaline has been gained, the Crystal Heart will trigger automatically, providing a slight resistance (25%) to all physical damage (Blunt, Slash, and Pierce) for 50 seconds.\nCrystal Heart's effect does not stack with Bonemass' forsaken power.",
+  "scraped_at": "2026-02-26T02:09:59.902547+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Dvergr lantern",
+  "url": "https://valheim.fandom.com/wiki/Dvergr_lantern",
+  "slug": "Dvergr_lantern",
+  "categories": [
+    "Weapons",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Dvergr lantern",
+    "Internal ID": "Lantern",
+    "Type": "One-handed",
+    "Source": "Black forge, , Dvergr Buildings",
+    "Usage": "Lightsource",
+    "Crafting Materials": "Bronze x2, Surtling core x1, Crystal x1",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Dvergr lantern is a one-handed utility tool. It acts as a light source when equipped (similarly to a torch), only that it has no durability."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Sometimes found in Dvergr buildings, Infested Mines in the Mistlands or Dvergr Charred Tower Ruins in the Ashlands.\n• Can be crafted at a Black forge.\n• Can be taken from Dvergr buildings without becoming their enemy."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Dvergr lantern pole\n• Dvergr wall lantern"
+    }
+  ],
+  "full_text": "Dvergr lantern\n\nInternal ID: Lantern | Type: One-handed | Source: Black forge, , Dvergr Buildings | Usage: Lightsource | Crafting Materials: Bronze x2, Surtling core x1, Crystal x1 | Movement speed: -5%\n\nIntroduction. The Dvergr lantern is a one-handed utility tool. It acts as a light source when equipped (similarly to a torch), only that it has no durability.\n\nAvailability. • Sometimes found in Dvergr buildings, Infested Mines in the Mistlands or Dvergr Charred Tower Ruins in the Ashlands.\n• Can be crafted at a Black forge.\n• Can be taken from Dvergr buildings without becoming their enemy.\n\nBuilding. • Dvergr lantern pole\n• Dvergr wall lantern",
+  "scraped_at": "2026-02-26T01:14:08.828531+00:00"
+}

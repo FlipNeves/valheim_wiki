@@ -1,0 +1,74 @@
+{
+  "title": "Paws of the Bear",
+  "url": "https://valheim.fandom.com/wiki/Paws_of_the_Bear",
+  "slug": "Paws_of_the_Bear",
+  "categories": [
+    "Weapons",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Paws of the Bear",
+    "Internal ID": "FistBjornClaw",
+    "Type": "Fists",
+    "Source": "Workbench",
+    "Usage": "Weapon",
+    "Wielding": "Two-handed",
+    "Crafting Materials": "Bear hide x6, Leather scraps x6",
+    "Attack speed": "1.48 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "2 range, 1 height, 0.3 ray"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Paws of the Bear is the first craftable fist weapon.\nThe primary attack is a 2-hit combo with 2x damage at the second hit. The secondary attack is a kick which does additional knockback and 6x staggering.\nIt deals 6x damage against unalerted enemies."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Slash",
+          "Quality 1": "25",
+          "Quality 2": "29",
+          "Quality 3": "33",
+          "Quality 4": "37",
+          "Total": ""
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "300",
+          "Quality 2": "350",
+          "Quality 3": "400",
+          "Quality 4": "450",
+          "Total": ""
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "2 Bear hide2 Bear paw4 Leather scraps",
+          "Quality 2": "2 Bear hide2 Leather scraps",
+          "Quality 3": "4 Bear hide4 Leather scraps",
+          "Quality 4": "6 Bear hide6 Leather scraps",
+          "Total": "14 Bear hide2 Bear paw14 Leather scraps"
+        },
+        {
+          "stat": "Workbench level",
+          "Quality 1": "2",
+          "Quality 2": "3",
+          "Quality 3": "4",
+          "Quality 4": "5",
+          "Total": ""
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The secondary attack is enough to stagger most creatures\n• Paws of the Bear like other fist weapons are the most durable of any weapon in the game by having durability value of 450 at max level."
+    }
+  ],
+  "full_text": "Paws of the Bear\n\nInternal ID: FistBjornClaw | Type: Fists | Source: Workbench | Usage: Weapon | Wielding: Two-handed | Crafting Materials: Bear hide x6, Leather scraps x6 | Attack speed: 1.48 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2 range, 1 height, 0.3 ray\n\nIntroduction. Paws of the Bear is the first craftable fist weapon.\nThe primary attack is a 2-hit combo with 2x damage at the second hit. The secondary attack is a kick which does additional knockback and 6x staggering.\nIt deals 6x damage against unalerted enemies.\n\nTrivia. • The secondary attack is enough to stagger most creatures\n• Paws of the Bear like other fist weapons are the most durable of any weapon in the game by having durability value of 450 at max level.",
+  "scraped_at": "2026-02-26T01:17:16.803106+00:00"
+}

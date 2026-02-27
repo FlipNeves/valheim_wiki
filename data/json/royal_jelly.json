@@ -1,0 +1,45 @@
+{
+  "title": "Royal jelly",
+  "url": "https://valheim.fandom.com/wiki/Royal_jelly",
+  "slug": "Royal_jelly",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Royal jelly",
+    "Type": "Food",
+    "Internal ID": "RoyalJelly",
+    "Source": "Seeker Brood, , piles in, Infested Mines",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "15",
+    "Max Stamina": "15",
+    "Duration": "15m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Royal jelly is a raw balanced Mistlands food which is used in various recipes."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Piles in the Infested Mines of the Mistlands biome, they respawn after 4 hours.\n• Dropped by Seeker Brood, which is found in the Infested Mines of the Mistlands, as well as during the Mistlands' Events and boss fight."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mead base: Major healing\n• Seeker aspic\n• Yggdrasil porridge"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• As of patch 0.213.4, all Royal jelly piles in Infested Mines will respawn every four hours. Most of the piles have a permanent visual indicator on the ceiling above them (a hanging, dripping stalactite of Royal jelly which is purely aesthetic) to indicate their location, so players can easily find where the piles are located in-between respawns. However, in versions of the game prior to 0.213.4, the pickable Royal jelly piles in Infested Mines permanently disappeared once picked: any piles that were picked in versions prior to 0.213.4 are permanently gone and will never respawn.\n• In addition to the respawning piles inside Infested Mines, there are two additional ways to encounter endless quantities of them: The Mistlands-specific Events, one of which spawns Seeker broods. Note that both Mistlands events have specific biome requirements; in particular, neither can occur in the Meadows. The boss of the Mistlands is capable of spawning Seeker broods indefinitely. To access her, players will need either a completed Sealbreaker or (if summoning again) a sacrifice of three Seeker soldier trophies."
+    }
+  ],
+  "full_text": "Royal jelly\n\nType: Food | Internal ID: RoyalJelly | Source: Seeker Brood, , piles in, Infested Mines | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Max Health: 15 | Max Stamina: 15 | Duration: 15m | Healing: 1 hp/tick\n\nIntroduction. Royal jelly is a raw balanced Mistlands food which is used in various recipes.\n\nAvailability. • Piles in the Infested Mines of the Mistlands biome, they respawn after 4 hours.\n• Dropped by Seeker Brood, which is found in the Infested Mines of the Mistlands, as well as during the Mistlands' Events and boss fight.\n\nCrafting. • Mead base: Major healing\n• Seeker aspic\n• Yggdrasil porridge\n\nNotes. • As of patch 0.213.4, all Royal jelly piles in Infested Mines will respawn every four hours. Most of the piles have a permanent visual indicator on the ceiling above them (a hanging, dripping stalactite of Royal jelly which is purely aesthetic) to indicate their location, so players can easily find where the piles are located in-between respawns. However, in versions of the game prior to 0.213.4, the pickable Royal jelly piles in Infested Mines permanently disappeared once picked: any piles that were picked in versions prior to 0.213.4 are permanently gone and will never respawn.\n• In addition to the respawning piles inside Infested Mines, there are two additional ways to encounter endless quantities of them: The Mistlands-specific Events, one of which spawns Seeker broods. Note that both Mistlands events have specific biome requirements; in particular, neither can occur in the Meadows. The boss of the Mistlands is capable of spawning Seeker broods indefinitely. To access her, players will need either a completed Sealbreaker or (if summoning again) a sacrifice of three Seeker soldier trophies.",
+  "scraped_at": "2026-02-26T01:28:06.866498+00:00"
+}

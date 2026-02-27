@@ -1,0 +1,66 @@
+{
+  "title": "Scorched Tree",
+  "url": "https://valheim.fandom.com/wiki/Scorched_Tree",
+  "slug": "Scorched_Tree",
+  "categories": [
+    "Trees"
+  ],
+  "infobox": {
+    "_infobox_title": "Scorched Tree",
+    "Biome": "Ashlands",
+    "Wood Type": "Ashwood, and, Wood",
+    "Yield": "20",
+    "Tool Needed": "Stone axe",
+    "Additional Loot": "Charcoal resin"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Scorched Tree is a type of tree encountered in the Ashlands biome. They are are black, tall, and menacing, with crooked branches and a looming figure.\nScorched Trees are a source of Ashwood, the Ashlands-tier wood. In addition, small amounts of Wood and Charcoal resin can be obtained from them.\nGetting struck by a Scorched Tree log inflicts Burning."
+    },
+    {
+      "heading": "Drop",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Ashwood (66.7%) or Wood (33.3%)",
+          "Amount": "20",
+          "Chance": "From logs",
+          "Average": "13.3 Ashwood6.6 Wood"
+        },
+        {
+          "Item": "Ashwood",
+          "Amount": "2",
+          "Chance": "From stump",
+          "Average": "2"
+        },
+        {
+          "Item": "Ashwood",
+          "Amount": "1-4",
+          "Chance": "33% from tree fall",
+          "Average": "0.75"
+        },
+        {
+          "Item": "Charcoal resin",
+          "Amount": "1-2",
+          "Chance": "17%",
+          "Average": "0.25"
+        }
+      ]
+    },
+    {
+      "heading": "Planting",
+      "level": 2,
+      "text": "Scorched Trees cannot be planted, nor do they regrow naturally. Thus, Ashwood and Charcoal resin are limited resources. However, despite the overall size of the biome, scorched trees are highly plentiful throughout the landscape, making ashwood a very easily obtainable resource, and as of the Ashlands update, charcoal resin has no uses outside of building green pots."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "Scorched Trees are so far, the only trees that have multiple different looking tree models."
+    }
+  ],
+  "full_text": "Scorched Tree\n\nBiome: Ashlands | Wood Type: Ashwood, and, Wood | Yield: 20 | Tool Needed: Stone axe | Additional Loot: Charcoal resin\n\nIntroduction. Scorched Tree is a type of tree encountered in the Ashlands biome. They are are black, tall, and menacing, with crooked branches and a looming figure.\nScorched Trees are a source of Ashwood, the Ashlands-tier wood. In addition, small amounts of Wood and Charcoal resin can be obtained from them.\nGetting struck by a Scorched Tree log inflicts Burning.\n\nPlanting. Scorched Trees cannot be planted, nor do they regrow naturally. Thus, Ashwood and Charcoal resin are limited resources. However, despite the overall size of the biome, scorched trees are highly plentiful throughout the landscape, making ashwood a very easily obtainable resource, and as of the Ashlands update, charcoal resin has no uses outside of building green pots.\n\nTrivia. Scorched Trees are so far, the only trees that have multiple different looking tree models.",
+  "scraped_at": "2026-02-26T01:48:50.159707+00:00"
+}

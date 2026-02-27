@@ -1,0 +1,12 @@
+{
+  "title": "Raw fish",
+  "url": "https://valheim.fandom.com/wiki/Raw_fish",
+  "slug": "Raw_fish",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "content": "# Raw fish\n\nType: Material | Internal ID: FishRaw | Source: Fishing rod | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\n# Introduction\n\nRaw fish can be made from any caught fish at a Food preparation table. It can be cooked into Cooked fish using a Cooking station.\nFish can be caught with a Fishing rod using Fishing bait or by picking up fish that have become stranded out of water.\n\n## Availability\n\nRaw fish can be made in the Food preparation table from any type of fish. The number of Raw fish acquired depends mainly on the fish quality, as listed below. However, certain types of fish also add a flat bonus (which is not multiplied per quality level): for example, a quality 3 Tuna will yield 8 raw fish. See the next section for details on which fish give bonus raw fish.\n\n• Quality: 1 | Weight: 2.0 | Base amount of Raw fish: 1\n\n• Quality: 2 | Weight: 4.0 | Base amount of Raw fish: 4\n\n• Quality: 3 | Weight: 6.0 | Base amount of Raw fish: 7\n\n• Quality: 4 | Weight: 8.0 | Base amount of Raw fish: 10\n\n• Quality: 5 | Weight: 10.0 | Base amount of Raw fish: 13\n\n• Quality: 1 | Weight: 2.0 | Base amount of Raw fish + 1: 2\n\n• Quality: 2 | Weight: 4.0 | Base amount of Raw fish + 1: 5\n\n• Quality: 3 | Weight: 6.0 | Base amount of Raw fish + 1: 8\n\n• Quality: 4 | Weight: 8.0 | Base amount of Raw fish + 1: 11\n\n• Quality: 5 | Weight: 10.0 | Base amount of Raw fish + 1: 14\n\n• Quality: 1 | Weight: 2.0 | Base amount of Raw fish + 2: 3\n\n• Quality: 2 | Weight: 4.0 | Base amount of Raw fish + 2: 6\n\n• Quality: 3 | Weight: 6.0 | Base amount of Raw fish + 2: 9\n\n• Quality: 4 | Weight: 8.0 | Base amount of Raw fish + 2: 12\n\n• Quality: 5 | Weight: 10.0 | Base amount of Raw fish + 2: 15\n\n#### For Raw fish\n\n• Cooked fish\n• Coal, if left on a Cooking station for too long\n\n#### For Cooked fish\n\n• Fish wraps\n• Sailor's bounty\nUnlike most other foods made from meat, Raw fish has to be cooked on a Cooking station first to be crafted into other foods.\n\nCategorias: Materials, Food",
+  "content_length": 1997,
+  "scraped_at": "2026-02-26T01:27:59.403965+00:00"
+}

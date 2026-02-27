@@ -1,0 +1,47 @@
+{
+  "title": "Missiles",
+  "url": "https://valheim.fandom.com/wiki/Missiles",
+  "slug": "Missiles",
+  "categories": [
+    "Missiles",
+    "Weapons"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Missiles are items that can be shot by the Ballista. Ballistae cannot be armed without missiles."
+    },
+    {
+      "heading": "List of missiles",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Wooden missile",
+          "Icon": "",
+          "Damage": "Pierce: 75",
+          "Knockback": "45",
+          "ID": "TurretBoltWood"
+        },
+        {
+          "Name": "Black metal missile",
+          "Icon": "",
+          "Damage": "Pierce: 120",
+          "Knockback": "60",
+          "ID": "TurretBolt"
+        },
+        {
+          "Name": "Flametal missile",
+          "Icon": "",
+          "Damage": "Pierce: 140",
+          "Knockback": "60",
+          "ID": "TurretBoltFlametal"
+        }
+      ]
+    }
+  ],
+  "full_text": "Missiles\n\nIntroduction. Missiles are items that can be shot by the Ballista. Ballistae cannot be armed without missiles.",
+  "scraped_at": "2026-02-26T01:16:41.211757+00:00"
+}

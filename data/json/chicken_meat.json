@@ -1,0 +1,50 @@
+{
+  "title": "Chicken meat",
+  "url": "https://valheim.fandom.com/wiki/Chicken_meat",
+  "slug": "Chicken_meat",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Chicken meat",
+    "Type": "Material",
+    "Internal ID": "ChickenMeat",
+    "Source": "Chicken, ,, Hen",
+    "Usage": "Cooking station, ,, Food preparation table",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Chicken meat is a food source dropped by Hens and Chickens when they are killed, such as with a Butcher knife or after enabling PVP.\nWhen placed on a Cooking station or Iron cooking station, Chicken meat can be turned into Cooked chicken meat, or Coal if left to burn."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Creature": "Chicken",
+          "0 Star": "25%",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Creature": "Hen",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Cooked chicken meat Health: +60 Stamina: +20 Healing: +5hp/tick Effects Duration: 20 minutes\n• Coal, if left on a Cooking station for too long\n• Honey glazed chicken (from Uncooked honey glazed chicken)\nCooked chicken meat cannot be used to craft recipes using Chicken meat as ingredient."
+    }
+  ],
+  "full_text": "Chicken meat\n\nType: Material | Internal ID: ChickenMeat | Source: Chicken, ,, Hen | Usage: Cooking station, ,, Food preparation table | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Chicken meat is a food source dropped by Hens and Chickens when they are killed, such as with a Butcher knife or after enabling PVP.\nWhen placed on a Cooking station or Iron cooking station, Chicken meat can be turned into Cooked chicken meat, or Coal if left to burn.\n\nCrafting. • Cooked chicken meat Health: +60 Stamina: +20 Healing: +5hp/tick Effects Duration: 20 minutes\n• Coal, if left on a Cooking station for too long\n• Honey glazed chicken (from Uncooked honey glazed chicken)\nCooked chicken meat cannot be used to craft recipes using Chicken meat as ingredient.",
+  "scraped_at": "2026-02-26T01:25:41.678192+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Fishing (skill)",
+  "url": "https://valheim.fandom.com/wiki/Fishing_(Skill)",
+  "slug": "Fishing_(Skill)",
+  "categories": [
+    "Skills",
+    "Fishing"
+  ],
+  "infobox": {
+    "_infobox_title": "Fishing (skill)",
+    "Effect": "+2% reeling speed, -0.8%, stamina, usage per level",
+    "Description": "Stamina drain and pull speed when fishing."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fishing is a player skill related to Fishing."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Higher skill level in fishing increases the reeling speed by up to +200% (2% per level) and reduces the stamina usage down to -80% (-0.8% per level)."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "The player gains 0.25 xp per second while reeling an empty line. This increases to 0.5 xp per second when a fish is hooked."
+    }
+  ],
+  "full_text": "Fishing (skill)\n\nEffect: +2% reeling speed, -0.8%, stamina, usage per level | Description: Stamina drain and pull speed when fishing.\n\nIntroduction. Fishing is a player skill related to Fishing.\n\nEffects. Higher skill level in fishing increases the reeling speed by up to +200% (2% per level) and reduces the stamina usage down to -80% (-0.8% per level).\n\nLeveling up. The player gains 0.25 xp per second while reeling an empty line. This increases to 0.5 xp per second when a fish is hooked.",
+  "scraped_at": "2026-02-26T02:17:06.387110+00:00"
+}

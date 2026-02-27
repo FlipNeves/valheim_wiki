@@ -1,0 +1,33 @@
+{
+  "title": "Toadstool",
+  "url": "https://valheim.fandom.com/wiki/Toadstool",
+  "slug": "Toadstool",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Toadstool",
+    "Type": "Material",
+    "Internal ID": "MushroomBzerker",
+    "Source": "The Bog Witch",
+    "Usage": "Clearing active Food Buffs, Material",
+    "Buy": "85, Coins",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Duration": "15s",
+    "Other Effect(s)": "Health regen: -100%, Stamina regen: -100%, Movement speed: -50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Toadstool can be purchased from The Bog Witch for 85 Coins. It is only sold after Moder has been defeated.\nConsuming Toadstool has the same effect as eating Bukeperries and can be used to switch to different Foods."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mead base: Berserkir"
+    }
+  ],
+  "full_text": "Toadstool\n\nType: Material | Internal ID: MushroomBzerker | Source: The Bog Witch | Usage: Clearing active Food Buffs, Material | Buy: 85, Coins | Teleportable (Can go through wood portal?): Yes | Duration: 15s | Other Effect(s): Health regen: -100%, Stamina regen: -100%, Movement speed: -50%\n\nIntroduction. Toadstool can be purchased from The Bog Witch for 85 Coins. It is only sold after Moder has been defeated.\nConsuming Toadstool has the same effect as eating Bukeperries and can be used to switch to different Foods.\n\nCrafting. • Mead base: Berserkir",
+  "scraped_at": "2026-02-26T01:37:11.833419+00:00"
+}

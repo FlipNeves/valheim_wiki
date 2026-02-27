@@ -1,0 +1,64 @@
+{
+  "title": "Ripper",
+  "url": "https://valheim.fandom.com/wiki/Ripper",
+  "slug": "Ripper",
+  "categories": [
+    "Weapons",
+    "Crossbows",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Ripper",
+    "Internal ID": "CrossbowRipper",
+    "Type": "Crossbow",
+    "Source": "Black forge",
+    "Usage": "Ranged weapon",
+    "Wielding": "Two-handed",
+    "Crafting Materials": "Ashwood x15, Flametal x12, Morgen sinew x3, Bonemaw tooth x12",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Ripper is the second crossbow crafted at a Black forge.\nLike most Ashlands-tier weapons, the Ripper can be upgraded to one of the following three variants using gemstones:\n• Wound Ripper (Bloodstone)\n• Storm Ripper (Iolite)\n• Root Ripper (Jade)\nAn upgraded Ripper will NOT keep its upgrade level when it is modified using gemstones."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Pierce",
+          "Quality 1": "220",
+          "Quality 2": "223",
+          "Quality 3": "226",
+          "Quality 4": "229"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "50",
+          "Quality 2": "100",
+          "Quality 3": "150",
+          "Quality 4": "200"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "10 Ashwood8 Flametal2 Morgen sinew4 Bonemaw tooth",
+          "Quality 2": "5 Ashwood4 Flametal1 Morgen sinew4 Bonemaw tooth",
+          "Quality 3": "10 Ashwood8 Flametal2 Morgen sinew8 Bonemaw tooth",
+          "Quality 4": "15 Ashwood12 Flametal3 Morgen sinew12 Bonemaw tooth"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "3",
+          "Quality 2": "4",
+          "Quality 3": "5",
+          "Quality 4": "6 (not yet available)"
+        }
+      ]
+    }
+  ],
+  "full_text": "Ripper\n\nInternal ID: CrossbowRipper | Type: Crossbow | Source: Black forge | Usage: Ranged weapon | Wielding: Two-handed | Crafting Materials: Ashwood x15, Flametal x12, Morgen sinew x3, Bonemaw tooth x12 | Movement speed: -5%\n\nIntroduction. The Ripper is the second crossbow crafted at a Black forge.\nLike most Ashlands-tier weapons, the Ripper can be upgraded to one of the following three variants using gemstones:\n• Wound Ripper (Bloodstone)\n• Storm Ripper (Iolite)\n• Root Ripper (Jade)\nAn upgraded Ripper will NOT keep its upgrade level when it is modified using gemstones.",
+  "scraped_at": "2026-02-26T01:17:40.213718+00:00"
+}

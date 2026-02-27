@@ -1,0 +1,74 @@
+{
+  "title": "Nidhögg the Thundering",
+  "url": "https://valheim.fandom.com/wiki/Nidh%C3%B6gg_the_Thundering",
+  "slug": "Nidh%C3%B6gg_the_Thundering",
+  "categories": [
+    "Weapons",
+    "Swords",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Nidhögg the Thundering",
+    "Internal ID": "SwordNiedhoggLightning",
+    "Type": "Sword",
+    "Source": "Black forge",
+    "Usage": "Weapon",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Flametal x18, Iolite x3",
+    "Attack speed": "1.84 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "2.7 range, 10 angle, 1.0 height, 0.7 ray",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Nidhögg the Thundering is the upgraded form of Nidhögg using the Iolite. Like all upgraded-weapons that use Iolite, they gain 10 lightning damage and their hit effect has a 25% chance to apply Chain Lightning.\nAn upgraded Nidhögg will NOT keep its upgrade level when it is modified using gemstones.\nLike all other one-handed swords it has:\n• Primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.\n• Secondary attack deals 3x damage with a slightly longer reach."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "Total cost for the fully upgraded sword is 1 Nidhögg, 42 Flametal and 6 Iolites. However, it is only 6 Flametal and 1 Iolite for level 2, which is the highest upgrade currently obtainable as of patch 218.15.",
+      "table_data": [
+        {
+          "stat": "Slash",
+          "Quality 1": "135",
+          "Quality 2": "141",
+          "Quality 3": "147",
+          "Quality 4": "153"
+        },
+        {
+          "stat": "Lightning",
+          "Quality 1": "10",
+          "Quality 2": "10",
+          "Quality 3": "10",
+          "Quality 4": "10"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "1 Nidhögg6 Flametal1 Iolite",
+          "Quality 2": "6 Flametal1 Iolite",
+          "Quality 3": "12 Flametal2 Iolite",
+          "Quality 4": "18 Flametal3 Iolite"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "4",
+          "Quality 2": "5",
+          "Quality 3": "6 (not yet available)",
+          "Quality 4": "7 (not yet available)"
+        }
+      ]
+    }
+  ],
+  "full_text": "Nidhögg the Thundering\n\nInternal ID: SwordNiedhoggLightning | Type: Sword | Source: Black forge | Usage: Weapon | Wielding: One-handed | Crafting Materials: Flametal x18, Iolite x3 | Attack speed: 1.84 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.7 range, 10 angle, 1.0 height, 0.7 ray | Movement speed: -5%\n\nIntroduction. Nidhögg the Thundering is the upgraded form of Nidhögg using the Iolite. Like all upgraded-weapons that use Iolite, they gain 10 lightning damage and their hit effect has a 25% chance to apply Chain Lightning.\nAn upgraded Nidhögg will NOT keep its upgrade level when it is modified using gemstones.\nLike all other one-handed swords it has:\n• Primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.\n• Secondary attack deals 3x damage with a slightly longer reach.\n\nUpgrade information. Total cost for the fully upgraded sword is 1 Nidhögg, 42 Flametal and 6 Iolites. However, it is only 6 Flametal and 1 Iolite for level 2, which is the highest upgrade currently obtainable as of patch 218.15.",
+  "scraped_at": "2026-02-26T01:17:03.271183+00:00"
+}

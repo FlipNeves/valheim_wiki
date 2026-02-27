@@ -1,0 +1,30 @@
+{
+  "title": "Wolf fang",
+  "url": "https://valheim.fandom.com/wiki/Wolf_fang",
+  "slug": "Wolf_fang",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Wolf fang",
+    "Type": "Material",
+    "Internal ID": "WolfFang",
+    "Source": "Wolf, ,, Fenring, ,, Ulv",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wolf fang is an item dropped by Fenrings, Wolves, and Ulvs."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Fang spear\n• Wolf armor legs\n• Wolf Sight"
+    }
+  ],
+  "full_text": "Wolf fang\n\nType: Material | Internal ID: WolfFang | Source: Wolf, ,, Fenring, ,, Ulv | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Wolf fang is an item dropped by Fenrings, Wolves, and Ulvs.\n\nCrafting. • Fang spear\n• Wolf armor legs\n• Wolf Sight",
+  "scraped_at": "2026-02-26T01:37:43.543281+00:00"
+}

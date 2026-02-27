@@ -1,0 +1,21 @@
+{
+  "title": "Improved archery",
+  "url": "https://valheim.fandom.com/wiki/Improved_archery",
+  "slug": "Improved_archery",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Improved archery",
+    "Effects": "Bows +15"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Improved archery is a status effect granted by wearing all three pieces of the Root armor set.\nIt increases the Bows skill by 15 but does not exceed the skill cap of 100."
+    }
+  ],
+  "full_text": "Improved archery\n\nEffects: Bows +15\n\nIntroduction. Improved archery is a status effect granted by wearing all three pieces of the Root armor set.\nIt increases the Bows skill by 15 but does not exceed the skill cap of 100.",
+  "scraped_at": "2026-02-26T02:00:28.554440+00:00"
+}

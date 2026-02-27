@@ -1,0 +1,38 @@
+{
+  "title": "Fishing rod",
+  "url": "https://valheim.fandom.com/wiki/Fishing_rod",
+  "slug": "Fishing_rod",
+  "categories": [
+    "Tools",
+    "Fishing"
+  ],
+  "infobox": {
+    "_infobox_title": "Fishing rod",
+    "Internal ID": "FishingRod",
+    "Type": "Tool",
+    "Source": "Haldor, ,, Frost Cave, (rare)",
+    "Usage": "Fishing",
+    "Buy": "350, Coins",
+    "Wielding": "Two-handed",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Fishing rod is a tool used for Fishing."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• It can be purchased from Haldor for 350 Coins.\n• It can be found at the edge of large frozen lakes, which (very rarely) can spawn in Frost Caves. When picked up there, 2-4 Fishing bait will also drop.\n• It cannot be crafted."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "Its primary attack casts the line if the player has Bait in the inventory. The longer the left-click is held, the further the line will go (up to 30 meters away). Blocking will reel in the bobber and pull any caught Fish with it.\nOne bait is consumed every time the Fishing Rod is cast. As of patch 0.213.4, fishing bait is returned if it is pulled in without catching a fish or when recasting."
+    }
+  ],
+  "full_text": "Fishing rod\n\nInternal ID: FishingRod | Type: Tool | Source: Haldor, ,, Frost Cave, (rare) | Usage: Fishing | Buy: 350, Coins | Wielding: Two-handed | Movement speed: -5%\n\nIntroduction. The Fishing rod is a tool used for Fishing.\n\nAvailability. • It can be purchased from Haldor for 350 Coins.\n• It can be found at the edge of large frozen lakes, which (very rarely) can spawn in Frost Caves. When picked up there, 2-4 Fishing bait will also drop.\n• It cannot be crafted.\n\nUsage. Its primary attack casts the line if the player has Bait in the inventory. The longer the left-click is held, the further the line will go (up to 30 meters away). Blocking will reel in the bobber and pull any caught Fish with it.\nOne bait is consumed every time the Fishing Rod is cast. As of patch 0.213.4, fishing bait is returned if it is pulled in without catching a fish or when recasting.",
+  "scraped_at": "2026-02-26T01:39:51.475310+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Armor stand",
+  "url": "https://valheim.fandom.com/wiki/Armor_stand",
+  "slug": "Armor_stand",
+  "categories": [
+    "Furniture",
+    "Grants Comfort",
+    "Storage"
+  ],
+  "content": "# Armor stand\n\nType: Furniture | Internal ID: ArmorStand | Source: Workbench | Usage: Comfort, Display Armor | Crafting Materials: Finewood x8, Iron Nails x4, Leather Scraps x2 | Neutral to (x1): Lightning | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nThe Armor stand is a furniture item that can be built using the Hammer within the range of a Workbench. It also increases the Comfort level by 1 when placed, regardless if any equipment is placed on it.\nIts purpose is to display a set of Armor, a Weapon and a Shield. The player can mix and match any armor piece and most weapon / shield combos. The Armor Stand is an alternative to storing armor in a Chest.\n\nCategorias: Furniture, Grants Comfort, Storage",
+  "content_length": 805,
+  "scraped_at": "2026-02-26T01:40:15.007792+00:00"
+}

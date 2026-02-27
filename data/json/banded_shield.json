@@ -1,0 +1,74 @@
+{
+  "title": "Banded shield",
+  "url": "https://valheim.fandom.com/wiki/Banded_shield",
+  "slug": "Banded_shield",
+  "categories": [
+    "Weapons",
+    "Shields",
+    "Forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Banded shield",
+    "Internal ID": "ShieldBanded",
+    "Type": "Shield",
+    "Source": "Forge",
+    "Usage": "Blocking",
+    "Wielding": "Off-hand",
+    "Crafting Materials": "Finewood x20, Iron x8",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Banded shield is the second round shield. It has less block power compared to Iron tower shield but can more when used to parry enemy attacks."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Block armor",
+          "Quality 1": "42",
+          "Quality 2": "48",
+          "Quality 3": "54",
+          "Total": ""
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Total": ""
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "10 Finewood8 Iron",
+          "Quality 2": "10 Finewood4 Iron",
+          "Quality 3": "20 Finewood8 Iron",
+          "Total": "40 Finewood20 Iron"
+        },
+        {
+          "stat": "Forge level",
+          "Quality 1": "2",
+          "Quality 2": "3",
+          "Quality 3": "4",
+          "Total": ""
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• When crafting, players can customize the shield with a few different pre-set designs and colors by clicking the style button beneath the item name in the crafting window. The design cannot be changed afterward."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The banded shield is sometimes known as \"Viking Shield\" in the game files."
+    }
+  ],
+  "full_text": "Banded shield\n\nInternal ID: ShieldBanded | Type: Shield | Source: Forge | Usage: Blocking | Wielding: Off-hand | Crafting Materials: Finewood x20, Iron x8 | Movement speed: -5%\n\nIntroduction. The Banded shield is the second round shield. It has less block power compared to Iron tower shield but can more when used to parry enemy attacks.\n\nNotes. • When crafting, players can customize the shield with a few different pre-set designs and colors by clicking the style button beneath the item name in the crafting window. The design cannot be changed afterward.\n\nTrivia. • The banded shield is sometimes known as \"Viking Shield\" in the game files.",
+  "scraped_at": "2026-02-26T01:10:40.916903+00:00"
+}

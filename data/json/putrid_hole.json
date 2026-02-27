@@ -1,0 +1,92 @@
+{
+  "title": "Putrid Hole",
+  "url": "https://valheim.fandom.com/wiki/Putrid_Hole",
+  "slug": "Putrid_Hole",
+  "categories": [
+    "Points of interest",
+    "Dungeons"
+  ],
+  "infobox": {
+    "_infobox_title": "Putrid Hole",
+    "Type": "Dungeon",
+    "Internal ID": "MorgenHole1 | MorgenHole2MorgenHole3",
+    "Location": "Ashlands",
+    "Inhabitants": "Morgen"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Putrid Holes are dungeons found in Ashlands. One Morgen can be found within each Putrid Hole, which does not respawn when killed."
+    },
+    {
+      "heading": "Loot",
+      "level": 2,
+      "text": "Putrid Holes can contain large quantities of loot:\n• Up to 14 Molten cores with a 25% chance each (3.5 core on average).\n• Up to 22 Ancient pots with a 50% chance each.\n• Up to 39 Asksvin carrion.\n• A 25% chance for a Vegvisirs that reveal the first Mysterious Location.\n• Up to 13 Meat piles with a 50% chance each: 1 Entrails Additional 50% chance to drop the following:\n• Up to 21 Mounds of flesh (4 guaranteed and 17 with a 66% chance):\n• Up to 3 stone treasure chests (1 guaranteed and 2 with a 50% chance each):",
+      "table_data": [
+        {
+          "Amount": "9–41",
+          "Item": "Coins",
+          "Chance": "45.45%"
+        },
+        {
+          "Amount": "1",
+          "Item": "Entrails",
+          "Chance": "45.45%"
+        },
+        {
+          "Amount": "1",
+          "Item": "Silver necklace",
+          "Chance": "9.09%"
+        },
+        {
+          "Amount": "1",
+          "Item": "Rotten meat",
+          "Chance": "33.33%"
+        },
+        {
+          "Amount": "5–15",
+          "Item": "Bone fragments",
+          "Chance": "33.33%"
+        },
+        {
+          "Amount": "1–2",
+          "Item": "Soft tissue",
+          "Chance": "33.33%"
+        },
+        {
+          "Amount": "1–2",
+          "Item": "Molten core",
+          "Chance": "20%"
+        },
+        {
+          "Amount": "3–12",
+          "Item": "Charred bone",
+          "Chance": "20%"
+        },
+        {
+          "Amount": "3–12",
+          "Item": "Carapace arrow",
+          "Chance": "20%"
+        },
+        {
+          "Amount": "99–199",
+          "Item": "Coins",
+          "Chance": "20%"
+        },
+        {
+          "Amount": "1–2",
+          "Item": "Ashwood",
+          "Chance": "20%"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The destroyable mounds of flesh each have 100 health, and no damage resistances or weaknesses (except immunity to Poison and Spirit)."
+    }
+  ],
+  "full_text": "Putrid Hole\n\nType: Dungeon | Internal ID: MorgenHole1 | MorgenHole2MorgenHole3 | Location: Ashlands | Inhabitants: Morgen\n\nIntroduction. Putrid Holes are dungeons found in Ashlands. One Morgen can be found within each Putrid Hole, which does not respawn when killed.\n\nLoot. Putrid Holes can contain large quantities of loot:\n• Up to 14 Molten cores with a 25% chance each (3.5 core on average).\n• Up to 22 Ancient pots with a 50% chance each.\n• Up to 39 Asksvin carrion.\n• A 25% chance for a Vegvisirs that reveal the first Mysterious Location.\n• Up to 13 Meat piles with a 50% chance each: 1 Entrails Additional 50% chance to drop the following:\n• Up to 21 Mounds of flesh (4 guaranteed and 17 with a 66% chance):\n• Up to 3 stone treasure chests (1 guaranteed and 2 with a 50% chance each):\n\nNotes. • The destroyable mounds of flesh each have 100 health, and no damage resistances or weaknesses (except immunity to Poison and Spirit).",
+  "scraped_at": "2026-02-26T01:46:33.235149+00:00"
+}

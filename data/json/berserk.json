@@ -1,0 +1,21 @@
+{
+  "title": "Berserk",
+  "url": "https://valheim.fandom.com/wiki/Berserk",
+  "slug": "Berserk",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Berserk",
+    "Effects": "+30% Health regen, +15% Stamina regen, Slightly weak (+25%) vs Blunt, Slash and Pierce, +10% Slash, +10%Chop"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Berserk is a status effect granted by wearing all three pieces of the Bear Set.\nIt gives:\n• +30% Health regeneration\n• +15% Stamina regeneration\n• Slightly weak (+25% damage taken) vs Blunt, Slash and Pierce\n• +10% Slash damage\n• +10% Chop damage"
+    }
+  ],
+  "full_text": "Berserk\n\nEffects: +30% Health regen, +15% Stamina regen, Slightly weak (+25%) vs Blunt, Slash and Pierce, +10% Slash, +10%Chop\n\nIntroduction. Berserk is a status effect granted by wearing all three pieces of the Bear Set.\nIt gives:\n• +30% Health regeneration\n• +15% Stamina regeneration\n• Slightly weak (+25% damage taken) vs Blunt, Slash and Pierce\n• +10% Slash damage\n• +10% Chop damage",
+  "scraped_at": "2026-02-26T01:59:11.492541+00:00"
+}

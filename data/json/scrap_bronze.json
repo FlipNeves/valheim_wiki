@@ -1,0 +1,36 @@
+{
+  "title": "Scrap bronze",
+  "url": "https://valheim.fandom.com/wiki/Scrap_bronze",
+  "slug": "Scrap_bronze",
+  "categories": [
+    "Ores",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Scrap bronze",
+    "Type": "Ore",
+    "Internal ID": "BronzeScrap",
+    "Source": "Charred Fortress",
+    "Usage": "Smelting",
+    "Teleportable (Can go through wood portal?)": "No"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Scrap bronze is a raw metal that can be turned into Bronze in a Smelter using Coal as fuel."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• From destroying the defensive spikes on Charred Fortresses."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Like other metals, Scrap bronze cannot be teleported without a Portal stone.\n• This item shares a sprite with Copper scrap.\n• This item is the only way to obtain Bronze via the Smelter - Bronze is otherwise crafted at a Forge."
+    }
+  ],
+  "full_text": "Scrap bronze\n\nType: Ore | Internal ID: BronzeScrap | Source: Charred Fortress | Usage: Smelting | Teleportable (Can go through wood portal?): No\n\nIntroduction. Scrap bronze is a raw metal that can be turned into Bronze in a Smelter using Coal as fuel.\n\nAvailability. • From destroying the defensive spikes on Charred Fortresses.\n\nNotes. • Like other metals, Scrap bronze cannot be teleported without a Portal stone.\n• This item shares a sprite with Copper scrap.\n• This item is the only way to obtain Bronze via the Smelter - Bronze is otherwise crafted at a Forge.",
+  "scraped_at": "2026-02-26T01:54:46.969599+00:00"
+}

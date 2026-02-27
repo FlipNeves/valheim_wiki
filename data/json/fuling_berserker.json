@@ -1,0 +1,106 @@
+{
+  "title": "Fuling berserker",
+  "url": "https://valheim.fandom.com/wiki/Fuling_Berserker",
+  "slug": "Fuling_Berserker",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Fuling berserker",
+    "Internal ID": "GoblinBrute",
+    "Faction": "Plains",
+    "Main biome": "Plains",
+    "Drops": "Black metal scrap | Coins | Fuling totem | Fuling berserker trophy",
+    "Abilities": "Attack (2s), Rage attack (20s)",
+    "Trophy": "Fuling berserker trophy",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Stagger",
+    "Immune to (x0)": "Spirit, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "30%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fuling berserkers are aggressive creatures found in Plains guarding Fuling Villages and Stonehenges. They are large, strong goblin-like beings that appear to possess their own tribalistic culture. It is implied through runestones and totems that they worship Yagluth, a long dead king."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Black metal scrap",
+          "0 Star": "3-4",
+          "1 Star": "6-8",
+          "2 Star": "12-16"
+        },
+        {
+          "Item": "Coins",
+          "0 Star": "5-19",
+          "1 Star": "10-38",
+          "2 Star": "20-76"
+        },
+        {
+          "Item": "Fuling totem",
+          "0 Star": "10%",
+          "1 Star": "10%",
+          "2 Star": "10%"
+        },
+        {
+          "Item": "Fuling berserker trophy",
+          "0 Star": "5%",
+          "1 Star": "5%",
+          "2 Star": "5%"
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Uncommon spawn point in Fuling Villages",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Up to 3 spawn points in Stonehenges",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "During \"The horde is attacking!\" event",
+          "Limit": "2",
+          "Frequency": "Very common",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"They were bros, man.\" event",
+          "Limit": "2",
+          "Frequency": "Very common",
+          "Stars": "Yes (Minimum 1 Star)"
+        }
+      ]
+    },
+    {
+      "heading": "Attack",
+      "level": 3,
+      "text": "Swings their club in a 4-meter 70-degree arc in front of themselves (130 Blunt, 100 Tier 2 Chop and 40 Tier 2 Pickaxe damage). This attack can be used within 3 meters of the player every 2 seconds. It has two variations: a regular swing and delayed swing[1]."
+    },
+    {
+      "heading": "Rage attack",
+      "level": 3,
+      "text": "Slams their club into the ground 3 times extending out 4 meters and arcing 60 degrees vertically, stepping forward with each swing (130 Blunt, 100 Tier 2 Chop and 40 Tier 2 Pickaxe damage each). They can do this every 20 seconds when within 6 meters of a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Fuling Berserkers have skin tones that mostly match their non-berserker counterparts. That is, ordinary Berserkers have green skin, One-stars have lighter yellow-green skin, and Two-stars have reddish-tan skin.\n• Although Fuling berserkers always carry the same weapon, their appearances do vary (regardless of level), much like ordinary Fulings. Some wear a headpiece that obscures their eyes; others have four large bones strapped to their back."
+    }
+  ],
+  "full_text": "Fuling berserker\n\nInternal ID: GoblinBrute | Faction: Plains | Main biome: Plains | Drops: Black metal scrap | Coins | Fuling totem | Fuling berserker trophy | Abilities: Attack (2s), Rage attack (20s) | Trophy: Fuling berserker trophy | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Stagger | Immune to (x0): Spirit, ,, Chop, ,, Pickaxe | Stagger limit: 30%\n\nIntroduction. Fuling berserkers are aggressive creatures found in Plains guarding Fuling Villages and Stonehenges. They are large, strong goblin-like beings that appear to possess their own tribalistic culture. It is implied through runestones and totems that they worship Yagluth, a long dead king.\n\nAttack. Swings their club in a 4-meter 70-degree arc in front of themselves (130 Blunt, 100 Tier 2 Chop and 40 Tier 2 Pickaxe damage). This attack can be used within 3 meters of the player every 2 seconds. It has two variations: a regular swing and delayed swing[1].\n\nRage attack. Slams their club into the ground 3 times extending out 4 meters and arcing 60 degrees vertically, stepping forward with each swing (130 Blunt, 100 Tier 2 Chop and 40 Tier 2 Pickaxe damage each). They can do this every 20 seconds when within 6 meters of a player.\n\nNotes. • Fuling Berserkers have skin tones that mostly match their non-berserker counterparts. That is, ordinary Berserkers have green skin, One-stars have lighter yellow-green skin, and Two-stars have reddish-tan skin.\n• Although Fuling berserkers always carry the same weapon, their appearances do vary (regardless of level), much like ordinary Fulings. Some wear a headpiece that obscures their eyes; others have four large bones strapped to their back.",
+  "scraped_at": "2026-02-26T01:56:22.275872+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Tools",
+  "url": "https://valheim.fandom.com/wiki/Tools",
+  "slug": "Tools",
+  "categories": [
+    "Tools",
+    "Items"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Tools are items used to extend the player's ability to modify features of the surrounding environment (e.g. terraforming) or help them accomplish a particular task (e.g. drinking, mining)."
+    },
+    {
+      "heading": "Adventuring",
+      "level": 3,
+      "text": "• Tankard – Is used as a shortcut for consuming mead.\n• Horn of Celebration – Is the same as the Tankard.\n• Dvergr tankard – Is also the same as the Tankard.\n• Torch – Is a useful light source that can also deal fire damage, but degrades over time and cannot be repaired.\n• Dvergr lantern – Can provide light and does not degrade, but cannot really be used as a weapon."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Hammer – Is used for placing and repairing objects.\n• Hoe – Can be used to flatten/raise terrain and create paths/roads.\n• Serving tray – Can be used to place Food and Feast."
+    },
+    {
+      "heading": "Farming",
+      "level": 3,
+      "text": "• Cultivator – Is used for planting crops and trees.\n• Butcher knife – Allows the player to butcher tamed animals without frightening them.\n• Scythe – Used to harvest multiple crops at once."
+    },
+    {
+      "heading": "Fishing",
+      "level": 3,
+      "text": "• Fishing rod – Is the intended way of obtaining fish.\n• Fishing bait – Is required for using the fishing rod."
+    },
+    {
+      "heading": "Logging (Axes)",
+      "level": 3,
+      "text": "• Stone axe – Is a basic axe only capable of chopping down Beech, Fir and Pine trees.\n• Flint axe – Chops the same trees as Stone axe, but does more damage and is more durable.\n• Bronze axe – Can chop down Ancient, Birch, and Oak trees, in addition to what previous axes can chop.\n• Battleaxe – Is a two-handed axe that is slightly less powerful at chopping trees than Bronze axe\n• Iron axe – Chops the same trees as Bronze axe, but does more damage and is more durable.\n• Crystal battleaxe – Is a two-handed axe that is slightly less powerful at chopping trees than Iron axe.\n• Black metal axe – Can chop Yggdrasil trees, in addition to what previous axes can chop.\n• Jotun Bane – Chops the same trees as Black metal axe, but does more damage and is more durable."
+    },
+    {
+      "heading": "Mining (Pickaxes)",
+      "level": 3,
+      "text": "• Antler pickaxe – Can mine Stone, Copper, Tin, Muddy scrap pile, Abyssal barnacle\n• Bronze pickaxe – Can mine the same things as Antler pickaxe, but does more damage and is more durable.\n• Iron pickaxe – Can mine Obsidian, Silver, Glowing metal, in addition to what the previous pickaxes can.\n• Black metal pickaxe – Can mine Black marble, Soft tissue and Flametal in addition to what the previous pickaxes can."
+    }
+  ],
+  "full_text": "Tools\n\nIntroduction. Tools are items used to extend the player's ability to modify features of the surrounding environment (e.g. terraforming) or help them accomplish a particular task (e.g. drinking, mining).\n\nAdventuring. • Tankard – Is used as a shortcut for consuming mead.\n• Horn of Celebration – Is the same as the Tankard.\n• Dvergr tankard – Is also the same as the Tankard.\n• Torch – Is a useful light source that can also deal fire damage, but degrades over time and cannot be repaired.\n• Dvergr lantern – Can provide light and does not degrade, but cannot really be used as a weapon.\n\nBuilding. • Hammer – Is used for placing and repairing objects.\n• Hoe – Can be used to flatten/raise terrain and create paths/roads.\n• Serving tray – Can be used to place Food and Feast.\n\nFarming. • Cultivator – Is used for planting crops and trees.\n• Butcher knife – Allows the player to butcher tamed animals without frightening them.\n• Scythe – Used to harvest multiple crops at once.\n\nFishing. • Fishing rod – Is the intended way of obtaining fish.\n• Fishing bait – Is required for using the fishing rod.\n\nLogging (Axes). • Stone axe – Is a basic axe only capable of chopping down Beech, Fir and Pine trees.\n• Flint axe – Chops the same trees as Stone axe, but does more damage and is more durable.\n• Bronze axe – Can chop down Ancient, Birch, and Oak trees, in addition to what previous axes can chop.\n• Battleaxe – Is a two-handed axe that is slightly less powerful at chopping trees than Bronze axe\n• Iron axe – Chops the same trees as Bronze axe, but does more damage and is more durable.\n• Crystal battleaxe – Is a two-handed axe that is slightly less powerful at chopping trees than Iron axe.\n• Black metal axe – Can chop Yggdrasil trees, in addition to what previous axes can chop.\n• Jotun Bane – Chops the same trees as Black metal axe, but does more damage and is more durable.\n\nMining (Pickaxes). • Antler pickaxe – Can mine Stone, Copper, Tin, Muddy scrap pile, Abyssal barnacle\n• Bronze pickaxe – Can mine the same things as Antler pickaxe, but does more damage and is more durable.\n• Iron pickaxe – Can mine Obsidian, Silver, Glowing metal, in addition to what the previous pickaxes can.\n• Black metal pickaxe – Can mine Black marble, Soft tissue and Flametal in addition to what the previous pickaxes can.",
+  "scraped_at": "2026-02-26T01:39:37.177032+00:00"
+}

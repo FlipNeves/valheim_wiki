@@ -1,0 +1,30 @@
+{
+  "title": "Asksvin bladder",
+  "url": "https://valheim.fandom.com/wiki/Asksvin_bladder",
+  "slug": "Asksvin_bladder",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Asksvin bladder",
+    "Type": "Material",
+    "Internal ID": "AskBladder",
+    "Source": "Asksvin, , Asksvin Hatchling",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Asksvin bladder is a material dropped by Asksvin."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Basalt bomb\n• Smoke bomb"
+    }
+  ],
+  "full_text": "Asksvin bladder\n\nType: Material | Internal ID: AskBladder | Source: Asksvin, , Asksvin Hatchling | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Asksvin bladder is a material dropped by Asksvin.\n\nCrafting. • Basalt bomb\n• Smoke bomb",
+  "scraped_at": "2026-02-26T01:29:54.078508+00:00"
+}

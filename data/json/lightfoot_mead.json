@@ -1,0 +1,46 @@
+{
+  "title": "Lightfoot mead",
+  "url": "https://valheim.fandom.com/wiki/Lightfoot_mead",
+  "slug": "Lightfoot_mead",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Lightfoot mead",
+    "Type": "Mead",
+    "Internal ID": "MeadLightfoot",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mead base: Lightfoot x1",
+    "Duration": "10m",
+    "Cooldown": "0s",
+    "Other Effect(s)": "-30% jump stamina cost, +20% jump height"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lightfoot mead is a Mistlands-tier consumable item fermented from Mead base: Lightfoot."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Mead base: Lightfoot is produced in a Mead ketill with:\n• 2 Scale hide\n• 5 Feathers\n• 5 Magecap\nSix Lightfoot meads are produced by fermenting the mead base for two in-game days."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Consuming it reduces jump stamina cost by 30% and increases jump height by 20% for 10 minutes."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The stamina cost of jumps can be reduced to zero by combining Lightfoot mead (-30%), Feather cape (-20%) and Eikthyr Forsaken power (-60%)."
+    }
+  ],
+  "full_text": "Lightfoot mead\n\nType: Mead | Internal ID: MeadLightfoot | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Lightfoot x1 | Duration: 10m | Cooldown: 0s | Other Effect(s): -30% jump stamina cost, +20% jump height\n\nIntroduction. Lightfoot mead is a Mistlands-tier consumable item fermented from Mead base: Lightfoot.\n\nRecipe. Mead base: Lightfoot is produced in a Mead ketill with:\n• 2 Scale hide\n• 5 Feathers\n• 5 Magecap\nSix Lightfoot meads are produced by fermenting the mead base for two in-game days.\n\nEffect. Consuming it reduces jump stamina cost by 30% and increases jump height by 20% for 10 minutes.\n\nTrivia. • The stamina cost of jumps can be reduced to zero by combining Lightfoot mead (-30%), Feather cape (-20%) and Eikthyr Forsaken power (-60%).",
+  "scraped_at": "2026-02-26T02:12:10.228409+00:00"
+}

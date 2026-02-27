@@ -1,0 +1,11 @@
+{
+  "title": "Cooking station",
+  "url": "https://valheim.fandom.com/wiki/Cooking_station",
+  "slug": "Cooking_station",
+  "categories": [
+    "Crafting structures"
+  ],
+  "content": "# Cooking station\n\nType: Crafting | Internal ID: piece_cookingstation | Usage: Cooking | Crafting Materials: Wood x2 | Neutral to (x1): Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce, ,, Fire | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nThe Cooking station is used to cook raw meat type ingredients into their cooked form, or if left too long, into Coal. For the meat to be cooked it is necessary to have a Campfire, Hearth or Hanging brazier underneath the cooking station. It is possible to stack seven cooking stations in a row over a single campfire. This number increases to 10 if the cooking stations are placed halfway inside the campfire.\n\n## Recipes and cook length\n\nThe Iron cooking station is seen as an upgrade to the wooden cooking station and will allow the player to cook Lox meat, Serpent meat, Seeker meat, Bonemaw meat, Asksvin tail and Volture meat in addition to those listed above.\n\n• Ingredient: Neck tail | Cooking time: 25 s | Output: Grilled neck tail\n\n• Ingredient: Boar meat | Cooking time: 25 s | Output: Cooked boar meat\n\n• Ingredient: Deer meat | Cooking time: 25 s | Output: Cooked deer meat\n\n• Ingredient: Bear meat | Cooking time: 25 s | Output: Cooked bear meat\n\n• Ingredient: Raw fish | Cooking time: 25 s | Output: Cooked fish\n\n• Ingredient: Wolf meat | Cooking time: 25 s | Output: Cooked wolf meat\n\n• Ingredient: Chicken meat | Cooking time: 25 s | Output: Cooked chicken meat\n\n• Ingredient: Hare meat | Cooking time: 60s | Output: Cooked hare meat\n\nCategorias: Crafting structures",
+  "content_length": 1571,
+  "scraped_at": "2026-02-26T02:17:14.498939+00:00"
+}

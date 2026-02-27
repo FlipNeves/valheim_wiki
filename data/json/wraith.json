@@ -1,0 +1,85 @@
+{
+  "title": "Wraith",
+  "url": "https://valheim.fandom.com/wiki/Wraith",
+  "slug": "Wraith",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Wraith",
+    "Internal ID": "Wraith",
+    "Faction": "Undead",
+    "Main biome": "Swamp",
+    "Drops": "Chain | Wraith trophy",
+    "Abilities": "Melee",
+    "Trophy": "Wraith trophy",
+    "Weak to (x1.5)": "Fire, ,, Spirit",
+    "Neutral to (x1)": "Lightning, ,, Stagger",
+    "Resistant to (x0.5)": "Blunt, ,, Pierce, ,, Slash",
+    "Immune to (x0)": "Frost, ,, Poison, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wraiths are aggressive creatures found in Swamps. They are dark blueish spectral entities, cloaked with a hood covering their blank face. They emit a quiet snarling hiss sound when they are aggravated. Since they naturally spawn at night, glow and fly, spotting them from a distance is easy; their telltale glow reveals them even to inattentive players as they approach."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Chain",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Wraith trophy",
+          "0 Star": "5%",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Anywhere in Swamps during the nighttime, despawn at dawn",
+          "Limit": "2",
+          "Frequency": "Uncommon",
+          "Stars": "No"
+        },
+        {
+          "Type": "Rare spawn point near Abandoned Huts in Swamps, also during the daytime",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"You feel a chill down your spine...\" event after defeating Bonemass",
+          "Limit": "2",
+          "Frequency": "Very common",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Melee",
+      "level": 3,
+      "text": "Swipes at the player with their claw, creating a 60-degree vertical arc that extends 2.4 meters outward (60 Slash damage). This attack can be used every 2 seconds within 1.8 meters of the player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Wraiths can be especially dangerous when entering Swamps early on, with Black Forest-tier gear. It is best to avoid entering the biome at night for this reason.\n• Wraiths are the only renewable source of Chains, the other major source being Sunken Crypts.\n• Because of their Spirit damage weakness (and considering their Physical damage resistance), Silver weapons are around 90% effective, making them a good choice. However, due to Wraith's immunity to Frost damage, the Frostner is only about 50% effective, making it a bad choice.\n• Wraiths can fly directly on top of you if you get under them correctly, making them unable to hit you, while being vulnerable to two-handed Clubs like the Stagbreaker."
+    }
+  ],
+  "full_text": "Wraith\n\nInternal ID: Wraith | Faction: Undead | Main biome: Swamp | Drops: Chain | Wraith trophy | Abilities: Melee | Trophy: Wraith trophy | Weak to (x1.5): Fire, ,, Spirit | Neutral to (x1): Lightning, ,, Stagger | Resistant to (x0.5): Blunt, ,, Pierce, ,, Slash | Immune to (x0): Frost, ,, Poison, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Wraiths are aggressive creatures found in Swamps. They are dark blueish spectral entities, cloaked with a hood covering their blank face. They emit a quiet snarling hiss sound when they are aggravated. Since they naturally spawn at night, glow and fly, spotting them from a distance is easy; their telltale glow reveals them even to inattentive players as they approach.\n\nMelee. Swipes at the player with their claw, creating a 60-degree vertical arc that extends 2.4 meters outward (60 Slash damage). This attack can be used every 2 seconds within 1.8 meters of the player.\n\nNotes. • Wraiths can be especially dangerous when entering Swamps early on, with Black Forest-tier gear. It is best to avoid entering the biome at night for this reason.\n• Wraiths are the only renewable source of Chains, the other major source being Sunken Crypts.\n• Because of their Spirit damage weakness (and considering their Physical damage resistance), Silver weapons are around 90% effective, making them a good choice. However, due to Wraith's immunity to Frost damage, the Frostner is only about 50% effective, making it a bad choice.\n• Wraiths can fly directly on top of you if you get under them correctly, making them unable to hit you, while being vulnerable to two-handed Clubs like the Stagbreaker.",
+  "scraped_at": "2026-02-26T01:09:58.398986+00:00"
+}

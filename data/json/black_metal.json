@@ -1,0 +1,38 @@
+{
+  "title": "Black metal",
+  "url": "https://valheim.fandom.com/wiki/Black_metal",
+  "slug": "Black_metal",
+  "categories": [
+    "Metals",
+    "Materials",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Black metal",
+    "Type": "Metal",
+    "Internal ID": "BlackMetal",
+    "Source": "Blast furnace",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "No",
+    "Crafting Materials": "Black metal scrap x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Black metal is a crafting material smelted from Black metal scrap. It is used to craft the fourth level of metal-wrought equipment, following Silver."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Black metal can be smelted from Black metal scrap in a Blast furnace using Coal as fuel."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Black metal is not used to craft any Armor. The Plains-tier Padded Armor is instead made of Iron.\n• Like other metals, Black metal cannot be teleported without a Portal stone.\n• It would take 98 Black metal to craft one of each base weapon and shield, and a further 260 Black metal to fully upgrade the gear. This works out to 358 total Black metal."
+    }
+  ],
+  "full_text": "Black metal\n\nType: Metal | Internal ID: BlackMetal | Source: Blast furnace | Usage: Building, Crafting | Teleportable (Can go through wood portal?): No | Crafting Materials: Black metal scrap x1\n\nIntroduction. Black metal is a crafting material smelted from Black metal scrap. It is used to craft the fourth level of metal-wrought equipment, following Silver.\n\nAvailability. Black metal can be smelted from Black metal scrap in a Blast furnace using Coal as fuel.\n\nNotes. • Black metal is not used to craft any Armor. The Plains-tier Padded Armor is instead made of Iron.\n• Like other metals, Black metal cannot be teleported without a Portal stone.\n• It would take 98 Black metal to craft one of each base weapon and shield, and a further 260 Black metal to fully upgrade the gear. This works out to 358 total Black metal.",
+  "scraped_at": "2026-02-26T01:31:02.091429+00:00"
+}

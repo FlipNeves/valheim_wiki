@@ -1,0 +1,33 @@
+{
+  "title": "Campfire",
+  "url": "https://valheim.fandom.com/wiki/Campfire",
+  "slug": "Campfire",
+  "categories": [
+    "Misc structures",
+    "Fires",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Campfire",
+    "Type": "Misc",
+    "Internal ID": "fire_pit",
+    "Crafting Materials": "Stone x5, Wood x2",
+    "Other Effect(s)": "Produces smoke, Removes the Cold Effect, Adds the Fire Effect, Rapidly removes the Wet Effect, Reduces Freezing Effect to Cold Effect",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Lightning",
+    "Immune to (x0)": "Fire, ,, Frost, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Campfires are base structures used for cooking, sleeping and warmth.\nThey do not require a Workbench or any other structure to build."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• A Campfire can only be built on the ground, natural rocks or player placed stone structures.\n• Untamed Boars, Greylings, Greydwarfs and Necks fear fire and will flee from it.\n• Greydwarf brutes and Greydwarf shamans do not fear fire and will attack the player regardless of Campfire proximity.\n• A Campfire must be fueled with Wood in order to function.\n• Campfires stop working if exposed to rainy weather without a roof.\n• Campfires stop working if exposed to strong wind without 70% cover.\n• Active Campfires create smoke. If the Campfire is created within an enclosed space, the smoke can build up, causing any players inside to be Smoked and take 2 hp/tick damage. To safely place a Campfire indoors, the interior space must be large enough to let the smoke naturally dissipate or be vented out through a chimney or other holes. The smoke appears to have a 1 block diameter, so to use multiple Campfires, larger or more chimneys will become necessary.\n• The Fire Effect for the Campfire extends for about 8 meters (Measuring from the closest the player can stand without setting themselves on fire).\n• Wet players dry significantly faster when close to Campfires.\n• It can be used for cooking (in combination with a Cooking station or a Cauldron or a combination of both).\n• It is required for a Bed to be used for sleeping, but will not prevent it from being a spawn point.\n• Destroying the Campfire with a Hammer will yield back just the 5 Stones used for construction. All Wood that was used as fuel and for the initial construction will not be dropped.\n• With 1/10 fuel, a Campfire will last for 1 hour and 23 minutes. At maximum capacity, a Campfire should burn for 13 hours and 53 minutes. This duration is the same for the Bonfire.\n• A Campfire will take 10 damage every time it sets an entity on fire.\n• One of the few base structures that is not a priority target for creatures."
+    }
+  ],
+  "full_text": "Campfire\n\nType: Misc | Internal ID: fire_pit | Crafting Materials: Stone x5, Wood x2 | Other Effect(s): Produces smoke, Removes the Cold Effect, Adds the Fire Effect, Rapidly removes the Wet Effect, Reduces Freezing Effect to Cold Effect | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Lightning | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\nIntroduction. Campfires are base structures used for cooking, sleeping and warmth.\nThey do not require a Workbench or any other structure to build.\n\nNotes. • A Campfire can only be built on the ground, natural rocks or player placed stone structures.\n• Untamed Boars, Greylings, Greydwarfs and Necks fear fire and will flee from it.\n• Greydwarf brutes and Greydwarf shamans do not fear fire and will attack the player regardless of Campfire proximity.\n• A Campfire must be fueled with Wood in order to function.\n• Campfires stop working if exposed to rainy weather without a roof.\n• Campfires stop working if exposed to strong wind without 70% cover.\n• Active Campfires create smoke. If the Campfire is created within an enclosed space, the smoke can build up, causing any players inside to be Smoked and take 2 hp/tick damage. To safely place a Campfire indoors, the interior space must be large enough to let the smoke naturally dissipate or be vented out through a chimney or other holes. The smoke appears to have a 1 block diameter, so to use multiple Campfires, larger or more chimneys will become necessary.\n• The Fire Effect for the Campfire extends for about 8 meters (Measuring from the closest the player can stand without setting themselves on fire).\n• Wet players dry significantly faster when close to Campfires.\n• It can be used for cooking (in combination with a Cooking station or a Cauldron or a combination of both).\n• It is required for a Bed to be used for sleeping, but will not prevent it from being a spawn point.\n• Destroying the Campfire with a Hammer will yield back just the 5 Stones used for construction. All Wood that was used as fuel and for the initial construction will not be dropped.\n• With 1/10 fuel, a Campfire will last for 1 hour and 23 minutes. At maximum capacity, a Campfire should burn for 13 hours and 53 minutes. This duration is the same for the Bonfire.\n• A Campfire will take 10 damage every time it sets an entity on fire.\n• One of the few base structures that is not a priority target for creatures.",
+  "scraped_at": "2026-02-26T01:55:04.976225+00:00"
+}

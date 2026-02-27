@@ -1,0 +1,79 @@
+{
+  "title": "Scourging Slayer",
+  "url": "https://valheim.fandom.com/wiki/Scourging_Slayer",
+  "slug": "Scourging_Slayer",
+  "categories": [
+    "Weapons",
+    "Swords",
+    "Black forge recipes",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Scourging Slayer",
+    "Internal ID": "THSwordSlayerLightning",
+    "Type": "Sword",
+    "Source": "Black forge",
+    "Usage": "Weapon",
+    "Crafting Materials": "Flametal x45, Iolite x3",
+    "Attack speed": "2.16 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "3 range, 30 angle, 1.0 height, 0.5 ray",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Scourging Slayer is the upgraded form of Slayer using the Iolite. Like all upgraded-weapons that use Iolite, it has 10 additional lightning damage and a 25% chance to apply Chain Lightning.\nAn upgraded Slayer will NOT keep its upgrade level when it is modified using gemstones"
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "Total cost for the fully upgraded sword is 1 Slayer, 105 Flametal and 6 Iolites. However, it is only 30 Flametal and 2 Iolites for level 2, which is the highest upgrade currently obtainable as of patch 218.15.",
+      "table_data": [
+        {
+          "stat": "Slash",
+          "Quality 1": "170",
+          "Quality 2": "176",
+          "Quality 3": "182",
+          "Quality 4": "188"
+        },
+        {
+          "stat": "Lightning",
+          "Quality 1": "10",
+          "Quality 2": "10",
+          "Quality 3": "10",
+          "Quality 4": "10"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "1 Slayer15 Flametal1 Iolite",
+          "Quality 2": "15 Flametal1 Iolite",
+          "Quality 3": "30 Flametal2 Iolite",
+          "Quality 4": "45 Flametal3 Iolite"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "4",
+          "Quality 2": "5",
+          "Quality 3": "6 (not yet available)",
+          "Quality 4": "7 (not yet available)"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The primary attacks are fairly vertical and wide-reaching, with the third attack in the combo being more narrow in the horizontal plane.\n• The secondary attack is a long reaching thrust that is capable of outreaching most enemies with very excellent damage."
+    }
+  ],
+  "full_text": "Scourging Slayer\n\nInternal ID: THSwordSlayerLightning | Type: Sword | Source: Black forge | Usage: Weapon | Crafting Materials: Flametal x45, Iolite x3 | Attack speed: 2.16 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 3 range, 30 angle, 1.0 height, 0.5 ray | Movement speed: -5%\n\nIntroduction. Scourging Slayer is the upgraded form of Slayer using the Iolite. Like all upgraded-weapons that use Iolite, it has 10 additional lightning damage and a 25% chance to apply Chain Lightning.\nAn upgraded Slayer will NOT keep its upgrade level when it is modified using gemstones\n\nUpgrade information. Total cost for the fully upgraded sword is 1 Slayer, 105 Flametal and 6 Iolites. However, it is only 30 Flametal and 2 Iolites for level 2, which is the highest upgrade currently obtainable as of patch 218.15.\n\nNotes. • The primary attacks are fairly vertical and wide-reaching, with the third attack in the combo being more narrow in the horizontal plane.\n• The secondary attack is a long reaching thrust that is capable of outreaching most enemies with very excellent damage.",
+  "scraped_at": "2026-02-26T01:17:49.355291+00:00"
+}

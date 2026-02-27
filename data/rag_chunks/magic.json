@@ -1,0 +1,12 @@
+{
+  "title": "Magic",
+  "url": "https://valheim.fandom.com/wiki/Magic",
+  "slug": "Magic",
+  "categories": [
+    "Mechanics",
+    "Magic"
+  ],
+  "content": "# Magic\n\n# Introduction\n\nMagic is a combat mechanic that appeared with the Mistlands update, which has opened up the mage play style which functions similar, but different to the traditional play styles of melee and range, as well as offering more direct team-play benefits.\n\n## Functioning\n\nThe magic mechanic revolves around the use of magic weapons (not to be confused with \"elemental\" weapons, which cause elemental damage such as fire, frost or poison). As of the Ashlands update, eight magic weapons have been introduced.\nA magical weapon will need Eitr to be used, which requires Eitr food to be consumed, and if the player tries to use a magical weapon without having an Eitr bar, the message \"Eitr required\" will be displayed.\nThere are currently two types of magic: Elemental magic and Blood magic. Each type has its own associated skill, Elemental magic (Skill) and Blood magic (Skill), which determines not only how much damage weapons of that type deal (either directly or indirectly), but also the cost used to cast magic of that type.\n\n## Elemental Magic\n\nElemental Magic uses pure Eitr for casting offensive attacks.\n\n## Blood Magic\n\nBlood Magic uses both Eitr and a percentage of the user's current Health (Not maximum) to cast defensive actions, such as shielding allies from damage or summoning Skelett and other reinforcements. Getting greater skill in Blood magic leads to stronger shields as well as summoning stronger creatures.\n\nCategorias: Mechanics, Magic",
+  "content_length": 1481,
+  "scraped_at": "2026-02-26T01:53:16.511558+00:00"
+}

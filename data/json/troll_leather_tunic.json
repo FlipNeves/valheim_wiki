@@ -1,0 +1,149 @@
+{
+  "title": "Troll Set",
+  "url": "https://valheim.fandom.com/wiki/Troll_leather_tunic",
+  "slug": "Troll_leather_tunic",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Troll Set is a Black Forest-tier armor. Compared to the other armors available in the Bronze Age, Bronze Armor and Bear Set, the troll set has lower armor values but does not reduce movement speed. Simultaneously wearing all four pieces provides the Sneaky Effect.\nThis set is replaced by the Root Set or Iron Armor.\nEach normal Troll drops five Troll hide. Therefore, it takes a minimum of five troll kills to craft a full set of armor, and the cape."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "This set of armor has four pieces which are crafted and upgraded at the Workbench. This is the only true four piece armor set that requires a cape for the set bonus.",
+      "table_data": [
+        {
+          "Armor piece": "Troll leather helmet",
+          "Armor": "6",
+          "Crafting cost": "5 Troll hide3 Bone fragments",
+          "Weight": "1.0"
+        },
+        {
+          "Armor piece": "Troll leather tunic",
+          "Armor": "6",
+          "Crafting cost": "5 Troll hide",
+          "Weight": "5.0"
+        },
+        {
+          "Armor piece": "Troll leather pants",
+          "Armor": "6",
+          "Crafting cost": "5 Troll hide",
+          "Weight": "5.0"
+        },
+        {
+          "Armor piece": "Troll hide cape",
+          "Armor": "1",
+          "Crafting cost": "10 Troll hide10 Bone fragments",
+          "Weight": "4.0"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "19",
+          "Crafting cost": "25 Troll hide13 Bone fragments",
+          "Weight": "15.0",
+          "Effects": "Sneak +15"
+        },
+        {
+          "Armor piece": "Troll leather helmet",
+          "Armor": "8",
+          "Upgrade cost (Total cost)": "2 (7) Troll hide1 (4) Bone fragments",
+          "Weight": "1.0"
+        },
+        {
+          "Armor piece": "Troll leather tunic",
+          "Armor": "8",
+          "Upgrade cost (Total cost)": "2 (7) Troll hide",
+          "Weight": "5.0"
+        },
+        {
+          "Armor piece": "Troll leather pants",
+          "Armor": "8",
+          "Upgrade cost (Total cost)": "2 (7) Troll hide",
+          "Weight": "5.0"
+        },
+        {
+          "Armor piece": "Troll hide cape",
+          "Armor": "2",
+          "Upgrade cost (Total cost)": "5 (15) Troll hide5 (15) Bone fragments",
+          "Weight": "4.0"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "26",
+          "Upgrade cost (Total cost)": "11 (36) Troll hide6 (19) Bone fragments",
+          "Weight": "15.0",
+          "Effects": "Sneak +15"
+        },
+        {
+          "Armor piece": "Troll leather helmet",
+          "Armor": "10",
+          "Upgrade cost (Total cost)": "4 (11) Troll hide2 (6) Bone fragments",
+          "Weight": "1.0"
+        },
+        {
+          "Armor piece": "Troll leather tunic",
+          "Armor": "10",
+          "Upgrade cost (Total cost)": "4 (11) Troll hide",
+          "Weight": "5.0"
+        },
+        {
+          "Armor piece": "Troll leather pants",
+          "Armor": "10",
+          "Upgrade cost (Total cost)": "4 (11) Troll hide",
+          "Weight": "5.0"
+        },
+        {
+          "Armor piece": "Troll hide cape",
+          "Armor": "3",
+          "Upgrade cost (Total cost)": "10 (25) Troll hide10 (25) Bone fragments",
+          "Weight": "4.0"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "33",
+          "Upgrade cost (Total cost)": "22 (58) Troll hide12 (31) Bone fragments",
+          "Weight": "15.0",
+          "Effects": "Sneak +15"
+        },
+        {
+          "Armor piece": "Troll leather helmet",
+          "Armor": "12",
+          "Upgrade cost (Total cost)": "6 (17) Troll hide3 (9) Bone fragments",
+          "Weight": "1.0"
+        },
+        {
+          "Armor piece": "Troll leather tunic",
+          "Armor": "12",
+          "Upgrade cost (Total cost)": "6 (17) Troll hide",
+          "Weight": "5.0"
+        },
+        {
+          "Armor piece": "Troll leather pants",
+          "Armor": "12",
+          "Upgrade cost (Total cost)": "6 (17) Troll hide",
+          "Weight": "5.0"
+        },
+        {
+          "Armor piece": "Troll hide cape",
+          "Armor": "4",
+          "Upgrade cost (Total cost)": "15 (40) Troll hide15 (40) Bone fragments",
+          "Weight": "4.0"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "40",
+          "Upgrade cost (Total cost)": "33 (91) Troll hide18 (49) Bone fragments",
+          "Weight": "15.0",
+          "Effects": "Sneak +15"
+        }
+      ]
+    }
+  ],
+  "full_text": "Troll Set\n\nIntroduction. Troll Set is a Black Forest-tier armor. Compared to the other armors available in the Bronze Age, Bronze Armor and Bear Set, the troll set has lower armor values but does not reduce movement speed. Simultaneously wearing all four pieces provides the Sneaky Effect.\nThis set is replaced by the Root Set or Iron Armor.\nEach normal Troll drops five Troll hide. Therefore, it takes a minimum of five troll kills to craft a full set of armor, and the cape.\n\nArmor pieces. This set of armor has four pieces which are crafted and upgraded at the Workbench. This is the only true four piece armor set that requires a cape for the set bonus.",
+  "scraped_at": "2026-02-26T02:06:14.824626+00:00"
+}

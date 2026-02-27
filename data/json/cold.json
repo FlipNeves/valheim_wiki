@@ -1,0 +1,26 @@
+{
+  "title": "Cold",
+  "url": "https://valheim.fandom.com/wiki/Cold",
+  "slug": "Cold",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Cold",
+    "Effects": "Health regen -50% | Stamina regen -25%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Cold is a status effect applied at night, or while Sheltered and Freezing. It reduces health regeneration by 50% and stamina regeneration by 25%.\nIt is counteracted by standing near objects that produce the Fire effect (such as a Campfire or a working Smelter) or by gaining a resistance to frost: temporarily by consuming a Frost resistance mead or permanently by wearing warm clothes, such as the Wolf fur cape, Wolf armor chest or Lox cape."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Despite the Burning effect being \"hot\", it will not negate the Cold effect. This allows for the player to both be on fire and cold at the same time, especially when fighting Cultists."
+    }
+  ],
+  "full_text": "Cold\n\nEffects: Health regen -50% | Stamina regen -25%\n\nIntroduction. Cold is a status effect applied at night, or while Sheltered and Freezing. It reduces health regeneration by 50% and stamina regeneration by 25%.\nIt is counteracted by standing near objects that produce the Fire effect (such as a Campfire or a working Smelter) or by gaining a resistance to frost: temporarily by consuming a Frost resistance mead or permanently by wearing warm clothes, such as the Wolf fur cape, Wolf armor chest or Lox cape.\n\nNotes. • Despite the Burning effect being \"hot\", it will not negate the Cold effect. This allows for the player to both be on fire and cold at the same time, especially when fighting Cultists.",
+  "scraped_at": "2026-02-26T01:59:23.613895+00:00"
+}

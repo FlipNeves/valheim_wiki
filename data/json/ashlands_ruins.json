@@ -1,0 +1,34 @@
+{
+  "title": "Ashlands ruins",
+  "url": "https://valheim.fandom.com/wiki/Ashlands_ruins",
+  "slug": "Ashlands_ruins",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Ashlands ruins",
+    "Type": "Structure",
+    "Internal ID": "AshlandRuins | FortressRuinsCharredTowerRuins",
+    "Location": "Ashlands",
+    "Inhabitants": "Charred Twitcher, ,, Morgen"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ashlands ruins are broken structures built from Grausten scattered throughout the Ashlands.\nThe largest variants of ruins are Charred Ruins."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "Fiddleheads and Smoke puffs can be found in the ruins.\nRuins can also be destroyed to get Grausten. The foundations of these ruins also can be destroyed, but they can only take Pickaxe damage. An efficient way to destroy them is either baiting Morgen or Lava Blob to damage these ruins."
+    },
+    {
+      "heading": "Creatures",
+      "level": 2,
+      "text": "In addition to the regular Spawn zones mechanics, Ashlands ruins have a chance to appear with extra Charred Twitchers or Morgen that only spawn once."
+    }
+  ],
+  "full_text": "Ashlands ruins\n\nType: Structure | Internal ID: AshlandRuins | FortressRuinsCharredTowerRuins | Location: Ashlands | Inhabitants: Charred Twitcher, ,, Morgen\n\nIntroduction. Ashlands ruins are broken structures built from Grausten scattered throughout the Ashlands.\nThe largest variants of ruins are Charred Ruins.\n\nResources. Fiddleheads and Smoke puffs can be found in the ruins.\nRuins can also be destroyed to get Grausten. The foundations of these ruins also can be destroyed, but they can only take Pickaxe damage. An efficient way to destroy them is either baiting Morgen or Lava Blob to damage these ruins.\n\nCreatures. In addition to the regular Spawn zones mechanics, Ashlands ruins have a chance to appear with extra Charred Twitchers or Morgen that only spawn once.",
+  "scraped_at": "2026-02-26T01:54:01.628026+00:00"
+}

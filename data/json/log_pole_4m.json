@@ -1,0 +1,84 @@
+{
+  "title": "Log structures",
+  "url": "https://valheim.fandom.com/wiki/Log_pole_4m",
+  "slug": "Log_pole_4m",
+  "categories": [
+    "Building structures"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Log structures require Corewood and the proximity of a Workbench to be built and repaired."
+    },
+    {
+      "heading": "Common properties",
+      "level": 2,
+      "text": "Log structures share the following properties:",
+      "table_data": [
+        {
+          "Property": "Durability",
+          "Value": "400"
+        },
+        {
+          "Property": "Support",
+          "Value": "Hard Wood (from 10 to 140)"
+        },
+        {
+          "Property": "Loss",
+          "Value": "1/10 vertical, 1/6 horizontal"
+        },
+        {
+          "Property": "Resistances",
+          "Value": "Weak: Chop Neutral: Blunt, Slash, Pickaxe, Fire, Frost, Lightning Resistant: Pierce Immune: Poison, Spirit"
+        }
+      ]
+    },
+    {
+      "heading": "Poles and beams",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Structure": "Log pole 2m",
+          "Materials": "Corewood x1",
+          "Size": "2x1",
+          "Damaged by rain": "Yes"
+        },
+        {
+          "Structure": "Log pole 4m",
+          "Materials": "Corewood x2",
+          "Size": "4x1",
+          "Damaged by rain": "Yes"
+        },
+        {
+          "Structure": "Log beam 2m",
+          "Materials": "Corewood x1",
+          "Size": "2x1",
+          "Damaged by rain": "Yes"
+        },
+        {
+          "Structure": "Log beam 4m",
+          "Materials": "Corewood x2",
+          "Size": "4x1",
+          "Damaged by rain": "Yes"
+        },
+        {
+          "Structure": "Log beam 45°",
+          "Materials": "Corewood x1",
+          "Size": "2x1",
+          "Damaged by rain": "No"
+        },
+        {
+          "Structure": "Log beam 26°",
+          "Materials": "Corewood x1",
+          "Size": "2x1",
+          "Damaged by rain": "No"
+        }
+      ]
+    }
+  ],
+  "full_text": "Log structures\n\nIntroduction. Log structures require Corewood and the proximity of a Workbench to be built and repaired.\n\nCommon properties. Log structures share the following properties:",
+  "scraped_at": "2026-02-26T02:13:48.240150+00:00"
+}

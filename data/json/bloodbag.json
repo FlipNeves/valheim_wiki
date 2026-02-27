@@ -1,0 +1,35 @@
+{
+  "title": "Bloodbag",
+  "url": "https://valheim.fandom.com/wiki/Bloodbag",
+  "slug": "Bloodbag",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Bloodbag",
+    "Type": "Material",
+    "Internal ID": "Bloodbag",
+    "Source": "Leeches",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bloodbag is an item dropped by Leeches in the Swamp."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Red banner"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Black soup\n• Blood pudding\n• Mead base: Frost resistance\n• Mead base: Medium healing\n• Swamp dweller's delight"
+    }
+  ],
+  "full_text": "Bloodbag\n\nType: Material | Internal ID: Bloodbag | Source: Leeches | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Bloodbag is an item dropped by Leeches in the Swamp.\n\nBuilding. • Red banner\n\nCrafting. • Black soup\n• Blood pudding\n• Mead base: Frost resistance\n• Mead base: Medium healing\n• Swamp dweller's delight",
+  "scraped_at": "2026-02-26T01:31:12.045077+00:00"
+}

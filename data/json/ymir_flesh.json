@@ -1,0 +1,36 @@
+{
+  "title": "Ymir flesh",
+  "url": "https://valheim.fandom.com/wiki/Ymir_flesh",
+  "slug": "Ymir_flesh",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Ymir flesh",
+    "Type": "Material",
+    "Internal ID": "YmirRemains",
+    "Source": "Haldor",
+    "Usage": "Crafting",
+    "Buy": "120, Coins",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ymir flesh can be purchased from the trader Haldor for 120 Coins. As of the Mistlands update, Haldor offers Ymir flesh for sale only after The Elder, the second boss, has been defeated."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Frostner\n• Iron sledge"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• In the Poetic Edda, the body of the primeval being Ymir is used to create the world. Ymir's flesh, in particular, is used to create the earth. Therefore, it is possible that this is a pile of ordinary dirt.\n• Prior to Patch 0.213.4, it was for sale only after Bonemass, the third boss, has been defeated."
+    }
+  ],
+  "full_text": "Ymir flesh\n\nType: Material | Internal ID: YmirRemains | Source: Haldor | Usage: Crafting | Buy: 120, Coins | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Ymir flesh can be purchased from the trader Haldor for 120 Coins. As of the Mistlands update, Haldor offers Ymir flesh for sale only after The Elder, the second boss, has been defeated.\n\nCrafting. • Frostner\n• Iron sledge\n\nTrivia. • In the Poetic Edda, the body of the primeval being Ymir is used to create the world. Ymir's flesh, in particular, is used to create the earth. Therefore, it is possible that this is a pile of ordinary dirt.\n• Prior to Patch 0.213.4, it was for sale only after Bonemass, the third boss, has been defeated.",
+  "scraped_at": "2026-02-26T01:38:09.044299+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Riding",
+  "url": "https://valheim.fandom.com/wiki/Riding",
+  "slug": "Riding",
+  "categories": [
+    "Mechanics"
+  ],
+  "content": "# Riding\n\n# Introduction\n\nRiding is a mechanics allowing a player to ride a tamed creature by using a saddle.\nSaddle can be equipped by assigning it to a hot key and using it while close to the creature. Directional keys will not cause the mount to turn while riding. Instead, the player must move the camera and the mount will always move straight in the direction that the camera is facing. A mount can move either at walking or sprinting speed - it cannot reverse. The Riding (Skill) increase the sprinting speed and decrease its stamina consumption.\nMount completely ignores a player's carried weight, able to move and even sprint while the rider is encumbered.\n\n## List of Mount\n\nThe current creatures which can be mounted are:\n• Lox with a Lox saddle, it deals damage by running over other creatures.\n• Asksvin with and Asksvin saddle, it can go through Lava.\n• Asksvin skeleton without saddle but it cannot move.\n\nCategorias: Mechanics",
+  "content_length": 942,
+  "scraped_at": "2026-02-26T01:57:49.173536+00:00"
+}

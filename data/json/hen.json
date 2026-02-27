@@ -1,0 +1,64 @@
+{
+  "title": "Hen",
+  "url": "https://valheim.fandom.com/wiki/Hen",
+  "slug": "Hen",
+  "categories": [
+    "Passive creatures",
+    "Tameable creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Hen",
+    "Internal ID": "Hen",
+    "Type": "Passive",
+    "Faction": "Animal",
+    "Tameable": "Yes",
+    "Drops": "Feathers, Chicken meat",
+    "Abilities": "Beak attack",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Stagger",
+    "Immune to (x0)": "Spirit, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Hen are passive creatures that can only appear when an Egg hatches. They are the grown stage of Chickens."
+    },
+    {
+      "heading": "Description",
+      "level": 2,
+      "text": "Hen are tameable birds that can reproduce and will lay eggs under certain conditions, including being fed with any of: Dandelion, Barley (not Barley flour), Beech seeds, Birch seeds, Carrot seeds, Onion seeds, or Turnip seeds."
+    },
+    {
+      "heading": "Obtain",
+      "level": 2,
+      "text": "Hens are grown up chickens. A chicken will grow up after a certain amount of time (approximately two days) after an egg has hatched. Eggs can be bought for 1500 Coins from Haldor, or found as loot in Sealed Towers."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Feathers",
+          "0 Star": "1-2",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Chicken meat",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• As Hens are tameable animals, they can be damaged by players only with a Butcher knife. Despite this, players can indirectly damage both Hens and Chickens by using an Obliterator's lightning strike AoE[1] or by placing pufferfish in contact with them.\n• Chicken meat is used for Honey glazed chicken, one of the most potent HP-boosting foods in the game as of the Mistlands update.\n• Hens have 3 different colors: white, brown, white and brown. The probability of each color to appear seems to be 33% each.\n• Hens are unique among tameable animals in that they do not directly reproduce a young version; they lay an Egg instead, which must be warmed near a heat source in order to hatch into a Chicken."
+    }
+  ],
+  "full_text": "Hen\n\nInternal ID: Hen | Type: Passive | Faction: Animal | Tameable: Yes | Drops: Feathers, Chicken meat | Abilities: Beak attack | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Stagger | Immune to (x0): Spirit, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Hen are passive creatures that can only appear when an Egg hatches. They are the grown stage of Chickens.\n\nDescription. Hen are tameable birds that can reproduce and will lay eggs under certain conditions, including being fed with any of: Dandelion, Barley (not Barley flour), Beech seeds, Birch seeds, Carrot seeds, Onion seeds, or Turnip seeds.\n\nObtain. Hens are grown up chickens. A chicken will grow up after a certain amount of time (approximately two days) after an egg has hatched. Eggs can be bought for 1500 Coins from Haldor, or found as loot in Sealed Towers.\n\nNotes. • As Hens are tameable animals, they can be damaged by players only with a Butcher knife. Despite this, players can indirectly damage both Hens and Chickens by using an Obliterator's lightning strike AoE[1] or by placing pufferfish in contact with them.\n• Chicken meat is used for Honey glazed chicken, one of the most potent HP-boosting foods in the game as of the Mistlands update.\n• Hens have 3 different colors: white, brown, white and brown. The probability of each color to appear seems to be 33% each.\n• Hens are unique among tameable animals in that they do not directly reproduce a young version; they lay an Egg instead, which must be warmed near a heat source in order to hatch into a Chicken.",
+  "scraped_at": "2026-02-26T02:12:47.434671+00:00"
+}

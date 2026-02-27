@@ -1,0 +1,30 @@
+{
+  "title": "Fenris hair",
+  "url": "https://valheim.fandom.com/wiki/Fenris_hair",
+  "slug": "Fenris_hair",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Fenris hair",
+    "Type": "Material",
+    "Internal ID": "WolfHairBundle",
+    "Source": "Frost Caves",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fenris hair can be found in Frost Caves in the Mountain biome."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Fenris coat\n• Fenris hood\n• Fenris leggings\n• Flesh rippers"
+    }
+  ],
+  "full_text": "Fenris hair\n\nType: Material | Internal ID: WolfHairBundle | Source: Frost Caves | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Fenris hair can be found in Frost Caves in the Mountain biome.\n\nCrafting. • Fenris coat\n• Fenris hood\n• Fenris leggings\n• Flesh rippers",
+  "scraped_at": "2026-02-26T01:33:29.941845+00:00"
+}

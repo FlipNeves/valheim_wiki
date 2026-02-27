@@ -1,0 +1,41 @@
+{
+  "title": "Fire resistance barley wine",
+  "url": "https://valheim.fandom.com/wiki/Fire_resistance_barley_wine",
+  "slug": "Fire_resistance_barley_wine",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Fire resistance barley wine",
+    "Type": "Mead",
+    "Internal ID": "BarleyWine",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Barley wine base: Fire resistance x1",
+    "Duration": "10m",
+    "Cooldown": "10m",
+    "Other Effect(s)": "Resistance vs. Fire"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fire resistance barley wine is a Plains-tier consumable item fermented from Barley wine base: Fire resistance."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Barley wine base: Fire resistance is produced in a Mead ketill with:\n• 10 Barley\n• 10 Cloudberries\nSix Fire resistance barley wines are produced by fermenting the wine base for two in-game days."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Consuming it grants Resistant vs. Fire for 600s (10 minutes), reducing fire damage taken (see resistance for details)."
+    }
+  ],
+  "full_text": "Fire resistance barley wine\n\nType: Mead | Internal ID: BarleyWine | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Barley wine base: Fire resistance x1 | Duration: 10m | Cooldown: 10m | Other Effect(s): Resistance vs. Fire\n\nIntroduction. Fire resistance barley wine is a Plains-tier consumable item fermented from Barley wine base: Fire resistance.\n\nRecipe. Barley wine base: Fire resistance is produced in a Mead ketill with:\n• 10 Barley\n• 10 Cloudberries\nSix Fire resistance barley wines are produced by fermenting the wine base for two in-game days.\n\nEffect. Consuming it grants Resistant vs. Fire for 600s (10 minutes), reducing fire damage taken (see resistance for details).",
+  "scraped_at": "2026-02-26T01:56:42.909468+00:00"
+}

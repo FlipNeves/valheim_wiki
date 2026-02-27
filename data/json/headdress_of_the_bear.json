@@ -1,0 +1,145 @@
+{
+  "title": "Bear Set",
+  "url": "https://valheim.fandom.com/wiki/Headdress_of_the_Bear",
+  "slug": "Headdress_of_the_Bear",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Bear Set is a Black Forest-tier armor set. It has a lower armor value than the Bronze Armor, but a higher armor value than the Troll Set. However, wearing all 3 pieces provides the Berserk set bonus, increasing damage, stamina and health regeneration, but making the wearer slightly more vulnerable to physical damage.\nEach normal Bear drops 4 Bear hides, so it will require a minimum of 4 Bear kills to craft the full set. Considering the 10% drop chance on the Bear trophy it could potentially require many more bears."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Armor piece": "Headdress of the Bear",
+          "Armor": "7",
+          "Crafting cost": "5 Bear hide1 Bear trophy",
+          "Weight": "1.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Patterns of the Bear",
+          "Armor": "7",
+          "Crafting cost": "5 Bear hide2 Bear paw4 Blueberries",
+          "Weight": "5.0",
+          "Movementspeed": "0%",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Loincloth of the Bear",
+          "Armor": "7",
+          "Crafting cost": "5 Bear hide4 Blueberries",
+          "Weight": "5.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "21",
+          "Crafting cost": "15 Bear hide8 Blueberries2 Bear paw1 Bear trophy",
+          "Weight": "11.0",
+          "Movementspeed": "",
+          "Effects": "Berserk: +30% Health regen +15% Stamina regen Slightly weak (+25%) vs Blunt, Slash and Pierce +10% Slash +10% Chop"
+        },
+        {
+          "Armor piece": "Headdress of the Bear",
+          "Armor": "9",
+          "Upgrade cost(Total cost)": "2 (7) Bear hide(1) Bear trophy",
+          "Weight": "1.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Patterns of the Bear",
+          "Armor": "9",
+          "Upgrade cost(Total cost)": "2 (7) Bear hide(2) Bear paw1 (5) Blueberries",
+          "Weight": "5.0",
+          "Movementspeed": "0%",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Loincloth of the Bear",
+          "Armor": "9",
+          "Upgrade cost(Total cost)": "2 (7) Bear hide1 (5) Blueberries",
+          "Weight": "5.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "27",
+          "Upgrade cost(Total cost)": "6 (21) Bear hide2 (10) Blueberries(2) Bear paw(1) Bear trophy",
+          "Weight": "11.0",
+          "Movementspeed": "",
+          "Effects": "Berserk: +30% Health regen +15% Stamina regen Slightly weak (+25%) vs Blunt, Slash and Pierce +10% Slash +10% Chop"
+        },
+        {
+          "Armor piece": "Headdress of the Bear",
+          "Armor": "11",
+          "Upgrade cost(Total cost)": "4 (11) Bear hide(1) Bear trophy",
+          "Weight": "1.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Patterns of the Bear",
+          "Armor": "11",
+          "Upgrade cost(Total cost)": "4 (11) Bear hide(2) Bear paw2 (7) Blueberries",
+          "Weight": "5.0",
+          "Movementspeed": "0%",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Loincloth of the Bear",
+          "Armor": "11",
+          "Upgrade cost(Total cost)": "4 (11) Bear hide2 (7) Blueberries",
+          "Weight": "5.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "33",
+          "Upgrade cost(Total cost)": "12 (33) Bear hide4 (14) Blueberries(2) Bear paw(1) Bear trophy",
+          "Weight": "11.0",
+          "Movementspeed": "",
+          "Effects": "Berserk: +30% Health regen +15% Stamina regen Slightly weak (+25%) vs Blunt, Slash and Pierce +10% Slash +10% Chop"
+        },
+        {
+          "Armor piece": "Headdress of the Bear",
+          "Armor": "13",
+          "Upgrade cost(Total cost)": "6 (17) Bear hide(1) Bear trophy",
+          "Weight": "1.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Patterns of the Bear",
+          "Armor": "13",
+          "Upgrade cost(Total cost)": "6 (17) Bear hide(2) Bear paw3 (10) Blueberries",
+          "Weight": "5.0",
+          "Movementspeed": "0%",
+          "Effects": ""
+        },
+        {
+          "Armor piece": "Loincloth of the Bear",
+          "Armor": "13",
+          "Upgrade cost(Total cost)": "6 (17) Bear hide3 (10) Blueberries",
+          "Weight": "5.0",
+          "Movementspeed": "0%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "39",
+          "Upgrade cost(Total cost)": "18 (51) Bear hide6 (20) Blueberries(2) Bear paw(1) Bear trophy",
+          "Weight": "11.0",
+          "Movementspeed": "",
+          "Effects": "Berserk: +30% Health regen +15% Stamina regen Slightly weak (+25%) vs Blunt, Slash and Pierce +10% Slash +10% Chop"
+        }
+      ]
+    }
+  ],
+  "full_text": "Bear Set\n\nIntroduction. The Bear Set is a Black Forest-tier armor set. It has a lower armor value than the Bronze Armor, but a higher armor value than the Troll Set. However, wearing all 3 pieces provides the Berserk set bonus, increasing damage, stamina and health regeneration, but making the wearer slightly more vulnerable to physical damage.\nEach normal Bear drops 4 Bear hides, so it will require a minimum of 4 Bear kills to craft the full set. Considering the 10% drop chance on the Bear trophy it could potentially require many more bears.",
+  "scraped_at": "2026-02-26T02:06:21.149748+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Yule garland",
+  "url": "https://valheim.fandom.com/wiki/Yule_garland",
+  "slug": "Yule_garland",
+  "categories": [
+    "Furniture",
+    "Seasonal Furniture"
+  ],
+  "infobox": {
+    "_infobox_title": "Yule garland",
+    "Type": "Furniture",
+    "Internal ID": "piece_xmasgarland",
+    "Source": "Workbench",
+    "Season": "Yule (Christmas)",
+    "Usage": "Decoration",
+    "Crafting Materials": "Finewood x2, Pine cone x1",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Yule garland is a seasonal decorative object. It needs to be built within the range of a Workbench and on a wall or roof."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "The Yule garland cannot be built year-round. It can only be built during the Christmas season, 1 December – 6 January."
+    }
+  ],
+  "full_text": "Yule garland\n\nType: Furniture | Internal ID: piece_xmasgarland | Source: Workbench | Season: Yule (Christmas) | Usage: Decoration | Crafting Materials: Finewood x2, Pine cone x1 | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Yule garland is a seasonal decorative object. It needs to be built within the range of a Workbench and on a wall or roof.\n\nAvailability. The Yule garland cannot be built year-round. It can only be built during the Christmas season, 1 December – 6 January.",
+  "scraped_at": "2026-02-26T01:42:42.822251+00:00"
+}

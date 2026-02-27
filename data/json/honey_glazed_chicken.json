@@ -1,0 +1,41 @@
+{
+  "title": "Honey glazed chicken",
+  "url": "https://valheim.fandom.com/wiki/Honey_glazed_chicken",
+  "slug": "Honey_glazed_chicken",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Honey glazed chicken",
+    "Type": "Food",
+    "Internal ID": "HoneyGlazedChicken",
+    "Source": "Stone oven",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Uncooked honey glazed chicken x1",
+    "Max Health": "80",
+    "Max Stamina": "26",
+    "Duration": "30m",
+    "Healing": "5 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Honey glazed chicken is a Mistlands-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Uncooked honey glazed chicken is produced in a Food preparation table with:\n• 1 Chicken meat\n• 3 Honey\n• 2 Jotun puffs\nHoney glazed chicken is produced by cooking uncooked honey glazed chicken in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• While Honey glazed chicken provides less health and stamina than Misthare supreme, it lasts for five minutes longer.\n• Honey glazed chicken provides the same health and stamina as Meat platter, making the two of them tied for the second highest health gain in the Mistlands."
+    }
+  ],
+  "full_text": "Honey glazed chicken\n\nType: Food | Internal ID: HoneyGlazedChicken | Source: Stone oven | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Uncooked honey glazed chicken x1 | Max Health: 80 | Max Stamina: 26 | Duration: 30m | Healing: 5 hp/tick\n\nIntroduction. Honey glazed chicken is a Mistlands-tier food.\n\nRecipe. Uncooked honey glazed chicken is produced in a Food preparation table with:\n• 1 Chicken meat\n• 3 Honey\n• 2 Jotun puffs\nHoney glazed chicken is produced by cooking uncooked honey glazed chicken in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal.\n\nNotes. • While Honey glazed chicken provides less health and stamina than Misthare supreme, it lasts for five minutes longer.\n• Honey glazed chicken provides the same health and stamina as Meat platter, making the two of them tied for the second highest health gain in the Mistlands.",
+  "scraped_at": "2026-02-26T01:26:35.092020+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Storm Ripper",
+  "url": "https://valheim.fandom.com/wiki/Storm_Ripper",
+  "slug": "Storm_Ripper",
+  "categories": [
+    "Weapons",
+    "Crossbows",
+    "Black forge recipes"
+  ],
+  "content": "# Storm Ripper\n\nInternal ID: CrossbowRipperLightning | Type: Crossbow | Source: Black forge | Usage: Ranged weapon | Wielding: Two-handed | Crafting Materials: Flametal x24, Iolite x3 | Movement speed: -5%\n\n# Introduction\n\nStorm Ripper is the upgraded form of Ripper using Iolite. Like all upgraded-weapons that use Iolite, they gain 10 lightning damage and their hit effect has a 25% chance to apply Chain Lightning.\nAn upgraded Ripper will NOT keep its upgrade level when it is modified using gemstones.\n\n## Upgrade information\n\n• stat: Pierce | Quality 1: 220 | Quality 2: 223 | Quality 3: 226 | Quality 4: 229\n\n• stat: Lightning | Quality 1: 10 | Quality 2: 10 | Quality 3: 10 | Quality 4: 10\n\n• stat: Durability | Quality 1: 50 | Quality 2: 100 | Quality 3: 150 | Quality 4: 200\n\n• stat: Crafting | Quality 1: 1 Ripper8 Flametal1 Iolite | Quality 2: 8 Flametal1 Iolite | Quality 3: 16 Flametal2 Iolite | Quality 4: 24 Flametal3 Iolite\n\n• stat: Black forge level | Quality 1: 4 | Quality 2: 5 | Quality 3: 6 (not yet available) | Quality 4: 7 (not yet available)\n\nCategorias: Weapons, Crossbows, Black forge recipes",
+  "content_length": 1119,
+  "scraped_at": "2026-02-26T01:19:33.841157+00:00"
+}

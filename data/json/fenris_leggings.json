@@ -1,0 +1,150 @@
+{
+  "title": "Fenris Set",
+  "url": "https://valheim.fandom.com/wiki/Fenris_leggings",
+  "slug": "Fenris_leggings",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fenris Set is a Mountain-tier armor. This set is the tier above Root Set and Iron Armor and should be considered a \"light armor\" compared to Wolf Armor as its armor values are lower while having no movement speed penalty. It is currently the only armor in the game that provides a movement speed buff."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "This set of armor has three pieces which are crafted and upgraded at the Workbench.\n* = set exclusive bonus",
+      "table_data": [
+        {
+          "Armor piece": "Fenris hood",
+          "Armor": "10",
+          "Crafting cost": "20 Fenris hair2 Wolf pelt1 Cultist trophy",
+          "Weight": "1.0",
+          "Movementspeed": "+3%"
+        },
+        {
+          "Armor piece": "Fenris coat",
+          "Armor": "10",
+          "Crafting cost": "20 Fenris hair5 Wolf pelt10 Leather scraps",
+          "Weight": "10.0",
+          "Movementspeed": "+3%",
+          "Effects": "Resistant(x0.5) vs. Frost"
+        },
+        {
+          "Armor piece": "Fenris leggings",
+          "Armor": "10",
+          "Crafting cost": "20 Fenris hair5 Wolf pelt10 Leather scraps",
+          "Weight": "10.0",
+          "Movementspeed": "+3%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "30",
+          "Crafting cost": "60 Fenris hair12 Wolf pelt20 Leather scraps 1 Cultist trophy",
+          "Weight": "21.0",
+          "Movementspeed": "+9%",
+          "Effects": "+15 Fists*Resistant(x0.5) vs. Fire*Resistant(x0.5) vs. Frost"
+        },
+        {
+          "Armor piece": "Fenris hood",
+          "Armor": "12",
+          "Upgrade cost(Total cost)": "5 (25) Fenris hair4 (6) Wolf pelt(1) Cultist trophy",
+          "Weight": "1.0",
+          "Movementspeed": "+3%"
+        },
+        {
+          "Armor piece": "Fenris coat",
+          "Armor": "12",
+          "Upgrade cost(Total cost)": "5 (25) Fenris hair3 (8) Wolf pelt4 (14) Leather scraps",
+          "Weight": "10.0",
+          "Movementspeed": "+3%",
+          "Effects": "Resistant(x0.5) vs. Frost"
+        },
+        {
+          "Armor piece": "Fenris leggings",
+          "Armor": "12",
+          "Upgrade cost(Total cost)": "5 (25) Fenris hair3 (8) Wolf pelt4 (14) Leather scraps",
+          "Weight": "10.0",
+          "Movementspeed": "+3%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "36",
+          "Upgrade cost(Total cost)": "15 (75) Fenris hair10 (22) Wolf pelt8 (28) Leather scraps (1) Cultist trophy",
+          "Weight": "21.0",
+          "Movementspeed": "+9%",
+          "Effects": "+15 Fists*Resistant(x0.5) vs. Fire*Resistant(x0.5) vs. Frost"
+        },
+        {
+          "Armor piece": "Fenris hood",
+          "Armor": "14",
+          "Upgrade cost(Total cost)": "10 (35) Fenris hair8 (14) Wolf pelt(1) Cultist trophy",
+          "Weight": "1.0",
+          "Movementspeed": "+3%"
+        },
+        {
+          "Armor piece": "Fenris coat",
+          "Armor": "14",
+          "Upgrade cost(Total cost)": "10 (35) Fenris hair6 (14) Wolf pelt8 (22) Leather scraps",
+          "Weight": "10.0",
+          "Movementspeed": "+3%",
+          "Effects": "Resistant(x0.5) vs. Frost"
+        },
+        {
+          "Armor piece": "Fenris leggings",
+          "Armor": "14",
+          "Upgrade cost(Total cost)": "10 (35) Fenris hair6 (14) Wolf pelt8 (22) Leather scraps",
+          "Weight": "10.0",
+          "Movementspeed": "+3%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "42",
+          "Upgrade cost(Total cost)": "30 (105) Fenris hair20 (42) Wolf pelt16 (44) Leather scraps (1) Cultist trophy",
+          "Weight": "21.0",
+          "Movementspeed": "+9%",
+          "Effects": "+15 Fists*Resistant(x0.5) vs. Fire*Resistant(x0.5) vs. Frost"
+        },
+        {
+          "Armor piece": "Fenris hood",
+          "Armor": "16",
+          "Upgrade cost(Total cost)": "15 (50) Fenris hair12 (26) Wolf pelt(1) Cultist trophy",
+          "Weight": "1.0",
+          "Movementspeed": "+3%"
+        },
+        {
+          "Armor piece": "Fenris coat",
+          "Armor": "16",
+          "Upgrade cost(Total cost)": "15 (50) Fenris hair9 (23) Wolf pelt12 (34) Leather scraps",
+          "Weight": "10.0",
+          "Movementspeed": "+3%",
+          "Effects": "Resistant(x0.5) vs. Frost"
+        },
+        {
+          "Armor piece": "Fenris leggings",
+          "Armor": "16",
+          "Upgrade cost(Total cost)": "15 (50) Fenris hair9 (23) Wolf pelt12 (34) Leather scraps",
+          "Weight": "10.0",
+          "Movementspeed": "+3%"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "48",
+          "Upgrade cost(Total cost)": "45 (150) Fenris hair30 (72) Wolf pelt24 (68) Leather scraps (1) Cultist trophy",
+          "Weight": "21.0",
+          "Movementspeed": "+9%",
+          "Effects": "+15 Fists*Resistant(x0.5) vs. Fire*Resistant(x0.5) vs. Frost"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Frost resist does not stack with Frost resistance mead, Yagluth power or other armor pieces.\n• Frost resist will override the frost weakness from being Wet.\n• Frost resist prevents Cold and Freezing effect.\n• Fire resist does not stack with Fire resistance barley wine."
+    }
+  ],
+  "full_text": "Fenris Set\n\nIntroduction. Fenris Set is a Mountain-tier armor. This set is the tier above Root Set and Iron Armor and should be considered a \"light armor\" compared to Wolf Armor as its armor values are lower while having no movement speed penalty. It is currently the only armor in the game that provides a movement speed buff.\n\nArmor pieces. This set of armor has three pieces which are crafted and upgraded at the Workbench.\n* = set exclusive bonus\n\nNotes. • Frost resist does not stack with Frost resistance mead, Yagluth power or other armor pieces.\n• Frost resist will override the frost weakness from being Wet.\n• Frost resist prevents Cold and Freezing effect.\n• Fire resist does not stack with Fire resistance barley wine.",
+  "scraped_at": "2026-02-26T02:07:05.013122+00:00"
+}

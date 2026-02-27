@@ -1,0 +1,32 @@
+{
+  "title": "Extravagant cap orange",
+  "url": "https://valheim.fandom.com/wiki/Extravagant_cap_orange",
+  "slug": "Extravagant_cap_orange",
+  "categories": [
+    "Armor",
+    "Head"
+  ],
+  "infobox": {
+    "_infobox_title": "Extravagant cap orange",
+    "Internal ID": "HelmetHat9",
+    "Type": "Head",
+    "Source": "Hildir",
+    "Buy": "300, Coins",
+    "Armor": "1",
+    "Base Item Stamina Usage": "-15%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Extravagant cap orange is an armor piece which can be purchased from Hildir for 300 Coins. This item will be in the merchant's assortment only after returning Hildir's bronze chest."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 15%."
+    }
+  ],
+  "full_text": "Extravagant cap orange\n\nInternal ID: HelmetHat9 | Type: Head | Source: Hildir | Buy: 300, Coins | Armor: 1 | Base Item Stamina Usage: -15%\n\nIntroduction. Extravagant cap orange is an armor piece which can be purchased from Hildir for 300 Coins. This item will be in the merchant's assortment only after returning Hildir's bronze chest.\n\nNotes. • Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 15%.",
+  "scraped_at": "2026-02-26T01:21:47.052411+00:00"
+}

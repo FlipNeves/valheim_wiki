@@ -1,0 +1,40 @@
+{
+  "title": "Charred bone",
+  "url": "https://valheim.fandom.com/wiki/Charred_bone",
+  "slug": "Charred_bone",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Charred bone",
+    "Type": "Material",
+    "Internal ID": "CharredBone",
+    "Source": "Charred Warrior, ,, Charred Marksman, ,, Charred Warlock, ,, Charred Twitcher",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Charred bone is an item used for many of the Ashlands-tier weapons and armor.\nLike Bone fragments, Charred bone can be used to power a Shield generator."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Dropped by Charred Warriors, Charred Marksmen, Charred Warlocks, and Charred Twitchers."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Metal cutter\n• Bone throne"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Flametal Helmet\n• Flametal Breastplate\n• Flametal Greaves\n• Charred arrow\n• Charred bolt\n• Ash fang\n• Berserkir Axes\n• Flametal mace\n• Nidhögg\n• Staff of Fracturing\n• Trollstav"
+    }
+  ],
+  "full_text": "Charred bone\n\nType: Material | Internal ID: CharredBone | Source: Charred Warrior, ,, Charred Marksman, ,, Charred Warlock, ,, Charred Twitcher | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Charred bone is an item used for many of the Ashlands-tier weapons and armor.\nLike Bone fragments, Charred bone can be used to power a Shield generator.\n\nAvailability. • Dropped by Charred Warriors, Charred Marksmen, Charred Warlocks, and Charred Twitchers.\n\nBuilding. • Metal cutter\n• Bone throne\n\nCrafting. • Flametal Helmet\n• Flametal Breastplate\n• Flametal Greaves\n• Charred arrow\n• Charred bolt\n• Ash fang\n• Berserkir Axes\n• Flametal mace\n• Nidhögg\n• Staff of Fracturing\n• Trollstav",
+  "scraped_at": "2026-02-26T01:32:03.484555+00:00"
+}

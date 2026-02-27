@@ -1,0 +1,29 @@
+{
+  "title": "Reinforced chest",
+  "url": "https://valheim.fandom.com/wiki/Reinforced_chest",
+  "slug": "Reinforced_chest",
+  "categories": [
+    "Furniture",
+    "Storage"
+  ],
+  "infobox": {
+    "_infobox_title": "Reinforced chest",
+    "Type": "Furniture",
+    "Internal ID": "piece_chest",
+    "Source": "Workbench",
+    "Usage": "Store items (24 slots)",
+    "Crafting Materials": "Finewood x10, Iron x2",
+    "Neutral to (x1)": "Lightning",
+    "Resistant to (x0.5)": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Reinforced chests are large chests that have 24 (6x4) item slots."
+    }
+  ],
+  "full_text": "Reinforced chest\n\nType: Furniture | Internal ID: piece_chest | Source: Workbench | Usage: Store items (24 slots) | Crafting Materials: Finewood x10, Iron x2 | Neutral to (x1): Lightning | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Reinforced chests are large chests that have 24 (6x4) item slots.",
+  "scraped_at": "2026-02-26T01:41:56.988228+00:00"
+}

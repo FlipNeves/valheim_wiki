@@ -1,0 +1,12 @@
+{
+  "title": "Fish 'n' bread",
+  "url": "https://valheim.fandom.com/wiki/Fish_%27n%27_bread",
+  "slug": "Fish_%27n%27_bread",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "content": "# Fish 'n' bread\n\nType: Food | Internal ID: FishAndBread | Source: Stone oven | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Uncooked fish n' bread x1 | Max Health: 30 | Max Stamina: 90 | Duration: 30m | Healing: 3 hp/tick\n\n# Introduction\n\nFish 'n' bread is a Mistlands-tier food.\n\n## Recipe\n\nUncooked fish n' bread is produced in a Food preparation table with:\n• 1 Anglerfish\n• 2 Bread dough\nFish 'n' bread is produced by cooking Uncooked fish n' bread in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal.\n\n## Notes\n\n• Prior to the fishing update, acquiring Anglerfish required a multi-step crafting process to obtain the correct bait. With the process simplified, Anglerfish are still time-intensive to catch, but perhaps not as prohibitive as before.\n\nCategorias: Food, Materials",
+  "content_length": 872,
+  "scraped_at": "2026-02-26T01:26:13.927682+00:00"
+}

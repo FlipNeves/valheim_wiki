@@ -1,0 +1,11 @@
+{
+  "title": "Dvergr tankard",
+  "url": "https://valheim.fandom.com/wiki/Dvergr_tankard",
+  "slug": "Dvergr_tankard",
+  "categories": [
+    "Tools"
+  ],
+  "content": "# Dvergr tankard\n\nInternal ID: Tankard_dvergr | Type: Tool | Source: Dvergr, structures | Wielding: One-handed\n\n# Introduction\n\nDvergr tankards are an item used to consume Mead from within an inventory. Mead can, however, be consumed without the use of a tankard.\n\n## Availability\n\nDvergr tankards are found rarely inside Dvergr Guard Towers and Dvergr Lighthouses within the Mistlands. They appear as objects atop Dvergr tables and can be picked up by interacting with them.\nThey can also be found rarely inside Infested Mines, as loot inside treasure chests. Additionally, there are seven spawn locations for Dvergr tankards in the lower floor of the Infested Citadel exterior; while still uncommon, the Dvergr tankards have a higher chance of appearing at five of the seven Infested Citadel exterior spawns compared to at other Dvergr structures.\nDue to a bug in the game in versions prior to version 0.213.4, Dvergr tankards in their \"pickable\"-object form (as opposed to their dropped-item form) will eventually fall and clip straight down through the structures they appear inside, coming to rest upon the terrain inside the floor of the structure; they can still be found there and picked up. Players looking for them in a Dvergr structure generated in versions prior to 0.213.4 should check inside the floors of the structure directly below any Dvergr tables it contains.\n\n## Notes\n\n• Despite its description, the Dvergr tankard is functionally identical to the Tankard and the Horn of Celebration.\n\nCategorias: Tools",
+  "content_length": 1525,
+  "scraped_at": "2026-02-26T01:39:47.019503+00:00"
+}

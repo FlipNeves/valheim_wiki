@@ -1,0 +1,41 @@
+{
+  "title": "Fish 'n' bread",
+  "url": "https://valheim.fandom.com/wiki/Fish_%27n%27_bread",
+  "slug": "Fish_%27n%27_bread",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Fish 'n' bread",
+    "Type": "Food",
+    "Internal ID": "FishAndBread",
+    "Source": "Stone oven",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Uncooked fish n' bread x1",
+    "Max Health": "30",
+    "Max Stamina": "90",
+    "Duration": "30m",
+    "Healing": "3 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fish 'n' bread is a Mistlands-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Uncooked fish n' bread is produced in a Food preparation table with:\n• 1 Anglerfish\n• 2 Bread dough\nFish 'n' bread is produced by cooking Uncooked fish n' bread in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Prior to the fishing update, acquiring Anglerfish required a multi-step crafting process to obtain the correct bait. With the process simplified, Anglerfish are still time-intensive to catch, but perhaps not as prohibitive as before."
+    }
+  ],
+  "full_text": "Fish 'n' bread\n\nType: Food | Internal ID: FishAndBread | Source: Stone oven | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Uncooked fish n' bread x1 | Max Health: 30 | Max Stamina: 90 | Duration: 30m | Healing: 3 hp/tick\n\nIntroduction. Fish 'n' bread is a Mistlands-tier food.\n\nRecipe. Uncooked fish n' bread is produced in a Food preparation table with:\n• 1 Anglerfish\n• 2 Bread dough\nFish 'n' bread is produced by cooking Uncooked fish n' bread in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal.\n\nNotes. • Prior to the fishing update, acquiring Anglerfish required a multi-step crafting process to obtain the correct bait. With the process simplified, Anglerfish are still time-intensive to catch, but perhaps not as prohibitive as before.",
+  "scraped_at": "2026-02-26T01:26:13.927682+00:00"
+}

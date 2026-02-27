@@ -1,0 +1,30 @@
+{
+  "title": "Morgen heart",
+  "url": "https://valheim.fandom.com/wiki/Morgen_heart",
+  "slug": "Morgen_heart",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Morgen heart",
+    "Type": "Material",
+    "Internal ID": "MorgenHeart",
+    "Source": "Morgen",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Morgen heart is an item found by killing Morgens in the Ashlands biome."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Flametal Breastplate"
+    }
+  ],
+  "full_text": "Morgen heart\n\nType: Material | Internal ID: MorgenHeart | Source: Morgen | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Morgen heart is an item found by killing Morgens in the Ashlands biome.\n\nCrafting. • Flametal Breastplate",
+  "scraped_at": "2026-02-26T01:35:18.671785+00:00"
+}

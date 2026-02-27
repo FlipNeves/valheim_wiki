@@ -1,0 +1,46 @@
+{
+  "title": "Poison resistance mead",
+  "url": "https://valheim.fandom.com/wiki/Poison_resistance_mead",
+  "slug": "Poison_resistance_mead",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Poison resistance mead",
+    "Type": "Mead",
+    "Internal ID": "MeadPoisonResist",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mead base: Poison resistance x1",
+    "Duration": "10m",
+    "Cooldown": "10m",
+    "Other Effect(s)": "Very resistant vs. Poison"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Poison resistance mead is a Black Forest-tier consumable item fermented from Mead base: Poison resistance."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Mead base: Poison resistance is produced in a Mead ketill with:\n• 10 Honey\n• 5 Thistle\n• 1 Neck tail\n• 10 Coal\nSix Poison resistance meads are produced by fermenting the mead base for two in-game days."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Upon consumption, it grants \"very resistant\" to poison damage for 10 minutes, reducing poison effect duration and tick damage by 75%.\nThe poison resistance only works on poison applied while the resistance is active. A player drinking the mead after they were poisoned will not reduce the effect duration or tick damage.\nYou typically want to save this for directly before entering combat with a poisonous enemy to get the most time out of the potion. This potion does not last very long so you may want to bring a few per trip."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• It is recommended to craft some before entering the Swamp for the first time to counteract the poison effect Other poison-resistant gear requires Roots, which are only obtainable by killing Abominations.\n• The Poison resistance mead's \"very resistant\" effect overrides the \"resistant\" effect of the Root mask.\n• While the Poison resistance mead has a stronger effect than the Root Mask, The Root Mask's buff never expires."
+    }
+  ],
+  "full_text": "Poison resistance mead\n\nType: Mead | Internal ID: MeadPoisonResist | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Poison resistance x1 | Duration: 10m | Cooldown: 10m | Other Effect(s): Very resistant vs. Poison\n\nIntroduction. Poison resistance mead is a Black Forest-tier consumable item fermented from Mead base: Poison resistance.\n\nRecipe. Mead base: Poison resistance is produced in a Mead ketill with:\n• 10 Honey\n• 5 Thistle\n• 1 Neck tail\n• 10 Coal\nSix Poison resistance meads are produced by fermenting the mead base for two in-game days.\n\nEffect. Upon consumption, it grants \"very resistant\" to poison damage for 10 minutes, reducing poison effect duration and tick damage by 75%.\nThe poison resistance only works on poison applied while the resistance is active. A player drinking the mead after they were poisoned will not reduce the effect duration or tick damage.\nYou typically want to save this for directly before entering combat with a poisonous enemy to get the most time out of the potion. This potion does not last very long so you may want to bring a few per trip.\n\nNotes. • It is recommended to craft some before entering the Swamp for the first time to counteract the poison effect Other poison-resistant gear requires Roots, which are only obtainable by killing Abominations.\n• The Poison resistance mead's \"very resistant\" effect overrides the \"resistant\" effect of the Root mask.\n• While the Poison resistance mead has a stronger effect than the Root Mask, The Root Mask's buff never expires.",
+  "scraped_at": "2026-02-26T01:50:58.560010+00:00"
+}

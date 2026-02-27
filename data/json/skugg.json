@@ -1,0 +1,69 @@
+{
+  "title": "Skugg",
+  "url": "https://valheim.fandom.com/wiki/Skugg",
+  "slug": "Skugg",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Skugg",
+    "Internal ID": "piece_Charred_Balista",
+    "Main biome": "Ashlands",
+    "Drops": "Bone fragments | Charred cogwheel",
+    "Abilities": "Shoot (2s)",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Frost, ,, Spirit",
+    "Resistant to (x0.5)": "Pierce, ,, Pickaxe, ,, Fire, ,, Lightning",
+    "Immune to (x0)": "Poison, ,, Chop"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Skugg are ballistae made of bone and are found in Ashlands.\nTypically, four of these infernal devices are mounted in each corner of a Charred Fortress and they will attack players when in range. When destroyed, they drop bone fragments and a Charred cogwheel which can be used to craft the Catapult."
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Corners of Charred Fortress",
+          "Limit": "4",
+          "Frequency": "One time",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Shoot",
+      "level": 3,
+      "text": "Takes 1 second to warmup before firing a bone bolt at the player (120 Pierce damage). This attack can be used every 2 seconds. Skuggs can detect players and tamed creatures up to 40 meters out and within 75 degrees, both vertically and horizontally. When firing, their bolts travel at 40 meters per second and will travel for up to 12 seconds before disappearing."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Bone fragments",
+          "0 Star": "3",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Charred cogwheel",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Notes/Trivia",
+      "level": 2,
+      "text": "• The Skugg acts and is effectively a non-player-buildable ballista that uses bone bolts (A non-player-craftable item)"
+    }
+  ],
+  "full_text": "Skugg\n\nInternal ID: piece_Charred_Balista | Main biome: Ashlands | Drops: Bone fragments | Charred cogwheel | Abilities: Shoot (2s) | Neutral to (x1): Blunt, ,, Slash, ,, Frost, ,, Spirit | Resistant to (x0.5): Pierce, ,, Pickaxe, ,, Fire, ,, Lightning | Immune to (x0): Poison, ,, Chop\n\nIntroduction. Skugg are ballistae made of bone and are found in Ashlands.\nTypically, four of these infernal devices are mounted in each corner of a Charred Fortress and they will attack players when in range. When destroyed, they drop bone fragments and a Charred cogwheel which can be used to craft the Catapult.\n\nShoot. Takes 1 second to warmup before firing a bone bolt at the player (120 Pierce damage). This attack can be used every 2 seconds. Skuggs can detect players and tamed creatures up to 40 meters out and within 75 degrees, both vertically and horizontally. When firing, their bolts travel at 40 meters per second and will travel for up to 12 seconds before disappearing.\n\nNotes/Trivia. • The Skugg acts and is effectively a non-player-buildable ballista that uses bone bolts (A non-player-craftable item)",
+  "scraped_at": "2026-02-26T01:09:22.997764+00:00"
+}

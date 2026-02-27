@@ -1,0 +1,12 @@
+{
+  "title": "Personal chest",
+  "url": "https://valheim.fandom.com/wiki/Personal_chest",
+  "slug": "Personal_chest",
+  "categories": [
+    "Furniture",
+    "Storage"
+  ],
+  "content": "# Personal chest\n\nType: Furniture | Internal ID: piece_chest_private | Source: Workbench | Usage: Stores items (6 slots), only accessible by owner | Crafting Materials: Finewood x10, Iron x8 | Neutral to (x1): Lightning | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nThe Personal chest is a small chest with six item slots, and is accessible only to its owner.\n\n## Tips\n\n• Since only the owner of the chest can dismantle it with a Hammer, the only other way to remove a personal chest is to destroy it with a weapon.\n• Even a Black metal weapon can take several minutes to destroy a fully repaired personal chest due to the high durability.\n\nCategorias: Furniture, Storage",
+  "content_length": 768,
+  "scraped_at": "2026-02-26T01:41:46.299917+00:00"
+}

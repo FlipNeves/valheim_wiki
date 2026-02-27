@@ -1,0 +1,74 @@
+{
+  "title": "Crafting menu",
+  "url": "https://valheim.fandom.com/wiki/Crafting_menu",
+  "slug": "Crafting_menu",
+  "categories": [
+    "Stubs",
+    "User interface"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "This is the Crafting Menu in Valheim. To craft an item you will need to have the appropriate materials needed in your inventory. Left click the Item on the left side of the crafting menu you wish to craft. If all criteria are met the grayed out craft bar and the bottom of the menu will highlight. Click the craft bar and a timer bar will begin to count down. Clicking the craft bar again before the timer completes will cancel the crafting of the item. Once the item is complete it will be in your inventory. If you do not have space in your inventory the item will not start crafting and a notice will be given. To upgrade an item, the item and it's needed materials must be in your inventory. You will not be able to see the upgrade option for items unless they are in your inventory. The upgrade process is the same as the crafting process. Your bench will need to be at the appropriate level to be able to upgrade or craft items.\nSee Hammer and Workbench for more in-depth information."
+    },
+    {
+      "heading": "Player Inventory",
+      "level": 3,
+      "text": "A few basic items, such as the hammer, can be crafted at any time directly from the Player Inventory. Upgrading items is not possible."
+    },
+    {
+      "heading": "Placeable Buildings",
+      "level": 3,
+      "text": "These crafting stations must be placed with a Hammer and need cover before they can be interacted with.\nMany of them require upgrades for crafting, repairing or to upgrade certain items. The crafting stations are upgraded by placing unique buildings nearby. The station's level is displayed in the upper right corner of the crafting menu. The level requirement for items are displayed left to the required materials."
+    },
+    {
+      "heading": "Workbench",
+      "level": 4,
+      "text": "The Workbench is used at the start of the game for the first basic items that revolve around wood or leather. Additional recipes are still unlocked while progressing in the later game, e.g. the Linen Cape. The Workbench can be upgraded to unlock higher-tier items."
+    },
+    {
+      "heading": "Forge",
+      "level": 4,
+      "text": "The Forge is needed to craft metal-based items involving Bronze, Iron, Silver and Black Metal. This station can be upgraded to either unlock new items or to upgrade existing items."
+    },
+    {
+      "heading": "Mead Ketill",
+      "level": 4,
+      "text": "The Mead Ketill is used to create Mead bases."
+    },
+    {
+      "heading": "Stonecutter",
+      "level": 4,
+      "text": "The only crafting recipe available at the Stonecutter is the Sharpening stone, an item needed for a forge-upgrade. Its main use is enabling the option to build stone-objects in its range. There are no upgrades available for the stone cutter."
+    },
+    {
+      "heading": "Artisan Table",
+      "level": 4,
+      "text": "At first, the Artisan Table is mainly used to place certain buildings. Later in the game progression, bolts and buiding material for the Arbalest and the Ballista can be crafted here."
+    },
+    {
+      "heading": "Black Forge",
+      "level": 4,
+      "text": "Weapons and Armor from the Mistlands are crafted at the Black Forge. It can be upgraded like the other crafting stations, though the highest level is not yet available in the game."
+    },
+    {
+      "heading": "Galdr Table",
+      "level": 4,
+      "text": "The Galdr Table is used for crafting magic based items."
+    },
+    {
+      "heading": "Cauldron",
+      "level": 4,
+      "text": "Most Food-Items are crafted at the Cauldron."
+    },
+    {
+      "heading": "Food Preparation Table",
+      "level": 4,
+      "text": "The Food preparation table allows for the creation of feasts, specialized bait, and food that needs to be cooked in a stone oven."
+    }
+  ],
+  "full_text": "Crafting menu\n\nIntroduction. This is the Crafting Menu in Valheim. To craft an item you will need to have the appropriate materials needed in your inventory. Left click the Item on the left side of the crafting menu you wish to craft. If all criteria are met the grayed out craft bar and the bottom of the menu will highlight. Click the craft bar and a timer bar will begin to count down. Clicking the craft bar again before the timer completes will cancel the crafting of the item. Once the item is complete it will be in your inventory. If you do not have space in your inventory the item will not start crafting and a notice will be given. To upgrade an item, the item and it's needed materials must be in your inventory. You will not be able to see the upgrade option for items unless they are in your inventory. The upgrade process is the same as the crafting process. Your bench will need to be at the appropriate level to be able to upgrade or craft items.\nSee Hammer and Workbench for more in-depth information.\n\nPlayer Inventory. A few basic items, such as the hammer, can be crafted at any time directly from the Player Inventory. Upgrading items is not possible.\n\nPlaceable Buildings. These crafting stations must be placed with a Hammer and need cover before they can be interacted with.\nMany of them require upgrades for crafting, repairing or to upgrade certain items. The crafting stations are upgraded by placing unique buildings nearby. The station's level is displayed in the upper right corner of the crafting menu. The level requirement for items are displayed left to the required materials.\n\nWorkbench. The Workbench is used at the start of the game for the first basic items that revolve around wood or leather. Additional recipes are still unlocked while progressing in the later game, e.g. the Linen Cape. The Workbench can be upgraded to unlock higher-tier items.\n\nForge. The Forge is needed to craft metal-based items involving Bronze, Iron, Silver and Black Metal. This station can be upgraded to either unlock new items or to upgrade existing items.\n\nMead Ketill. The Mead Ketill is used to create Mead bases.\n\nStonecutter. The only crafting recipe available at the Stonecutter is the Sharpening stone, an item needed for a forge-upgrade. Its main use is enabling the option to build stone-objects in its range. There are no upgrades available for the stone cutter.\n\nArtisan Table. At first, the Artisan Table is mainly used to place certain buildings. Later in the game progression, bolts and buiding material for the Arbalest and the Ballista can be crafted here.\n\nBlack Forge. Weapons and Armor from the Mistlands are crafted at the Black Forge. It can be upgraded like the other crafting stations, though the highest level is not yet available in the game.\n\nGaldr Table. The Galdr Table is used for crafting magic based items.\n\nCauldron. Most Food-Items are crafted at the Cauldron.\n\nFood Preparation Table. The Food preparation table allows for the creation of feasts, specialized bait, and food that needs to be cooked in a stone oven.",
+  "scraped_at": "2026-02-26T01:58:35.897679+00:00"
+}

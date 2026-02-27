@@ -1,0 +1,50 @@
+{
+  "title": "Dolmen",
+  "url": "https://valheim.fandom.com/wiki/Dolmen",
+  "slug": "Dolmen",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Dolmen",
+    "Type": "Structure",
+    "Internal ID": "Dolmen01 | Dolmen02Dolmen03",
+    "Location": "Meadows, ,, Black Forest",
+    "Resources": "Bone fragments",
+    "Inhabitants": "Skeleton"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Dolmens are Points of interest found in the Meadows and the Black Forest. Dolmens consist of two or more upright megaliths supporting a large flat horizontal capstone.\nFor similar structures found in Plains, see Stonehenge."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "They come in three variants. Each have a chance for the following feature:\n• A 50% chance for a Skeleton spawning at night once.\n• Bone remains, which can be picked for one Bone fragments.\n• A valuable among 1–4 Ambers, 2–14 Coins or 1–2 Amber pearls.",
+      "table_data": [
+        {
+          "ID": "Dolmen01",
+          "Image": "",
+          "Bone remains": "50%",
+          "Valuable": "10%"
+        },
+        {
+          "ID": "Dolmen02",
+          "Image": "",
+          "Bone remains": "50%",
+          "Valuable": "20%"
+        },
+        {
+          "ID": "Dolmen03",
+          "Image": "",
+          "Bone remains": "1 + 50% of 1 extra",
+          "Valuable": "30%"
+        }
+      ]
+    }
+  ],
+  "full_text": "Dolmen\n\nType: Structure | Internal ID: Dolmen01 | Dolmen02Dolmen03 | Location: Meadows, ,, Black Forest | Resources: Bone fragments | Inhabitants: Skeleton\n\nIntroduction. Dolmens are Points of interest found in the Meadows and the Black Forest. Dolmens consist of two or more upright megaliths supporting a large flat horizontal capstone.\nFor similar structures found in Plains, see Stonehenge.\n\nResources. They come in three variants. Each have a chance for the following feature:\n• A 50% chance for a Skeleton spawning at night once.\n• Bone remains, which can be picked for one Bone fragments.\n• A valuable among 1–4 Ambers, 2–14 Coins or 1–2 Amber pearls.",
+  "scraped_at": "2026-02-26T01:45:14.517700+00:00"
+}

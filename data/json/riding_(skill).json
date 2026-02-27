@@ -1,0 +1,36 @@
+{
+  "title": "Riding (skill)",
+  "url": "https://valheim.fandom.com/wiki/Riding_(skill)",
+  "slug": "Riding_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "infobox": {
+    "_infobox_title": "Riding (skill)",
+    "Description": "Animal speed and stamina drain."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Riding is a skill."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Increasing the player's riding level increases sprint speed while riding a mount by up to +25%, and reduces stamina usage when sprinting with a mount down to -50%."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "The player gains 0.2 experience per second while sprinting when riding a Lox or Asksvin."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Skill ID is Ride (to use with raiseskill or resetskill commands).\n• Was added in the Hearth & Home update."
+    }
+  ],
+  "full_text": "Riding (skill)\n\nDescription: Animal speed and stamina drain.\n\nIntroduction. Riding is a skill.\n\nEffects. Increasing the player's riding level increases sprint speed while riding a mount by up to +25%, and reduces stamina usage when sprinting with a mount down to -50%.\n\nLeveling up. The player gains 0.2 experience per second while sprinting when riding a Lox or Asksvin.\n\nNotes. • Skill ID is Ride (to use with raiseskill or resetskill commands).\n• Was added in the Hearth & Home update.",
+  "scraped_at": "2026-02-26T01:44:04.667983+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Flint",
+  "url": "https://valheim.fandom.com/wiki/Flint",
+  "slug": "Flint",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Flint",
+    "Type": "Material",
+    "Internal ID": "Flint",
+    "Source": "Shorelines of rivers and oceans",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Flint is found naturally on the shorelines of the Meadows biome only or dropped when destroying Tanning racks in Fuling Villages. Flint which is found on the terrain will naturally respawn 4 hours after being picked."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Chopping block\n• Tanning rack"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Flint axe\n• Flint knife\n• Flint spear\n• Flinthead arrow"
+    }
+  ],
+  "full_text": "Flint\n\nType: Material | Internal ID: Flint | Source: Shorelines of rivers and oceans | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Flint is found naturally on the shorelines of the Meadows biome only or dropped when destroying Tanning racks in Fuling Villages. Flint which is found on the terrain will naturally respawn 4 hours after being picked.\n\nBuilding. • Chopping block\n• Tanning rack\n\nCrafting. • Flint axe\n• Flint knife\n• Flint spear\n• Flinthead arrow",
+  "scraped_at": "2026-02-26T01:33:47.860215+00:00"
+}

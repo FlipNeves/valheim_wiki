@@ -1,0 +1,82 @@
+{
+  "title": "Cooking station",
+  "url": "https://valheim.fandom.com/wiki/Cooking_station",
+  "slug": "Cooking_station",
+  "categories": [
+    "Crafting structures"
+  ],
+  "infobox": {
+    "_infobox_title": "Cooking station",
+    "Type": "Crafting",
+    "Internal ID": "piece_cookingstation",
+    "Usage": "Cooking",
+    "Crafting Materials": "Wood x2",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce, ,, Fire",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Cooking station is used to cook raw meat type ingredients into their cooked form, or if left too long, into Coal. For the meat to be cooked it is necessary to have a Campfire, Hearth or Hanging brazier underneath the cooking station. It is possible to stack seven cooking stations in a row over a single campfire. This number increases to 10 if the cooking stations are placed halfway inside the campfire."
+    },
+    {
+      "heading": "Recipes and cook length",
+      "level": 2,
+      "text": "The Iron cooking station is seen as an upgrade to the wooden cooking station and will allow the player to cook Lox meat, Serpent meat, Seeker meat, Bonemaw meat, Asksvin tail and Volture meat in addition to those listed above.",
+      "table_data": [
+        {
+          "": "",
+          "Ingredient": "Neck tail",
+          "Cooking time": "25 s",
+          "Output": "Grilled neck tail"
+        },
+        {
+          "": "",
+          "Ingredient": "Boar meat",
+          "Cooking time": "25 s",
+          "Output": "Cooked boar meat"
+        },
+        {
+          "": "",
+          "Ingredient": "Deer meat",
+          "Cooking time": "25 s",
+          "Output": "Cooked deer meat"
+        },
+        {
+          "": "",
+          "Ingredient": "Bear meat",
+          "Cooking time": "25 s",
+          "Output": "Cooked bear meat"
+        },
+        {
+          "": "",
+          "Ingredient": "Raw fish",
+          "Cooking time": "25 s",
+          "Output": "Cooked fish"
+        },
+        {
+          "": "",
+          "Ingredient": "Wolf meat",
+          "Cooking time": "25 s",
+          "Output": "Cooked wolf meat"
+        },
+        {
+          "": "",
+          "Ingredient": "Chicken meat",
+          "Cooking time": "25 s",
+          "Output": "Cooked chicken meat"
+        },
+        {
+          "": "",
+          "Ingredient": "Hare meat",
+          "Cooking time": "60s",
+          "Output": "Cooked hare meat"
+        }
+      ]
+    }
+  ],
+  "full_text": "Cooking station\n\nType: Crafting | Internal ID: piece_cookingstation | Usage: Cooking | Crafting Materials: Wood x2 | Neutral to (x1): Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce, ,, Fire | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. The Cooking station is used to cook raw meat type ingredients into their cooked form, or if left too long, into Coal. For the meat to be cooked it is necessary to have a Campfire, Hearth or Hanging brazier underneath the cooking station. It is possible to stack seven cooking stations in a row over a single campfire. This number increases to 10 if the cooking stations are placed halfway inside the campfire.\n\nRecipes and cook length. The Iron cooking station is seen as an upgrade to the wooden cooking station and will allow the player to cook Lox meat, Serpent meat, Seeker meat, Bonemaw meat, Asksvin tail and Volture meat in addition to those listed above.",
+  "scraped_at": "2026-02-26T02:17:14.498939+00:00"
+}

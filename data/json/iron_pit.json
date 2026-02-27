@@ -1,0 +1,37 @@
+{
+  "title": "Iron pit",
+  "url": "https://valheim.fandom.com/wiki/Iron_pit",
+  "slug": "Iron_pit",
+  "categories": [
+    "Materials",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Iron pit",
+    "Type": "Material",
+    "Internal ID": "Ironpit",
+    "Source": "Hildir",
+    "Usage": "Building",
+    "Buy": "75, Coins",
+    "Teleportable (Can go through wood portal?)": "No"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Iron pit is an item which got introduced in the Hildir's Request update and is used to construct the Iron Fire Pit. Iron pit cannot be teleported without a Portal stone."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Purchased from the trader Hildir for 75 Coins a piece."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Iron Fire Pit"
+    }
+  ],
+  "full_text": "Iron pit\n\nType: Material | Internal ID: Ironpit | Source: Hildir | Usage: Building | Buy: 75, Coins | Teleportable (Can go through wood portal?): No\n\nIntroduction. Iron pit is an item which got introduced in the Hildir's Request update and is used to construct the Iron Fire Pit. Iron pit cannot be teleported without a Portal stone.\n\nAvailability. • Purchased from the trader Hildir for 75 Coins a piece.\n\nBuilding. • Iron Fire Pit",
+  "scraped_at": "2026-02-26T01:34:39.013859+00:00"
+}

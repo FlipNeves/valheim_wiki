@@ -1,0 +1,11 @@
+{
+  "title": "Fallen Valkyrie",
+  "url": "https://valheim.fandom.com/wiki/Fallen_Valkyrie",
+  "slug": "Fallen_Valkyrie",
+  "categories": [
+    "Creatures"
+  ],
+  "content": "# Fallen Valkyrie\n\nInternal ID: FallenValkyrie | Main biome: Ashlands | Tameable: No | Drops: Celestial feather | Fallen Valkyrie trophy | Abilities: Spit (10s, 3x), Claws (3s), Spin (10s) | Trophy: Fallen Valkyrie trophy | Weak to (x1.5): Spirit | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning | Resistant to (x0.5): Fire | Immune to (x0): Poison, ,, Chop, ,, Pickaxe\n\n# Introduction\n\nThe Fallen Valkyrie is a hostile enemy found in the Ashlands. They often appear hovering some distance above ground, and periodically fly to nearby locations, as if scouting. They resemble Valkyries who brings the players to Valheim, but showing noticeable signs of decay.\n\n## Spawning\n\n• Type: Ashlands, both day and night | Limit: 1 | Frequency: Uncommon | Stars: No\n\n### Spit\n\nFallen Valkyries will fly back slightly before thrusting forward to launch three projectiles that explode on impact and create circular fields of fire 2 meters in radius, which inflict the Burning and Poison statuses (80 Fire and 18 Poison damage). Each projectile travels at 14 meters per second for up to 10 second before despawning and has a spread of 10–20 degrees. This attack can be used every 10 seconds when within 7–15 meters of a player.\n\n### Claws\n\nBrings both talons up before swinging down to scratch the player (105 Slash and 55 Pierce damage). This creates a vertical hitbox that extends outward 6.04 meters and arcs 60.2 degrees. They can use this attack every 3 seconds when within 3–5 meters of a player.\n\n### Spin\n\nFolds both wings inward before extending them fully and spinning (80 Blunt, 140 Pierce, 100 Tier 0 Chop and 100 Tier 0 Pickaxe damage). This hits in a circular area 5.67 meters in radius. It can be used every 10 seconds when within 6 meters of a player.\n\n### Drops\n\n• Item: Celestial feather | 0 Star: 2–3\n\n• Item: Fallen Valkyrie trophy | 0 Star: 5%\n\nCategorias: Creatures",
+  "content_length": 1895,
+  "scraped_at": "2026-02-26T01:07:15.302942+00:00"
+}

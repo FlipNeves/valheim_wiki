@@ -1,0 +1,31 @@
+{
+  "title": "Chain lightning",
+  "url": "https://valheim.fandom.com/wiki/Chain_lightning",
+  "slug": "Chain_lightning",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Chain lightning",
+    "Effects": "75 damage, chance to bounce off nearby enemies"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Chain lightning is an on-hit effect triggered by Ashlands weapons upgraded with an Iolite."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Chain lightning has a 25% chance to trigger on a normal attack and a 20% chance to trigger on a secondary attack.\nIt deals 75 lightning damage to the target, the amount is not affected by skills, and it cannot be blocked or dodged.\nOnce triggered, it has an 80% chance of bouncing off nearby enemies or players. If so, each nearby target within 8 meters has a 30% chance of being targeted, up to a maximum of 2–4 targets per bounce (the maximum is chosen at random then targets are processed starting from the nearest). The process repeats indefinitely, centered on each new target, but with the chance of rebound multiplied by 0.75 each time (i.e., 80% → 60% → 45% → 33.75%, etc.).\nA single activation of chain lightning cannot affect the same target more than once."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Chain lightning within the vicinity of neutral Ashlands Dvergr has the potential of damaging them, immediately turning them hostile."
+    }
+  ],
+  "full_text": "Chain lightning\n\nEffects: 75 damage, chance to bounce off nearby enemies\n\nIntroduction. Chain lightning is an on-hit effect triggered by Ashlands weapons upgraded with an Iolite.\n\nEffect. Chain lightning has a 25% chance to trigger on a normal attack and a 20% chance to trigger on a secondary attack.\nIt deals 75 lightning damage to the target, the amount is not affected by skills, and it cannot be blocked or dodged.\nOnce triggered, it has an 80% chance of bouncing off nearby enemies or players. If so, each nearby target within 8 meters has a 30% chance of being targeted, up to a maximum of 2–4 targets per bounce (the maximum is chosen at random then targets are processed starting from the nearest). The process repeats indefinitely, centered on each new target, but with the chance of rebound multiplied by 0.75 each time (i.e., 80% → 60% → 45% → 33.75%, etc.).\nA single activation of chain lightning cannot affect the same target more than once.\n\nNotes. • Chain lightning within the vicinity of neutral Ashlands Dvergr has the potential of damaging them, immediately turning them hostile.",
+  "scraped_at": "2026-02-26T02:01:40.763619+00:00"
+}

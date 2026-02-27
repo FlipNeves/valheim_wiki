@@ -1,0 +1,64 @@
+{
+  "title": "Iron buckler",
+  "url": "https://valheim.fandom.com/wiki/Iron_buckler",
+  "slug": "Iron_buckler",
+  "categories": [
+    "Weapons",
+    "Shields",
+    "Forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Iron buckler",
+    "Internal ID": "ShieldIronBuckler",
+    "Type": "Shield",
+    "Source": "Forge",
+    "Usage": "Blocking",
+    "Wielding": "Off-hand",
+    "Crafting Materials": "Iron x10, Ancient bark x2",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Iron buckler is the second buckler shield. Its 2.5x parry bonus makes it superior for parrying attacks in comparison to even tower shields blocking in the same tier, but inferior for blocking to other options."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Block armor",
+          "Quality 1": "28",
+          "Quality 2": "34",
+          "Quality 3": "40",
+          "Total": ""
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Total": ""
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "10 Iron4 Ancient bark",
+          "Quality 2": "5 Iron1 Ancient bark",
+          "Quality 3": "10 Iron2 Ancient bark",
+          "Total": "25 Iron7 Ancient bark"
+        },
+        {
+          "stat": "Forge level",
+          "Quality 1": "2",
+          "Quality 2": "3",
+          "Quality 3": "4",
+          "Total": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Iron buckler\n\nInternal ID: ShieldIronBuckler | Type: Shield | Source: Forge | Usage: Blocking | Wielding: Off-hand | Crafting Materials: Iron x10, Ancient bark x2 | Movement speed: -5%\n\nIntroduction. The Iron buckler is the second buckler shield. Its 2.5x parry bonus makes it superior for parrying attacks in comparison to even tower shields blocking in the same tier, but inferior for blocking to other options.",
+  "scraped_at": "2026-02-26T01:15:49.566398+00:00"
+}

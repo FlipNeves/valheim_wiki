@@ -1,0 +1,48 @@
+{
+  "title": "Monument of Torment",
+  "url": "https://valheim.fandom.com/wiki/Monument_of_Torment",
+  "slug": "Monument_of_Torment",
+  "categories": [
+    "Building",
+    "Creature spawner"
+  ],
+  "infobox": {
+    "_infobox_title": "Monument of Torment",
+    "Internal ID": "Spawner_CharredStone",
+    "Usage": "Charred Twitcher (83%), Charred Warrior (17%)",
+    "Neutral to (x1)": "Pickaxe, ,, Chop",
+    "Resistant to (x0.5)": "Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning",
+    "Immune to (x0)": "Fire, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Monument of Torment is a creature spawner found in the Ashlands.\nThe Monument can spawn Charred Warrior (17% chance) and Charred Twitcher (83% chance).\nSpawned Charred have a 4% chance to be 1-star and a 0.2% chance to be 2-star.\nThe Monument activates when there is a player within 60 meters. The Monument attempts to spawn within 4 meters every 10 seconds."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Amount": "1",
+          "Item": "Grausten",
+          "Chance": "66%"
+        },
+        {
+          "Amount": "1",
+          "Item": "Charred skull",
+          "Chance": "33%"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Monuments of Torment can be found hidden inside large rock formations in the Ashlands. If trying to clear an area of all spawners, it is advisable to also clear the rocks.\n• A rare Monument of Torment (Elite) spawning only 2-starred Charred can be found at Mysterious locations.\n• During \"The dead have been summoned.\" event, 3 Monuments of Torment spawn, with 20 seconds respawn timer if one is destroyed. They do not despawn after event ends."
+    }
+  ],
+  "full_text": "Monument of Torment\n\nInternal ID: Spawner_CharredStone | Usage: Charred Twitcher (83%), Charred Warrior (17%) | Neutral to (x1): Pickaxe, ,, Chop | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning | Immune to (x0): Fire, ,, Poison, ,, Spirit\n\nIntroduction. The Monument of Torment is a creature spawner found in the Ashlands.\nThe Monument can spawn Charred Warrior (17% chance) and Charred Twitcher (83% chance).\nSpawned Charred have a 4% chance to be 1-star and a 0.2% chance to be 2-star.\nThe Monument activates when there is a player within 60 meters. The Monument attempts to spawn within 4 meters every 10 seconds.\n\nNotes. • Monuments of Torment can be found hidden inside large rock formations in the Ashlands. If trying to clear an area of all spawners, it is advisable to also clear the rocks.\n• A rare Monument of Torment (Elite) spawning only 2-starred Charred can be found at Mysterious locations.\n• During \"The dead have been summoned.\" event, 3 Monuments of Torment spawn, with 20 seconds respawn timer if one is destroyed. They do not despawn after event ends.",
+  "scraped_at": "2026-02-26T01:38:47.344872+00:00"
+}

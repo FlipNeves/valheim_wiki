@@ -1,0 +1,92 @@
+{
+  "title": "Trollstav",
+  "url": "https://valheim.fandom.com/wiki/Trollstav",
+  "slug": "Trollstav",
+  "categories": [
+    "Weapons",
+    "Magic",
+    "Blood magic",
+    "Galdr table recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Trollstav",
+    "Internal ID": "StaffRedTroll",
+    "Type": "Blood magic",
+    "Source": "Galdr table",
+    "Usage": "Magic weapon",
+    "Wielding": "Two-handed",
+    "Crafting Materials": "Charred bone x15, Troll trophy x3, Flametal x9, Bloodstone x3",
+    "Hitbox": "10m radius",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Trollstav is a magic weapon that summons a large Summoned troll. Each summon cast spawns a fiery meteorite that causes damage on impact and starts fires. Two Trolls can be summoned at level 1, and upgrading Trollstav does not increase this limit. (This stands in contrast to the Dead Raiser, whose upgrades allow more Skelletts to be summoned at once.)\nThe Summoned Trolls will attack everything in the area except other Summoned Trolls, including the player who summoned them.\nTrollstav cannot be used inside Dungeons."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Fire",
+          "Quality 1": "300",
+          "Quality 2": "300",
+          "Quality 3": "300",
+          "Quality 4": "300"
+        },
+        {
+          "stat": "Chop",
+          "Quality 1": "100",
+          "Quality 2": "100",
+          "Quality 3": "100",
+          "Quality 4": "100"
+        },
+        {
+          "stat": "Pickaxe",
+          "Quality 1": "100",
+          "Quality 2": "100",
+          "Quality 3": "100",
+          "Quality 4": "100"
+        },
+        {
+          "stat": "Pure",
+          "Quality 1": "50",
+          "Quality 2": "50",
+          "Quality 3": "50",
+          "Quality 4": "40"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "15 Charred bone1 Troll trophy3 Flametal1 Bloodstone",
+          "Quality 2": "5 Charred bone1 Troll trophy3 Flametal1 Bloodstone",
+          "Quality 3": "10 Charred bone2 Troll trophy6 Flametal2 Bloodstone",
+          "Quality 4": "15 Charred bone3 Troll trophy9 Flametal3 Bloodstone"
+        },
+        {
+          "stat": "Galdr table level",
+          "Quality 1": "2",
+          "Quality 2": "3",
+          "Quality 3": "4",
+          "Quality 4": "5 (not yet available)"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The Trolls summoned have greatly increased health (2000) compared to the Black Forest variant (600) with added Fire resistance and Frost weakness.\n• \"Trollstav\" is Swedish for \"magic wand\", but could also mean \"troll staff\" or \"troll wand\".\n• Trollstav can easily destroy large amounts of resources, like trees, rocks and random generated structures over the map.\n• Attempting to cast inside Dungeons will display the message, \"Blocked\", leaving the player unable to use it.\n• Any Summoned Trolls that are outside the player's entity render distance will not count towards the max cap, allowing for many Trolls to be summoned in a large area."
+    }
+  ],
+  "full_text": "Trollstav\n\nInternal ID: StaffRedTroll | Type: Blood magic | Source: Galdr table | Usage: Magic weapon | Wielding: Two-handed | Crafting Materials: Charred bone x15, Troll trophy x3, Flametal x9, Bloodstone x3 | Hitbox: 10m radius | Movement speed: -5%\n\nIntroduction. Trollstav is a magic weapon that summons a large Summoned troll. Each summon cast spawns a fiery meteorite that causes damage on impact and starts fires. Two Trolls can be summoned at level 1, and upgrading Trollstav does not increase this limit. (This stands in contrast to the Dead Raiser, whose upgrades allow more Skelletts to be summoned at once.)\nThe Summoned Trolls will attack everything in the area except other Summoned Trolls, including the player who summoned them.\nTrollstav cannot be used inside Dungeons.\n\nNotes. • The Trolls summoned have greatly increased health (2000) compared to the Black Forest variant (600) with added Fire resistance and Frost weakness.\n• \"Trollstav\" is Swedish for \"magic wand\", but could also mean \"troll staff\" or \"troll wand\".\n• Trollstav can easily destroy large amounts of resources, like trees, rocks and random generated structures over the map.\n• Attempting to cast inside Dungeons will display the message, \"Blocked\", leaving the player unable to use it.\n• Any Summoned Trolls that are outside the player's entity render distance will not count towards the max cap, allowing for many Trolls to be summoned in a large area.",
+  "scraped_at": "2026-02-26T01:19:47.513262+00:00"
+}

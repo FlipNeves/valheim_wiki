@@ -1,0 +1,30 @@
+{
+  "title": "Blue jute",
+  "url": "https://valheim.fandom.com/wiki/Blue_jute",
+  "slug": "Blue_jute",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Blue jute",
+    "Type": "Material",
+    "Internal ID": "JuteBlue",
+    "Source": "Mistlands",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Blue jute is a material. It is obtained by destroying the curtains and drapes which adorn Dvergr-made Black marble structures in the Mistlands."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Blue jute carpet\n• Blue jute curtain\n• Blue jute drapes"
+    }
+  ],
+  "full_text": "Blue jute\n\nType: Material | Internal ID: JuteBlue | Source: Mistlands | Usage: Building | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Blue jute is a material. It is obtained by destroying the curtains and drapes which adorn Dvergr-made Black marble structures in the Mistlands.\n\nBuilding. • Blue jute carpet\n• Blue jute curtain\n• Blue jute drapes",
+  "scraped_at": "2026-02-26T01:31:20.004340+00:00"
+}

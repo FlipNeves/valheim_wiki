@@ -1,0 +1,27 @@
+{
+  "title": "Sealbreaker",
+  "url": "https://valheim.fandom.com/wiki/Sealbreaker",
+  "slug": "Sealbreaker",
+  "categories": [
+    "Misc Items",
+    "Forsaken offerings"
+  ],
+  "infobox": {
+    "_infobox_title": "Sealbreaker",
+    "Type": "Misc",
+    "Internal ID": "DvergrKey",
+    "Source": "Galdr table",
+    "Usage": "Key",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Sealbreaker fragment x9"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Sealbreaker is an item, constructed on the Galdr table from nine Sealbreaker fragments. It is a key to the entrance of The Queen. It is not consumed on use."
+    }
+  ],
+  "full_text": "Sealbreaker\n\nType: Misc | Internal ID: DvergrKey | Source: Galdr table | Usage: Key | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Sealbreaker fragment x9\n\nIntroduction. Sealbreaker is an item, constructed on the Galdr table from nine Sealbreaker fragments. It is a key to the entrance of The Queen. It is not consumed on use.",
+  "scraped_at": "2026-02-26T02:18:15.575214+00:00"
+}

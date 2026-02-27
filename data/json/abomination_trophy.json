@@ -1,0 +1,35 @@
+{
+  "title": "Abomination trophy",
+  "url": "https://valheim.fandom.com/wiki/Abomination_trophy",
+  "slug": "Abomination_trophy",
+  "categories": [
+    "Trophies"
+  ],
+  "infobox": {
+    "_infobox_title": "Abomination trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyAbomination",
+    "Source": "Abomination",
+    "Usage": "Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Abomination trophy is a rare drop from Abominations in the Swamp."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Sticky fishing bait"
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed in an Item Stand.\n• Can be used to program the Ballista."
+    }
+  ],
+  "full_text": "Abomination trophy\n\nType: Trophy | Internal ID: TrophyAbomination | Source: Abomination | Usage: Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Abomination trophy is a rare drop from Abominations in the Swamp.\n\nCrafting. • Sticky fishing bait\n\nMisc. • Can be displayed in an Item Stand.\n• Can be used to program the Ballista.",
+  "scraped_at": "2026-02-26T02:15:54.221215+00:00"
+}

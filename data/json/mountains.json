@@ -1,0 +1,83 @@
+{
+  "title": "Mountain",
+  "url": "https://valheim.fandom.com/wiki/Mountains",
+  "slug": "Mountains",
+  "categories": [
+    "Biomes"
+  ],
+  "infobox": {
+    "_infobox_title": "Mountain",
+    "Passive": "Tetra",
+    "Hostile": "Wolf, Drake, Stone Golem (Mountain / Frost Caves), Fenring (At nighttime), Draugr (Mountain towers), Skeleton (Mountain towers / Cabins}, Bat (Frost Caves), Ulv (Frost Caves), Cultist (Frost Caves)",
+    "Boss(es)": "Geirrhafa (miniboss), Moder",
+    "Unique": "Obsidian, Dragon egg, Silver ore from Silver vein, Onion seeds",
+    "Structures": "Mountain Tower, Abandoned Cabin, Inverted Tower, Mountain grave, Drake Nest, Cairns",
+    "Dungeons": "Frost Cave, Howling Caverns"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Mountain is a biome which features frozen snow covered peaks framed with Fir trees. This frozen and unforgiving region is home to Wolves and others sons of Fenrir. Drakes, the offspring of Moder, can be found in the skies making their nests at its peaks where they lay their Dragon eggs. Beware shifting piles of stone, they might be more alive than you think, stirring the resting Stone Golem.\nMountains can also contain Frost caves, which are a dungeon home to Cultists and their pet Ulv. Bats also make their home here and can startle unsuspecting Vikings. Crystals can be found growing naturally on the walls and occasionally contain a large underground lake, be careful not to wake the Stone Golem that can also be resting there.\nGoing into the mountain biome will cause the Freezing effect on the player. This effect can be negated by drinking Frost resistance mead, wearing a Lox cape, a Wolf fur cape, a Fenris coat, a Feather cape, or wearing the Wolf armor chest. The Wolf armor legs do not offer frost resistance. This effect is also negated by nearby campfires."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "• Silver - Veins of Silver ore can be located buried beneath the snow of the mountains. These veins can be located using a Wishbone, which is acquired by defeating Bonemass. Silver veins require an Iron pickaxe or better to mine.\n• Obsidian - Obsidian nodes spawn in above ground on the mountain, which can be used to make Obsidian arrows. They require an Iron pickaxe or better to mine.\n• Onion seeds - Located in chests, usually in abandoned shacks.\n• Chests: (2-4 of the following)",
+      "table_data": [
+        {
+          "Amount": "1-6",
+          "Item": "Amber",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "2-5",
+          "Item": "Amber pearl",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "16-41",
+          "Item": "Coins",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "30-55",
+          "Item": "Coins",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "5-10",
+          "Item": "Frost arrow",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "1-2",
+          "Item": "Ruby",
+          "Chance": "14.3%"
+        },
+        {
+          "Amount": "5-10",
+          "Item": "Obsidian",
+          "Chance": "14.3%"
+        }
+      ]
+    },
+    {
+      "heading": "Hostile",
+      "level": 3,
+      "text": "• Moder\n• Wolves\n• Drakes\n• Stone Golems\n• Fenrings (At nighttime)\n• Draugr (Mountain towers)\n• Skeletons (Mountain towers / Cabins)\n• Bat (Inside Frost caves)\n• Ulv (Inside Frost caves)\n• Cultist (Inside Frost caves)"
+    },
+    {
+      "heading": "Passive",
+      "level": 4,
+      "text": "• Tetra (Inside Frost caves)"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Cairns can be found on the peaks of the mountains.\n• The only type of tree that can grow in the Mountain environment is Fir.\n• The Deep North is a biome found far north of the map containing primarily mountains, though enemies or resources cannot be found there.\n• If it is raining in another biome, traveling into the Mountains will result in a lingering rain effect for a short period of time. Precipitation in the mountains usually takes the form of snow of varying intensity. These weather effects have no effect on gameplay.\n• High intensity blizzards may cause frame drops."
+    }
+  ],
+  "full_text": "Mountain\n\nPassive: Tetra | Hostile: Wolf, Drake, Stone Golem (Mountain / Frost Caves), Fenring (At nighttime), Draugr (Mountain towers), Skeleton (Mountain towers / Cabins}, Bat (Frost Caves), Ulv (Frost Caves), Cultist (Frost Caves) | Boss(es): Geirrhafa (miniboss), Moder | Unique: Obsidian, Dragon egg, Silver ore from Silver vein, Onion seeds | Structures: Mountain Tower, Abandoned Cabin, Inverted Tower, Mountain grave, Drake Nest, Cairns | Dungeons: Frost Cave, Howling Caverns\n\nIntroduction. The Mountain is a biome which features frozen snow covered peaks framed with Fir trees. This frozen and unforgiving region is home to Wolves and others sons of Fenrir. Drakes, the offspring of Moder, can be found in the skies making their nests at its peaks where they lay their Dragon eggs. Beware shifting piles of stone, they might be more alive than you think, stirring the resting Stone Golem.\nMountains can also contain Frost caves, which are a dungeon home to Cultists and their pet Ulv. Bats also make their home here and can startle unsuspecting Vikings. Crystals can be found growing naturally on the walls and occasionally contain a large underground lake, be careful not to wake the Stone Golem that can also be resting there.\nGoing into the mountain biome will cause the Freezing effect on the player. This effect can be negated by drinking Frost resistance mead, wearing a Lox cape, a Wolf fur cape, a Fenris coat, a Feather cape, or wearing the Wolf armor chest. The Wolf armor legs do not offer frost resistance. This effect is also negated by nearby campfires.\n\nResources. • Silver - Veins of Silver ore can be located buried beneath the snow of the mountains. These veins can be located using a Wishbone, which is acquired by defeating Bonemass. Silver veins require an Iron pickaxe or better to mine.\n• Obsidian - Obsidian nodes spawn in above ground on the mountain, which can be used to make Obsidian arrows. They require an Iron pickaxe or better to mine.\n• Onion seeds - Located in chests, usually in abandoned shacks.\n• Chests: (2-4 of the following)\n\nHostile. • Moder\n• Wolves\n• Drakes\n• Stone Golems\n• Fenrings (At nighttime)\n• Draugr (Mountain towers)\n• Skeletons (Mountain towers / Cabins)\n• Bat (Inside Frost caves)\n• Ulv (Inside Frost caves)\n• Cultist (Inside Frost caves)\n\nPassive. • Tetra (Inside Frost caves)\n\nNotes. • Cairns can be found on the peaks of the mountains.\n• The only type of tree that can grow in the Mountain environment is Fir.\n• The Deep North is a biome found far north of the map containing primarily mountains, though enemies or resources cannot be found there.\n• If it is raining in another biome, traveling into the Mountains will result in a lingering rain effect for a short period of time. Precipitation in the mountains usually takes the form of snow of varying intensity. These weather effects have no effect on gameplay.\n• High intensity blizzards may cause frame drops.",
+  "scraped_at": "2026-02-26T01:51:23.937833+00:00"
+}

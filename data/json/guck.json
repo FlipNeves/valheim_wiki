@@ -1,0 +1,45 @@
+{
+  "title": "Guck",
+  "url": "https://valheim.fandom.com/wiki/Guck",
+  "slug": "Guck",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Guck",
+    "Type": "Material",
+    "Internal ID": "Guck",
+    "Source": "Abomination, ,, Gucksack",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Guck are resources dropped by Abominations and Gucksacks in Swamps.\nThey can be used to refuel Standing green-burning iron torches."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Green banner\n• Standing green-burning iron torch"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Draugr fang\n• Green firework"
+    },
+    {
+      "heading": "Refueling",
+      "level": 3,
+      "text": "• Standing green-burning iron torch"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Gucksacks are not damaged by ranged attacks and must be mined with an axe or pickaxe. Players must build elevated platforms or ladders to reach the Gucksacks.\n• Guck's texture is a prototype from Resin."
+    }
+  ],
+  "full_text": "Guck\n\nType: Material | Internal ID: Guck | Source: Abomination, ,, Gucksack | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Guck are resources dropped by Abominations and Gucksacks in Swamps.\nThey can be used to refuel Standing green-burning iron torches.\n\nBuilding. • Green banner\n• Standing green-burning iron torch\n\nCrafting. • Draugr fang\n• Green firework\n\nRefueling. • Standing green-burning iron torch\n\nNotes. • Gucksacks are not damaged by ranged attacks and must be mined with an axe or pickaxe. Players must build elevated platforms or ladders to reach the Gucksacks.\n• Guck's texture is a prototype from Resin.",
+  "scraped_at": "2026-02-26T01:34:15.675293+00:00"
+}

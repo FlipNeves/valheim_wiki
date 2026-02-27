@@ -1,0 +1,57 @@
+{
+  "title": "Hive",
+  "url": "https://valheim.fandom.com/wiki/Hive",
+  "slug": "Hive",
+  "categories": [
+    "Unfinished",
+    "Bosses"
+  ],
+  "infobox": {
+    "_infobox_title": "Hive",
+    "Internal ID": "Hive",
+    "Type": "Boss",
+    "Faction": "Boss",
+    "Drops": "The Queen trophy, Majestic carapace",
+    "Abilities": "Melee, AoE, Spawn, Ranged",
+    "Trophy": "The Queen trophy",
+    "Weak to (x1.5)": "Blunt, ,, Frost",
+    "Neutral to (x1)": "Lightning, ,, Spirit",
+    "Resistant to (x0.5)": "Slash",
+    "Very resistant to (x0.25)": "Pierce, ,, Fire",
+    "Immune to (x0)": "Poison, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Hive is a boss resembling a retextured, upgraded version of Bonemass. It can only be spawned via Console Commands.\nHive deals Spirit damage instead of Poison damage with its attacks, spawns Mistlands-related minions, and drops items similar to what The Queen drops. It could be an incomplete placeholder boss for the Mistlands, which was eventually replaced with The Queen."
+    },
+    {
+      "heading": "Melee",
+      "level": 3,
+      "text": "A close-range swipe at a player."
+    },
+    {
+      "heading": "Area of Effect",
+      "level": 3,
+      "text": "Hive will charge up with a thick green cloud before releasing a wave of ooze. This is signaled when he leans backwards."
+    },
+    {
+      "heading": "Spawn",
+      "level": 3,
+      "text": "At intervals, Hive will reach into his armpit to throw out a glob of goop. This is never directed at a player, and will spawn up to four random monsters ( Seekers and/or Ticks) where it lands. No more of a creature type will be spawned once eight of that type are already present."
+    },
+    {
+      "heading": "Ranged",
+      "level": 3,
+      "text": "A ranged attack (it is unclear what it looks like in action). It has a 30 meter range. Bonemass does not have an analogue to this attack."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Despite visually resembling a red Bonemass, Hive is probably an unused Mistlands Boss since its spawns and drops are Mistlands creatures/items."
+    }
+  ],
+  "full_text": "Hive\n\nInternal ID: Hive | Type: Boss | Faction: Boss | Drops: The Queen trophy, Majestic carapace | Abilities: Melee, AoE, Spawn, Ranged | Trophy: The Queen trophy | Weak to (x1.5): Blunt, ,, Frost | Neutral to (x1): Lightning, ,, Spirit | Resistant to (x0.5): Slash | Very resistant to (x0.25): Pierce, ,, Fire | Immune to (x0): Poison, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. Hive is a boss resembling a retextured, upgraded version of Bonemass. It can only be spawned via Console Commands.\nHive deals Spirit damage instead of Poison damage with its attacks, spawns Mistlands-related minions, and drops items similar to what The Queen drops. It could be an incomplete placeholder boss for the Mistlands, which was eventually replaced with The Queen.\n\nMelee. A close-range swipe at a player.\n\nArea of Effect. Hive will charge up with a thick green cloud before releasing a wave of ooze. This is signaled when he leans backwards.\n\nSpawn. At intervals, Hive will reach into his armpit to throw out a glob of goop. This is never directed at a player, and will spawn up to four random monsters ( Seekers and/or Ticks) where it lands. No more of a creature type will be spawned once eight of that type are already present.\n\nRanged. A ranged attack (it is unclear what it looks like in action). It has a 30 meter range. Bonemass does not have an analogue to this attack.\n\nNotes. • Despite visually resembling a red Bonemass, Hive is probably an unused Mistlands Boss since its spawns and drops are Mistlands creatures/items.",
+  "scraped_at": "2026-02-26T01:39:14.399880+00:00"
+}

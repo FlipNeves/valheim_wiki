@@ -1,0 +1,13 @@
+{
+  "title": "Maypole",
+  "url": "https://valheim.fandom.com/wiki/Maypole",
+  "slug": "Maypole",
+  "categories": [
+    "Furniture",
+    "Grants Comfort",
+    "Seasonal Furniture"
+  ],
+  "content": "# Maypole\n\nType: Furniture | Internal ID: piece_maypole | Source: Workbench | Season: Midsummer | Usage: Comfort, , Decoration | Crafting Materials: Wood x10, Dandelion x4, Thistle x4 | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nThe Maypole is a seasonal structure that can be built exclusively during the midsummer season. It also can be found rarely in the middle of Abandoned Villages within the Meadows. Its sole purpose is to increase Comfort by 1.\n\n## Availability\n\nMaypoles generate during world generation. One or more can be found in a world. They will not respawn once destroyed.\nFrom 1 June – 6 July, Maypoles are made temporarily buildable to celebrate Midsummer and then unbuildable the rest of the year. Player-placed Maypoles function identically to the natural ones and remain in the world after the Midsummer season has ended.\n\nCategorias: Furniture, Grants Comfort, Seasonal Furniture",
+  "content_length": 1043,
+  "scraped_at": "2026-02-26T01:41:39.384092+00:00"
+}

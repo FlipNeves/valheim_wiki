@@ -1,0 +1,36 @@
+{
+  "title": "Hearty Mountain logger's stew",
+  "url": "https://valheim.fandom.com/wiki/Hearty_Mountain_logger%27s_stew",
+  "slug": "Hearty_Mountain_logger%27s_stew",
+  "categories": [
+    "Food",
+    "Feast"
+  ],
+  "infobox": {
+    "_infobox_title": "Hearty Mountain logger's stew",
+    "Type": "Feast",
+    "Internal ID": "FeastMountains_Material",
+    "Source": "Food preparation table",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Wolf skewer x2, Onion soup x3, Carrot x4, Mountain peak pepper powder x1",
+    "Max Health": "45",
+    "Max Stamina": "45",
+    "Duration": "50m",
+    "Healing": "3 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Hearty Mountain logger's stew is the Mountain-tier Feast."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Hearty Mountain logger's stew can be produced at a Food preparation table with:\n• Wolf skewer x2\n• Onion soup x3\n• Carrot x4\n• Mountain peak pepper powder x1"
+    }
+  ],
+  "full_text": "Hearty Mountain logger's stew\n\nType: Feast | Internal ID: FeastMountains_Material | Source: Food preparation table | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Wolf skewer x2, Onion soup x3, Carrot x4, Mountain peak pepper powder x1 | Max Health: 45 | Max Stamina: 45 | Duration: 50m | Healing: 3 hp/tick\n\nIntroduction. Hearty Mountain logger's stew is the Mountain-tier Feast.\n\nRecipe. Hearty Mountain logger's stew can be produced at a Food preparation table with:\n• Wolf skewer x2\n• Onion soup x3\n• Carrot x4\n• Mountain peak pepper powder x1",
+  "scraped_at": "2026-02-26T01:26:28.857654+00:00"
+}

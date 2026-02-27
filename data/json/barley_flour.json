@@ -1,0 +1,31 @@
+{
+  "title": "Barley flour",
+  "url": "https://valheim.fandom.com/wiki/Barley_flour",
+  "slug": "Barley_flour",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Barley flour",
+    "Type": "Material",
+    "Internal ID": "BarleyFlour",
+    "Source": "Windmill",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Barley x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Barley flour is an item and can be crafted using Barley in the Windmill."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Blood pudding\n• Bread dough\n• Fish wraps\n• Unbaked lox pie\n• Piquant pie\n• Roasted crust pie"
+    }
+  ],
+  "full_text": "Barley flour\n\nType: Material | Internal ID: BarleyFlour | Source: Windmill | Usage: Crafting | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Barley x1\n\nIntroduction. Barley flour is an item and can be crafted using Barley in the Windmill.\n\nCrafting. • Blood pudding\n• Bread dough\n• Fish wraps\n• Unbaked lox pie\n• Piquant pie\n• Roasted crust pie",
+  "scraped_at": "2026-02-26T01:30:28.370173+00:00"
+}

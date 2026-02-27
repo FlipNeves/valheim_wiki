@@ -1,0 +1,12 @@
+{
+  "title": "Chicken meat",
+  "url": "https://valheim.fandom.com/wiki/Chicken_meat",
+  "slug": "Chicken_meat",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "content": "# Chicken meat\n\nType: Material | Internal ID: ChickenMeat | Source: Chicken, ,, Hen | Usage: Cooking station, ,, Food preparation table | Teleportable (Can go through wood portal?): Yes\n\n# Introduction\n\nChicken meat is a food source dropped by Hens and Chickens when they are killed, such as with a Butcher knife or after enabling PVP.\nWhen placed on a Cooking station or Iron cooking station, Chicken meat can be turned into Cooked chicken meat, or Coal if left to burn.\n\n## Availability\n\n• Creature: Chicken | 0 Star: 25%\n\n• Creature: Hen | 0 Star: 1\n\n### Crafting\n\n• Cooked chicken meat Health: +60 Stamina: +20 Healing: +5hp/tick Effects Duration: 20 minutes\n• Coal, if left on a Cooking station for too long\n• Honey glazed chicken (from Uncooked honey glazed chicken)\nCooked chicken meat cannot be used to craft recipes using Chicken meat as ingredient.\n\nCategorias: Materials, Food",
+  "content_length": 887,
+  "scraped_at": "2026-02-26T01:25:41.678192+00:00"
+}

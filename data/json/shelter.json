@@ -1,0 +1,21 @@
+{
+  "title": "Shelter",
+  "url": "https://valheim.fandom.com/wiki/Shelter",
+  "slug": "Shelter",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Shelter",
+    "Effects": "Character does not becomeWetfrom rain and the wet timer decreases. | Required for theRestingeffect."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Shelter is a status effect that is given for players that are under a roof and have 80% cover.\nIf sheltered and near a fire, the Resting effect will be applied to the character. Being sheltered while Freezing will reduce it to Cold.\nShelter is also required to use most crafting stations and sleep in a bed. Each building checks its coverage independently of the player's status effect, however, it can serve as a helpful indicator."
+    }
+  ],
+  "full_text": "Shelter\n\nEffects: Character does not becomeWetfrom rain and the wet timer decreases. | Required for theRestingeffect.\n\nIntroduction. Shelter is a status effect that is given for players that are under a roof and have 80% cover.\nIf sheltered and near a fire, the Resting effect will be applied to the character. Being sheltered while Freezing will reduce it to Cold.\nShelter is also required to use most crafting stations and sleep in a bed. Each building checks its coverage independently of the player's status effect, however, it can serve as a helpful indicator.",
+  "scraped_at": "2026-02-26T02:01:01.920726+00:00"
+}

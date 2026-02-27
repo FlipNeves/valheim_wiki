@@ -1,0 +1,81 @@
+{
+  "title": "Yggdrasil shoot",
+  "url": "https://valheim.fandom.com/wiki/Yggdrasil_shoot",
+  "slug": "Yggdrasil_shoot",
+  "categories": [
+    "Trees"
+  ],
+  "infobox": {
+    "_infobox_title": "Yggdrasil shoot",
+    "Biome": "Mistlands",
+    "Wood Type": "Yggdrasil wood, and, Wood",
+    "Yield": "20",
+    "Tool Needed": "Black metal axe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Yggdrasil shoot is a type of tree that can be found in the Mistlands biome. It is characterized by its thin, spidery trunk. A Black metal axe or better is required to damage it.\nYggdrasil shoot trees produce Wood and Yggdrasil wood when destroyed. The yield of each type of wood appears to be random, however, a Yggdrasil shoot will always drop 20 pieces of wood total."
+    },
+    {
+      "heading": "Large tree drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Wood",
+          "Chance": "50%",
+          "Average": "10"
+        },
+        {
+          "Item": "Yggdrasil wood",
+          "Chance": "50%",
+          "Average": "10"
+        },
+        {
+          "Item": "Wood",
+          "Amount": "2"
+        },
+        {
+          "Item": "Resin",
+          "Amount": "1-2",
+          "Chance": "50%",
+          "Average": "0.75"
+        },
+        {
+          "Item": "Feathers",
+          "Amount": "1-2",
+          "Chance": "50%",
+          "Average": "0.75"
+        }
+      ]
+    },
+    {
+      "heading": "Small tree drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Wood",
+          "Amount": "1",
+          "Chance": "83%",
+          "Average": "2.08"
+        },
+        {
+          "Item": "Yggdrasil wood",
+          "Amount": "1",
+          "Chance": "17%",
+          "Average": "0.42"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• While it is intended that the Black metal axe is used to collect Yggdrasil wood, Seeker Soldiers have the ability to destroy even the large shoots. This allows skipping the axe altogether to switch straight to the Jotun Bane, if preferred.\n• The small shoots can be broken with Mistlands tier weapons, such as Skoll and Hati, despite the weapons' lack of chop damage. This allows the collection of Yggdrasil wood without the proper axe after having obtained a Black forge."
+    }
+  ],
+  "full_text": "Yggdrasil shoot\n\nBiome: Mistlands | Wood Type: Yggdrasil wood, and, Wood | Yield: 20 | Tool Needed: Black metal axe\n\nIntroduction. Yggdrasil shoot is a type of tree that can be found in the Mistlands biome. It is characterized by its thin, spidery trunk. A Black metal axe or better is required to damage it.\nYggdrasil shoot trees produce Wood and Yggdrasil wood when destroyed. The yield of each type of wood appears to be random, however, a Yggdrasil shoot will always drop 20 pieces of wood total.\n\nNotes. • While it is intended that the Black metal axe is used to collect Yggdrasil wood, Seeker Soldiers have the ability to destroy even the large shoots. This allows skipping the axe altogether to switch straight to the Jotun Bane, if preferred.\n• The small shoots can be broken with Mistlands tier weapons, such as Skoll and Hati, despite the weapons' lack of chop damage. This allows the collection of Yggdrasil wood without the proper axe after having obtained a Black forge.",
+  "scraped_at": "2026-02-26T01:48:46.112166+00:00"
+}

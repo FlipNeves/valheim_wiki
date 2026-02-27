@@ -1,0 +1,11 @@
+{
+  "title": "Wood cutting (skill)",
+  "url": "https://valheim.fandom.com/wiki/Wood_cutting_(skill)",
+  "slug": "Wood_cutting_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "content": "# Wood cutting (skill)\n\nDescription: Determines axe damage when hitting trees., Axes (skill)\n\n# Introduction\n\nWood Cutting is a skill, related to the chop damage dealt by Axes.\n\n## Effect\n\nHigher levels increase chop damage done against susceptible entities (trees, logs, stumps) up to +141%. Stamina cost to swing an axe is not reduced by the Wood Cutting skill, only by the axes skill.\nLeveling the wood cutting skill does not allow you to cut tougher trees, like Birch trees, higher tool tiers are required for that. For more information, see Axes.\nFor the details of damage scaling, see Damage mechanics#Skill factor\n\n## Leveling up\n\nHitting trees with an axe gives 1 experience for woodcutting, (not axe xp). This can only occur once per swing, regardless of the number of trees hit. If a tree and a non-tree is hit in the same swing with an axe, the player will gain xp for both woodcutting and axe skills. If at least one of those was an enemy or player, the player will gain 1.5xp for both instead.\n\n## Notes\n\n• A tree will fall in the direction the player is facing on the last swing, if the tree is on level ground.\n• You gain Wood Cutting experience from hitting trees, even when the tree is \"too hard\".\n• The base damage for the Berserkir axes is the same for all the variants, however, the Bleeding Berserkir axes do scale their damage with respect to missing health.\n\nCategorias: Skills",
+  "content_length": 1400,
+  "scraped_at": "2026-02-26T01:44:31.047655+00:00"
+}

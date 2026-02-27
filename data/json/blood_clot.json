@@ -1,0 +1,35 @@
+{
+  "title": "Blood clot",
+  "url": "https://valheim.fandom.com/wiki/Blood_clot",
+  "slug": "Blood_clot",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Blood clot",
+    "Type": "Material",
+    "Internal ID": "GiantBloodSack",
+    "Source": "Ticks",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Blood clot is an item and can be dropped from Ticks in the Mistlands biome."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Staff of protection\n• Mead base: Major healing\n• Uncooked magically stuffed shroom"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Blood clots can be farmed by finding and aggroing a Gjall, preferably in a relatively flat and open area of terrain to afford the player room to maneuver, and keeping it alive: it will continue to occasionally spawn ticks in groups of three, which can be killed for Blood clots. This will require avoiding and/or blocking the Gjall's projectile attacks while waiting for it to spawn more ticks."
+    }
+  ],
+  "full_text": "Blood clot\n\nType: Material | Internal ID: GiantBloodSack | Source: Ticks | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Blood clot is an item and can be dropped from Ticks in the Mistlands biome.\n\nCrafting. • Staff of protection\n• Mead base: Major healing\n• Uncooked magically stuffed shroom\n\nNotes. • Blood clots can be farmed by finding and aggroing a Gjall, preferably in a relatively flat and open area of terrain to afford the player room to maneuver, and keeping it alive: it will continue to occasionally spawn ticks in groups of three, which can be killed for Blood clots. This will require avoiding and/or blocking the Gjall's projectile attacks while waiting for it to spawn more ticks.",
+  "scraped_at": "2026-02-26T01:31:07.297368+00:00"
+}

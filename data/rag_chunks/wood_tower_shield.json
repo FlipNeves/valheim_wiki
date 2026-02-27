@@ -1,0 +1,13 @@
+{
+  "title": "Wood tower shield",
+  "url": "https://valheim.fandom.com/wiki/Wood_tower_shield",
+  "slug": "Wood_tower_shield",
+  "categories": [
+    "Weapons",
+    "Shields",
+    "Workbench recipes"
+  ],
+  "content": "# Wood tower shield\n\nInternal ID: ShieldWoodTower | Type: Shield | Source: Workbench | Usage: Blocking | Wielding: Off-hand | Crafting Materials: Wood x10, Leather scraps x6 | Movement speed: -10%\n\n# Introduction\n\nThe Wood tower shield is the first tower shield. It has four more block armor and 80 more block force compared to Wood shield but reduces movement speed by 10% as well as increasing dodge roll cost by 10%.\nAs a tower shield, it cannot be used to parry enemy attacks.\n\n## Upgrade information\n\nCost to max is 25 wood and 15 leather scraps.\n\n• stat: Block armor | Quality 1: 10 | Quality 2: 16 | Quality 3: 22\n\n• stat: Durability | Quality 1: 200 | Quality 2: 250 | Quality 3: 300\n\n• stat: Crafting | Quality 1: 10 Wood6 Leather scraps | Quality 2: 5 Wood3 Leather scraps | Quality 3: 10 Wood6 Leather scraps\n\n• stat: Workbench level | Quality 1: 1 | Quality 2: 2 | Quality 3: 3\n\n## Notes\n\n• When crafting, players can customize the shield with a few different pre-set designs and colors by clicking the style button beneath the item name in the crafting window. The design can not be changed afterward.\n\nCategorias: Weapons, Shields, Workbench recipes",
+  "content_length": 1163,
+  "scraped_at": "2026-02-26T01:20:03.781182+00:00"
+}

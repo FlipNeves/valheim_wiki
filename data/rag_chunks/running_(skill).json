@@ -1,0 +1,11 @@
+{
+  "title": "Running (skill)",
+  "url": "https://valheim.fandom.com/wiki/Running_(skill)",
+  "slug": "Running_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "content": "# Running (skill)\n\nDescription: Speed and stamina drain when running.\n\n# Introduction\n\nRunning is a skill.\n\n## Effects\n\nImproves sprinting speed by up to +25% and reduces stamina drain down to -50%.\n\n## Leveling up\n\nThe player gains 0.2 Experience per second while sprinting. Sprinting even a fraction of a second will still accumulate xp proportionally. Slope, weight carried, and movement modifiers do not affect the xp gain.\n\n## Speed\n\nCharacters sprint at 24km/h with 0 skill level and at 30km/h with 100 levels. Speed can be further increased by various means:\n• An active Nimble Anklet trinket: +15%\n• Consuming a Tonic of Ratatosk: +15%\n• Wearing any Fenris Set pieces: +3% each, (+9% total)\n• Active Moder Power: +10%\n• Wearing Asksvin cloak: up to +25%.\nCharacters walk at 13.5km/h no matter the run skill level.\n\nCategorias: Skills",
+  "content_length": 841,
+  "scraped_at": "2026-02-26T01:44:08.984916+00:00"
+}

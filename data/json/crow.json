@@ -1,0 +1,45 @@
+{
+  "title": "Crow",
+  "url": "https://valheim.fandom.com/wiki/Crow",
+  "slug": "Crow",
+  "categories": [
+    "Passive creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Crow",
+    "Internal ID": "Crow",
+    "Type": "Passive",
+    "Main biome": "Black Forest",
+    "Tameable": "No",
+    "Drops": "Feathers",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit",
+    "Immune to (x0)": "Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Crows are passive creatures found in Black Forests. They are small birds with long legs and heavy, straight bills. These birds are entirely black, including their legs and feet."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Feathers",
+          "0 Star": "3",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Loose-rolling tree logs will roll right through them without damaging them whatsoever."
+    }
+  ],
+  "full_text": "Crow\n\nInternal ID: Crow | Type: Passive | Main biome: Black Forest | Tameable: No | Drops: Feathers | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit | Immune to (x0): Chop, ,, Pickaxe\n\nIntroduction. Crows are passive creatures found in Black Forests. They are small birds with long legs and heavy, straight bills. These birds are entirely black, including their legs and feet.\n\nNotes. • Loose-rolling tree logs will roll right through them without damaging them whatsoever.",
+  "scraped_at": "2026-02-26T01:49:46.483767+00:00"
+}

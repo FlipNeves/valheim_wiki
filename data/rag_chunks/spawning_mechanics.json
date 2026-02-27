@@ -1,0 +1,11 @@
+{
+  "title": "Spawning mechanics",
+  "url": "https://valheim.fandom.com/wiki/Spawning_mechanics",
+  "slug": "Spawning_mechanics",
+  "categories": [
+    "Mechanics"
+  ],
+  "content": "# Spawning mechanics\n\n## Sources of spawning\n\nThere are five systems which spawn enemies. See the individual pages for further details.\n• Physical spawners are destructible entities that continuously spawn hostile creatures when a player is nearby.\n• Spawn points are fixed positions at certain structures and dungeons. Most of them are single use.\n• Zone spawning is the repeatable spawning of creatures that happens as players move around.\n• Event spawners spawn certain creatures when a raid event is activated.\n• Forsaken Altars spawn a creature when a player makes the right offering.\n\n## Other interactions\n\nPlayer base is an invisible area created around most player-made structures that prevents creatures from spawning inside them (only affects event spawners, spawn points and zone spawning).\n\nCategorias: Mechanics",
+  "content_length": 825,
+  "scraped_at": "2026-02-26T01:58:06.527893+00:00"
+}

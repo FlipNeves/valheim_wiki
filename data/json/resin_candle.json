@@ -1,0 +1,39 @@
+{
+  "title": "Resin candle",
+  "url": "https://valheim.fandom.com/wiki/Resin_candle",
+  "slug": "Resin_candle",
+  "categories": [
+    "Furniture",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Resin candle",
+    "Type": "Furniture",
+    "Internal ID": "Candle_resin",
+    "Source": "Workbench",
+    "Usage": "Decoration, Lightsource",
+    "Crafting Materials": "Resin x1, Candle wick x1",
+    "Weak to (x1.5)": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe",
+    "Resistant to (x0.5)": "Fire",
+    "Immune to (x0)": "Frost, ,, Lightning, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Resin candle is a decorative light source. It lasts 4h 10m and cannot be refueled.\nIt requires a Workbench and materials from The Bog Witch to be built."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "• Resin x1\n• Candle wick x1"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The flame can be quenched by rain, but the candle itself is not damaged by rain.\n• When depleted, the candle becomes a melted pile of wax that can be dismantled with the Hammer. The Candle Wick will be returned, allowing the player to rebuild it with only the single Resin needing to be replaced.\n• Considering the length of time the candle lasts with only 1 Resin cost, it can be considered a far more fuel-efficient alternative to the regular Standing wood torch, assuming having to rebuild it with the hammer is not too much of a hassle."
+    }
+  ],
+  "full_text": "Resin candle\n\nType: Furniture | Internal ID: Candle_resin | Source: Workbench | Usage: Decoration, Lightsource | Crafting Materials: Resin x1, Candle wick x1 | Weak to (x1.5): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe | Resistant to (x0.5): Fire | Immune to (x0): Frost, ,, Lightning, ,, Poison, ,, Spirit\n\nIntroduction. Resin candle is a decorative light source. It lasts 4h 10m and cannot be refueled.\nIt requires a Workbench and materials from The Bog Witch to be built.\n\nRecipe. • Resin x1\n• Candle wick x1\n\nNotes. • The flame can be quenched by rain, but the candle itself is not damaged by rain.\n• When depleted, the candle becomes a melted pile of wax that can be dismantled with the Hammer. The Candle Wick will be returned, allowing the player to rebuild it with only the single Resin needing to be replaced.\n• Considering the length of time the candle lasts with only 1 Resin cost, it can be considered a far more fuel-efficient alternative to the regular Standing wood torch, assuming having to rebuild it with the hammer is not too much of a hassle.",
+  "scraped_at": "2026-02-26T01:42:00.425243+00:00"
+}

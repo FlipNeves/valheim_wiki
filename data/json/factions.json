@@ -1,0 +1,325 @@
+{
+  "title": "Factions",
+  "url": "https://valheim.fandom.com/wiki/Factions",
+  "slug": "Factions",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Factions determine which creatures are hostile to each other.\n• Creatures never attack the same creature (even when one of them is tamed).\n• Creatures in the same faction never attack each other (except when one of them is tamed).\n• Bosses are allied with all other factions except player faction (Which only include the player characters and tamed animals).\n• Undead and demons are allies.\n• As of patch 0.217.46, Hare is the only mob in the game in the Animal faction.\n• Mistlands and Dvergr factions are not hostile to the Animal faction (It is to be assumed the former are allied to the latter in this case)\n• Tamed creatures never attack other tamed creatures, players or the same creature.",
+      "table_data": [
+        {
+          "Creature": "Player character",
+          "Faction": "Player",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Tamed animal",
+          "Faction": "Player",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Boar",
+          "Faction": "Forest",
+          "Can be tamed?": "Yes"
+        },
+        {
+          "Creature": "Deer",
+          "Faction": "Forest",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Greyling",
+          "Faction": "Forest",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Neck",
+          "Faction": "Forest",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Eikthyr",
+          "Faction": "Boss",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Ghost",
+          "Faction": "Undead",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Greydwarf",
+          "Faction": "Forest",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Greydwarf brute",
+          "Faction": "Forest",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Greydwarf shaman",
+          "Faction": "Forest",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Rancid remains",
+          "Faction": "Undead",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Skeleton",
+          "Faction": "Undead",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Troll",
+          "Faction": "Forest",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Bear",
+          "Faction": "Forest",
+          "Can be tamed?": "No"
+        },
+        {
+          "Creature": "The Elder",
+          "Faction": "Boss",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Root",
+          "Faction": "Boss",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Abomination",
+          "Faction": "Undead",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Blob",
+          "Faction": "Undead",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Draugr",
+          "Faction": "Undead",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Draugr elite",
+          "Faction": "Undead",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Leech",
+          "Faction": "Undead",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Oozer",
+          "Faction": "Undead",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Surtling",
+          "Faction": "Demon",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Wraith",
+          "Faction": "Undead",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Bonemass",
+          "Faction": "Boss",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Drake",
+          "Faction": "Mountain",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Fenring",
+          "Faction": "Mountain",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Stone Golem",
+          "Faction": "Forest",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Wolf",
+          "Faction": "Mountain",
+          "Can be tamed?": "Yes"
+        },
+        {
+          "Creature": "Cultist",
+          "Faction": "Mountain",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Ulv",
+          "Faction": "Mountain",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Frost Blob",
+          "Faction": "Mountain",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Moder",
+          "Faction": "Boss",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Deathsquito",
+          "Faction": "Plains",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Fuling",
+          "Faction": "Plains",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Fuling Berserker",
+          "Faction": "Plains",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Fuling shaman",
+          "Faction": "Plains",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Growth",
+          "Faction": "Undead",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Lox",
+          "Faction": "Plains",
+          "Can be tamed?": "Yes"
+        },
+        {
+          "Creature": "Vile",
+          "Faction": "Plains (friendly to Bears)",
+          "Can be tamed?": "No"
+        },
+        {
+          "Creature": "Yagluth",
+          "Faction": "Boss",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Chicken/Hen",
+          "Faction": "Forest",
+          "Can be tamed?": "Yes"
+        },
+        {
+          "Creature": "Gjall",
+          "Faction": "Mistlands",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Hare",
+          "Faction": "Animal",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Seeker",
+          "Faction": "Mistlands",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Seeker Brood",
+          "Faction": "Mistlands",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Seeker Soldier",
+          "Faction": "Mistlands",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Tick",
+          "Faction": "Mistlands",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "The Queen",
+          "Faction": "Boss",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Dvergr",
+          "Faction": "Dvergr",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Serpent",
+          "Faction": "Sea",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Asksvin",
+          "Faction": "Demon",
+          "Can be tamed?": "Yes"
+        },
+        {
+          "Creature": "Bonemaw",
+          "Faction": "Demon",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Charred",
+          "Faction": "Demon",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Fallen Valkyrie",
+          "Faction": "Demon",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Lava Blob",
+          "Faction": "Demon",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Lord Reto",
+          "Faction": "Demon",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Morgen",
+          "Faction": "Demon",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Volture",
+          "Faction": "Demon",
+          "Can be tamed?": ""
+        },
+        {
+          "Creature": "Fader",
+          "Faction": "Boss",
+          "Can be tamed?": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Factions\n\nIntroduction. Factions determine which creatures are hostile to each other.\n• Creatures never attack the same creature (even when one of them is tamed).\n• Creatures in the same faction never attack each other (except when one of them is tamed).\n• Bosses are allied with all other factions except player faction (Which only include the player characters and tamed animals).\n• Undead and demons are allies.\n• As of patch 0.217.46, Hare is the only mob in the game in the Animal faction.\n• Mistlands and Dvergr factions are not hostile to the Animal faction (It is to be assumed the former are allied to the latter in this case)\n• Tamed creatures never attack other tamed creatures, players or the same creature.",
+  "scraped_at": "2026-02-26T01:07:11.317290+00:00"
+}

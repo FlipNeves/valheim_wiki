@@ -1,0 +1,35 @@
+{
+  "title": "Wolf pelt",
+  "url": "https://valheim.fandom.com/wiki/Wolf_pelt",
+  "slug": "Wolf_pelt",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Wolf pelt",
+    "Type": "Material",
+    "Internal ID": "WolfPelt",
+    "Source": "Wolf",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wolf pelt is a drop from Wolves in the Mountain biome."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Dragon bed\n• Wolf rug\n• Stone throne"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Drake helmet\n• Wolf armor chest\n• Wolf armor legs\n• Wolf fur cape\n• Fenris coat\n• Fenris leggings\n• Fenris hood"
+    }
+  ],
+  "full_text": "Wolf pelt\n\nType: Material | Internal ID: WolfPelt | Source: Wolf | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Wolf pelt is a drop from Wolves in the Mountain biome.\n\nBuilding. • Dragon bed\n• Wolf rug\n• Stone throne\n\nCrafting. • Drake helmet\n• Wolf armor chest\n• Wolf armor legs\n• Wolf fur cape\n• Fenris coat\n• Fenris leggings\n• Fenris hood",
+  "scraped_at": "2026-02-26T01:37:48.510980+00:00"
+}

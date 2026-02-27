@@ -1,0 +1,12 @@
+{
+  "title": "Spears",
+  "url": "https://valheim.fandom.com/wiki/Spears",
+  "slug": "Spears",
+  "categories": [
+    "Weapons",
+    "Spears"
+  ],
+  "content": "# Spears\n\n# Introduction\n\nSpears is a weapon class.\nSpears have a fast attack with short range and low stamina cost.\nThe secondary attack throws the spear, which can be retrieved by the player.\n\n## List of spears\n\n• Name: Flint spear | Damage: Pierce: 20/38 | Stamina (primary): 6 | Stamina (secondary): 8\n\n• Name: Bronze spear | Damage: Pierce: 35/53 | Stamina (primary): 8 | Stamina (secondary): 10\n\n• Name: Ancient bark spear | Damage: Pierce: 55/73 | Stamina (primary): 10 | Stamina (secondary): 12\n\n• Name: Fang spear | Damage: Pierce: 75/93 | Stamina (primary): 12 | Stamina (secondary): 14\n\n• Name: Carapace spear | Damage: Pierce: 115/133 | Stamina (primary): 16 | Stamina (secondary): 18\n\n• Name: Splitnir | Damage: Pierce: 135/153 | Stamina (primary): 16 | Stamina (secondary): 18\n\n## Properties\n\n• Attack type: Spears (primary) | Stamina: 1x | Range: 1.9 m | Attack speed: 0.68 s | Damage: 1x | Staggering: 1x | Knockback: 20 | Notes: Player moves forward 0.33m. 40 degree arc. No 3-hit combo.\n\n• Attack type: Spears (secondary) | Stamina: 1x + 2 | Range: Thrown | Attack speed: 1.04 s (includes picking up) | Damage: 1.5x | Staggering: 1x | Knockback: 1.5x | Notes: Throws the spear. Can be picked up afterward. Floats on water.\n\nCategorias: Weapons, Spears",
+  "content_length": 1269,
+  "scraped_at": "2026-02-26T01:18:36.945957+00:00"
+}

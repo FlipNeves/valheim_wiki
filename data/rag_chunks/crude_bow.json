@@ -1,0 +1,13 @@
+{
+  "title": "Crude bow",
+  "url": "https://valheim.fandom.com/wiki/Crude_bow",
+  "slug": "Crude_bow",
+  "categories": [
+    "Weapons",
+    "Bows",
+    "Workbench recipes"
+  ],
+  "content": "# Crude bow\n\nInternal ID: Bow | Type: Bow | Source: Workbench | Usage: Ranged weapon | Wielding: Two-handed | Crafting Materials: Wood x15, Leather scraps x12, Deer hide x3 | Attack speed: 0.8 s + 2.5 s draw time | Movement speed: -5%\n\n# Introduction\n\nThe Crude bow is the first bow. Its primary attack fires arrows. Charging the attack increases accuracy, damage and velocity of the arrow. It does not have a secondary attack.\nIt is highly inaccurate, even at full draw, so some players prefer hunting with a Flint spear instead, which has a lower range but higher accuracy.\n\n## Upgrade information\n\n• stat: Pierce | Quality 1: 22 | Quality 2: 25 | Quality 3: 28 | Quality 4: 31\n\n• stat: Durability | Quality 1: 50 | Quality 2: 100 | Quality 3: 150 | Quality 4: 200\n\n• stat: Crafting | Quality 1: 10 Wood8 Leather scraps | Quality 2: 5 Wood4 Leather scraps1 Deer hide | Quality 3: 10 Wood8 Leather scraps2 Deer hide | Quality 4: 15 Wood12 Leather scraps3 Deer hide\n\n• stat: Workbench level | Quality 1: 1 | Quality 2: 2 | Quality 3: 3 | Quality 4: 4\n\n## Notes\n\n• The Crude bow makes hunting Deer much easier.\n\nCategorias: Weapons, Bows, Workbench recipes",
+  "content_length": 1155,
+  "scraped_at": "2026-02-26T01:13:42.537620+00:00"
+}

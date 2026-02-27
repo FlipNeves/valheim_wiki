@@ -1,0 +1,35 @@
+{
+  "title": "Perch",
+  "url": "https://valheim.fandom.com/wiki/Perch",
+  "slug": "Perch",
+  "categories": [
+    "Fish"
+  ],
+  "infobox": {
+    "_infobox_title": "Perch",
+    "Type": "Fish",
+    "Internal ID": "fish1",
+    "Source": "Fishing",
+    "Usage": "Decoration | Cooking",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Perch are coastal fish found offshore the Meadows and Black Forest. They can be caught with a fishing rod using the basic fishing bait sold by Haldor."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Fishing hat\n• Raw fish\n• Mead base: Vananidir"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Has a unique line: \"I'm a perch, not a bass!\""
+    }
+  ],
+  "full_text": "Perch\n\nType: Fish | Internal ID: fish1 | Source: Fishing | Usage: Decoration | Cooking | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Perch are coastal fish found offshore the Meadows and Black Forest. They can be caught with a fishing rod using the basic fishing bait sold by Haldor.\n\nCrafting. • Fishing hat\n• Raw fish\n• Mead base: Vananidir\n\nNotes. • Has a unique line: \"I'm a perch, not a bass!\"",
+  "scraped_at": "2026-02-26T01:44:41.438108+00:00"
+}

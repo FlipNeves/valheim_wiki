@@ -1,0 +1,35 @@
+{
+  "title": "Morgen sinew",
+  "url": "https://valheim.fandom.com/wiki/Morgen_sinew",
+  "slug": "Morgen_sinew",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Morgen sinew",
+    "Type": "Material",
+    "Internal ID": "MorgenSinew",
+    "Source": "Morgen",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Morgen sinew is an item found by killing Morgen in Ashlands."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Gem cutter"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Ashen cape\n• Asksvin cloak\n• Asksvin saddle\n• Ripper\n• Slayer"
+    }
+  ],
+  "full_text": "Morgen sinew\n\nType: Material | Internal ID: MorgenSinew | Source: Morgen | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Morgen sinew is an item found by killing Morgen in Ashlands.\n\nBuilding. • Gem cutter\n\nCrafting. • Ashen cape\n• Asksvin cloak\n• Asksvin saddle\n• Ripper\n• Slayer",
+  "scraped_at": "2026-02-26T01:35:21.724689+00:00"
+}

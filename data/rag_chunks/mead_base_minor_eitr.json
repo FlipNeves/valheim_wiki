@@ -1,0 +1,13 @@
+{
+  "title": "Minor eitr mead",
+  "url": "https://valheim.fandom.com/wiki/Mead_base:_Minor_eitr",
+  "slug": "Mead_base:_Minor_eitr",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "content": "# Minor eitr mead\n\nType: Mead | Internal ID: MeadEitrMinor | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Minor eitr x1 | Duration: 10s | Cooldown: 2m | Eitr Regen: +125 Eitr over 10s\n\n# Introduction\n\nMinor eitr mead is a Mistlands-tier consumable item fermented from Mead base: Minor eitr.\n\n## Recipe\n\nMead base: Minor eitr is produced in a Mead ketill with:\n• 10 Honey\n• 5 Sap\n• 2 Jotun puffs\n• 5 Magecap\nSix Minor eitr meads are produced by fermenting the mead base for two in-game days.\n\n## Effect\n\nUpon consumption, it restores 125 eitr over 10 seconds.\nA 2-min cooldown is applied preventing consumption of another eitr mead.\n\nCategorias: Mead, Fermenter recipes, Items",
+  "content_length": 749,
+  "scraped_at": "2026-02-26T02:16:07.732046+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Blob bombs",
+  "url": "https://valheim.fandom.com/wiki/Blob_bombs",
+  "slug": "Blob_bombs",
+  "categories": [
+    "Weapons",
+    "Bombs"
+  ],
+  "content": "# Blob bombs\n\n# Introduction\n\nBlob bombs are a type of Bombs that summon a creature on impact. The creature is aggressive toward the player.\nThey are crafted at a Workbench by using a Corked vial sold by The Bog Witch.\n\n## List of Blob bombs\n\n• Name: Blob bomb: Poison | Crafting: Corked vial x1 Resin x3 Blob trophy x1 | Blob: Blob | id: BombBlob_Poison\n\n• Name: Blob bomb: Elite poison (x2) | Crafting: Corked vial x1 Resin x3 Blob trophy x3 | Blob: Oozer | id: BombBlob_PoisonElite\n\n• Name: Blob bomb: Frost | Crafting: Corked vial x1 Resin x3 Drake trophy x1 | Blob: Frost Blob | id: BombBlob_Frost\n\n• Name: Blob bomb: Tar | Crafting: Corked vial x1 Tar x3 Growth trophy x1 | Blob: Growth | id: BombBlob_Tar\n\n• Name: Blob bomb: Lava | Crafting: Corked vial x1 Sulfur x10 Proustite powder x10 | Blob: Lava Blob | id: BombBlob_Lava\n\nCategorias: Weapons, Bombs",
+  "content_length": 861,
+  "scraped_at": "2026-02-26T01:11:42.844146+00:00"
+}

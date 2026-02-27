@@ -1,0 +1,40 @@
+{
+  "title": "Molten core",
+  "url": "https://valheim.fandom.com/wiki/Molten_core",
+  "slug": "Molten_core",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Molten core",
+    "Type": "Material",
+    "Internal ID": "MoltenCore",
+    "Source": "Charred Fortress | Putrid Hole",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Molten cores are a crafting material from the Ashlands."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Inside Putrid Hole.\n• On the ground inside Charred Fortress.\n• As loot from Charred chest in Charred Fortress.\n• Mysterious Locations will spawn with 4."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Portal – Stone"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Brimstone"
+    }
+  ],
+  "full_text": "Molten core\n\nType: Material | Internal ID: MoltenCore | Source: Charred Fortress | Putrid Hole | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Molten cores are a crafting material from the Ashlands.\n\nAvailability. • Inside Putrid Hole.\n• On the ground inside Charred Fortress.\n• As loot from Charred chest in Charred Fortress.\n• Mysterious Locations will spawn with 4.\n\nBuilding. • Portal – Stone\n\nCrafting. • Brimstone",
+  "scraped_at": "2026-02-26T01:35:13.625330+00:00"
+}

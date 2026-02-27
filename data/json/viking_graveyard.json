@@ -1,0 +1,38 @@
+{
+  "title": "Viking Graveyard",
+  "url": "https://valheim.fandom.com/wiki/Viking_Graveyard",
+  "slug": "Viking_Graveyard",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Viking Graveyard",
+    "Type": "Point of interest",
+    "Internal ID": "ShipSetting01",
+    "Location": "Meadows"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Viking Graveyards are Points of interest found in the Meadows."
+    },
+    {
+      "heading": "Description",
+      "level": 2,
+      "text": "Viking Graveyards appear as stones shaped like a Viking Longship. Random trees and boulders will spawn within the 'ship' outline, so the Graveyard can be camouflaged somewhat."
+    },
+    {
+      "heading": "Loot",
+      "level": 2,
+      "text": "Digging around these areas will result in the player discovering a Viking Graveyard Chest with a 80% chance, two skeletal remains (which give one Bone fragments upon pickup), and a 50% for a valuable among 1-4 Amber, 2-14 Coins or 1-2 Amber pearl.\nThe treasures are buried along the central line of the ship, roughly all at the same depth equivalent to three or four pickaxe hits. A Wishbone will lead the player directly to the chest, although the loot is not likely to be worth it for a player at that stage of the game."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The formation is inspired from real world Stone Ship or Ship Setting which was an early burial custom in Scandinavia."
+    }
+  ],
+  "full_text": "Viking Graveyard\n\nType: Point of interest | Internal ID: ShipSetting01 | Location: Meadows\n\nIntroduction. Viking Graveyards are Points of interest found in the Meadows.\n\nDescription. Viking Graveyards appear as stones shaped like a Viking Longship. Random trees and boulders will spawn within the 'ship' outline, so the Graveyard can be camouflaged somewhat.\n\nLoot. Digging around these areas will result in the player discovering a Viking Graveyard Chest with a 80% chance, two skeletal remains (which give one Bone fragments upon pickup), and a 50% for a valuable among 1-4 Amber, 2-14 Coins or 1-2 Amber pearl.\nThe treasures are buried along the central line of the ship, roughly all at the same depth equivalent to three or four pickaxe hits. A Wishbone will lead the player directly to the chest, although the loot is not likely to be worth it for a player at that stage of the game.\n\nTrivia. • The formation is inspired from real world Stone Ship or Ship Setting which was an early burial custom in Scandinavia.",
+  "scraped_at": "2026-02-26T01:45:20.908661+00:00"
+}

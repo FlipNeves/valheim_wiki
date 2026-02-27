@@ -1,0 +1,13 @@
+{
+  "title": "Berserkir axes",
+  "url": "https://valheim.fandom.com/wiki/Berserkir_axes",
+  "slug": "Berserkir_axes",
+  "categories": [
+    "Weapons",
+    "Axes",
+    "Black forge recipes"
+  ],
+  "content": "# Berserkir axes\n\nInternal ID: AxeBerzerkr | Type: Axe | Source: Black forge | Usage: Weapon | Wielding: Dual wielded | Crafting Materials: Flametal x45, Asksvin hide x3 | Attack speed: 1.93 s | Hitbox: 2.2 range, 90 angle, 0.6 height, no multitarget penalty | Movement speed: -5%\n\n# Introduction\n\nThe Berserkir axes is the first dual wielded axe, and ninth overall.\nIts primary attack is a 4-step combo: two single hits, one with each axe, followed by two double hits using both axes simultaneously, resulting in a total of 6 hits. The final double hit deals 2x damage with each individual hit.\nIts secondary attack costs 28 stamina and is a leap forward, followed by a slash with both axes for a single hit, dealing 2x the damage.\nThe Berserkir axes deal Chop damage, which allows them to cut down trees, like all axes. They deal more Chop damage than the previous axe, the Jotun Bane.\n\n## Upgrading\n\nLike most Ashlands-tier weapons, the Berserkir axes can be upgraded to one of the following three variants using gemstones:\n• Bleeding Berserkir axes (Bloodstone)\n• Thundering Berserkir axes (Iolite)\n• Primal Berserkir axes (Jade)\nAn upgraded Berserkir axes will NOT keep its upgrade level when it is modified using gemstones.\n\n• stat: Slash | Quality 1: 140 | Quality 2: 145 | Quality 3: 150 | Quality 4: 155\n\n• stat: Durability | Quality 1: 175 | Quality 2: 225 | Quality 3: 275 | Quality 4: 325\n\n• stat: Crafting | Quality 1: 15 Charred bone24 Flametal3 Asksvin hide | Quality 2: 15 Flametal1 Asksvin hide | Quality 3: 30 Flametal2 Asksvin hide | Quality 4: 45 Flametal3 Asksvin hide\n\n• stat: Black forge level | Quality 1: 3 | Quality 2: 4 | Quality 3: 5 | Quality 4: 6 (not yet available)\n\nCategorias: Weapons, Axes, Black forge recipes",
+  "content_length": 1744,
+  "scraped_at": "2026-02-26T01:10:56.358715+00:00"
+}

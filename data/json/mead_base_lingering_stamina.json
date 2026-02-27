@@ -1,0 +1,40 @@
+{
+  "title": "Lingering stamina mead",
+  "url": "https://valheim.fandom.com/wiki/Mead_base:_Lingering_stamina",
+  "slug": "Mead_base:_Lingering_stamina",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Lingering stamina mead",
+    "Type": "Mead",
+    "Internal ID": "MeadStaminaLingering",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mead base: Lingering stamina x1",
+    "Duration": "5m",
+    "Stamina Regen": "+25% rate"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lingering stamina mead is a Mistlands-tier consumable item fermented from Mead base: Lingering stamina."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Mead base: Lingering stamina is produced in a Mead ketill with:\n• 10 Sap\n• 10 Cloudberries\n• 10 Jotun puffs\nSix Lingering stamina meads are produced by fermenting the mead base for two in-game days."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Upon consumption, it provides +25% stamina regeneration for 5 minutes. While active, it prevents the consumption of all types of stamina meads.\nThe stamina regeneration effect will not be interrupted by any action that normally consumes stamina, such as attacking or sprinting. Rather, the buff lasts for 5 minutes and is only interruptible by death."
+    }
+  ],
+  "full_text": "Lingering stamina mead\n\nType: Mead | Internal ID: MeadStaminaLingering | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Lingering stamina x1 | Duration: 5m | Stamina Regen: +25% rate\n\nIntroduction. Lingering stamina mead is a Mistlands-tier consumable item fermented from Mead base: Lingering stamina.\n\nRecipe. Mead base: Lingering stamina is produced in a Mead ketill with:\n• 10 Sap\n• 10 Cloudberries\n• 10 Jotun puffs\nSix Lingering stamina meads are produced by fermenting the mead base for two in-game days.\n\nEffect. Upon consumption, it provides +25% stamina regeneration for 5 minutes. While active, it prevents the consumption of all types of stamina meads.\nThe stamina regeneration effect will not be interrupted by any action that normally consumes stamina, such as attacking or sprinting. Rather, the buff lasts for 5 minutes and is only interruptible by death.",
+  "scraped_at": "2026-02-26T02:16:35.225397+00:00"
+}

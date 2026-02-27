@@ -1,0 +1,11 @@
+{
+  "title": "Crafting (skill)",
+  "url": "https://valheim.fandom.com/wiki/Crafting_(skill)",
+  "slug": "Crafting_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "content": "# Crafting (skill)\n\nDescription: Crafting speed, hammer wear and building stamina use.\n\n# Introduction\n\nCrafting is a skill.\n\n## Effects\n\nThe Crafting skill has the following effect, proportional to the level:\n• Reduces the time to craft item down to -60%.\n• Up to a 25% chance to craft an extra item, it applies only to items that can be stacked in the inventory. Notably, armors and wielded weapons are excluded. Using the x5 crafting option is even more advantageous, as a cumulative mechanism adds even more additional items. Possible yields are +1, +3, +6, +10 and +15 (instead of +1 to +5 by crafting the same 5 items 1 by 1). This results in an overall +37.5% extra item at max skill level.\n• Reduces Hammer durability cost and stamina consumption down to -50%.\n\n## Leveling up\n\nThe following activities give Crafting skill experience:\n• Crafting an item gives 0.25 experience.\n• Building a structure gives 0.25 experience. Deconstructing a structure prevents the next built from giving experience, the debt can go down to 20 structures.\n• Repairing an item at a crafting station gives up to 0.25 experience, proportionally to the durability repaired.\n\nCategorias: Skills",
+  "content_length": 1178,
+  "scraped_at": "2026-02-26T01:43:22.988231+00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Forsaken power",
+  "url": "https://valheim.fandom.com/wiki/Forsaken_power",
+  "slug": "Forsaken_power",
+  "categories": [
+    "Gameplay"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Forsaken powers are unlocked by defeating each boss and hanging their trophy on the Sacrificial Stones. By default, the player's set forsaken power is activated by pressing F. Only one forsaken power can be set at a time, which is changed out at the Sacrificial Stones.\nAll forsaken powers have a duration of 5 minutes. They also share the same 20-minute cooldown, which does not reset or reduce even when the player logs off, changes their active forsaken power, or sleeps.\nActivating a power locks the player into an animation for a couple of seconds. The player is unable to move or perform any action (with the exception of equipping or unequipping tools/weapons).\nWhen activating a forsaken power, all players within 10 meters will also receive the benefit of the forsaken power activated. Thus, a party of four players can keep a forsaken power activated virtually indefinitely by consecutively using each player's forsaken power."
+    },
+    {
+      "heading": "Eikthyr Power",
+      "level": 2,
+      "text": "60% reduced stamina usage for running, jumping, and swimming."
+    },
+    {
+      "heading": "The Elder Power",
+      "level": 2,
+      "text": "+60% Chop and Pickaxe damage increase, +30% health regeneration increase."
+    },
+    {
+      "heading": "Bonemass Power",
+      "level": 2,
+      "text": "Slightly resistant (-25%) VS pierce, slash, and blunt damage, -100% block stamina cost, +5 stamina returned per block."
+    },
+    {
+      "heading": "Moder Power",
+      "level": 2,
+      "text": "Always tailwind when sailing, +300.0 increased carry weight, +10% increased movement speed, Resistant (-50%) vs frost."
+    },
+    {
+      "heading": "Notes",
+      "level": 3,
+      "text": "• This power changes the wind direction while sailing, but not wind intensity. A calm wind will not aid in travel as much as a fast wind.\n• The wind direction is only changed while steering the ship. While not in control of a ship, the wind will remain at its regular angle.\n• The wind change is local to each player carrying the buff and does not affect each other's wind direction.\n• This power is best saved for when there is headwind since crosswind (perpendicular to travel direction) and tailwind are about equally good for sailing.\n• This power will not affect the wind if you are too close to the World's Edge."
+    },
+    {
+      "heading": "Yagluth Power",
+      "level": 2,
+      "text": "Resistant (-50%) vs lightning, +25 Farming (skill), and +10% increased damage."
+    },
+    {
+      "heading": "The Queen's Power",
+      "level": 2,
+      "text": "+100% Eitr regeneration increase, -100% sneak stamina usage, and resistant (-50%) vs poison."
+    },
+    {
+      "heading": "Fader Power",
+      "level": 2,
+      "text": "+100% Adrenaline increase, 50% reduced stagger meter modifier, and resistant (-50%) vs fire."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Bonemass Power damage resistance does not stack with Crystal Heart."
+    }
+  ],
+  "full_text": "Forsaken power\n\nIntroduction. Forsaken powers are unlocked by defeating each boss and hanging their trophy on the Sacrificial Stones. By default, the player's set forsaken power is activated by pressing F. Only one forsaken power can be set at a time, which is changed out at the Sacrificial Stones.\nAll forsaken powers have a duration of 5 minutes. They also share the same 20-minute cooldown, which does not reset or reduce even when the player logs off, changes their active forsaken power, or sleeps.\nActivating a power locks the player into an animation for a couple of seconds. The player is unable to move or perform any action (with the exception of equipping or unequipping tools/weapons).\nWhen activating a forsaken power, all players within 10 meters will also receive the benefit of the forsaken power activated. Thus, a party of four players can keep a forsaken power activated virtually indefinitely by consecutively using each player's forsaken power.\n\nEikthyr Power. 60% reduced stamina usage for running, jumping, and swimming.\n\nThe Elder Power. +60% Chop and Pickaxe damage increase, +30% health regeneration increase.\n\nBonemass Power. Slightly resistant (-25%) VS pierce, slash, and blunt damage, -100% block stamina cost, +5 stamina returned per block.\n\nModer Power. Always tailwind when sailing, +300.0 increased carry weight, +10% increased movement speed, Resistant (-50%) vs frost.\n\nNotes. • This power changes the wind direction while sailing, but not wind intensity. A calm wind will not aid in travel as much as a fast wind.\n• The wind direction is only changed while steering the ship. While not in control of a ship, the wind will remain at its regular angle.\n• The wind change is local to each player carrying the buff and does not affect each other's wind direction.\n• This power is best saved for when there is headwind since crosswind (perpendicular to travel direction) and tailwind are about equally good for sailing.\n• This power will not affect the wind if you are too close to the World's Edge.\n\nYagluth Power. Resistant (-50%) vs lightning, +25 Farming (skill), and +10% increased damage.\n\nThe Queen's Power. +100% Eitr regeneration increase, -100% sneak stamina usage, and resistant (-50%) vs poison.\n\nFader Power. +100% Adrenaline increase, 50% reduced stagger meter modifier, and resistant (-50%) vs fire.\n\nNotes. • Bonemass Power damage resistance does not stack with Crystal Heart.",
+  "scraped_at": "2026-02-26T01:57:38.971834+00:00"
+}

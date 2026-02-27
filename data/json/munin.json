@@ -1,0 +1,98 @@
+{
+  "title": "Munin",
+  "url": "https://valheim.fandom.com/wiki/Munin",
+  "slug": "Munin",
+  "categories": [
+    "NPCs",
+    "Lore"
+  ],
+  "infobox": {
+    "_infobox_title": "Munin",
+    "Internal ID": "Ravens",
+    "Affiliation": "Odin | Hugin",
+    "Species": "Bird",
+    "Gender": "Male",
+    "Eye color": "Pale yellow"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Munin is a character found in Valheim. He is a large, talking raven who provides guidance to slain Vikings that have newly arrived in the Mistlands, along with Hugin."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Nothing is known about Munin beyond the fact that he is a large, male raven with the ability to speak and spontaneously appear and disappear wherever he pleases.\nIn Norse mythology, Munin is one of the two named ravens along with Hugin that were used to bring information to the god Odin. It is unclear, however, if Munin serves the same purpose within Valheim."
+    },
+    {
+      "heading": "Tutorial",
+      "level": 2,
+      "text": "As new milestones in the Mistlands are achieved, Munin will appear and offer useful information. He will continue to reappear next to the player until the player interacts with him to read his message.",
+      "table_data": [
+        {
+          "Introduction": "Kraa! Well met, wanderer… I am Munin, brother to Hugin. I bring greetings from the Allfather. His eye sees through mine, I carry his words beneath my tongue. Keep his ways and I will come to you again…"
+        },
+        {
+          "Introduction": "Kraa! All eyes are on this one. Big eyes, little eyes, eyes from above and eyes from below. Even the trees have eyes…"
+        },
+        {
+          "Introduction": "Still you live, warrior? I had hoped for some little snack from your corpse, some morsel of carrion… Still, the Allfather will be pleased."
+        },
+        {
+          "Introduction": "Are you lost in the fog, warrior? I see things your eyes once knew, paths you trod and faces you loved. Poor warrior…"
+        },
+        {
+          "Introduction": "Kraa! Do not forget your quest, wanderer! Remember why the Allfather sent you here. The Forsaken Ones must be destroyed. Remember!"
+        },
+        {
+          "Introduction": "Ah, you have grown into a fine warrior! As a courtesy, I should tell you that when you die, we have agreed that Hugin will have your left eye as a treat and I will have your right. But we wish you well!"
+        },
+        {
+          "Introduction": "Kraa! Serve the Allfather well and he has given me leave to restore your memories. Do you remember the life you had before this one? It yet remembers you..."
+        },
+        {
+          "Introduction": "I had not thought you would survive so long… But guard against pride, friend. Battlefields are banquets to me, I know how all great warriors end..."
+        },
+        {
+          "Introduction": "Kraa! Hear me now, I'll riddle you no longer. I am great Munin, the treasure-house of memory. I sit on the left shoulder of the Allfather and do his bidding in the ten worlds. I have seen many great warriors rise and fall but you are among the greatest. Know that Odin himself is watching you..."
+        },
+        {
+          "Introduction": "Kraa! The Allfather sends tidings! He waits on your word to send the great bridge. Kill the Forsaken Ones and clear the way!"
+        },
+        {
+          "Introduction": "Shadows of an ancient age. The Jotunn once ruled the tenth world, until their time ran out and they were ousted by some other power."
+        },
+        {
+          "Introduction": "Take care, warrior. You've happened upon an outpost of the forlorn Dvergr clans, long since separated from their kin in Nidavellir. Trapped here they still toil, expecting reprieve that will never come. It is a sad fate..."
+        },
+        {
+          "Introduction": "These are the Dvergrhomes, built long ago in a gilded age... Their splendour rivalled the Golden Hall itself! Regrettably, nothing can last forever. The halls below and the treasures left within are now guarded by more sinister lodgers."
+        },
+        {
+          "Introduction": "Well fought warrior! My brother and I will feast well on this offering! Yet still there is work for your arm… In the Ashlands dark clouds blister the sky and the King stirs on his bed of embers. Until today you have only quarreled. Now you must prepare yourself for war…"
+        },
+        {
+          "Introduction": "Kraa! Poor pickings here. Empty skulls scoured clean by the flames. Barely a trace of memory left…"
+        },
+        {
+          "Introduction": "Well met little swordling! Look around you this is the Waste of the Emerald Flame… This is the end of all pride the fire that consumes itself… Tread carefully!"
+        },
+        {
+          "Introduction": "Kraa! I bring a message from the Allfather. Honor is forged in flame. Strike hard upon the anvil spare not the steel!"
+        },
+        {
+          "Introduction": "Kraahaha! A fellow carrion bird! Look at you picking over these poor dead remains…"
+        },
+        {
+          "Introduction": "Hmmm... How do you yet live warrior? Perhaps you have found your element here in the furnace? Curious..."
+        },
+        {
+          "Introduction": "Kraa! A sad memory lingers here... A faint echo in the air... Once these s rang for joy to celebrate his passing but now he cannot bear the sound nor the reminder. If you seek to bring him give them voice once more."
+        }
+      ]
+    }
+  ],
+  "full_text": "Munin\n\nInternal ID: Ravens | Affiliation: Odin | Hugin | Species: Bird | Gender: Male | Eye color: Pale yellow\n\nIntroduction. Munin is a character found in Valheim. He is a large, talking raven who provides guidance to slain Vikings that have newly arrived in the Mistlands, along with Hugin.\n\nBiography. Nothing is known about Munin beyond the fact that he is a large, male raven with the ability to speak and spontaneously appear and disappear wherever he pleases.\nIn Norse mythology, Munin is one of the two named ravens along with Hugin that were used to bring information to the god Odin. It is unclear, however, if Munin serves the same purpose within Valheim.\n\nTutorial. As new milestones in the Mistlands are achieved, Munin will appear and offer useful information. He will continue to reappear next to the player until the player interacts with him to read his message.",
+  "scraped_at": "2026-02-26T01:52:57.915370+00:00"
+}

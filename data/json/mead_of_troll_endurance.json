@@ -1,0 +1,41 @@
+{
+  "title": "Mead of Troll endurance",
+  "url": "https://valheim.fandom.com/wiki/Mead_of_Troll_endurance",
+  "slug": "Mead_of_Troll_endurance",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Mead of Troll endurance",
+    "Type": "Mead",
+    "Internal ID": "MeadStrength",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mead base: Troll endurance x1",
+    "Duration": "5m",
+    "Cooldown": "2m",
+    "Other Effect(s)": "+250.0 carry weight"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Mead of Troll endurance is a Swamp-tier consumable item fermented from Mead base: Troll endurance."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Mead base: Troll endurance is produced in a Mead ketill with:\n• 2 Trollfish\n• 10 Honey\n• 1 Powdered dragon eggshells\nSix Meads of Troll endurance are produced by fermenting the mead base for two in-game days.\nThe trollfish that are used must be of exactly the same Quality. Different qualities of trollfish will not combine."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Consuming it increases player carry weight by 250.0 for 5 minutes."
+    }
+  ],
+  "full_text": "Mead of Troll endurance\n\nType: Mead | Internal ID: MeadStrength | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Troll endurance x1 | Duration: 5m | Cooldown: 2m | Other Effect(s): +250.0 carry weight\n\nIntroduction. Mead of Troll endurance is a Swamp-tier consumable item fermented from Mead base: Troll endurance.\n\nRecipe. Mead base: Troll endurance is produced in a Mead ketill with:\n• 2 Trollfish\n• 10 Honey\n• 1 Powdered dragon eggshells\nSix Meads of Troll endurance are produced by fermenting the mead base for two in-game days.\nThe trollfish that are used must be of exactly the same Quality. Different qualities of trollfish will not combine.\n\nEffect. Consuming it increases player carry weight by 250.0 for 5 minutes.",
+  "scraped_at": "2026-02-26T02:12:22.162174+00:00"
+}

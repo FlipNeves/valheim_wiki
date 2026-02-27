@@ -1,0 +1,89 @@
+{
+  "title": "Stamina",
+  "url": "https://valheim.fandom.com/wiki/Stamina",
+  "slug": "Stamina",
+  "categories": [
+    "Gameplay",
+    "Mechanics"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Stamina is a personal resource in Valheim represented as a yellow bar. Characters have a base 50 stamina, with each bar representing 25 stamina.\nStamina is drained by any actions you perform outside of walking and interacting with objects. These actions include using tools/weapons, and movement that is not walking among others.\nStamina is generated after a few moments of not performing stamina draining tasks or by using Stamina Meads, and can be generated faster with the Resting and Rested Effects, Tasty Mead, and Lingering Stamina Mead.\nStamina will be generated slower while under the Cold, Freezing, and Wet Effects."
+    },
+    {
+      "heading": "Regeneration",
+      "level": 2,
+      "text": "Stamina starts regenerating after stamina has not been used for 1 second. Stamina regeneration depends on the amount of remaining stamina and modifiers.\nb a s e R e g e n = 6 + 6 ⋅ ( 1 − r e m a i n i n g S t a m i n a m a x S t a m i n a ) {\\displaystyle baseRegen = 6 + 6 \\cdot \\Bigl( 1 - \\frac{remainingStamina}{maxStamina} \\Bigr) }\nr e g e n = b a s e R e g e n ⋅ m o d i f i e r 1 ⋅ m o d i f i e r 2 ⋅ … ⋅ m o d i f i e r n {\\displaystyle regen = baseRegen \\cdot modifier_1 \\cdot modifier_2 \\cdot \\ldots \\cdot modifier_n }"
+    },
+    {
+      "heading": "Base regen",
+      "level": 4,
+      "text": "Maximum base regen of 12 is at zero stamina. Minimum base regen of 6 is that maximum stamina. Average base regen depends on how much stamina is regenerated:\n• From 0% to 100%: 8.656 per second\n• From 0% to 50%: 10.43 per second\n• From 0% to 33%: 10.97 per second\n• From 0% to 25%: 11.23 per second\n• From 50% to 100%: 7.40 per second\n• From 33% to 100%: 7.83 per second\n• From 25% to 100%: 8.04 per second\nWith the regeneration delay, the optimal way is to regenerate up to ~50%. With Cold or other negative effects, the optimal limit is ~33%."
+    },
+    {
+      "heading": "Modifiers",
+      "level": 4,
+      "text": "Some actions reduce stamina regeneration and are applied separately from status effects.\n• Falling: 0x\n• Swimming: 0x\n• Blocking: 0.8x\nPositive status effects are added additively, while negative status effects use multiplication. This means the order of effects matters when there are both positive and negative effects. However, Rested and Resting can't be acquired while having any of the negative status effects.\n• Freezing: 0.4x\n• Cold: 0.75x\n• Wet: 0.85x\n• Rested: +100%\n• Resting: +300%\n• Tasty mead: +100%\n• Lingering Stamina mead: +25%\n• Bronze Pendant active: +25%\n• Berserk: +15%\n• Vilebone Wrath: +40%"
+    },
+    {
+      "heading": "Examples",
+      "level": 3,
+      "text": "For example, being Rested, Resting and having Tasty Mead would increase regeneration to +500% which equals 6x regeneration. Being Cold would multiply this by 0.75x and reduce it to 4.5x.\nFor example, being Rested, Resting and Cold equals 3.75x regeneration. Drinking Tasty Mead would increase it to 4.75x."
+    },
+    {
+      "heading": "Drainage",
+      "level": 2,
+      "text": "Stamina drainage is dependent on the action of the player."
+    },
+    {
+      "heading": "Attacking",
+      "level": 3,
+      "text": "The stamina cost of attacks depends on the weapons themselves, the type of attack (primary or secondary) and the Skills level (down to -33%). Attack stamina can be further reduced with Ashen cape or Berserkir mead."
+    },
+    {
+      "heading": "Tools",
+      "level": 3,
+      "text": "Some Tools consume stamina, reduced by the corresponding skills. It can be further reduced by wearing clothes sold by Hildir, -20% stamina usage for most dresses and -15% for hats."
+    },
+    {
+      "heading": "Blocking",
+      "level": 3,
+      "text": "Blocking uses stamina based on how much block power was required to block the damage."
+    },
+    {
+      "heading": "Dodging",
+      "level": 3,
+      "text": "Dodging uses stamina based on the speed penalty from equipment, and on the Dodge (skill). Dodging an attack returns half the stamina cost."
+    },
+    {
+      "heading": "Jumping",
+      "level": 3,
+      "text": "Jumping uses stamina based on the speed penalty from equipment. j u m p S t a m i n a = 10 ⋅ ( 1 + e q u i p m e n t S p e e d P e n a l t y ) {\\displaystyle jumpStamina = 10 \\cdot (1 + equipmentSpeedPenalty) } It can be further reduced by consuming a Lightfoot mead or the Eikthyr Power.\nIt can further be decreased by Corpse run, combining them to 100% reduction makes it take no stamina and allows regeneration while jumping and running."
+    },
+    {
+      "heading": "Running",
+      "level": 3,
+      "text": "Stamina is drained 8 per second (-0.5% per Running (skill) level, up to -50%). It can be further reduced by Eikthyr Power and by wearing an Asksvin cloak, It can further be decreased by Corpse run.\nCombining them to 100% reduction makes it take no stamina at all, while additionally allows regeneration while jumping and running."
+    },
+    {
+      "heading": "Swimming",
+      "level": 3,
+      "text": "Stamina is drained 6 per second (-0.5% per Swimming (skill) level, up to -50%). It can be further reduced Eikthyr Power, consuming a Draught of Vananidir mead or activating a Fins of Destiny trinkets."
+    },
+    {
+      "heading": "Sneaking",
+      "level": 3,
+      "text": "Stamina is drained 5 per second (on average -0.75% per Sneaking (skill) level, up to -75%). It can be further reduced by The Queen's Power."
+    },
+    {
+      "heading": "Encumbered",
+      "level": 3,
+      "text": "Stamina is drained 5 per second while moving, this can not be changed. It also disallows jumping and running.\nSee: https://en.wikipedia.org/wiki/Linear_interpolation"
+    }
+  ],
+  "full_text": "Stamina\n\nIntroduction. Stamina is a personal resource in Valheim represented as a yellow bar. Characters have a base 50 stamina, with each bar representing 25 stamina.\nStamina is drained by any actions you perform outside of walking and interacting with objects. These actions include using tools/weapons, and movement that is not walking among others.\nStamina is generated after a few moments of not performing stamina draining tasks or by using Stamina Meads, and can be generated faster with the Resting and Rested Effects, Tasty Mead, and Lingering Stamina Mead.\nStamina will be generated slower while under the Cold, Freezing, and Wet Effects.\n\nRegeneration. Stamina starts regenerating after stamina has not been used for 1 second. Stamina regeneration depends on the amount of remaining stamina and modifiers.\nb a s e R e g e n = 6 + 6 ⋅ ( 1 − r e m a i n i n g S t a m i n a m a x S t a m i n a ) {\\displaystyle baseRegen = 6 + 6 \\cdot \\Bigl( 1 - \\frac{remainingStamina}{maxStamina} \\Bigr) }\nr e g e n = b a s e R e g e n ⋅ m o d i f i e r 1 ⋅ m o d i f i e r 2 ⋅ … ⋅ m o d i f i e r n {\\displaystyle regen = baseRegen \\cdot modifier_1 \\cdot modifier_2 \\cdot \\ldots \\cdot modifier_n }\n\nBase regen. Maximum base regen of 12 is at zero stamina. Minimum base regen of 6 is that maximum stamina. Average base regen depends on how much stamina is regenerated:\n• From 0% to 100%: 8.656 per second\n• From 0% to 50%: 10.43 per second\n• From 0% to 33%: 10.97 per second\n• From 0% to 25%: 11.23 per second\n• From 50% to 100%: 7.40 per second\n• From 33% to 100%: 7.83 per second\n• From 25% to 100%: 8.04 per second\nWith the regeneration delay, the optimal way is to regenerate up to ~50%. With Cold or other negative effects, the optimal limit is ~33%.\n\nModifiers. Some actions reduce stamina regeneration and are applied separately from status effects.\n• Falling: 0x\n• Swimming: 0x\n• Blocking: 0.8x\nPositive status effects are added additively, while negative status effects use multiplication. This means the order of effects matters when there are both positive and negative effects. However, Rested and Resting can't be acquired while having any of the negative status effects.\n• Freezing: 0.4x\n• Cold: 0.75x\n• Wet: 0.85x\n• Rested: +100%\n• Resting: +300%\n• Tasty mead: +100%\n• Lingering Stamina mead: +25%\n• Bronze Pendant active: +25%\n• Berserk: +15%\n• Vilebone Wrath: +40%\n\nExamples. For example, being Rested, Resting and having Tasty Mead would increase regeneration to +500% which equals 6x regeneration. Being Cold would multiply this by 0.75x and reduce it to 4.5x.\nFor example, being Rested, Resting and Cold equals 3.75x regeneration. Drinking Tasty Mead would increase it to 4.75x.\n\nDrainage. Stamina drainage is dependent on the action of the player.\n\nAttacking. The stamina cost of attacks depends on the weapons themselves, the type of attack (primary or secondary) and the Skills level (down to -33%). Attack stamina can be further reduced with Ashen cape or Berserkir mead.\n\nTools. Some Tools consume stamina, reduced by the corresponding skills. It can be further reduced by wearing clothes sold by Hildir, -20% stamina usage for most dresses and -15% for hats.\n\nBlocking. Blocking uses stamina based on how much block power was required to block the damage.\n\nDodging. Dodging uses stamina based on the speed penalty from equipment, and on the Dodge (skill). Dodging an attack returns half the stamina cost.\n\nJumping. Jumping uses stamina based on the speed penalty from equipment. j u m p S t a m i n a = 10 ⋅ ( 1 + e q u i p m e n t S p e e d P e n a l t y ) {\\displaystyle jumpStamina = 10 \\cdot (1 + equipmentSpeedPenalty) } It can be further reduced by consuming a Lightfoot mead or the Eikthyr Power.\nIt can further be decreased by Corpse run, combining them to 100% reduction makes it take no stamina and allows regeneration while jumping and running.\n\nRunning. Stamina is drained 8 per second (-0.5% per Running (skill) level, up to -50%). It can be further reduced by Eikthyr Power and by wearing an Asksvin cloak, It can further be decreased by Corpse run.\nCombining them to 100% reduction makes it take no stamina at all, while additionally allows regeneration while jumping and running.\n\nSwimming. Stamina is drained 6 per second (-0.5% per Swimming (skill) level, up to -50%). It can be further reduced Eikthyr Power, consuming a Draught of Vananidir mead or activating a Fins of Destiny trinkets.\n\nSneaking. Stamina is drained 5 per second (on average -0.75% per Sneaking (skill) level, up to -75%). It can be further reduced by The Queen's Power.\n\nEncumbered. Stamina is drained 5 per second while moving, this can not be changed. It also disallows jumping and running.\nSee: https://en.wikipedia.org/wiki/Linear_interpolation",
+  "scraped_at": "2026-02-26T01:55:47.659800+00:00"
+}

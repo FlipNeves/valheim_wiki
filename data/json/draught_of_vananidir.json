@@ -1,0 +1,41 @@
+{
+  "title": "Draught of Vananidir",
+  "url": "https://valheim.fandom.com/wiki/Draught_of_Vananidir",
+  "slug": "Draught_of_Vananidir",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Draught of Vananidir",
+    "Type": "Mead",
+    "Internal ID": "MeadSwimmer",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mead base: Vananidir x1",
+    "Duration": "5m",
+    "Cooldown": "0s",
+    "Other Effect(s)": "-50% swimming stamina consumption"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Draught of Vananidir is a Swamp-tier consumable item fermented from Mead base: Vananidir."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Mead base: Vananidir is produced in a Mead ketill with:\n• 10 Dandelion\n• 2 Perch\n• 1 Fresh seaweed\nSix Draughts of Vananidir meads are produced by fermenting the mead base for two in-game days."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Consuming it reduces stamina consumption when swimming by -50% for 5 minutes."
+    }
+  ],
+  "full_text": "Draught of Vananidir\n\nType: Mead | Internal ID: MeadSwimmer | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Vananidir x1 | Duration: 5m | Cooldown: 0s | Other Effect(s): -50% swimming stamina consumption\n\nIntroduction. Draught of Vananidir is a Swamp-tier consumable item fermented from Mead base: Vananidir.\n\nRecipe. Mead base: Vananidir is produced in a Mead ketill with:\n• 10 Dandelion\n• 2 Perch\n• 1 Fresh seaweed\nSix Draughts of Vananidir meads are produced by fermenting the mead base for two in-game days.\n\nEffect. Consuming it reduces stamina consumption when swimming by -50% for 5 minutes.",
+  "scraped_at": "2026-02-26T02:12:27.315646+00:00"
+}

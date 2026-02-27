@@ -1,0 +1,11 @@
+{
+  "title": "Elemental magic (skill)",
+  "url": "https://valheim.fandom.com/wiki/Elemental_magic_(skill)",
+  "slug": "Elemental_magic_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "content": "# Elemental magic (skill)\n\nDescription: Damage and Eitr usage when using Elemental magic.\n\n# Introduction\n\nElemental magic is a skill related to Elemental magic weapon class.\n\n## Effects\n\nHigher skill level in elemental magic reduces the Eitr cost to attack down to -33% and increases damage and knockback up to +141%.\nDundr Eitr cost is not reduced by Elemental magic Skill.\nFor the details of damage scaling, see Damage mechanics#Skill factor.\n\n## Leveling up\n\nThe player gains xp when hitting a creature with a staff. The amount is dependent on the staff used.\n\n• Name: Staff of Embers | Eitr Used: 35 | Experience gained per hit: 24 | col_4: 1xp\n\n• Name: Staff of Frost | Eitr Used: 5 | Experience gained per hit: 3 | col_4: 0.2xp\n\n• Name: Dundr | Eitr Used: 25 | Experience gained per hit: 25 | col_4: 12 x 0.1xp\n\n• Name: Staff of the Wild | Eitr Used: 55 | Experience gained per hit: 37 | col_4: 1xp\n\n• Name: Staff of Fracturing | Eitr Used: 30 | Experience gained per hit: 20 | col_4: 12 x 0.1xp\n\nCategorias: Skills",
+  "content_length": 1022,
+  "scraped_at": "2026-02-26T01:43:32.725120+00:00"
+}

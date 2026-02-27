@@ -1,0 +1,13 @@
+{
+  "title": "Silver sword",
+  "url": "https://valheim.fandom.com/wiki/Silver_sword",
+  "slug": "Silver_sword",
+  "categories": [
+    "Weapons",
+    "Swords",
+    "Forge recipes"
+  ],
+  "content": "# Silver sword\n\nInternal ID: SwordSilver | Type: Sword | Source: Forge | Usage: Weapon | Wielding: One-handed | Crafting Materials: Wood x3, Silver x60, Leather scraps x3, Iron x9 | Attack speed: 1.84 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.7 range, 10 angle, 1.0 height, 0.7 ray | Movement speed: -5%\n\n# Introduction\n\nThe Silver sword is the third sword.\n• Primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.\n• Secondary attack deals 3x damage with a slightly longer reach.\n\n## Upgrade information\n\n• stat: Slash | Quality 1: 75 | Quality 2: 81 | Quality 3: 87 | Quality 4: 93\n\n• stat: Spirit | Quality 1: 30 | Quality 2: 35 | Quality 3: 40 | Quality 4: 45\n\n• stat: Durability | Quality 1: 200 | Quality 2: 250 | Quality 3: 300 | Quality 4: 350\n\n• stat: Crafting | Quality 1: 2 Wood40 Silver3 Leather scraps5 Iron | Quality 2: 1 Wood20 Silver1 Leather scraps3 Iron | Quality 3: 2 Wood40 Silver2 Leather scraps6 Iron | Quality 4: 3 Wood60 Silver3 Leather scraps9 Iron | Total: 8 Wood160 Silver9 Leather scraps23 Iron\n\n• stat: Forge level | Quality 1: 3 | Quality 2: 4 | Quality 3: 5 | Quality 4: 6\n\n## Notes\n\n• The spirit damage on the weapon only affects undead and demon enemies. This makes higher physical damage dealing swords such as the Black metal sword better for general use.\n• Spirit damage is not instant damage, but a ticking (and stacking) debuff like fire.\n• Silver sword has currently the highest spirit damage of any weapon in the game.\n\nCategorias: Weapons, Swords, Forge recipes",
+  "content_length": 1574,
+  "scraped_at": "2026-02-26T01:18:12.377556+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Tin deposit",
+  "url": "https://valheim.fandom.com/wiki/Tin_deposit",
+  "slug": "Tin_deposit",
+  "categories": [
+    "Ore deposits",
+    "Resource nodes"
+  ],
+  "infobox": {
+    "_infobox_title": "Tin deposit",
+    "Type": "Ore deposits",
+    "Internal ID": "MineRock_Tin",
+    "Location": "Black Forest",
+    "Neutral to": "Pickaxe",
+    "Immune to": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Tin deposits are resource nodes and are found in the Black Forest biome. An Antler pickaxe or better is required to harvest Tin ore from the deposit."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Tin deposits are found near water sources, such as rivers. They appear as medium rocks with distinct dark and silver colored intrusions protruding out from the ground. Each node has 30 health, and yields Tin ore when mined."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Drop Rate",
+          "Tin ore": "3-4"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Metal deposits do not respawn.\n• Due to their small size, they break entirely from one chunk being harvested.\n• Like other metals, Tin ore cannot be teleported."
+    }
+  ],
+  "full_text": "Tin deposit\n\nType: Ore deposits | Internal ID: MineRock_Tin | Location: Black Forest | Neutral to: Pickaxe | Immune to: Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit\n\nIntroduction. Tin deposits are resource nodes and are found in the Black Forest biome. An Antler pickaxe or better is required to harvest Tin ore from the deposit.\n\nAvailability. Tin deposits are found near water sources, such as rivers. They appear as medium rocks with distinct dark and silver colored intrusions protruding out from the ground. Each node has 30 health, and yields Tin ore when mined.\n\nNotes. • Metal deposits do not respawn.\n• Due to their small size, they break entirely from one chunk being harvested.\n• Like other metals, Tin ore cannot be teleported.",
+  "scraped_at": "2026-02-26T01:48:56.118152+00:00"
+}

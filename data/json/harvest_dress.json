@@ -1,0 +1,29 @@
+{
+  "title": "Harvest dress",
+  "url": "https://valheim.fandom.com/wiki/Harvest_dress",
+  "slug": "Harvest_dress",
+  "categories": [
+    "Armor",
+    "Body"
+  ],
+  "infobox": {
+    "_infobox_title": "Harvest dress",
+    "Internal ID": "ArmorHarvester2",
+    "Type": "Body",
+    "Source": "Sold by, Hildir, after returning her, Brass chest",
+    "Buy": "550, Coins",
+    "Armor": "1",
+    "Set Effect": "Harvester: Wearing the right clothes makes the chores easier., Farming, +25",
+    "Set Pieces": "Straw hat",
+    "Base Item Stamina Usage": "-20%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Harvest dress is a part of a set together with Straw hat that increases the player's Farming skill by +25 so long as both pieces are worn. The Harvest tunic can be used in place of the dress for the same effect. It is sold by Hildir after retrieving and bringing her the Brass chest."
+    }
+  ],
+  "full_text": "Harvest dress\n\nInternal ID: ArmorHarvester2 | Type: Body | Source: Sold by, Hildir, after returning her, Brass chest | Buy: 550, Coins | Armor: 1 | Set Effect: Harvester: Wearing the right clothes makes the chores easier., Farming, +25 | Set Pieces: Straw hat | Base Item Stamina Usage: -20%\n\nIntroduction. Harvest dress is a part of a set together with Straw hat that increases the player's Farming skill by +25 so long as both pieces are worn. The Harvest tunic can be used in place of the dress for the same effect. It is sold by Hildir after retrieving and bringing her the Brass chest.",
+  "scraped_at": "2026-02-26T01:22:11.411096+00:00"
+}

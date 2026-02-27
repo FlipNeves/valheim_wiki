@@ -1,0 +1,30 @@
+{
+  "title": "Grausten payload",
+  "url": "https://valheim.fandom.com/wiki/Grausten_payload",
+  "slug": "Grausten_payload",
+  "categories": [
+    "Weapons",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Grausten payload",
+    "Internal ID": "Catapult_Ammo",
+    "Type": "Catapult Ammo",
+    "Source": "Workbench",
+    "Crafting Materials": "Grausten x10"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Grausten payload is a catapult ammo. It explodes dealing 20 blunt damage on impact plus 5 blunt, 5 chop and 5 pickaxe damage in a 3-meter radius. It can destroy any structure that is able to receive damage.\nGrausten payloads are cheap to craft but inflict very little damage. Their current best use is to adjust the catapult's aim before launching the more effective Explosive payload."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Made at the workbench, requiring a workbench level of 1 or above."
+    }
+  ],
+  "full_text": "Grausten payload\n\nInternal ID: Catapult_Ammo | Type: Catapult Ammo | Source: Workbench | Crafting Materials: Grausten x10\n\nIntroduction. The Grausten payload is a catapult ammo. It explodes dealing 20 blunt damage on impact plus 5 blunt, 5 chop and 5 pickaxe damage in a 3-meter radius. It can destroy any structure that is able to receive damage.\nGrausten payloads are cheap to craft but inflict very little damage. Their current best use is to adjust the catapult's aim before launching the more effective Explosive payload.\n\nAvailability. • Made at the workbench, requiring a workbench level of 1 or above.",
+  "scraped_at": "2026-02-26T01:15:27.100857+00:00"
+}

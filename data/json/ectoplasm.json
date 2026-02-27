@@ -1,0 +1,30 @@
+{
+  "title": "Ectoplasm",
+  "url": "https://valheim.fandom.com/wiki/Ectoplasm",
+  "slug": "Ectoplasm",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Ectoplasm",
+    "Type": "Material",
+    "Internal ID": "Ectoplasm",
+    "Source": "Ghost",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ectoplasm is a material dropped by Ghosts."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• T.W.I.G."
+    }
+  ],
+  "full_text": "Ectoplasm\n\nType: Material | Internal ID: Ectoplasm | Source: Ghost | Usage: Building | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Ectoplasm is a material dropped by Ghosts.\n\nBuilding. • T.W.I.G.",
+  "scraped_at": "2026-02-26T01:33:12.718821+00:00"
+}

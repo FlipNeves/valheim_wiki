@@ -1,0 +1,35 @@
+{
+  "title": "Blob trophy",
+  "url": "https://valheim.fandom.com/wiki/Blob_trophy",
+  "slug": "Blob_trophy",
+  "categories": [
+    "Trophies"
+  ],
+  "infobox": {
+    "_infobox_title": "Blob trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyBlob",
+    "Source": "Blob",
+    "Usage": "Crafting, Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Blob Trophy is a rare drop from Blobs in the Swamp."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Blob bomb Poison\n• Blob bomb Elite poison"
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed on an Item stand.\n• Can be used to program Ballistas."
+    }
+  ],
+  "full_text": "Blob trophy\n\nType: Trophy | Internal ID: TrophyBlob | Source: Blob | Usage: Crafting, Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Blob Trophy is a rare drop from Blobs in the Swamp.\n\nCrafting. • Blob bomb Poison\n• Blob bomb Elite poison\n\nMisc. • Can be displayed on an Item stand.\n• Can be used to program Ballistas.",
+  "scraped_at": "2026-02-26T02:05:08.882504+00:00"
+}

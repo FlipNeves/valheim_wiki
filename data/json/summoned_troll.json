@@ -1,0 +1,41 @@
+{
+  "title": "Summoned troll",
+  "url": "https://valheim.fandom.com/wiki/Summoned_troll",
+  "slug": "Summoned_troll",
+  "categories": [
+    "Minions",
+    "Creatures with weak points"
+  ],
+  "infobox": {
+    "_infobox_title": "Summoned troll",
+    "Internal ID": "Troll_Summoned",
+    "Type": "Minion",
+    "Faction": "Summoned Troll",
+    "Abilities": "Punch, Ground slam (+ AoE), Stone throw",
+    "Weak to (x1.5)": "Frost",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Fire, ,, Frost, ,, Lightning, ,, Poison",
+    "Resistant to (x0.5)": "Blunt",
+    "Immune to (x0)": "Spirit, ,, Chop, ,, Pickaxe",
+    "Location": "Head",
+    "Very weak to (x2)": "Pierce"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Summoned Trolls are aggressive creatures summoned by a player using the Trollstav."
+    },
+    {
+      "heading": "General",
+      "level": 2,
+      "text": "They are large skeletal Trolls that crash to the earth in a fireball when summoned and attack all other creatures, including bosses but excluding other Summoned Trolls, in the area. Unlike when summoning Skeletts with the Dead Raiser, the Summoned Troll will not be friendly and will attack all other creatures, including players and tamed creatures.\nLike regular Trolls, the Summoned Trolls come in two variants: an unarmed Troll that throws stones, punches and does a ground slam, or a Troll equipped with a large club."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "A Summoned Troll does attack damage similar to a 0-star regular Troll, but with considerably more health and different resistances to physical and elemental Damage."
+    }
+  ],
+  "full_text": "Summoned troll\n\nInternal ID: Troll_Summoned | Type: Minion | Faction: Summoned Troll | Abilities: Punch, Ground slam (+ AoE), Stone throw | Weak to (x1.5): Frost | Neutral to (x1): Blunt, ,, Slash, ,, Fire, ,, Frost, ,, Lightning, ,, Poison | Resistant to (x0.5): Blunt | Immune to (x0): Spirit, ,, Chop, ,, Pickaxe | Location: Head | Very weak to (x2): Pierce\n\nIntroduction. Summoned Trolls are aggressive creatures summoned by a player using the Trollstav.\n\nGeneral. They are large skeletal Trolls that crash to the earth in a fireball when summoned and attack all other creatures, including bosses but excluding other Summoned Trolls, in the area. Unlike when summoning Skeletts with the Dead Raiser, the Summoned Troll will not be friendly and will attack all other creatures, including players and tamed creatures.\nLike regular Trolls, the Summoned Trolls come in two variants: an unarmed Troll that throws stones, punches and does a ground slam, or a Troll equipped with a large club.\n\nNotes. A Summoned Troll does attack damage similar to a 0-star regular Troll, but with considerably more health and different resistances to physical and elemental Damage.",
+  "scraped_at": "2026-02-26T01:55:14.093122+00:00"
+}

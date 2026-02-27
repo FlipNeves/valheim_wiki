@@ -1,0 +1,57 @@
+{
+  "title": "Galdr table",
+  "url": "https://valheim.fandom.com/wiki/Galdr_table",
+  "slug": "Galdr_table",
+  "categories": [
+    "Crafting structures"
+  ],
+  "infobox": {
+    "_infobox_title": "Galdr table",
+    "Type": "Crafting",
+    "Internal ID": "piece_magetable",
+    "Source": "Workbench",
+    "Usage": "Craft & build, Mistlands, items",
+    "Max Level": "4",
+    "Improvements": "Rune table | Unfading candles | Feathery wreath",
+    "Crafting Materials": "Black metal x10, Yggdrasil wood x20, Black core x5, Refined eitr x5",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Galdr tables are base structures used for crafting and repairing Mistlands and Ashlands gear relating to magic. They require a roof and 70% cover to be usable. Repairing items does not cost any resources."
+    },
+    {
+      "heading": "Upgrades",
+      "level": 2,
+      "text": "Upgrading a Galdr table enables additional crafting recipes and higher upgrade levels for items. A Galdr table can be upgraded up to level 4 by building the following structures near it:",
+      "table_data": [
+        {
+          "Icon": "",
+          "Name": "Rune table",
+          "Materials": "10 Black marble5 Yggdrasil wood10 Refined eitr"
+        },
+        {
+          "Icon": "",
+          "Name": "Unfading candles",
+          "Materials": "10 Black marble3 Skeleton trophy10 Refined eitr15 Resin"
+        },
+        {
+          "Icon": "",
+          "Name": "Feathery wreath",
+          "Materials": "8 Celestial Feather1 Asksvin trophy10 Refined eitr3 Ashwood"
+        },
+        {
+          "stat": "Total (Galdr table included)",
+          "Name": "25 Yggdrasil wood10 Black metal20 Black marble5 Black core35 Refined eitr3 Skeleton trophy15 Resin8 Celestial Feather1 Asksvin trophy3 Ashwood"
+        }
+      ]
+    }
+  ],
+  "full_text": "Galdr table\n\nType: Crafting | Internal ID: piece_magetable | Source: Workbench | Usage: Craft & build, Mistlands, items | Max Level: 4 | Improvements: Rune table | Unfading candles | Feathery wreath | Crafting Materials: Black metal x10, Yggdrasil wood x20, Black core x5, Refined eitr x5 | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. Galdr tables are base structures used for crafting and repairing Mistlands and Ashlands gear relating to magic. They require a roof and 70% cover to be usable. Repairing items does not cost any resources.\n\nUpgrades. Upgrading a Galdr table enables additional crafting recipes and higher upgrade levels for items. A Galdr table can be upgraded up to level 4 by building the following structures near it:",
+  "scraped_at": "2026-02-26T02:08:36.151762+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Shipwreck",
+  "url": "https://valheim.fandom.com/wiki/Shipwreck",
+  "slug": "Shipwreck",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Shipwreck",
+    "Type": "Structure",
+    "Internal ID": "ShipWreck01 | ShipWreck02 | ShipWreck03 | ShipWreck04",
+    "Location": "Black Forest, ,, Swamp, ,, Plains"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Shipwrecks are Points of interest found around the shores of the Black Forest, Swamp and Plains.\nThey come in 4 variants. They have a 74.9% chance for a Shipwreck Chest that contains valuables.\nThe different parts of shipwrecks can be destroyed for Finewood. Large parts yield between 10 and 15 Finewood, and small parts yield between 3 and 6 Finewood."
+    }
+  ],
+  "full_text": "Shipwreck\n\nType: Structure | Internal ID: ShipWreck01 | ShipWreck02 | ShipWreck03 | ShipWreck04 | Location: Black Forest, ,, Swamp, ,, Plains\n\nIntroduction. Shipwrecks are Points of interest found around the shores of the Black Forest, Swamp and Plains.\nThey come in 4 variants. They have a 74.9% chance for a Shipwreck Chest that contains valuables.\nThe different parts of shipwrecks can be destroyed for Finewood. Large parts yield between 10 and 15 Finewood, and small parts yield between 3 and 6 Finewood.",
+  "scraped_at": "2026-02-26T01:47:01.588514+00:00"
+}

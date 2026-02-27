@@ -1,0 +1,41 @@
+{
+  "title": "Fuling totem",
+  "url": "https://valheim.fandom.com/wiki/Fuling_totem",
+  "slug": "Fuling_totem",
+  "categories": [
+    "Misc Items",
+    "Forsaken offerings"
+  ],
+  "infobox": {
+    "_infobox_title": "Fuling totem",
+    "Type": "Misc",
+    "Internal ID": "GoblinTotem",
+    "Source": "Fuling Village, ,, Fuling Berserker",
+    "Usage": "Summon, Yagluth",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fuling totems are rare items found in the Plains."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "A total of five Fuling totems are required to summon Yagluth, the fifth boss of Valheim."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Fuling totems can be obtained from various sources:\n• In Fuling Villages, with a 50% chance next to each Bonfire.\n• Guaranteed inside some variants of Fuling Outposts.\n• As a 10% drop from Fuling Berserkers.\n• As a 2.8% drop from chest in Stonehenges."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• If the pedestal on which the totem rests is destroyed before the player interacts with the totem, the totem will not be dropped.\n• The totem bears some resemblance to Yagluth, especially the crown. It is implied through various Runestones that the Fulings worship him as some sort of king or deity.\n• Totems are fairly uncommon and are not guaranteed to be present in points of interest in the Plains."
+    }
+  ],
+  "full_text": "Fuling totem\n\nType: Misc | Internal ID: GoblinTotem | Source: Fuling Village, ,, Fuling Berserker | Usage: Summon, Yagluth | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Fuling totems are rare items found in the Plains.\n\nUsage. A total of five Fuling totems are required to summon Yagluth, the fifth boss of Valheim.\n\nAvailability. Fuling totems can be obtained from various sources:\n• In Fuling Villages, with a 50% chance next to each Bonfire.\n• Guaranteed inside some variants of Fuling Outposts.\n• As a 10% drop from Fuling Berserkers.\n• As a 2.8% drop from chest in Stonehenges.\n\nNotes. • If the pedestal on which the totem rests is destroyed before the player interacts with the totem, the totem will not be dropped.\n• The totem bears some resemblance to Yagluth, especially the crown. It is implied through various Runestones that the Fulings worship him as some sort of king or deity.\n• Totems are fairly uncommon and are not guaranteed to be present in points of interest in the Plains.",
+  "scraped_at": "2026-02-26T02:18:12.108965+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Elemental magic (skill)",
+  "url": "https://valheim.fandom.com/wiki/Elemental_magic_(skill)",
+  "slug": "Elemental_magic_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "infobox": {
+    "_infobox_title": "Elemental magic (skill)",
+    "Description": "Damage and Eitr usage when using Elemental magic."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Elemental magic is a skill related to Elemental magic weapon class."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Higher skill level in elemental magic reduces the Eitr cost to attack down to -33% and increases damage and knockback up to +141%.\nDundr Eitr cost is not reduced by Elemental magic Skill.\nFor the details of damage scaling, see Damage mechanics#Skill factor."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "The player gains xp when hitting a creature with a staff. The amount is dependent on the staff used.",
+      "table_data": [
+        {
+          "Name": "Staff of Embers",
+          "Icon": "",
+          "Eitr Used": "35",
+          "Experience gained per hit": "24",
+          "col_4": "1xp"
+        },
+        {
+          "Name": "Staff of Frost",
+          "Icon": "",
+          "Eitr Used": "5",
+          "Experience gained per hit": "3",
+          "col_4": "0.2xp"
+        },
+        {
+          "Name": "Dundr",
+          "Icon": "",
+          "Eitr Used": "25",
+          "Experience gained per hit": "25",
+          "col_4": "12 x 0.1xp"
+        },
+        {
+          "Name": "Staff of the Wild",
+          "Icon": "",
+          "Eitr Used": "55",
+          "Experience gained per hit": "37",
+          "col_4": "1xp"
+        },
+        {
+          "Name": "Staff of Fracturing",
+          "Icon": "",
+          "Eitr Used": "30",
+          "Experience gained per hit": "20",
+          "col_4": "12 x 0.1xp"
+        }
+      ]
+    }
+  ],
+  "full_text": "Elemental magic (skill)\n\nDescription: Damage and Eitr usage when using Elemental magic.\n\nIntroduction. Elemental magic is a skill related to Elemental magic weapon class.\n\nEffects. Higher skill level in elemental magic reduces the Eitr cost to attack down to -33% and increases damage and knockback up to +141%.\nDundr Eitr cost is not reduced by Elemental magic Skill.\nFor the details of damage scaling, see Damage mechanics#Skill factor.\n\nLeveling up. The player gains xp when hitting a creature with a staff. The amount is dependent on the staff used.",
+  "scraped_at": "2026-02-26T01:43:32.725120+00:00"
+}

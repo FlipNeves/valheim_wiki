@@ -1,0 +1,11 @@
+{
+  "title": "Ocean",
+  "url": "https://valheim.fandom.com/wiki/Ocean",
+  "slug": "Ocean",
+  "categories": [
+    "Biomes"
+  ],
+  "content": "# Ocean\n\nPassive: Leviathan, Tuna, Coral cod, Pufferfish | Hostile: Serpent\n\n# Introduction\n\nThe Ocean is a biome made up of, much like examples in real life, a vast body of water. It is only realistically accessible by boats, as swimming out from the safety of the shore quickly depletes stamina and leads to drowning. In many ways, the Ocean acts as less its own dedicated biome, per se, and more a vehicle for player exploration.\nCurrently the biome only features the elusive and destructive Serpent enemy as well as the even more elusive Leviathan, a hulking shelled creature covered in shrubbery, algae, and barnacles. These two creatures are the sole way for players to gather Serpent scales and Chitin, respectively.\n\n## Waves\n\nCertain Weather effects will increase the size and frequency of waves within the ocean.\n\n• Effect: Clear | Frequency: 2.5 per min | Avg Height: 0.5m | Max Height: 1.5m\n\n• Effect: Rain | Frequency: 2.5 per min | Avg Height: 2m | Max Height: 3m\n\n• Effect: ThunderStorm | Frequency: 5 per min | Avg Height: 3m | Max Height: 5m\n\n## Notes\n\n• Creatures killed and boats destroyed in the water cause some of the flotsam to sink beneath the waves. A ship being sunk at sea often means heavier objects are lost to the briny deep. Examples of floating material include wood and some trophies; nails, pelts, coins, etc. sink to the bottom and can become unreachable. Player deaths in the Ocean biome generate a floating headstone, while a vessel's cargo contents are stored in crates that float above the water.\n• There is a simulation of low and high tide within the game on all coast and shore lines.\n\n## Creatures\n\n• Serpent\n• Tuna\n• Coral cod\n• Pufferfish\n• Leviathan\n\nCategorias: Biomes",
+  "content_length": 1715,
+  "scraped_at": "2026-02-26T01:05:36.575077+00:00"
+}

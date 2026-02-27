@@ -1,0 +1,72 @@
+{
+  "title": "Slayer",
+  "url": "https://valheim.fandom.com/wiki/Slayer",
+  "slug": "Slayer",
+  "categories": [
+    "Weapons",
+    "Swords",
+    "Black forge recipes",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Slayer",
+    "Internal ID": "THSwordSlayer",
+    "Type": "Sword",
+    "Source": "Black forge",
+    "Usage": "Weapon",
+    "Crafting Materials": "Flametal x45, Asksvin hide x15, Morgen sinew x9",
+    "Attack speed": "2.16 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "3 range, 30 angle, 1.0 height, 0.5 ray",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Slayer is the second two-handed sword.\nLike most Ashlands-tier weapons, the Slayer can be upgraded to one of the following three variants using gemstones:\n• Brutal Slayer (Bloodstone)\n• Scourging Slayer (Iolite)\n• Primal Slayer (Jade)\n• An upgraded Slayer will NOT keep its upgrade level when it is modified using gemstones."
+    },
+    {
+      "heading": "Upgrade Information",
+      "level": 2,
+      "text": "Total cost for the fully upgraded sword is 21 Morgen sinew, 120 Flametal, and 35 Asksvin hide. However, it is 15 Morgen sinew, 75 Flametal, and 20 Asksvin Hide for level 3, which is the highest upgrade currently obtainable.",
+      "table_data": [
+        {
+          "stat": "Slash",
+          "Quality 1": "170",
+          "Quality 2": "176",
+          "Quality 3": "182",
+          "Quality 4": "188"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "30 Flametal3 Morgen sinew5 Asksvin hide",
+          "Quality 2": "15 Flametal3 Morgen sinew5 Asksvin hide",
+          "Quality 3": "30 Flametal6 Morgen sinew10 Asksvin hide",
+          "Quality 4": "45 Flametal9 Morgen sinew15 Asksvin hide"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "3",
+          "Quality 2": "4",
+          "Quality 3": "5",
+          "Quality 4": "6 (not yet available)"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The attacks are fairly vertical & wide reaching on the primary attacks with the third attack in the combo being more narrow in the horizonal range\n• The secondary attack is a long reaching thrust that is capable of outreaching most enemies with very excellent damage."
+    }
+  ],
+  "full_text": "Slayer\n\nInternal ID: THSwordSlayer | Type: Sword | Source: Black forge | Usage: Weapon | Crafting Materials: Flametal x45, Asksvin hide x15, Morgen sinew x9 | Attack speed: 2.16 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 3 range, 30 angle, 1.0 height, 0.5 ray | Movement speed: -5%\n\nIntroduction. The Slayer is the second two-handed sword.\nLike most Ashlands-tier weapons, the Slayer can be upgraded to one of the following three variants using gemstones:\n• Brutal Slayer (Bloodstone)\n• Scourging Slayer (Iolite)\n• Primal Slayer (Jade)\n• An upgraded Slayer will NOT keep its upgrade level when it is modified using gemstones.\n\nUpgrade Information. Total cost for the fully upgraded sword is 21 Morgen sinew, 120 Flametal, and 35 Asksvin hide. However, it is 15 Morgen sinew, 75 Flametal, and 20 Asksvin Hide for level 3, which is the highest upgrade currently obtainable.\n\nNotes. • The attacks are fairly vertical & wide reaching on the primary attacks with the third attack in the combo being more narrow in the horizonal range\n• The secondary attack is a long reaching thrust that is capable of outreaching most enemies with very excellent damage.",
+  "scraped_at": "2026-02-26T01:18:22.259138+00:00"
+}

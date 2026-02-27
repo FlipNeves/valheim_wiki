@@ -1,0 +1,41 @@
+{
+  "title": "Obliterator",
+  "url": "https://valheim.fandom.com/wiki/Obliterator",
+  "slug": "Obliterator",
+  "categories": [
+    "Crafting structures"
+  ],
+  "infobox": {
+    "_infobox_title": "Obliterator",
+    "Type": "Crafting",
+    "Internal ID": "incinerator",
+    "Source": "Forge",
+    "Crafting Materials": "Iron x8, Copper x4, Thunder stone x1",
+    "Resistant to (x0.5)": "Blunt, ,, Chop, ,, Fire, ,, Frost, ,, Pickaxe, ,, Pierce, ,, Slash",
+    "Immune to (x0)": "Lightning, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Obliterators are buildable structures that convert any item to Coal."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "Put gifts to Thor into the Obliterator and pull the lever on the right side, giving the player coal in return.\nWhen activated, lightning strikes the lightning rod above the Obliterator dealing 400 Lightning damage and additional 10 Lightning damage within 2.42 meters."
+    },
+    {
+      "heading": "Conversion rates",
+      "level": 2,
+      "text": "To get 1 coal, insert:\n• 1 Trophy, including boss trophies, except trophies from Ashlands creatures, Hildir minibosses, Bear, Vile and Ghost.\n• 5 Wood, Corewood, Finewood, Ancient bark, or Yggdrasil wood.\n• 20 Arrows, except (Charred arrow)\n• 20 Bolts, except (Iron bolt and Charred bolt)\n• 10 of other items (including coal)"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The Obliterator can be placed anywhere on a flat surface and does not degrade due to rain.\n• The Obliterator generates its own lightning bolt and does not require a thunderstorm to operate.\n• Wood and meats can be converted to coal at a 1:1 conversion rate using a Charcoal kiln or cooking station, making it resource-inefficient to place these in the Obliterator.\n• Currently, many trophies after Mistlands do not share the 1:1 conversion rate as other trophies, including Hildir's minibosses."
+    }
+  ],
+  "full_text": "Obliterator\n\nType: Crafting | Internal ID: incinerator | Source: Forge | Crafting Materials: Iron x8, Copper x4, Thunder stone x1 | Resistant to (x0.5): Blunt, ,, Chop, ,, Fire, ,, Frost, ,, Pickaxe, ,, Pierce, ,, Slash | Immune to (x0): Lightning, ,, Poison, ,, Spirit\n\nIntroduction. Obliterators are buildable structures that convert any item to Coal.\n\nUsage. Put gifts to Thor into the Obliterator and pull the lever on the right side, giving the player coal in return.\nWhen activated, lightning strikes the lightning rod above the Obliterator dealing 400 Lightning damage and additional 10 Lightning damage within 2.42 meters.\n\nConversion rates. To get 1 coal, insert:\n• 1 Trophy, including boss trophies, except trophies from Ashlands creatures, Hildir minibosses, Bear, Vile and Ghost.\n• 5 Wood, Corewood, Finewood, Ancient bark, or Yggdrasil wood.\n• 20 Arrows, except (Charred arrow)\n• 20 Bolts, except (Iron bolt and Charred bolt)\n• 10 of other items (including coal)\n\nNotes. • The Obliterator can be placed anywhere on a flat surface and does not degrade due to rain.\n• The Obliterator generates its own lightning bolt and does not require a thunderstorm to operate.\n• Wood and meats can be converted to coal at a 1:1 conversion rate using a Charcoal kiln or cooking station, making it resource-inefficient to place these in the Obliterator.\n• Currently, many trophies after Mistlands do not share the 1:1 conversion rate as other trophies, including Hildir's minibosses.",
+  "scraped_at": "2026-02-26T01:57:12.427084+00:00"
+}

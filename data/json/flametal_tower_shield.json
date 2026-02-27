@@ -1,0 +1,60 @@
+{
+  "title": "Flametal tower shield",
+  "url": "https://valheim.fandom.com/wiki/Flametal_tower_shield",
+  "slug": "Flametal_tower_shield",
+  "categories": [
+    "Weapons",
+    "Shields",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Flametal tower shield",
+    "Internal ID": "ShieldFlametalTower",
+    "Type": "Shield",
+    "Source": "Black forge",
+    "Usage": "Blocking",
+    "Wielding": "Off-hand",
+    "Crafting Materials": "Ashwood x20, Flametal x8, Asksvin hide x4",
+    "Movement speed": "-10%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Flametal tower shield is the sixth tower shield, craftable from Ashlands materials. It currently has the highest block armor value of any shield in the game.\nIt has more block power compared to the Flametal Shield but reduces movement speed by 10%.\nAs a tower shield, it cannot be used to parry enemy attacks."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Block armor",
+          "Quality 1": "140",
+          "Quality 2": "146",
+          "Quality 3": "152"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "15 Ashwood10 Flametal5 Asksvin hide",
+          "Quality 2": "10 Ashwood4 Flametal2 Asksvin hide",
+          "Quality 3": "20 Ashwood8 Flametal4 Asksvin hide"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "3",
+          "Quality 2": "4",
+          "Quality 3": "5"
+        }
+      ]
+    }
+  ],
+  "full_text": "Flametal tower shield\n\nInternal ID: ShieldFlametalTower | Type: Shield | Source: Black forge | Usage: Blocking | Wielding: Off-hand | Crafting Materials: Ashwood x20, Flametal x8, Asksvin hide x4 | Movement speed: -10%\n\nIntroduction. The Flametal tower shield is the sixth tower shield, craftable from Ashlands materials. It currently has the highest block armor value of any shield in the game.\nIt has more block power compared to the Flametal Shield but reduces movement speed by 10%.\nAs a tower shield, it cannot be used to parry enemy attacks.",
+  "scraped_at": "2026-02-26T01:14:54.422995+00:00"
+}

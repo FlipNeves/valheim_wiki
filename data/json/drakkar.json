@@ -1,0 +1,44 @@
+{
+  "title": "Drakkar",
+  "url": "https://valheim.fandom.com/wiki/Drakkar",
+  "slug": "Drakkar",
+  "categories": [
+    "Work in progress",
+    "Misc structures",
+    "Storage",
+    "2 more",
+    "Boats",
+    "Transport"
+  ],
+  "infobox": {
+    "_infobox_title": "Drakkar",
+    "Type": "Misc",
+    "Internal ID": "VikingShip_Ashlands",
+    "Source": "Workbench",
+    "Usage": "Sailing",
+    "Crafting Materials": "Iron nails x100, Ceramic plate x30, Finewood x50, Yggdrasil wood x25",
+    "Weak to (x1.5)": "Fire",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce, ,, Frost",
+    "Immune to (x0)": "Chop, ,, Pickaxe, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Drakkars are large, high-speed boats with exceptional storage capacity but poor maneuverability. Drakkars are the most expensive boats to construct compared to other boats. Drakkars can move nearly as fast as Longships, but trade agility for greater durability and storage space, which makes them suitable for withstanding significant damage while carrying large loads. Drakkars are unique as they are the only boats capable of traversing the boiling waters of the Ashlands without being damaged."
+    },
+    {
+      "heading": "Specifications",
+      "level": 2,
+      "text": "This boat is 12 (15 if including the mast) meters wide, 30 meters long, and 20 meters tall for those who wish to build a dock.\nThe storage space has 32 item slots.\nDrakkar has 9 seats including the steering seat and you can also \"Hold Fast\" by interacting with the mast."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Boats cannot be deconstructed with a hammer, but their resources drop when they are destroyed and can be recovered if a player is standing or swimming in range to pick them up before they sink."
+    }
+  ],
+  "full_text": "Drakkar\n\nType: Misc | Internal ID: VikingShip_Ashlands | Source: Workbench | Usage: Sailing | Crafting Materials: Iron nails x100, Ceramic plate x30, Finewood x50, Yggdrasil wood x25 | Weak to (x1.5): Fire | Neutral to (x1): Blunt, ,, Slash, ,, Lightning | Resistant to (x0.5): Pierce, ,, Frost | Immune to (x0): Chop, ,, Pickaxe, ,, Poison, ,, Spirit\n\nIntroduction. Drakkars are large, high-speed boats with exceptional storage capacity but poor maneuverability. Drakkars are the most expensive boats to construct compared to other boats. Drakkars can move nearly as fast as Longships, but trade agility for greater durability and storage space, which makes them suitable for withstanding significant damage while carrying large loads. Drakkars are unique as they are the only boats capable of traversing the boiling waters of the Ashlands without being damaged.\n\nSpecifications. This boat is 12 (15 if including the mast) meters wide, 30 meters long, and 20 meters tall for those who wish to build a dock.\nThe storage space has 32 item slots.\nDrakkar has 9 seats including the steering seat and you can also \"Hold Fast\" by interacting with the mast.\n\nNotes. • Boats cannot be deconstructed with a hammer, but their resources drop when they are destroyed and can be recovered if a player is standing or swimming in range to pick them up before they sink.",
+  "scraped_at": "2026-02-26T01:54:18.251128+00:00"
+}

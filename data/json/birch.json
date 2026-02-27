@@ -1,0 +1,158 @@
+{
+  "title": "Birch",
+  "url": "https://valheim.fandom.com/wiki/Birch",
+  "slug": "Birch",
+  "categories": [
+    "Work in progress",
+    "Trees"
+  ],
+  "infobox": {
+    "_infobox_title": "Birch",
+    "Biome": "Meadows, and, Plains",
+    "Wood Type": "Finewood, and, Wood",
+    "Yield": "20",
+    "Tool Needed": "Bronze Axe",
+    "Additional Loot": "Birch seeds | FeathersResin"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Birch is a type of tree that can be found in the Meadows and Plains biomes. It is characterized by its white bark with black spots. A Bronze axe or better is required to damage it.\nBirch trees produce Wood and Finewood when destroyed. The yield of each type of wood is random, however, a birch tree will always drop 20 pieces of wood total (plus 2 Wood from its stump).\nIt is possible to damage Birch trees by intentionally hitting them with falling Beech trees. If enough damage is done by falling trees, the Birch tree will be brought down. The trunk can then be rolled downslope (ideally) and repeatedly smashed into obstacles until it shatters into usable lumber. Birch trees can also be destroyed by a Troll. These methods allow players to acquire Finewood before being able to craft a Bronze axe.\nBirch trees come in 4 variations: two different shapes, each of which has two biome-dependent variations (which differ in color but not in shape). The two shapes can be distinguished by the number and position of their branches: Variation 1 has fewer large branches, the lowest of which is about 8 meters from the ground, while Variation 2 has a very thick branch which splits from the trunk at only about 4 meters from the ground, and more large branches up higher. Each of these shapes can come in two colors: with green leaves (in non-Plains biomes) or with yellow leaves (in Plains only). Each Birch tree's color is dependent entirely on which biome it spawns in, but its shape is determined entirely randomly. Player-grown Birch trees always have green foliage."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "Below, variants are abbreviated according to shape (1 or 2, as defined above) and by color (\"G\" for green or \"Y\" for yellow). For example, \"G1\" means \"green foliage, shape 1\".",
+      "table_data": [
+        {
+          "Amount": "2",
+          "Item": "Large Birch Logs",
+          "Chance": "100%",
+          "Average per Tree": "2",
+          "col_4": "2",
+          "col_5": "2",
+          "col_6": "2"
+        },
+        {
+          "Amount": "1",
+          "Item": "Birch Stump",
+          "Chance": "100%",
+          "Average per Tree": "1",
+          "col_4": "1",
+          "col_5": "1",
+          "col_6": "1"
+        },
+        {
+          "Amount": "1-2",
+          "Item": "Resin",
+          "Chance": "25%",
+          "Average per Tree": "0.375",
+          "col_4": "0.1875",
+          "col_5": "0.1875",
+          "col_6": "0.1875"
+        },
+        {
+          "Amount": "1-2",
+          "Item": "Feathers",
+          "Chance": "25%",
+          "Average per Tree": "0.375",
+          "col_4": "0.1875",
+          "col_5": "0.1875",
+          "col_6": "0.1875"
+        },
+        {
+          "Amount": "1-2",
+          "Item": "Birch seeds",
+          "Chance": "50%",
+          "Average per Tree": "0.75",
+          "col_4": "0.375",
+          "col_5": "0.375",
+          "col_6": "0.375"
+        },
+        {
+          "stat": "...where X equals:",
+          "Item": "2",
+          "Chance": "1",
+          "Average per Tree": "1",
+          "col_3": "1"
+        }
+      ]
+    },
+    {
+      "heading": "From stump",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Amount": "2",
+          "Item": "Wood",
+          "Chance": "100%"
+        }
+      ]
+    },
+    {
+      "heading": "From large log",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Amount": "2",
+          "Item": "Small Birch Logs",
+          "Chance": "100%"
+        }
+      ]
+    },
+    {
+      "heading": "From small log",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Amount": "1",
+          "Item": "Wood",
+          "Chance": "50%",
+          "Average per Tree": "10",
+          "Min–Max per Tree": "0–20"
+        },
+        {
+          "Amount": "1",
+          "Item": "Finewood",
+          "Chance": "50%",
+          "Average per Tree": "10",
+          "Min–Max per Tree": "0–20"
+        }
+      ]
+    },
+    {
+      "heading": "Planting",
+      "level": 2,
+      "text": "Birch trees that grow naturally in the Plains biome have a different \"fall-like\", yellow color to its leaves compared to the variant of Birch found in the Meadows. However, should the player grow their own Birch trees in Plains by using the Cultivator, the player-cultivated trees will have green leaves like those found in Meadows. This makes the naturally grown Plains birch with the faded yellow hue finite and impossible to replace once chopped down.",
+      "table_data": [
+        {
+          "Meadows": "Swamp",
+          "Yes": "No"
+        },
+        {
+          "Meadows": "Mountain",
+          "Yes": "No"
+        },
+        {
+          "Meadows": "Mistlands",
+          "Yes": "No"
+        },
+        {
+          "Meadows": "Ashlands",
+          "Yes": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Since the wood drops from the Birch tree's trunk are composed of multiple individual random rolls, each with the same chance and with two possible outcomes, the drop rate of Finewood per tree thus follows a Binomial distribution with n = 20 and p = 0.5. For example, the chance of getting at least k Finewood from a tree (for integer k between 0 and 20) can be calculated with the formula ∑ i = 0 k ( n i ) p i ( 1 − p ) n − i {\\displaystyle \\sum _{i=0}^{k}{n \\choose i}p^{i}(1-p)^{n-i}} .\n• Birch wood can be harvested before getting a Tier 2 axe. If a Beech tree is felled and lands in the Birch's branches, splitting the tree will cause likely damage to the Birch sufficient to knock it down, creating a Birch log which may then be rolled into another Birch tree to cause it enough damage to fall, and the resulting Birch logs may be rolled into each other to cause damage until they break into Wood and Finewood. This requires a bit of luck, since Beech trees will fall in a random direction, though they can be guided slightly. (It also requires a great deal of patience). Trolls can also destroy Birch trees, especially the log-wielding ones, whose sweep attack can bring down several trees at once. Luring a Troll into a dense grove is a quite effective, though very dangerous, way to cut down a large number of trees."
+    }
+  ],
+  "full_text": "Birch\n\nBiome: Meadows, and, Plains | Wood Type: Finewood, and, Wood | Yield: 20 | Tool Needed: Bronze Axe | Additional Loot: Birch seeds | FeathersResin\n\nIntroduction. Birch is a type of tree that can be found in the Meadows and Plains biomes. It is characterized by its white bark with black spots. A Bronze axe or better is required to damage it.\nBirch trees produce Wood and Finewood when destroyed. The yield of each type of wood is random, however, a birch tree will always drop 20 pieces of wood total (plus 2 Wood from its stump).\nIt is possible to damage Birch trees by intentionally hitting them with falling Beech trees. If enough damage is done by falling trees, the Birch tree will be brought down. The trunk can then be rolled downslope (ideally) and repeatedly smashed into obstacles until it shatters into usable lumber. Birch trees can also be destroyed by a Troll. These methods allow players to acquire Finewood before being able to craft a Bronze axe.\nBirch trees come in 4 variations: two different shapes, each of which has two biome-dependent variations (which differ in color but not in shape). The two shapes can be distinguished by the number and position of their branches: Variation 1 has fewer large branches, the lowest of which is about 8 meters from the ground, while Variation 2 has a very thick branch which splits from the trunk at only about 4 meters from the ground, and more large branches up higher. Each of these shapes can come in two colors: with green leaves (in non-Plains biomes) or with yellow leaves (in Plains only). Each Birch tree's color is dependent entirely on which biome it spawns in, but its shape is determined entirely randomly. Player-grown Birch trees always have green foliage.\n\nDrops. Below, variants are abbreviated according to shape (1 or 2, as defined above) and by color (\"G\" for green or \"Y\" for yellow). For example, \"G1\" means \"green foliage, shape 1\".\n\nPlanting. Birch trees that grow naturally in the Plains biome have a different \"fall-like\", yellow color to its leaves compared to the variant of Birch found in the Meadows. However, should the player grow their own Birch trees in Plains by using the Cultivator, the player-cultivated trees will have green leaves like those found in Meadows. This makes the naturally grown Plains birch with the faded yellow hue finite and impossible to replace once chopped down.\n\nTrivia. • Since the wood drops from the Birch tree's trunk are composed of multiple individual random rolls, each with the same chance and with two possible outcomes, the drop rate of Finewood per tree thus follows a Binomial distribution with n = 20 and p = 0.5. For example, the chance of getting at least k Finewood from a tree (for integer k between 0 and 20) can be calculated with the formula ∑ i = 0 k ( n i ) p i ( 1 − p ) n − i {\\displaystyle \\sum _{i=0}^{k}{n \\choose i}p^{i}(1-p)^{n-i}} .\n• Birch wood can be harvested before getting a Tier 2 axe. If a Beech tree is felled and lands in the Birch's branches, splitting the tree will cause likely damage to the Birch sufficient to knock it down, creating a Birch log which may then be rolled into another Birch tree to cause it enough damage to fall, and the resulting Birch logs may be rolled into each other to cause damage until they break into Wood and Finewood. This requires a bit of luck, since Beech trees will fall in a random direction, though they can be guided slightly. (It also requires a great deal of patience). Trolls can also destroy Birch trees, especially the log-wielding ones, whose sweep attack can bring down several trees at once. Luring a Troll into a dense grove is a quite effective, though very dangerous, way to cut down a large number of trees.",
+  "scraped_at": "2026-02-26T01:44:52.551756+00:00"
+}

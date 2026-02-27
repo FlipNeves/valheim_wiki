@@ -1,0 +1,31 @@
+{
+  "title": "Grasslands herbalist harvest",
+  "url": "https://valheim.fandom.com/wiki/Grasslands_herbalist_harvest",
+  "slug": "Grasslands_herbalist_harvest",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Grasslands herbalist harvest",
+    "Type": "Material",
+    "Internal ID": "SpicePlains",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "160, Coins, for 5",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Grasslands herbalist harvest can be purchased from The Bog Witch at 160 Coins for 5 items. It is only sold after Yagluth has been defeated."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Plains pie picnic"
+    }
+  ],
+  "full_text": "Grasslands herbalist harvest\n\nType: Material | Internal ID: SpicePlains | Source: The Bog Witch | Usage: Crafting | Buy: 160, Coins, for 5 | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Grasslands herbalist harvest can be purchased from The Bog Witch at 160 Coins for 5 items. It is only sold after Yagluth has been defeated.\n\nCrafting. • Plains pie picnic",
+  "scraped_at": "2026-02-26T01:34:05.910915+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Explosive payload",
+  "url": "https://valheim.fandom.com/wiki/Explosive_payload",
+  "slug": "Explosive_payload",
+  "categories": [
+    "Weapons",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Explosive payload",
+    "Internal ID": "BombSiege",
+    "Type": "Catapult Ammo",
+    "Source": "Workbench",
+    "Crafting Materials": "Sulfur x2, Proustite powder x3, Asksvin hide x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Explosive Payload is ammunition for the Catapult. It explodes dealing pure, chop and pickaxe damage in a 3-meter radius. It can destroy any structure that is able to receive damage.\nSimilarly to Lava Blobs, the explosion generated on impact can alter terrain."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Made at the Workbench."
+    }
+  ],
+  "full_text": "Explosive payload\n\nInternal ID: BombSiege | Type: Catapult Ammo | Source: Workbench | Crafting Materials: Sulfur x2, Proustite powder x3, Asksvin hide x2\n\nIntroduction. The Explosive Payload is ammunition for the Catapult. It explodes dealing pure, chop and pickaxe damage in a 3-meter radius. It can destroy any structure that is able to receive damage.\nSimilarly to Lava Blobs, the explosion generated on impact can alter terrain.\n\nAvailability. • Made at the Workbench.",
+  "scraped_at": "2026-02-26T01:14:21.510956+00:00"
+}

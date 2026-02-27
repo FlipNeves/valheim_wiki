@@ -1,0 +1,27 @@
+{
+  "title": "Ivy seeds",
+  "url": "https://valheim.fandom.com/wiki/Ivy_seeds",
+  "slug": "Ivy_seeds",
+  "categories": [
+    "Materials",
+    "Seeds"
+  ],
+  "infobox": {
+    "_infobox_title": "Ivy seeds",
+    "Type": "Material",
+    "Internal ID": "VineGreenSeeds",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "65, Coins, for 3",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ivy seeds were added in the Bog Witch update, three of which can be purchased from The Bog Witch for 65 Coins. Ivy seeds can be used to plant an Ivy with a Cultivator."
+    }
+  ],
+  "full_text": "Ivy seeds\n\nType: Material | Internal ID: VineGreenSeeds | Source: The Bog Witch | Usage: Crafting | Buy: 65, Coins, for 3 | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Ivy seeds were added in the Bog Witch update, three of which can be purchased from The Bog Witch for 65 Coins. Ivy seeds can be used to plant an Ivy with a Cultivator.",
+  "scraped_at": "2026-02-26T01:34:41.428169+00:00"
+}

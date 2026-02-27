@@ -1,0 +1,429 @@
+{
+  "title": "Hildir",
+  "url": "https://valheim.fandom.com/wiki/Hildir",
+  "slug": "Hildir",
+  "categories": [
+    "NPCs"
+  ],
+  "infobox": {
+    "_infobox_title": "Hildir",
+    "Internal ID": "Hildir",
+    "Release Ver.": "0.217.4",
+    "Species": "Dvergr",
+    "Gender": "Female",
+    "Eye color": "Light blue"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Hildir is a character found in Meadows. Like her brother, Haldor, she is a Dvergr. She wears a red and white dress, a green and red necklace and a headband. At her camp, which was recently raided, Hildir sells several unique items that can be purchased for Coins."
+    },
+    {
+      "heading": "Biography",
+      "level": 2,
+      "text": "Hildir also speaks, like Haldor, saying sentences like, \"My wares are made out of the finest cloth,\" and \"You'll only find products of the finest quality in my shop, I assure you.\" She has two Lox, named Blåbär and Hallon."
+    },
+    {
+      "heading": "Location",
+      "level": 2,
+      "text": "Hildir has a similar spawning system to Haldor with 10 possible spawn locations that are located in Meadows, each at least 1000 meters apart, and only found between 3000 and 5100 meters[1] from the world center. Approaching any of these locations will permanently place Hildir there. When discovered, her dress icon will appear on the world map.\nShe spawns with her own point of interest, a small camp consisting of a large wagon, with multiple tents, barrels, her own Iron Fire Pit, and multiple divans the player can sit on, and tables.\nLike the other traders, the camp is surrounded by a shimmering transparent dome that acts as a safety zone that Creatures cannot enter. The safe zone cannot be destroyed."
+    },
+    {
+      "heading": "Quests",
+      "level": 2,
+      "text": "Hildir has a map table in front of her that leads to various different locations where special dungeons with special minibosses can be fought, and different loot is found. Interacting with the table adds the locations to the player's map. The locations are:\n• Smouldering Tombs in Black Forest\n• Howling Caverns in Mountains\n• Sealed Tower in Plains\nUp to three of each type of these locations will generate in each world. The spawning rules for each location type are as follows:\n• Smouldering Tombs: Each 3000 meters apart, between 3000 - 8000 meters from the world center, at an altitude of at least 1 meter.\n• Howling Caverns: Each 2000 meters apart, between 1000 - 8000 meters from the world center, at an altitude of at least 200 meters.\n• Sealed Tower: Each 3000 meters apart, at an altitude of at least 8 meters.\nWhen players find Hildir, it can be a good idea to drop a Portal in the vicinity to make easier returns.\nEach of these quest locations is full of loot, enemies, and unique minibosses. Once defeated, these minibosses each drop a quest item:\n• Hildir's brass chest, dropped by Brenna in the Smouldering Tombs\n• Hildir's silver chest, dropped by Geirrhafa in the Howling Caverns\n• Hildir's bronze chest, dropped by Zil of Zil & Thungr in the Sealed Tower\nEach of these chests weighs 200.0, has a stack size of 1, and cannot be teleported via Portal. They can, however, be teleported with a Portal stone. Chests can be returned to Hildir, which unlocks additional trades from her; note that only one of each type of chest can be returned.\nReturning a chest to Hildir will enable new Events, which will cause the chest's respective boss and their minions to invade the player's base."
+    },
+    {
+      "heading": "Sells",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Shawl dress brown",
+          "Icon": "",
+          "Cost": "450 Coins",
+          "Availability": "Hildir's silver chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A brown dress accompanied by a warm shawl.(Uses the Shirt Slot)",
+          "ID": "ArmorDress2"
+        },
+        {
+          "Name": "Beaded dress brown",
+          "Icon": "",
+          "Cost": "550 Coins",
+          "Availability": "Hildir's bronze chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A brown dress accompanied by beads and silver.(Uses the Shirt Slot)",
+          "ID": "ArmorDress3"
+        },
+        {
+          "Name": "Shawl dress blue",
+          "Icon": "",
+          "Cost": "450 Coins",
+          "Availability": "Hildir's silver chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A blue dress accompanied by a warm shawl.(Uses the Shirt Slot)",
+          "ID": "ArmorDress5"
+        },
+        {
+          "Name": "Beaded dress blue",
+          "Icon": "",
+          "Cost": "550 Coins",
+          "Availability": "Hildir's bronze chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A blue dress accompanied by beads and bronze.(Uses the Shirt Slot)",
+          "ID": "ArmorDress6"
+        },
+        {
+          "Name": "Shawl dress yellow",
+          "Icon": "",
+          "Cost": "450 Coins",
+          "Availability": "Hildir's silver chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A yellow dress accompanied by a warm shawl.(Uses the Shirt Slot)",
+          "ID": "ArmorDress8"
+        },
+        {
+          "Name": "Beaded dress yellow",
+          "Icon": "",
+          "Cost": "550 Coins",
+          "Availability": "Hildir's bronze chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A yellow dress accompanied by beads and silver.(Uses the Shirt Slot)",
+          "ID": "ArmorDress9"
+        },
+        {
+          "Name": "Simple dress natural",
+          "Icon": "",
+          "Cost": "250 Coins",
+          "Availability": "Always",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A simple dress.(Uses the Shirt Slot)",
+          "ID": "ArmorDress10"
+        },
+        {
+          "Name": "Cape tunic blue",
+          "Icon": "",
+          "Cost": "450 Coins",
+          "Availability": "Hildir's silver chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A blue tunic accompanied by a cape.(Uses the Shirt Slot)",
+          "ID": "ArmorTunic2"
+        },
+        {
+          "Name": "Beaded tunic blue",
+          "Icon": "",
+          "Cost": "550 Coins",
+          "Availability": "Hildir's bronze chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A blue tunic accompanied by beads and silver.(Uses the Shirt Slot)",
+          "ID": "ArmorTunic3"
+        },
+        {
+          "Name": "Cape tunic red",
+          "Icon": "",
+          "Cost": "450 Coins",
+          "Availability": "Hildir's silver chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A red tunic accompanied by a cape.(Uses the Shirt Slot)",
+          "ID": "ArmorTunic5"
+        },
+        {
+          "Name": "Beaded tunic red",
+          "Icon": "",
+          "Cost": "550 Coins",
+          "Availability": "Hildir's bronze chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A red tunic accompanied by beads and bronze.(Uses the Shirt Slot)",
+          "ID": "ArmorTunic6"
+        },
+        {
+          "Name": "Cape tunic yellow",
+          "Icon": "",
+          "Cost": "450 Coins",
+          "Availability": "Hildir's silver chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A yellow tunic accompanied by a cape.(Uses the Shirt Slot)",
+          "ID": "ArmorTunic8"
+        },
+        {
+          "Name": "Beaded tunic yellow",
+          "Icon": "",
+          "Cost": "550 Coins",
+          "Availability": "Hildir's bronze chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A yellow tunic accompanied by beads and silver.(Uses the Shirt Slot)",
+          "ID": "ArmorTunic9"
+        },
+        {
+          "Name": "Simple tunic natural",
+          "Icon": "",
+          "Cost": "250 Coins",
+          "Availability": "Always",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A simple tunic.(Uses the Shirt Slot)",
+          "ID": "ArmorTunic10"
+        },
+        {
+          "Name": "Simple dress brown",
+          "Icon": "",
+          "Cost": "350 Coins",
+          "Availability": "Hildir's brass chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A simple brown dress.(Uses the Shirt Slot)",
+          "ID": "ArmorDress1"
+        },
+        {
+          "Name": "Simple dress blue",
+          "Icon": "",
+          "Cost": "350 Coins",
+          "Availability": "Hildir's brass chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A simple blue dress.(Uses the Shirt Slot)",
+          "ID": "ArmorDress4"
+        },
+        {
+          "Name": "Simple dress yellow",
+          "Icon": "",
+          "Cost": "350 Coins",
+          "Availability": "Hildir's brass chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A simple yellow dress.(Uses the Shirt Slot)",
+          "ID": "ArmorDress7"
+        },
+        {
+          "Name": "Simple tunic blue",
+          "Icon": "",
+          "Cost": "350 Coins",
+          "Availability": "Hildir's brass chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A simple blue tunic.(Uses the Shirt Slot)",
+          "ID": "ArmorTunic1"
+        },
+        {
+          "Name": "Simple tunic red",
+          "Icon": "",
+          "Cost": "350 Coins",
+          "Availability": "Hildir's brass chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A simple red tunic.(Uses the Shirt Slot)",
+          "ID": "ArmorTunic4"
+        },
+        {
+          "Name": "Simple tunic yellow",
+          "Icon": "",
+          "Cost": "350 Coins",
+          "Availability": "Hildir's brass chest",
+          "Perk": "-20% Base Item stamina usage",
+          "Item Use/Description": "A simple yellow tunic.(Uses the Shirt Slot)",
+          "ID": "ArmorTunic7"
+        },
+        {
+          "Name": "Harvest tunic",
+          "Icon": "",
+          "Cost": "550 Coins",
+          "Availability": "Hildir's brass chest",
+          "Perk": "+25 Farming skill (set bonus)",
+          "Item Use/Description": "When working the fields, it's important to dress accordingly. A shorter tunic lets in a cool breeze.(Uses the Shirt Slot)",
+          "ID": "ArmorHarvester1"
+        },
+        {
+          "Name": "Harvest dress",
+          "Icon": "",
+          "Cost": "550 Coins",
+          "Availability": "Hildir's brass chest",
+          "Perk": "+25 Farming skill (set bonus)",
+          "Item Use/Description": "When working the fields, it's important to dress accordingly. This long dress keeps your knees covered while you work.(Uses the Shirt Slot)",
+          "ID": "ArmorHarvester2"
+        },
+        {
+          "Name": "Tied headscarf blue",
+          "Icon": "",
+          "Cost": "200 Coins",
+          "Availability": "Hildir's brass chest",
+          "Perk": "-15% Base Item stamina usage",
+          "Item Use/Description": "A blue practical headscarf.(Uses the Helmet slot)",
+          "ID": "HelmetHat1"
+        },
+        {
+          "Name": "Twisted headscarf green",
+          "Icon": "",
+          "Cost": "250 Coins",
+          "Availability": "Hildir's silver chest",
+          "Perk": "-15% Base Item stamina usage",
+          "Item Use/Description": "A fancy green headscarf.(Uses the Helmet slot)",
+          "ID": "HelmetHat2"
+        },
+        {
+          "Name": "Fur cap brown",
+          "Icon": "",
+          "Cost": "200 Coins",
+          "Availability": "Hildir's brass chest",
+          "Perk": "-15% Base Item stamina usage",
+          "Item Use/Description": "A warm fur cap, made from the finest leather.(Uses the Helmet slot)",
+          "ID": "HelmetHat3"
+        },
+        {
+          "Name": "Extravagant cap green",
+          "Icon": "",
+          "Cost": "250 Coins",
+          "Availability": "Hildir's silver chest",
+          "Perk": "-15% Base Item stamina usage",
+          "Item Use/Description": "An extravagant green cap.(Uses the Helmet slot)",
+          "ID": "HelmetHat4"
+        },
+        {
+          "Name": "Simple cap red",
+          "Icon": "",
+          "Cost": "150 Coins",
+          "Availability": "Always",
+          "Perk": "-15% Base Item stamina usage",
+          "Item Use/Description": "A simple yet fashionable red cap.(Uses the Helmet slot)",
+          "ID": "HelmetHat5"
+        },
+        {
+          "Name": "Tied headscarf yellow",
+          "Icon": "",
+          "Cost": "250 Coins",
+          "Availability": "Hildir's silver chest",
+          "Perk": "-15% Base Item stamina usage",
+          "Item Use/Description": "A practical yellow headscarf.(Uses the Helmet slot)",
+          "ID": "HelmetHat6"
+        },
+        {
+          "Name": "Twisted headscarf red",
+          "Icon": "",
+          "Cost": "300 Coins",
+          "Availability": "Hildir's bronze chest",
+          "Perk": "-15% Base Item stamina usage",
+          "Item Use/Description": "A fancy red headscarf.(Uses the Helmet slot)",
+          "ID": "HelmetHat7"
+        },
+        {
+          "Name": "Fur cap grey",
+          "Icon": "",
+          "Cost": "300 Coins",
+          "Availability": "Hildir's bronze chest",
+          "Perk": "-15% Base Item stamina usage",
+          "Item Use/Description": "A warm fur cap, made from the finest wool.(Uses the Helmet slot)",
+          "ID": "HelmetHat8"
+        },
+        {
+          "Name": "Extravagant cap orange",
+          "Icon": "",
+          "Cost": "300 Coins",
+          "Availability": "Hildir's bronze chest",
+          "Perk": "-15% Base Item stamina usage",
+          "Item Use/Description": "An extravagant orange cap.(Uses the Helmet slot)",
+          "ID": "HelmetHat9"
+        },
+        {
+          "Name": "Simple cap purple",
+          "Icon": "",
+          "Cost": "150 Coins",
+          "Availability": "Always",
+          "Perk": "-15% Base Item stamina usage",
+          "Item Use/Description": "A simple yet fashionable purple cap.(Uses the Helmet slot)",
+          "ID": "HelmetHat10"
+        },
+        {
+          "Name": "Straw hat",
+          "Icon": "",
+          "Cost": "300 Coins",
+          "Availability": "Hildir's brass chest",
+          "Perk": "+25 Farming skill (set bonus)",
+          "Item Use/Description": "The perfect way to avoid sunstroke.(Uses the Helmet slot)",
+          "ID": "HelmetStrawHat"
+        },
+        {
+          "Name": "Headband",
+          "Icon": "",
+          "Cost": "175 Coins",
+          "Availability": "Always",
+          "Perk": "",
+          "Item Use/Description": "It feels a bit...moist.(Uses the Helmet slot)",
+          "ID": "HelmetSweatBand"
+        },
+        {
+          "Name": "Basic fireworks",
+          "Icon": "",
+          "Cost": "50 Coins",
+          "Availability": "Hildir's bronze chest",
+          "Perk": "",
+          "Item Use/Description": "This rocket's blasting off again!",
+          "ID": "FireworksRocket_White"
+        },
+        {
+          "Name": "Sparkler",
+          "Icon": "",
+          "Cost": "150 Coins",
+          "Availability": "Always",
+          "Perk": "",
+          "Item Use/Description": "It's a stick that sparkles. Pretty!(Uses one hand when equipped)",
+          "ID": "Sparkler"
+        },
+        {
+          "Name": "Iron pit",
+          "Icon": "",
+          "Cost": "75 Coins",
+          "Availability": "Always",
+          "Perk": "",
+          "Item Use/Description": "An empty vessel waiting to be filled with firewood and kindling",
+          "ID": "Ironpit"
+        },
+        {
+          "Name": "Barber kit",
+          "Icon": "",
+          "Cost": "600 Coins",
+          "Availability": "Always",
+          "Perk": "",
+          "Item Use/Description": "A kit fit for the finest of barbers.",
+          "ID": "BarberKit"
+        }
+      ]
+    },
+    {
+      "heading": "Buys",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Amber",
+          "Icon": "",
+          "Price for One": "5 Coins",
+          "Stack Size": "20",
+          "Price per Stack": "100 Coins"
+        },
+        {
+          "Name": "Amber pearl",
+          "Icon": "",
+          "Price for One": "10 Coins",
+          "Stack Size": "50",
+          "Price per Stack": "500 Coins"
+        },
+        {
+          "Name": "Ruby",
+          "Icon": "",
+          "Price for One": "20 Coins",
+          "Stack Size": "20",
+          "Price per Stack": "400 Coins"
+        },
+        {
+          "Name": "Silver necklace",
+          "Icon": "",
+          "Price for One": "30 Coins",
+          "Stack Size": "20",
+          "Price per Stack": "600 Coins"
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The transparent dome which surrounded Hildir's camp is the same as Haldor's camp and apparently powered by four small runestones placed around it and that each of them carved with Odin's Illusory Rune, a Viking glyph devised to provide camouflage and deception. This is fitting as the barrier only allows Hildir's and Haldor's potential customers to both see their camps and pass through it while hostile beings such as Greydwarfs cannot enter.\n• The names of Hildir's lox, Blåbär and Hallon, are Swedish for blueberry and raspberry, respectively."
+    }
+  ],
+  "full_text": "Hildir\n\nInternal ID: Hildir | Release Ver.: 0.217.4 | Species: Dvergr | Gender: Female | Eye color: Light blue\n\nIntroduction. Hildir is a character found in Meadows. Like her brother, Haldor, she is a Dvergr. She wears a red and white dress, a green and red necklace and a headband. At her camp, which was recently raided, Hildir sells several unique items that can be purchased for Coins.\n\nBiography. Hildir also speaks, like Haldor, saying sentences like, \"My wares are made out of the finest cloth,\" and \"You'll only find products of the finest quality in my shop, I assure you.\" She has two Lox, named Blåbär and Hallon.\n\nLocation. Hildir has a similar spawning system to Haldor with 10 possible spawn locations that are located in Meadows, each at least 1000 meters apart, and only found between 3000 and 5100 meters[1] from the world center. Approaching any of these locations will permanently place Hildir there. When discovered, her dress icon will appear on the world map.\nShe spawns with her own point of interest, a small camp consisting of a large wagon, with multiple tents, barrels, her own Iron Fire Pit, and multiple divans the player can sit on, and tables.\nLike the other traders, the camp is surrounded by a shimmering transparent dome that acts as a safety zone that Creatures cannot enter. The safe zone cannot be destroyed.\n\nQuests. Hildir has a map table in front of her that leads to various different locations where special dungeons with special minibosses can be fought, and different loot is found. Interacting with the table adds the locations to the player's map. The locations are:\n• Smouldering Tombs in Black Forest\n• Howling Caverns in Mountains\n• Sealed Tower in Plains\nUp to three of each type of these locations will generate in each world. The spawning rules for each location type are as follows:\n• Smouldering Tombs: Each 3000 meters apart, between 3000 - 8000 meters from the world center, at an altitude of at least 1 meter.\n• Howling Caverns: Each 2000 meters apart, between 1000 - 8000 meters from the world center, at an altitude of at least 200 meters.\n• Sealed Tower: Each 3000 meters apart, at an altitude of at least 8 meters.\nWhen players find Hildir, it can be a good idea to drop a Portal in the vicinity to make easier returns.\nEach of these quest locations is full of loot, enemies, and unique minibosses. Once defeated, these minibosses each drop a quest item:\n• Hildir's brass chest, dropped by Brenna in the Smouldering Tombs\n• Hildir's silver chest, dropped by Geirrhafa in the Howling Caverns\n• Hildir's bronze chest, dropped by Zil of Zil & Thungr in the Sealed Tower\nEach of these chests weighs 200.0, has a stack size of 1, and cannot be teleported via Portal. They can, however, be teleported with a Portal stone. Chests can be returned to Hildir, which unlocks additional trades from her; note that only one of each type of chest can be returned.\nReturning a chest to Hildir will enable new Events, which will cause the chest's respective boss and their minions to invade the player's base.\n\nTrivia. • The transparent dome which surrounded Hildir's camp is the same as Haldor's camp and apparently powered by four small runestones placed around it and that each of them carved with Odin's Illusory Rune, a Viking glyph devised to provide camouflage and deception. This is fitting as the barrier only allows Hildir's and Haldor's potential customers to both see their camps and pass through it while hostile beings such as Greydwarfs cannot enter.\n• The names of Hildir's lox, Blåbär and Hallon, are Swedish for blueberry and raspberry, respectively.",
+  "scraped_at": "2026-02-26T01:45:23.167807+00:00"
+}

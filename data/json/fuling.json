@@ -1,0 +1,127 @@
+{
+  "title": "Fuling",
+  "url": "https://valheim.fandom.com/wiki/Fuling",
+  "slug": "Fuling",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Fuling",
+    "Internal ID": "Goblin",
+    "Faction": "Plains",
+    "Main biome": "Plains",
+    "Drops": "Black metal scrap | Coins | Fuling trophy",
+    "Abilities": "Club (2s), Spear (4s), Sword (2s), Torch (2s)",
+    "Trophy": "Fuling trophy",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Stagger",
+    "Immune to (x0)": "Spirit, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "30%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fulings are aggressive creatures found in Plains, especially within Fuling Villages. They resemble small, goblin-like beings that appear to possess their own tribalistic culture. It is implied through Runestones and totems that they worship Yagluth, a long dead king.\nFulings appear 33% of the time as club variants, 17% of the time as spear variants, 33% of the time as sword variants and 17% of the time as torch variants.\nAll Fulings spawn with one piece of armor each providing 60 armor value and having an equal 25% chance of appearing: helmet, armband, shoulders, and legband. Additionally, they have a 33% chance to spawn with a Wood Shield identical to the one players can craft. They do not drop equipment on death."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Black metal scrap",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Coins",
+          "0 Star": "5-9 (25%)",
+          "1 Star": "10-18 (50%)",
+          "2 Star": "20-36"
+        },
+        {
+          "Item": "Fuling trophy",
+          "0 Star": "10%",
+          "1 Star": "10%",
+          "2 Star": "10%"
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Anywhere in Plains during the daytime",
+          "Limit": "2",
+          "Frequency": "Uncommon",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Anywhere in Plains during the nighttime, despawn at dawn",
+          "Limit": "5",
+          "Frequency": "Very common",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Anywhere in most biomes during the nighttime after Yagluth has been defeated, despawn at dawn",
+          "Limit": "3",
+          "Frequency": "Uncommon",
+          "Stars": "No"
+        },
+        {
+          "Type": "Common spawn point in Fuling Villages, Fuling Outposts and Fuling Ruins",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "During \"The horde is attacking!\" event",
+          "Limit": "8",
+          "Frequency": "Very common",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"They were bros, man.\" event",
+          "Limit": "8",
+          "Frequency": "Very common",
+          "Stars": "Yes (Minimum 1 Star)"
+        }
+      ]
+    },
+    {
+      "heading": "Attacks and abilities",
+      "level": 2,
+      "text": "Besides the spear, which can only be thrown, each weapon arcs horizontally by 90 degrees and extends 2.4 meters out."
+    },
+    {
+      "heading": "Club",
+      "level": 3,
+      "text": "Does 85 Blunt damage. This attack has a 2-second cooldown and can be used within 1.6 meters of a player."
+    },
+    {
+      "heading": "Spear",
+      "level": 3,
+      "text": "Throws a spear at the player, which does not need to be retrieved for Fulings to attack again (85 Pierce damage). The spear travels at 20 meters per second for up to 10 seconds before despawning and has a spread of 4–20 degrees. This has a 4-second cooldown and can be used within 14 meters of a player."
+    },
+    {
+      "heading": "Sword",
+      "level": 3,
+      "text": "Does 85 Slash damage. This attack has a 2-second cooldown and can be used within 1.6 meters of a player."
+    },
+    {
+      "heading": "Torch",
+      "level": 3,
+      "text": "Does 45 Blunt and 45 Fire damage, which applies the Burning status. This attack has a 2-second cooldown and can be used within 1.6 meters of a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Fulings have unusually sharp hearing and will be able to detect the player from a much longer distance than other enemies. Chopping down trees or mining ore is likely to attract their attention.\n• Fulings are relatively noisy. The distinctive sound of their chatter or laughter will often be the first sign that they are active in an area.\n• Fulings are extremely fast and agile, but they sometimes fail to register the edge of a player-dug ditch until it is too late to avoid falling in.\n• Fulings are particularly slow swimmers. Adventurers may use this to their advantage, for instance, by jumping over a river (natural or player-made) while firing arrows at their now slow targets.\n• While most creatures in Valheim take inspiration from counterparts in Norse mythology, the Fuling seem to be an exception. The closest parallel would be the Goblin, more traditionally used in fantasy works since their popularization within the Dungeons & Dragons setting. This is further indicated by them being named \"Goblin\" in the game files.\n• \"Fuling\" can be roughly translated into \"ugly one\" in modern Swedish."
+    }
+  ],
+  "full_text": "Fuling\n\nInternal ID: Goblin | Faction: Plains | Main biome: Plains | Drops: Black metal scrap | Coins | Fuling trophy | Abilities: Club (2s), Spear (4s), Sword (2s), Torch (2s) | Trophy: Fuling trophy | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Stagger | Immune to (x0): Spirit, ,, Chop, ,, Pickaxe | Stagger limit: 30%\n\nIntroduction. Fulings are aggressive creatures found in Plains, especially within Fuling Villages. They resemble small, goblin-like beings that appear to possess their own tribalistic culture. It is implied through Runestones and totems that they worship Yagluth, a long dead king.\nFulings appear 33% of the time as club variants, 17% of the time as spear variants, 33% of the time as sword variants and 17% of the time as torch variants.\nAll Fulings spawn with one piece of armor each providing 60 armor value and having an equal 25% chance of appearing: helmet, armband, shoulders, and legband. Additionally, they have a 33% chance to spawn with a Wood Shield identical to the one players can craft. They do not drop equipment on death.\n\nAttacks and abilities. Besides the spear, which can only be thrown, each weapon arcs horizontally by 90 degrees and extends 2.4 meters out.\n\nClub. Does 85 Blunt damage. This attack has a 2-second cooldown and can be used within 1.6 meters of a player.\n\nSpear. Throws a spear at the player, which does not need to be retrieved for Fulings to attack again (85 Pierce damage). The spear travels at 20 meters per second for up to 10 seconds before despawning and has a spread of 4–20 degrees. This has a 4-second cooldown and can be used within 14 meters of a player.\n\nSword. Does 85 Slash damage. This attack has a 2-second cooldown and can be used within 1.6 meters of a player.\n\nTorch. Does 45 Blunt and 45 Fire damage, which applies the Burning status. This attack has a 2-second cooldown and can be used within 1.6 meters of a player.\n\nNotes. • Fulings have unusually sharp hearing and will be able to detect the player from a much longer distance than other enemies. Chopping down trees or mining ore is likely to attract their attention.\n• Fulings are relatively noisy. The distinctive sound of their chatter or laughter will often be the first sign that they are active in an area.\n• Fulings are extremely fast and agile, but they sometimes fail to register the edge of a player-dug ditch until it is too late to avoid falling in.\n• Fulings are particularly slow swimmers. Adventurers may use this to their advantage, for instance, by jumping over a river (natural or player-made) while firing arrows at their now slow targets.\n• While most creatures in Valheim take inspiration from counterparts in Norse mythology, the Fuling seem to be an exception. The closest parallel would be the Goblin, more traditionally used in fantasy works since their popularization within the Dungeons & Dragons setting. This is further indicated by them being named \"Goblin\" in the game files.\n• \"Fuling\" can be roughly translated into \"ugly one\" in modern Swedish.",
+  "scraped_at": "2026-02-26T01:07:27.569945+00:00"
+}

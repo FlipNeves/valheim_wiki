@@ -1,0 +1,31 @@
+{
+  "title": "The hive",
+  "url": "https://valheim.fandom.com/wiki/The_hive",
+  "slug": "The_hive",
+  "categories": [
+    "Unfinished",
+    "Bosses"
+  ],
+  "infobox": {
+    "_infobox_title": "The Hive",
+    "Internal ID": "TheHive",
+    "Type": "Boss",
+    "Faction": "Boss",
+    "Drops": "Drake trophy | Freeze gland",
+    "Immune to (x0)": "Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Hive is a boss which is only available via Console Commands."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The Hive is immune to all damage types, it can be killed by hitting one of the two small red circles located near the top of its model.\n• The Hive is a mixture of Drake and Gjall. Because it makes drake sounds and uses Gjall attacks."
+    }
+  ],
+  "full_text": "The hive\n\nInternal ID: TheHive | Type: Boss | Faction: Boss | Drops: Drake trophy | Freeze gland | Immune to (x0): Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. The Hive is a boss which is only available via Console Commands.\n\nNotes. • The Hive is immune to all damage types, it can be killed by hitting one of the two small red circles located near the top of its model.\n• The Hive is a mixture of Drake and Gjall. Because it makes drake sounds and uses Gjall attacks.",
+  "scraped_at": "2026-02-26T01:39:24.809314+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Feather fall",
+  "url": "https://valheim.fandom.com/wiki/Feather_fall",
+  "slug": "Feather_fall",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Feather fall",
+    "Effects": "Limit fall speed: 5m/s | Fall damage: 100% | Jump stamina: -20%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Feather fall is a status effect granted by wearing the Feather cape.\nIt limits the player's fall speed to 5 meters per second, reduces fall damage by 100%, completely negating it, and reduces stamina used to jump by 20%. Making the feather cape imperative for exploring the Mistlands with the often jagged and high reaching terrain."
+    }
+  ],
+  "full_text": "Feather fall\n\nEffects: Limit fall speed: 5m/s | Fall damage: 100% | Jump stamina: -20%\n\nIntroduction. Feather fall is a status effect granted by wearing the Feather cape.\nIt limits the player's fall speed to 5 meters per second, reduces fall damage by 100%, completely negating it, and reduces stamina used to jump by 20%. Making the feather cape imperative for exploring the Mistlands with the often jagged and high reaching terrain.",
+  "scraped_at": "2026-02-26T01:59:50.925736+00:00"
+}

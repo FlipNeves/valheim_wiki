@@ -1,0 +1,36 @@
+{
+  "title": "Frosted sweetbread",
+  "url": "https://valheim.fandom.com/wiki/Unbaked_sweetbread",
+  "slug": "Unbaked_sweetbread",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Frosted sweetbread",
+    "Type": "Food",
+    "Internal ID": "VikingCupcake",
+    "Source": "Stone oven",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Unbaked sweetbread x1",
+    "Max Health": "43",
+    "Max Stamina": "43",
+    "Duration": "30m",
+    "Healing": "4 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Frosted sweetbread is a Plains-tier balanced food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "An unbaked sweetbread is produced in a Food preparation table with:\n• 2 Cloudberries\n• 1 Egg\n• 1 Barley flour\n• 1 Honey\nFrosted sweetbread is produced by unbaked sweetbread in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal."
+    }
+  ],
+  "full_text": "Frosted sweetbread\n\nType: Food | Internal ID: VikingCupcake | Source: Stone oven | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Unbaked sweetbread x1 | Max Health: 43 | Max Stamina: 43 | Duration: 30m | Healing: 4 hp/tick\n\nIntroduction. Frosted sweetbread is a Plains-tier balanced food.\n\nRecipe. An unbaked sweetbread is produced in a Food preparation table with:\n• 2 Cloudberries\n• 1 Egg\n• 1 Barley flour\n• 1 Honey\nFrosted sweetbread is produced by unbaked sweetbread in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal.",
+  "scraped_at": "2026-02-26T02:11:01.316935+00:00"
+}

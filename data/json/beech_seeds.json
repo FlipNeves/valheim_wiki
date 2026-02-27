@@ -1,0 +1,31 @@
+{
+  "title": "Beech seeds",
+  "url": "https://valheim.fandom.com/wiki/Beech_seeds",
+  "slug": "Beech_seeds",
+  "categories": [
+    "Seeds",
+    "Farming"
+  ],
+  "infobox": {
+    "_infobox_title": "Beech seeds",
+    "Type": "Seed",
+    "Internal ID": "BeechSeeds",
+    "Source": "Beech",
+    "Usage": "Farming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Produces": "1, Beech",
+    "Grow Time (s)": "3000-5000",
+    "Needs Cultivated Ground?": "No",
+    "Space Needed (m)": "4",
+    "Hospitable Biomes": "Meadows, ,, Black Forest, , and, Plains"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Beech seeds can be planted using the Cultivator to produce new Beech trees. Once planted, the seeds take a few in-game days to grow to full size. Seedlings require a small amount of space directly around where they are planted; if they do not have enough space they will not grow into full trees.\nProhibited areas (These seeds cannot grow in these Biome/Areas):\n• Swamp"
+    }
+  ],
+  "full_text": "Beech seeds\n\nType: Seed | Internal ID: BeechSeeds | Source: Beech | Usage: Farming | Teleportable (Can go through wood portal?): Yes | Produces: 1, Beech | Grow Time (s): 3000-5000 | Needs Cultivated Ground?: No | Space Needed (m): 4 | Hospitable Biomes: Meadows, ,, Black Forest, , and, Plains\n\nIntroduction. Beech seeds can be planted using the Cultivator to produce new Beech trees. Once planted, the seeds take a few in-game days to grow to full size. Seedlings require a small amount of space directly around where they are planted; if they do not have enough space they will not grow into full trees.\nProhibited areas (These seeds cannot grow in these Biome/Areas):\n• Swamp",
+  "scraped_at": "2026-02-26T02:13:06.147070+00:00"
+}

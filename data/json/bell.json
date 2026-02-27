@@ -1,0 +1,27 @@
+{
+  "title": "Bell",
+  "url": "https://valheim.fandom.com/wiki/Bell",
+  "slug": "Bell",
+  "categories": [
+    "Misc Items",
+    "Forsaken offerings"
+  ],
+  "infobox": {
+    "_infobox_title": "Bell",
+    "Type": "Misc",
+    "Internal ID": "Bell",
+    "Source": "Black forge",
+    "Usage": "Summon, Fader",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Bell fragment x3"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "A Bell is an item used to summon the Ashlands boss Fader.\nBells are crafted at the Black forge using 3 Bell fragments obtained from Charred Fortresses.\nThree bells are used to summon Fader, requiring a total of 9 bell fragments."
+    }
+  ],
+  "full_text": "Bell\n\nType: Misc | Internal ID: Bell | Source: Black forge | Usage: Summon, Fader | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Bell fragment x3\n\nIntroduction. A Bell is an item used to summon the Ashlands boss Fader.\nBells are crafted at the Black forge using 3 Bell fragments obtained from Charred Fortresses.\nThree bells are used to summon Fader, requiring a total of 9 bell fragments.",
+  "scraped_at": "2026-02-26T02:18:34.296485+00:00"
+}

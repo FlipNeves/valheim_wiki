@@ -1,0 +1,31 @@
+{
+  "title": "Swords (skill)",
+  "url": "https://valheim.fandom.com/wiki/Swords_(skill)",
+  "slug": "Swords_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "infobox": {
+    "_infobox_title": "Swords (skill)",
+    "Description": "Determines, damage, and, stamina, cost with Swords (skill)."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Swords (skill) is a skill related to Swords weapon class."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Higher skill level in swords reduces the stamina cost to attack down to -33% and increases damage and knockback up to +141%.\nFor the details of damage scaling, see Damage mechanics#Skill factor."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "The player gains 1.5xp per attack when hitting a creature."
+    }
+  ],
+  "full_text": "Swords (skill)\n\nDescription: Determines, damage, and, stamina, cost with Swords (skill).\n\nIntroduction. Swords (skill) is a skill related to Swords weapon class.\n\nEffects. Higher skill level in swords reduces the stamina cost to attack down to -33% and increases damage and knockback up to +141%.\nFor the details of damage scaling, see Damage mechanics#Skill factor.\n\nLeveling up. The player gains 1.5xp per attack when hitting a creature.",
+  "scraped_at": "2026-02-26T01:44:25.799505+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Yggdrasil wood",
+  "url": "https://valheim.fandom.com/wiki/Yggdrasil_wood",
+  "slug": "Yggdrasil_wood",
+  "categories": [
+    "Wood",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Yggdrasil wood",
+    "Type": "Wood",
+    "Internal ID": "YggdrasilWood",
+    "Source": "Yggdrasil shoot, in, Mistlands, biomes",
+    "Usage": "Building, ,, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Yggdrasil wood is a different type of wood used in late game building and crafting recipes. It is obtained exclusively from the Mistlands biome."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Acquired by chopping Yggdrasil shoots in the Mistlands. Requires Black metal axe or better to acquire.\n• Can also be found in small amounts from destroying certain structures in the Mistlands."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Sap extractor\n• Black forge\n• Eitr refinery\n• Galdr table\n• Rune table\n• Ballista\n• Dvergr spiral left stair\n• Dvergr spiral right stair\n• Hexagonal gate\n• Dvergr stakewall\n• Dvergr sharp stakes\n• Wisp torch\n• Yggdrasil wood stack\n• Drakkar"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Black metal pickaxe\n• Jotun Bane\n• Carapace spear\n• Himminafl\n• Demolisher\n• Skull Splittur\n• Staff of Embers\n• Staff of Frost\n• Staff of Protection"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Yggdrasil wood cannot be fed into a Charcoal kiln."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Presumably, both Yggdrasil shoots and Ancient Roots have been severed from the trunk of the Great Tree that players can see in the sky of Valheim. Munin implies that the Yggdrasil is an ash tree."
+    }
+  ],
+  "full_text": "Yggdrasil wood\n\nType: Wood | Internal ID: YggdrasilWood | Source: Yggdrasil shoot, in, Mistlands, biomes | Usage: Building, ,, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Yggdrasil wood is a different type of wood used in late game building and crafting recipes. It is obtained exclusively from the Mistlands biome.\n\nAvailability. • Acquired by chopping Yggdrasil shoots in the Mistlands. Requires Black metal axe or better to acquire.\n• Can also be found in small amounts from destroying certain structures in the Mistlands.\n\nBuilding. • Sap extractor\n• Black forge\n• Eitr refinery\n• Galdr table\n• Rune table\n• Ballista\n• Dvergr spiral left stair\n• Dvergr spiral right stair\n• Hexagonal gate\n• Dvergr stakewall\n• Dvergr sharp stakes\n• Wisp torch\n• Yggdrasil wood stack\n• Drakkar\n\nCrafting. • Black metal pickaxe\n• Jotun Bane\n• Carapace spear\n• Himminafl\n• Demolisher\n• Skull Splittur\n• Staff of Embers\n• Staff of Frost\n• Staff of Protection\n\nNotes. • Yggdrasil wood cannot be fed into a Charcoal kiln.\n\nTrivia. • Presumably, both Yggdrasil shoots and Ancient Roots have been severed from the trunk of the Great Tree that players can see in the sky of Valheim. Munin implies that the Yggdrasil is an ash tree.",
+  "scraped_at": "2026-02-26T01:38:03.985515+00:00"
+}

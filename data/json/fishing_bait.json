@@ -1,0 +1,84 @@
+{
+  "title": "Bait",
+  "url": "https://valheim.fandom.com/wiki/Fishing_bait",
+  "slug": "Fishing_bait",
+  "categories": [
+    "Bait"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bait is a type of item used for fishing. A bait can be attached to a Fishing rod by equipping the fishing rod and then right-clicking the bait in the inventory. Depending on the bait attached to a fishing rod, different types of fish can be caught."
+    },
+    {
+      "heading": "Obtaining",
+      "level": 2,
+      "text": "The basic fishing bait can be purchased from Haldor. More advanced baits can be crafted at a Food preparation table by combining 20 of the basic bait with a trophy to produce 20 advanced baits.\nTwo and four regular fishing bait may also be obtained from the pickable fishing rod, which can be found in the rare room with a large frozen lake inside Frost Caves."
+    },
+    {
+      "heading": "Types",
+      "level": 2,
+      "text": "All baits weigh 0.1 and stack to 100.",
+      "table_data": [
+        {
+          "Bait": "Fishing bait",
+          "Requires (per 20)": "10 Coins",
+          "Attracts": "Perch, Pike",
+          "Biome": "Meadows, Black Forest"
+        },
+        {
+          "Bait": "Mossy fishing bait",
+          "Requires (per 20)": "Troll trophy",
+          "Attracts": "Trollfish",
+          "Biome": "Black Forest"
+        },
+        {
+          "Bait": "Sticky fishing bait",
+          "Requires (per 20)": "Abomination Trophy",
+          "Attracts": "Giant herring",
+          "Biome": "Swamp"
+        },
+        {
+          "Bait": "Stingy fishing bait",
+          "Requires (per 20)": "Fuling trophy",
+          "Attracts": "Grouper",
+          "Biome": "Plains"
+        },
+        {
+          "Bait": "Heavy fishing bait",
+          "Requires (per 20)": "Serpent trophy",
+          "Attracts": "Tuna, Coral cod",
+          "Biome": "Ocean"
+        },
+        {
+          "Bait": "Misty fishing bait",
+          "Requires (per 20)": "Lox trophy",
+          "Attracts": "Pufferfish, Anglerfish",
+          "Biome": "Mistlands"
+        },
+        {
+          "Bait": "Hot fishing bait",
+          "Requires (per 20)": "Warrior trophy",
+          "Attracts": "Magmafish",
+          "Biome": "Ashlands"
+        },
+        {
+          "Bait": "Frosty fishing bait",
+          "Requires (per 20)": "Drake trophy",
+          "Attracts": "Northern salmon",
+          "Biome": "Deep North"
+        },
+        {
+          "Bait": "Cold fishing bait",
+          "Requires (per 20)": "Fenring trophy",
+          "Attracts": "Pike, Tetra",
+          "Biome": "Meadows & Black Forest (Pike), Frost Caves (Tetra)"
+        }
+      ]
+    }
+  ],
+  "full_text": "Bait\n\nIntroduction. Bait is a type of item used for fishing. A bait can be attached to a Fishing rod by equipping the fishing rod and then right-clicking the bait in the inventory. Depending on the bait attached to a fishing rod, different types of fish can be caught.\n\nObtaining. The basic fishing bait can be purchased from Haldor. More advanced baits can be crafted at a Food preparation table by combining 20 of the basic bait with a trophy to produce 20 advanced baits.\nTwo and four regular fishing bait may also be obtained from the pickable fishing rod, which can be found in the rare room with a large frozen lake inside Frost Caves.\n\nTypes. All baits weigh 0.1 and stack to 100.",
+  "scraped_at": "2026-02-26T02:15:10.066376+00:00"
+}

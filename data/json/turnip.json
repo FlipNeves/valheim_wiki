@@ -1,0 +1,73 @@
+{
+  "title": "Turnip",
+  "url": "https://valheim.fandom.com/wiki/Turnip",
+  "slug": "Turnip",
+  "categories": [
+    "Materials",
+    "Farming"
+  ],
+  "infobox": {
+    "_infobox_title": "Turnip",
+    "Type": "Material",
+    "Internal ID": "Turnip",
+    "Source": "Turnip seeds",
+    "Usage": "Building, Crafting, Farming, Taming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Produces": "3, Turnip seeds",
+    "Grow Time (s)": "1h 6m 40s, -, 1h 23m 20s",
+    "Needs Cultivated Ground?": "Yes",
+    "Space Needed (m)": "1",
+    "Hospitable Biomes": "Meadows, ,, Black Forest, ,, Swamp, ,, Plains, and, Mistlands"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Turnips are crops grown from Turnip seeds, which can only be found in the Swamp biome by picking the naturally growing clusters of yellow flowers. Unlike other farmable flora, they cannot be consumed raw by the player."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Turnips are grown by planting Turnip seeds with the Cultivator.\n• It takes between 4000s and 5000s (between 66m40s and 83m20s, or about 2.22-2.78 in-game days) for them to fully grow.\n• Cannot be grown in the Mountain biome."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Spice rack\n• Jack-o-turnip"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Result": "Black soup",
+          "Ingredients": "• Bloodbag x1• Honey x1• Turnip x1",
+          "Crafting Station": "Cauldron(2)"
+        },
+        {
+          "Result": "Turnip stew",
+          "Ingredients": "• Boar meat x1• Turnip x3",
+          "Crafting Station": "Cauldron (2)"
+        },
+        {
+          "Result": "Uncooked magically stuffed shroom",
+          "Ingredients": "• Magecap x3• Blood clot x1• Turnip x1",
+          "Crafting Station": "Cauldron (5)"
+        }
+      ]
+    },
+    {
+      "heading": "Farming",
+      "level": 3,
+      "text": "• 3 Turnip seeds can be obtained by planting and growing a \"Seed-turnip\" using the Cultivator."
+    },
+    {
+      "heading": "Taming",
+      "level": 3,
+      "text": "• Boar"
+    }
+  ],
+  "full_text": "Turnip\n\nType: Material | Internal ID: Turnip | Source: Turnip seeds | Usage: Building, Crafting, Farming, Taming | Teleportable (Can go through wood portal?): Yes | Produces: 3, Turnip seeds | Grow Time (s): 1h 6m 40s, -, 1h 23m 20s | Needs Cultivated Ground?: Yes | Space Needed (m): 1 | Hospitable Biomes: Meadows, ,, Black Forest, ,, Swamp, ,, Plains, and, Mistlands\n\nIntroduction. Turnips are crops grown from Turnip seeds, which can only be found in the Swamp biome by picking the naturally growing clusters of yellow flowers. Unlike other farmable flora, they cannot be consumed raw by the player.\n\nAvailability. • Turnips are grown by planting Turnip seeds with the Cultivator.\n• It takes between 4000s and 5000s (between 66m40s and 83m20s, or about 2.22-2.78 in-game days) for them to fully grow.\n• Cannot be grown in the Mountain biome.\n\nBuilding. • Spice rack\n• Jack-o-turnip\n\nFarming. • 3 Turnip seeds can be obtained by planting and growing a \"Seed-turnip\" using the Cultivator.\n\nTaming. • Boar",
+  "scraped_at": "2026-02-26T01:37:24.570264+00:00"
+}

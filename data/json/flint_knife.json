@@ -1,0 +1,78 @@
+{
+  "title": "Flint knife",
+  "url": "https://valheim.fandom.com/wiki/Flint_knife",
+  "slug": "Flint_knife",
+  "categories": [
+    "Weapons",
+    "Knives",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Flint knife",
+    "Internal ID": "KnifeFlint",
+    "Type": "Knife",
+    "Source": "Workbench",
+    "Usage": "Weapon",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Flint x6",
+    "Attack speed": "1.52 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "1.8 range, 45 angle, 0.5 height, 0.3 ray"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The flint knife is the first knife."
+    },
+    {
+      "heading": "Combat style",
+      "level": 3,
+      "text": "• The flint knife's primary attack is a fast 3-slash combo with 2x damage on the last swing.\n• Its secondary attack is a leaping stab with 3x damage.\n• It deals 6x damage against unalerted enemies."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Pierce",
+          "Quality 1": "5",
+          "Quality 2": "6",
+          "Quality 3": "7",
+          "Quality 4": "8"
+        },
+        {
+          "stat": "Slash",
+          "Quality 1": "5",
+          "Quality 2": "6",
+          "Quality 3": "7",
+          "Quality 4": "8"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "2 Wood4 Flint2 Leather scraps",
+          "Quality 2": "2 Flint",
+          "Quality 3": "4 Flint",
+          "Quality 4": "6 Flint"
+        },
+        {
+          "stat": "Workbench level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4"
+        }
+      ]
+    }
+  ],
+  "full_text": "Flint knife\n\nInternal ID: KnifeFlint | Type: Knife | Source: Workbench | Usage: Weapon | Wielding: One-handed | Crafting Materials: Flint x6 | Attack speed: 1.52 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 1.8 range, 45 angle, 0.5 height, 0.3 ray\n\nIntroduction. The flint knife is the first knife.\n\nCombat style. • The flint knife's primary attack is a fast 3-slash combo with 2x damage on the last swing.\n• Its secondary attack is a leaping stab with 3x damage.\n• It deals 6x damage against unalerted enemies.",
+  "scraped_at": "2026-02-26T01:15:07.117771+00:00"
+}

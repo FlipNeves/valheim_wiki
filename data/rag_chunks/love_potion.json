@@ -1,0 +1,11 @@
+{
+  "title": "Love potion",
+  "url": "https://valheim.fandom.com/wiki/Love_potion",
+  "slug": "Love_potion",
+  "categories": [
+    "Mead"
+  ],
+  "content": "# Love potion\n\nType: Mead | Internal ID: MeadTrollPheromones | Source: The Bog Witch | Usage: Drinking | Buy: 110, Coins, for 5 | Teleportable (Can go through wood portal?): Yes | Duration: 5m | Cooldown: 0s\n\n# Introduction\n\nLove potion is a consumable item sold by The Bog Witch at 110 Coins for five potions.\n\n## Effect\n\nIts consumption increases the spawn rate of Trolls (from 5% to 25%), increases the chance of starred Trolls and increases the maximum number of spawned Trolls (from 1 to 2). All Trolls are also automatically on alert.\n\n• stat: Base | Quality 0: 90% | Quality 1: 9% | Quality 2: 1%\n\n• stat: Potion | Quality 0: 0% | Quality 1: 87.5% | Quality 2: 12.5%\n\n## Notes\n\n• Trolls spawning within 2000 meters of the center of the world remain without star.\n• Trolls spawning in event raids will have at least one star, even if within 2000 meters of the center of the world.\n\nCategorias: Mead",
+  "content_length": 904,
+  "scraped_at": "2026-02-26T02:12:14.279335+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Mountain grave",
+  "url": "https://valheim.fandom.com/wiki/Mountain_grave",
+  "slug": "Mountain_grave",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Mountain grave",
+    "Type": "Structure",
+    "Internal ID": "mountaingrave",
+    "Location": "Mountains",
+    "Resources": "Bone fragments, ,, Silver necklace"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Mountain graves are Points of interest found in the Mountains. They consist of a small circle of stones of various sizes."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "A skeleton is buried at the center of the grave, at a depth of about 4 to 5 pickaxe hits. It can be picked for one Bone fragments and one Silver necklace with a 50.6% chance to drop."
+    }
+  ],
+  "full_text": "Mountain grave\n\nType: Structure | Internal ID: mountaingrave | Location: Mountains | Resources: Bone fragments, ,, Silver necklace\n\nIntroduction. Mountain graves are Points of interest found in the Mountains. They consist of a small circle of stones of various sizes.\n\nResources. A skeleton is buried at the center of the grave, at a depth of about 4 to 5 pickaxe hits. It can be picked for one Bone fragments and one Silver necklace with a 50.6% chance to drop.",
+  "scraped_at": "2026-02-26T01:51:52.343816+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Swamp Grave",
+  "url": "https://valheim.fandom.com/wiki/Swamp_Grave",
+  "slug": "Swamp_Grave",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Swamp Grave",
+    "Type": "Point of interest",
+    "Internal ID": "Grave1",
+    "Location": "Swamp",
+    "Resources": "Swamp chest",
+    "Inhabitants": "Draugr, ,, Skeleton"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Swamp Graves are Points of interest found in the Swamp. They are a circle of six large stones with two additional stones in the center."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "Swamp Graves are protected by two Body piles and one Evil bone pile.\nThere is a Swamp chest at the center of the formation.\nThe stones are indestructible and provide maximum support for building."
+    }
+  ],
+  "full_text": "Swamp Grave\n\nType: Point of interest | Internal ID: Grave1 | Location: Swamp | Resources: Swamp chest | Inhabitants: Draugr, ,, Skeleton\n\nIntroduction. Swamp Graves are Points of interest found in the Swamp. They are a circle of six large stones with two additional stones in the center.\n\nResources. Swamp Graves are protected by two Body piles and one Evil bone pile.\nThere is a Swamp chest at the center of the formation.\nThe stones are indestructible and provide maximum support for building.",
+  "scraped_at": "2026-02-26T01:50:35.756656+00:00"
+}

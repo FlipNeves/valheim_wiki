@@ -1,0 +1,1637 @@
+{
+  "title": "Crafting",
+  "url": "https://valheim.fandom.com/wiki/Crafting",
+  "slug": "Crafting",
+  "categories": [
+    "Candidates for deletion",
+    "Gameplay"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Crafting is the process of combining materials to create new items.\nSome basic items can be crafted in the player inventory, but most items require a dedicated crafting station such as a Workbench or Forge."
+    },
+    {
+      "heading": "Inventory",
+      "level": 3,
+      "text": "The following recipes are available in the crafting menu in the player inventory.",
+      "table_data": [
+        {
+          "Item": "Stone axe",
+          "Materials": "4 Stone 5 Wood"
+        },
+        {
+          "Item": "Club",
+          "Materials": "6 Wood"
+        },
+        {
+          "Item": "Hammer",
+          "Materials": "3 Wood 2 Stone"
+        },
+        {
+          "Item": "Torch",
+          "Materials": "1 Wood 1 Resin"
+        }
+      ]
+    },
+    {
+      "heading": "Workbench",
+      "level": 3,
+      "text": "The following recipes are available when using a Workbench.",
+      "table_data": [
+        {
+          "Item": "Fenris coat",
+          "Level": "2",
+          "Materials": "20 Fenris hair 5 Wolf pelt 10 Leather scraps"
+        },
+        {
+          "Item": "Fenris leggings",
+          "Level": "2",
+          "Materials": "20 Fenris hair 5 Wolf pelt 10 Leather scraps"
+        },
+        {
+          "Item": "Leather tunic",
+          "Level": "2",
+          "Materials": "6 Deer hide"
+        },
+        {
+          "Item": "Leather pants",
+          "Level": "2",
+          "Materials": "6 Deer hide"
+        },
+        {
+          "Item": "Rag tunic",
+          "Level": "1",
+          "Materials": "5 Leather scraps"
+        },
+        {
+          "Item": "Rag pants",
+          "Level": "1",
+          "Materials": "5 Leather scraps"
+        },
+        {
+          "Item": "Root harnesk",
+          "Level": "2",
+          "Materials": "10 Root 10 Ancient bark 2 Deer hide"
+        },
+        {
+          "Item": "Root leggings",
+          "Level": "2",
+          "Materials": "10 Root 10 Ancient bark 2 Deer hide"
+        },
+        {
+          "Item": "Troll leather tunic",
+          "Level": "2",
+          "Materials": "5 Troll hide"
+        },
+        {
+          "Item": "Troll leather pants",
+          "Level": "2",
+          "Materials": "5 Troll hide"
+        },
+        {
+          "Item": "20 Fire arrow",
+          "Level": "2",
+          "Materials": "8 Wood 8 Resin 2 Feathers"
+        },
+        {
+          "Item": "20 Flinthead arrow",
+          "Level": "2",
+          "Materials": "8 Wood 2 Flint 2 Feathers"
+        },
+        {
+          "Item": "20 Frost arrow",
+          "Level": "4",
+          "Materials": "8 Wood 4 Obsidian 2 Feathers 1 Freeze gland"
+        },
+        {
+          "Item": "20 Needle arrow",
+          "Level": "4",
+          "Materials": "4 Needle 2 Feathers"
+        },
+        {
+          "Item": "20 Obsidian arrow",
+          "Level": "3",
+          "Materials": "8 Wood 8 Resin 2 Feathers"
+        },
+        {
+          "Item": "20 Poison arrow",
+          "Level": "3",
+          "Materials": "8 Wood 4 Obsidian 2 Feathers 2 Ooze"
+        },
+        {
+          "Item": "Flint axe",
+          "Level": "1",
+          "Materials": "4 Wood 4 Flint"
+        },
+        {
+          "Item": "Stone axe",
+          "Level": "—",
+          "Materials": "5 Wood 4 Stone"
+        },
+        {
+          "Item": "3 Bile bomb",
+          "Level": "1",
+          "Materials": "1 Sap 1 Bilebag 3 Resin"
+        },
+        {
+          "Item": "5 Ooze bomb",
+          "Level": "1",
+          "Materials": "5 Leather scraps 5 Ooze 3 Resin"
+        },
+        {
+          "Item": "Crude bow",
+          "Level": "1",
+          "Materials": "10 Wood 8 Leather scraps"
+        },
+        {
+          "Item": "Finewood bow",
+          "Level": "1",
+          "Materials": "10 Finewood 10 Corewood 2 Deer hide"
+        },
+        {
+          "Item": "Deer hide cape",
+          "Level": "2",
+          "Materials": "4 Deer hide 5 Bone fragments"
+        },
+        {
+          "Item": "Linen cape",
+          "Level": "2",
+          "Materials": "20 Linen thread 1 Silver"
+        },
+        {
+          "Item": "Lox cape",
+          "Level": "2",
+          "Materials": "6 Lox pelt 2 Silver"
+        },
+        {
+          "Item": "Troll hide cape",
+          "Level": "2",
+          "Materials": "10 Troll hide 2 Bone fragments"
+        },
+        {
+          "Item": "Wolf fur cape",
+          "Level": "2",
+          "Materials": "6 Wolf pelt 4 Silver 1 Wolf trophy"
+        },
+        {
+          "Item": "Club",
+          "Level": "—",
+          "Materials": "6 Wood"
+        },
+        {
+          "Item": "Wisplight",
+          "Level": "1",
+          "Materials": "1 Silver 1 Wisp"
+        },
+        {
+          "Item": "Blue firework",
+          "Level": "1",
+          "Materials": "1 Basic fireworks 1 Blueberries"
+        },
+        {
+          "Item": "Cyan firework",
+          "Level": "1",
+          "Materials": "1 Basic fireworks 1 Greydwarf eye"
+        },
+        {
+          "Item": "Green firework",
+          "Level": "1",
+          "Materials": "1 Basic fireworks 1 Guck"
+        },
+        {
+          "Item": "Purple firework",
+          "Level": "1",
+          "Materials": "1 Basic fireworks 1 Turnip"
+        },
+        {
+          "Item": "Red firework",
+          "Level": "1",
+          "Materials": "1 Basic fireworks 1 Raspberry"
+        },
+        {
+          "Item": "Yellow firework",
+          "Level": "1",
+          "Materials": "1 Basic fireworks 1 Dandelion"
+        },
+        {
+          "Item": "Hammer",
+          "Level": "—",
+          "Materials": "3 Wood 2 Stone"
+        },
+        {
+          "Item": "Fenris hood",
+          "Level": "2",
+          "Materials": "20 Fenris hair 2 Wolf pelt 1 Cultist trophy"
+        },
+        {
+          "Item": "Leather helmet",
+          "Level": "2",
+          "Materials": "6 Deer hide"
+        },
+        {
+          "Item": "Root mask",
+          "Level": "2",
+          "Materials": "10 Root 10 Ancient bark 4 Leather scraps"
+        },
+        {
+          "Item": "Troll leather helmet",
+          "Level": "2",
+          "Materials": "5 Troll hide 3 Bone fragments"
+        },
+        {
+          "Item": "Hoe",
+          "Level": "1",
+          "Materials": "5 Wood 2 Stone"
+        },
+        {
+          "Item": "Abyssal razor",
+          "Level": "2",
+          "Materials": "4 Finewood 20 Chitin 2 Leather scraps"
+        },
+        {
+          "Item": "Flint knife",
+          "Level": "1",
+          "Materials": "2 Wood 4 Flint 2 Leather scraps"
+        },
+        {
+          "Item": "Antler pickaxe",
+          "Level": "1",
+          "Materials": "10 Wood 1 Hard antler"
+        },
+        {
+          "Item": "Lox saddle",
+          "Level": "1",
+          "Materials": "10 Leather scraps 20 Linen thread 15 Black metal"
+        },
+        {
+          "Item": "Bone tower shield",
+          "Level": "3",
+          "Materials": "10 Wood 10 Bone fragments 2 Skeleton trophy"
+        },
+        {
+          "Item": "Wood shield",
+          "Level": "1",
+          "Materials": "10 Wood 4 Resin 4 Leather scraps"
+        },
+        {
+          "Item": "Wood tower shield",
+          "Level": "1",
+          "Materials": "10 Wood 4 Leather scraps"
+        },
+        {
+          "Item": "Stagbreaker",
+          "Level": "2",
+          "Materials": "20 Corewood 5 Deer trophy 2 Leather scraps"
+        },
+        {
+          "Item": "Abyssal harpoon",
+          "Level": "2",
+          "Materials": "8 Finewood 30 Chitin 3 Leather scraps"
+        },
+        {
+          "Item": "Flint spear",
+          "Level": "1",
+          "Materials": "5 Wood 10 Flint 3 Leather scraps"
+        }
+      ]
+    },
+    {
+      "heading": "Forge",
+      "level": 3,
+      "text": "The following recipes are available when using a Forge.",
+      "table_data": [
+        {
+          "Item": "Bronze plate cuirass",
+          "Level": "1",
+          "Materials": "5 Bronze 2 Deer hide"
+        },
+        {
+          "Item": "Bronze plate leggings",
+          "Level": "1",
+          "Materials": "5 Bronze 2 Deer hide"
+        },
+        {
+          "Item": "Iron scale mail",
+          "Level": "2",
+          "Materials": "20 Iron 2 Deer hide"
+        },
+        {
+          "Item": "Iron greaves",
+          "Level": "2",
+          "Materials": "20 Iron 2 Deer hide"
+        },
+        {
+          "Item": "Padded cuirass",
+          "Level": "2",
+          "Materials": "10 Iron 20 Linen thread"
+        },
+        {
+          "Item": "Padded greaves",
+          "Level": "2",
+          "Materials": "10 Iron 20 Linen thread"
+        },
+        {
+          "Item": "Wolf armor chest",
+          "Level": "2",
+          "Materials": "20 Silver 5 Wolf pelt 1 Chain"
+        },
+        {
+          "Item": "Wolf armor legs",
+          "Level": "2",
+          "Materials": "20 Silver 5 Wolf pelt 4 Wolf fang"
+        },
+        {
+          "Item": "20 Bronzehead arrow",
+          "Level": "1",
+          "Materials": "8 Wood 1 Bronze 2 Feathers"
+        },
+        {
+          "Item": "20 Ironhead arrow",
+          "Level": "2",
+          "Materials": "8 Wood 1 Iron 2 Feathers"
+        },
+        {
+          "Item": "20 Silver arrow",
+          "Level": "3",
+          "Materials": "8 Wood 1 Silver 2 Feathers"
+        },
+        {
+          "Item": "Black metal atgeir",
+          "Level": "4",
+          "Materials": "10 Finewood 30 Black metal 5 Linen thread"
+        },
+        {
+          "Item": "Bronze atgeir",
+          "Level": "1",
+          "Materials": "10 Wood 8 Bronze 2 Leather scraps"
+        },
+        {
+          "Item": "Iron atgeir",
+          "Level": "2",
+          "Materials": "10 Wood 30 Iron 2 Leather scraps"
+        },
+        {
+          "Item": "Black metal axe",
+          "Level": "4",
+          "Materials": "6 Finewood 20 Black metal 5 Linen thread"
+        },
+        {
+          "Item": "Bronze axe",
+          "Level": "1",
+          "Materials": "4 Wood 8 Bronze 2 Leather scraps"
+        },
+        {
+          "Item": "Iron axe",
+          "Level": "2",
+          "Materials": "4 Wood 20 Iron 2 Leather scraps"
+        },
+        {
+          "Item": "Battleaxe",
+          "Level": "2",
+          "Materials": "30 Ancient bark 35 Iron 4 Leather scraps"
+        },
+        {
+          "Item": "Crystal battleaxe",
+          "Level": "3",
+          "Materials": "40 Ancient bark 30 Silver 10 Crystal"
+        },
+        {
+          "Item": "Draugr fang",
+          "Level": "2",
+          "Materials": "10 Ancient bark 20 Silver 2 Deer hide 10 Guck"
+        },
+        {
+          "Item": "Huntsman bow",
+          "Level": "1",
+          "Materials": "10 Finewood 20 Iron 10 Feathers 2 Deer hide"
+        },
+        {
+          "Item": "Bronze",
+          "Level": "1",
+          "Materials": "2 Copper 1 Tin"
+        },
+        {
+          "Item": "5 Bronze",
+          "Level": "1",
+          "Materials": "10 Copper 5 Tin"
+        },
+        {
+          "Item": "20 Bronze nails",
+          "Level": "1",
+          "Materials": "1 Bronze"
+        },
+        {
+          "Item": "Cultivator",
+          "Level": "1",
+          "Materials": "5 Corewood 5 Bronze"
+        },
+        {
+          "Item": "Flesh rippers",
+          "Level": "3",
+          "Materials": "10 Fenris hair 6 Fenris claw 10 Silver"
+        },
+        {
+          "Item": "Bronze helmet",
+          "Level": "1",
+          "Materials": "5 Bronze 2 Deer hide"
+        },
+        {
+          "Item": "Drake helmet",
+          "Level": "1",
+          "Materials": "20 Silver 2 Wolf pelt 2 Drake trophy"
+        },
+        {
+          "Item": "Iron helmet",
+          "Level": "1",
+          "Materials": "20 Iron 2 Deer hide"
+        },
+        {
+          "Item": "Padded helmet",
+          "Level": "1",
+          "Materials": "10 Iron 15 Linen thread"
+        },
+        {
+          "Item": "10 Iron nails",
+          "Level": "1",
+          "Materials": "1 Iron"
+        },
+        {
+          "Item": "Black metal knife",
+          "Level": "4",
+          "Materials": "20 Finewood 10 Black metal 5 Linen thread"
+        },
+        {
+          "Item": "Butcher knife",
+          "Level": "1",
+          "Materials": "2 Wood 4 Tin"
+        },
+        {
+          "Item": "Copper knife",
+          "Level": "1",
+          "Materials": "2 Wood 8 Copper"
+        },
+        {
+          "Item": "Silver knife",
+          "Level": "3",
+          "Materials": "2 Wood 10 Silver 3 Leather scraps 2 Iron"
+        },
+        {
+          "Item": "Bronze mace",
+          "Level": "1",
+          "Materials": "4 Wood 8 Bronze 3 Leather scraps"
+        },
+        {
+          "Item": "Iron mace",
+          "Level": "2",
+          "Materials": "4 Wood 20 Iron 3 Leather scraps"
+        },
+        {
+          "Item": "Porcupine",
+          "Level": "2",
+          "Materials": "5 Finewood 20 Iron 5 Needle 10 Linen thread"
+        },
+        {
+          "Item": "Frostner",
+          "Level": "3",
+          "Materials": "10 Ancient bark 30 Silver 5 Ymir flesh 5 Freeze gland"
+        },
+        {
+          "Item": "Black metal pickaxe",
+          "Level": "2",
+          "Materials": "3 Yggdrasil wood 25 Black metal"
+        },
+        {
+          "Item": "Bronze pickaxe",
+          "Level": "1",
+          "Materials": "3 Corewood 10 Bronze"
+        },
+        {
+          "Item": "Iron pickaxe",
+          "Level": "2",
+          "Materials": "3 Corewood 20 Iron"
+        },
+        {
+          "Item": "Banded shield",
+          "Level": "2",
+          "Materials": "10 Finewood 8 Iron"
+        },
+        {
+          "Item": "Black metal shield",
+          "Level": "3",
+          "Materials": "10 Finewood 8 Black metal 5 Chain"
+        },
+        {
+          "Item": "Black metal tower shield",
+          "Level": "3",
+          "Materials": "10 Finewood 10 Black metal 1 Chain"
+        },
+        {
+          "Item": "Bronze buckler",
+          "Level": "1",
+          "Materials": "10 Bronze 4 Wood"
+        },
+        {
+          "Item": "Iron buckler",
+          "Level": "2",
+          "Materials": "10 Iron 4 Ancient bark"
+        },
+        {
+          "Item": "Iron tower shield",
+          "Level": "2",
+          "Materials": "15 Finewood 10 Iron"
+        },
+        {
+          "Item": "Silver shield",
+          "Level": "3",
+          "Materials": "10 Finewood 8 Silver"
+        },
+        {
+          "Item": "Iron sledge",
+          "Level": "2",
+          "Materials": "10 Ancient bark 30 Iron 4 Ymir flesh 1 Draugr trophy"
+        },
+        {
+          "Item": "Bronze spear",
+          "Level": "1",
+          "Materials": "5 Wood 6 Bronze 2 Deer hide"
+        },
+        {
+          "Item": "Ancient bark spear",
+          "Level": "3",
+          "Materials": "4 Troll hide 10 Iron 10 Ancient bark"
+        },
+        {
+          "Item": "Fang spear",
+          "Level": "3",
+          "Materials": "10 Ancient bark 4 Wolf fang 2 Leather scraps 2 Silver"
+        },
+        {
+          "Item": "Black metal sword",
+          "Level": "4",
+          "Materials": "2 Finewood 20 Black metal 5 Linen thread"
+        },
+        {
+          "Item": "Bronze sword",
+          "Level": "1",
+          "Materials": "2 Wood 8 Bronze 2 Leather scraps"
+        },
+        {
+          "Item": "Iron sword",
+          "Level": "4",
+          "Materials": "2 Wood 20 Iron 5 Leather scraps"
+        }
+      ]
+    },
+    {
+      "heading": "Cauldron",
+      "level": 3,
+      "text": "The following recipes are available when using a cauldron.",
+      "table_data": [
+        {
+          "Item": "Barley wine base: Fire resistance",
+          "Level": "1",
+          "Materials": "10 Barley 10 Cloudberries"
+        },
+        {
+          "Item": "Black soup",
+          "Level": "2",
+          "Materials": "1 Bloodbag 1 Honey 1 Turnip"
+        },
+        {
+          "Item": "Blood pudding",
+          "Level": "4",
+          "Materials": "2 Thistle 2 Bloodbag 4 Barley flour"
+        },
+        {
+          "Item": "2 Boar jerky",
+          "Level": "1",
+          "Materials": "1 Boar meat 1 Honey"
+        },
+        {
+          "Item": "2 Bread dough",
+          "Level": "4",
+          "Materials": "10 Barley flour"
+        },
+        {
+          "Item": "Carrot soup",
+          "Level": "1",
+          "Materials": "1 Mushroom 3 Carrot"
+        },
+        {
+          "Item": "Cooked egg",
+          "Level": "1",
+          "Materials": "1 Egg"
+        },
+        {
+          "Item": "Deer stew",
+          "Level": "1",
+          "Materials": "1 Cooked deer meat 1 Blueberries 1 Carrot"
+        },
+        {
+          "Item": "Eyescream",
+          "Level": "3",
+          "Materials": "3 Greydwarf eye 1 Freeze gland"
+        },
+        {
+          "Item": "Raw fish",
+          "Level": "1",
+          "Materials": "Any fish"
+        },
+        {
+          "Item": "20 Hot fishing bait",
+          "Level": "1",
+          "Materials": "20 Fishing bait 1 Surtling trophy"
+        },
+        {
+          "Item": "20 Frosty fishing bait",
+          "Level": "1",
+          "Materials": "20 Fishing bait 1 Drake trophy"
+        },
+        {
+          "Item": "20 Mossy fishing bait",
+          "Level": "1",
+          "Materials": "20 Fishing bait 1 Troll trophy"
+        },
+        {
+          "Item": "20 Misty fishing bait",
+          "Level": "1",
+          "Materials": "20 Fishing bait 1 Lox trophy"
+        },
+        {
+          "Item": "20 Stingy fishing bait",
+          "Level": "1",
+          "Materials": "20 Fishing bait 1 Fuling trophy"
+        },
+        {
+          "Item": "20 Sticky fishing bait",
+          "Level": "1",
+          "Materials": "20 Fishing bait 1 Abomination trophy"
+        },
+        {
+          "Item": "Fish wraps",
+          "Level": "4",
+          "Materials": "2 Cooked fish 4 Barley flour"
+        },
+        {
+          "Item": "Uncooked honey glazed chicken",
+          "Level": "5",
+          "Materials": "1 Chicken meat 3 Honey 2 Jotun puffs"
+        },
+        {
+          "Item": "Unbaked lox pie",
+          "Level": "4",
+          "Materials": "2 Cloudberries 2 Lox meat 4 Barley flour"
+        },
+        {
+          "Item": "Uncooked stuffed shroom",
+          "Level": "5",
+          "Materials": "3 Magecap 1 Blood clot 2 Turnip"
+        },
+        {
+          "Item": "Mead base: Minor eitr",
+          "Level": "1",
+          "Materials": "10 Honey 5 Sap 2 Jotun puffs 5 Magecap"
+        },
+        {
+          "Item": "Mead base: Frost resistance",
+          "Level": "1",
+          "Materials": "10 Honey 5 Thistle 2 Bloodbag 1 Greydwarf eye"
+        },
+        {
+          "Item": "Mead base: Major healing",
+          "Level": "1",
+          "Materials": "10 Honey 4 Blood clot 5 Royal jelly"
+        },
+        {
+          "Item": "Mead base: Medium healing",
+          "Level": "1",
+          "Materials": "10 Honey 4 Bloodbag 10 Raspberries 1 Dandelion"
+        },
+        {
+          "Item": "Mead base: Minor healing",
+          "Level": "1",
+          "Materials": "10 Honey 5 Blueberries 10 Raspberries 1 Dandelion"
+        },
+        {
+          "Item": "Mead base: Poison resistance",
+          "Level": "1",
+          "Materials": "10 Honey 5 Thistle 1 Neck tail 10 Coal"
+        },
+        {
+          "Item": "Mead base: Lingering stamina",
+          "Level": "1",
+          "Materials": "10 Sap 10 Cloudberries 10 Jotun puffs"
+        },
+        {
+          "Item": "Mead base: Medium stamina",
+          "Level": "1",
+          "Materials": "10 Honey 10 Cloudberries 10 Yellow mushroom"
+        },
+        {
+          "Item": "Mead base: Medium stamina",
+          "Level": "1",
+          "Materials": "10 Honey 10 Raspberries 10 Yellow mushroom"
+        },
+        {
+          "Item": "Mead base: Tasty",
+          "Level": "1",
+          "Materials": "10 Honey 10 Raspberries 5 Blueberries"
+        },
+        {
+          "Item": "Uncooked meat platter",
+          "Level": "5",
+          "Materials": "1 Seeker meat 1 Lox meat 1 Hare meat"
+        },
+        {
+          "Item": "Minced meat sauce",
+          "Level": "1",
+          "Materials": "1 Boar meat 1 Neck tail 1 Carrot"
+        },
+        {
+          "Item": "Uncooked misthare supreme",
+          "Level": "5",
+          "Materials": "1 Hare meat 3 Jotun puffs 2 Carrot"
+        },
+        {
+          "Item": "Mushroom omelette",
+          "Level": "5",
+          "Materials": "1 Egg 3 Jotun puffs"
+        },
+        {
+          "Item": "Onion soup",
+          "Level": "2",
+          "Materials": "2 Onion"
+        },
+        {
+          "Item": "4 Queen's jam",
+          "Level": "1",
+          "Materials": "8 Raspberries 6 Blueberries"
+        },
+        {
+          "Item": "3 Salad",
+          "Level": "5",
+          "Materials": "3 Jotun puffs 3 Onion 3 Cloudberries"
+        },
+        {
+          "Item": "4 Sausages",
+          "Level": "2",
+          "Materials": "4 Entrails 1 Boar meat 1 Thistle"
+        },
+        {
+          "Item": "2 Seeker aspic",
+          "Level": "5",
+          "Materials": "2 Seeker meat 2 Magecap 2 Royal jelly"
+        },
+        {
+          "Item": "Muckshake",
+          "Level": "2",
+          "Materials": "1 Ooze 2 Raspberries 2 Blueberries"
+        },
+        {
+          "Item": "Turnip stew",
+          "Level": "2",
+          "Materials": "1 Boar meat 3 Turnip"
+        },
+        {
+          "Item": "2 Wolf jerky",
+          "Level": "3",
+          "Materials": "1 Wolf meat 1 Honey"
+        },
+        {
+          "Item": "Wolf skewer",
+          "Level": "3",
+          "Materials": "1 Wolf meat 2 Mushroom 1 Onion"
+        },
+        {
+          "Item": "Yggdrasil porridge",
+          "Level": "5",
+          "Materials": "4 Sap 3 Barley 2 Royal jelly"
+        }
+      ]
+    },
+    {
+      "heading": "Artisan table",
+      "level": 3,
+      "text": "The following recipes are available when using a artisan table.\n(Not repairable)",
+      "table_data": [
+        {
+          "Item": "Mechanical spring",
+          "Level": "1",
+          "Materials": "1 Refined eitr 3 Iron"
+        },
+        {
+          "Item": "20 Black metal missile",
+          "Level": "1",
+          "Materials": "10 Wood 1 Black metal"
+        },
+        {
+          "Item": "20 Wooden missile",
+          "Level": "1",
+          "Materials": "5 Corewood 2 Feathers"
+        },
+        {
+          "NAME": "Hammer",
+          "SOURCE": "inventory",
+          "CRAFT LEVEL": "0",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "3 wood + 2 stone",
+          "UPGRADE 1 COST (craft lvl+1)": "1 wood + 1 stone",
+          "UPGRADE 2 COST (craft lvl+2)": "2 wood + 2 stone",
+          "UPGRADE 3 COST (craft lvl+3)": "N/A"
+        },
+        {
+          "NAME": "Cultivator",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "5 Corewood + 5 bronze",
+          "UPGRADE 1 COST (craft lvl+1)": "1 Corewood + 1 bronze",
+          "UPGRADE 2 COST (craft lvl+2)": "2 Corewood + 2 bronze",
+          "UPGRADE 3 COST (craft lvl+3)": "N/A"
+        },
+        {
+          "NAME": "Hoe",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "5 wood + 2 stone",
+          "UPGRADE 1 COST (craft lvl+1)": "1 wood + 1 stone",
+          "UPGRADE 2 COST (craft lvl+2)": "2 wood + 2 stone",
+          "UPGRADE 3 COST (craft lvl+3)": "N/A"
+        },
+        {
+          "NAME": "Antler pickaxe",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "10 wood + 1 hard antler",
+          "UPGRADE 1 COST (craft lvl+1)": "N/A",
+          "UPGRADE 2 COST (craft lvl+2)": "N/A",
+          "UPGRADE 3 COST (craft lvl+3)": "N/A"
+        },
+        {
+          "NAME": "Bronze pickaxe",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "3 Corewood + 10 bronze",
+          "UPGRADE 1 COST (craft lvl+1)": "1 Corewood + 5 bronze",
+          "UPGRADE 2 COST (craft lvl+2)": "2 Corewood + 10 bronze",
+          "UPGRADE 3 COST (craft lvl+3)": "3 Corewood + 15 bronze"
+        },
+        {
+          "NAME": "Iron pickaxe",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "3 Corewood + 20 iron",
+          "UPGRADE 1 COST (craft lvl+1)": "1 Corewood + 10 iron",
+          "UPGRADE 2 COST (craft lvl+2)": "2 Corewood + 20 iron",
+          "UPGRADE 3 COST (craft lvl+3)": "3 Corewood + 30 iron"
+        },
+        {
+          "NAME": "Stone axe",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "5 wood + 4 stone",
+          "UPGRADE 1 COST (craft lvl+1)": "2 stone",
+          "UPGRADE 2 COST (craft lvl+2)": "4 stone",
+          "UPGRADE 3 COST (craft lvl+3)": "6 stone"
+        },
+        {
+          "NAME": "Flint axe",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "4 wood + 6 flint",
+          "UPGRADE 1 COST (craft lvl+1)": "3 flint + 2 leather scraps",
+          "UPGRADE 2 COST (craft lvl+2)": "6 flint + 4 leather scraps",
+          "UPGRADE 3 COST (craft lvl+3)": "9 flint + 6 leather scraps"
+        },
+        {
+          "NAME": "Bronze axe",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "4 wood + 6 bronze + 2 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "4 bronze + 1 leather scraps",
+          "UPGRADE 2 COST (craft lvl+2)": "8 bronze + 2 leather scraps",
+          "UPGRADE 3 COST (craft lvl+3)": "12 bronze + 3 leather scraps"
+        },
+        {
+          "NAME": "Iron axe",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "4 wood + 20 iron + 2 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "10 iron + 1 leather scraps",
+          "UPGRADE 2 COST (craft lvl+2)": "20 iron + 2 leather scraps",
+          "UPGRADE 3 COST (craft lvl+3)": "30 iron + 3 leather scraps"
+        },
+        {
+          "NAME": "Black metal axe",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "4",
+          "REPAIR LEVEL": "4",
+          "CREATION COST": "6 Finewood + 20 Black metal + 5 linen thread",
+          "UPGRADE 1 COST (craft lvl+1)": "10 Black metal + 5 linen thread",
+          "UPGRADE 2 COST (craft lvl+2)": "20 Black metal + 10 linen thread",
+          "UPGRADE 3 COST (craft lvl+3)": "30 Black metal + 15 linen thread"
+        },
+        {
+          "NAME": "Club",
+          "SOURCE": "inventory",
+          "CRAFT LEVEL": "0",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "6 wood",
+          "UPGRADE 1 COST (craft lvl+1)": "5 bone fragments",
+          "UPGRADE 2 COST (craft lvl+2)": "10 bone fragments",
+          "UPGRADE 3 COST (craft lvl+3)": "15 bone fragments"
+        },
+        {
+          "NAME": "Torch",
+          "SOURCE": "inventory",
+          "CRAFT LEVEL": "0",
+          "REPAIR LEVEL": "N/A",
+          "CREATION COST": "1 wood + 1 resin",
+          "UPGRADE 1 COST (craft lvl+1)": "N/A",
+          "UPGRADE 2 COST (craft lvl+2)": "N/A",
+          "UPGRADE 3 COST (craft lvl+3)": "N/A"
+        },
+        {
+          "NAME": "Flint knife",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "2 + 4 flint + 2 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "2 flint",
+          "UPGRADE 2 COST (craft lvl+2)": "4 flint",
+          "UPGRADE 3 COST (craft lvl+3)": "6 flint"
+        },
+        {
+          "NAME": "Flint spear",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "5 wood + 10 flint + 2 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "3 wood + 5 flint + 1 leather scraps",
+          "UPGRADE 2 COST (craft lvl+2)": "6 wood + 10 flint + 2 leather scraps",
+          "UPGRADE 3 COST (craft lvl+3)": "9 wood + 15 flint + 3 leather scraps"
+        },
+        {
+          "NAME": "Stagbreaker",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "20 Corewood + 5 deer trophy + 2 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "5 Corewood + 2 deer trophy + 1 leather scraps + 10 bone fragments",
+          "UPGRADE 2 COST (craft lvl+2)": "10 Corewood + 4 deer trophy + 2 leather scraps + 20 bone fragments",
+          "UPGRADE 3 COST (craft lvl+3)": "15 Corewood + 6 deer trophy + 3 leather scraps + 30 bone fragments"
+        },
+        {
+          "NAME": "Copper knife",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "2 wood + 8 copper",
+          "UPGRADE 1 COST (craft lvl+1)": "4 copper + 8 greydwarf eye",
+          "UPGRADE 2 COST (craft lvl+2)": "8 copper + 16 greydwarf eye",
+          "UPGRADE 3 COST (craft lvl+3)": "12 copper + 24 greydwarf eye"
+        },
+        {
+          "NAME": "Bronze atgeir",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "10 wood + 8 bronze + 2 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "4 bronze",
+          "UPGRADE 2 COST (craft lvl+2)": "8 bronze",
+          "UPGRADE 3 COST (craft lvl+3)": "12 bronze"
+        },
+        {
+          "NAME": "Bronze Mace",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "4 wood + 8 bronze + 3 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "4 bronze",
+          "UPGRADE 2 COST (craft lvl+2)": "8 bronze",
+          "UPGRADE 3 COST (craft lvl+3)": "12 bronze"
+        },
+        {
+          "NAME": "Bronze Spear",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "",
+          "UPGRADE 1 COST (craft lvl+1)": "3 wood + 4 bronze + 1 deer hide",
+          "UPGRADE 2 COST (craft lvl+2)": "6 wood + 8 bronze + 2 deer hide",
+          "UPGRADE 3 COST (craft lvl+3)": "9 wood + 12 bronze + 3 deer hide"
+        },
+        {
+          "NAME": "Bronze sword",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "2 wood + 8 bronze + 2 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "1 wood + 4 bronze + 1 leather scraps",
+          "UPGRADE 2 COST (craft lvl+2)": "2 wood + 8 bronze + 2 leather scraps",
+          "UPGRADE 3 COST (craft lvl+3)": "3 wood + 12 bronze + 3 leather scraps"
+        },
+        {
+          "NAME": "Ancient bark spear",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "3",
+          "REPAIR LEVEL": "3",
+          "CREATION COST": "4 troll hide + 10 iron + 10 ancient bark",
+          "UPGRADE 1 COST (craft lvl+1)": "1 troll hide + 5 iron + 5 anicent bark",
+          "UPGRADE 2 COST (craft lvl+2)": "2 troll hide + 10 iron + 10 anicent bark",
+          "UPGRADE 3 COST (craft lvl+3)": "3 troll hide + 15 iron + 15 anicent bark"
+        },
+        {
+          "NAME": "Battleaxe",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "30 ancient bark + 35 iron + 4 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "5 ancient bark + 15 iron",
+          "UPGRADE 2 COST (craft lvl+2)": "10 ancient bark + 25 iron",
+          "UPGRADE 3 COST (craft lvl+3)": "15 ancient bark + 35 iron"
+        },
+        {
+          "NAME": "Iron sword",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "2 wood + 20 iron + 3 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "1 wood + 10 iron + 2 leather scraps",
+          "UPGRADE 2 COST (craft lvl+2)": "2 wood + 20 iron + 4 leather scraps",
+          "UPGRADE 3 COST (craft lvl+3)": "3 wood + 30 iron + 6 leather scraps"
+        },
+        {
+          "NAME": "Iron sledge",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "10 ancient bark + 30 iron + 1 ymir flesh + 1 draugr elite trophy",
+          "UPGRADE 1 COST (craft lvl+1)": "2 ancient bark + 15 iron + 2 ymir flesh",
+          "UPGRADE 2 COST (craft lvl+2)": "4 ancient bark + 30 iron + 4 ymir flesh",
+          "UPGRADE 3 COST (craft lvl+3)": "6 ancient bark + 45 iron + 6 ymir flesh"
+        },
+        {
+          "NAME": "Iron mace",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "4 wood + 20 iron + 3 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "10 iron",
+          "UPGRADE 2 COST (craft lvl+2)": "20 iron",
+          "UPGRADE 3 COST (craft lvl+3)": "30 iron"
+        },
+        {
+          "NAME": "Iron atgeir",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "10 wood + 30 iron + 2 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "15 iron + 1 leather scraps",
+          "UPGRADE 2 COST (craft lvl+2)": "30 iron + 2 leather scraps",
+          "UPGRADE 3 COST (craft lvl+3)": "45 iron + 3 leather scraps"
+        },
+        {
+          "NAME": "Silver sword",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "3",
+          "REPAIR LEVEL": "3",
+          "CREATION COST": "40 silver + 3 leather scraps + 5 iron + 2 wood",
+          "UPGRADE 1 COST (craft lvl+1)": "20 silver + 1 leather scraps + 3 iron + 1 wood",
+          "UPGRADE 2 COST (craft lvl+2)": "40 silver + 2 leather scraps + 6 iron + 2 wood",
+          "UPGRADE 3 COST (craft lvl+3)": "60 silver + 3 leather scraps + 9 iron + 3 wood"
+        },
+        {
+          "NAME": "Fang spear",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "3",
+          "REPAIR LEVEL": "3",
+          "CREATION COST": "10 ancient bark + 4 wolf fang + 2 leather scraps + 2 silver",
+          "UPGRADE 1 COST (craft lvl+1)": "5 ancient bark + 2 wolf fang + 1 leather scraps + 1 silver",
+          "UPGRADE 2 COST (craft lvl+2)": "10 ancient bark + 4 wolf fang + 2 leather scraps + 2 silver",
+          "UPGRADE 3 COST (craft lvl+3)": "15 ancient bark + 6 wolf fang + 3 leather scraps + 3 silver"
+        },
+        {
+          "NAME": "Frostner",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "3",
+          "REPAIR LEVEL": "3",
+          "CREATION COST": "10 ancient bark + 30 silver + 5 ymir flesh + 5 freeze gland",
+          "UPGRADE 1 COST (craft lvl+1)": "15 silver",
+          "UPGRADE 2 COST (craft lvl+2)": "30 silver",
+          "UPGRADE 3 COST (craft lvl+3)": "45 silver"
+        },
+        {
+          "NAME": "Abyssal Harpoon",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "8 Finewood + 30 chitin + 3 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "N/A",
+          "UPGRADE 2 COST (craft lvl+2)": "N/A",
+          "UPGRADE 3 COST (craft lvl+3)": "N/A"
+        },
+        {
+          "NAME": "Abyssal Razor",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "4 Finewood + 20 chitin + 2 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "10 chitin",
+          "UPGRADE 2 COST (craft lvl+2)": "20 chitin",
+          "UPGRADE 3 COST (craft lvl+3)": "30 chitin"
+        },
+        {
+          "NAME": "Black metal atgeir",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "4",
+          "REPAIR LEVEL": "4",
+          "CREATION COST": "10 Finewood + 30 black metal + 5 linen thread",
+          "UPGRADE 1 COST (craft lvl+1)": "15 black metal + 5 linen thread",
+          "UPGRADE 2 COST (craft lvl+2)": "30 black metal + 10 linen thread",
+          "UPGRADE 3 COST (craft lvl+3)": "45 black metal + 15 linen thread"
+        },
+        {
+          "NAME": "Black metal knife",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "4",
+          "REPAIR LEVEL": "4",
+          "CREATION COST": "4 Finewood + 10 black metal + 5 linen thread",
+          "UPGRADE 1 COST (craft lvl+1)": "4 black metal + 5 linen thread",
+          "UPGRADE 2 COST (craft lvl+2)": "8 black metal + 10 linen thread",
+          "UPGRADE 3 COST (craft lvl+3)": "12 black metal + 15 linen thread"
+        },
+        {
+          "NAME": "Black metal sword",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "4",
+          "REPAIR LEVEL": "4",
+          "CREATION COST": "2 Finewood + 20 black metal + 5 linen thread",
+          "UPGRADE 1 COST (craft lvl+1)": "10 black metal + 5 linen thread",
+          "UPGRADE 2 COST (craft lvl+2)": "20 black metal + 10 linen thread",
+          "UPGRADE 3 COST (craft lvl+3)": "30 black metal + 15 linen thread"
+        },
+        {
+          "NAME": "Porcupine",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "4",
+          "REPAIR LEVEL": "4",
+          "CREATION COST": "5 Finewood + 20 iron + 5 needle + 10 linen thread",
+          "UPGRADE 1 COST (craft lvl+1)": "2 iron + 2 needle",
+          "UPGRADE 2 COST (craft lvl+2)": "4 iron + 4 needle",
+          "UPGRADE 3 COST (craft lvl+3)": "6 iron + 6 needle"
+        },
+        {
+          "NAME": "Crude bow",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "10 wood + 8 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "5 wood + 4 leather scraps + 1 deer hide",
+          "UPGRADE 2 COST (craft lvl+2)": "10 wood + 8 leather scraps + 2 deer hide",
+          "UPGRADE 3 COST (craft lvl+3)": "15 wood + 12 leather scraps + 3 deer hide"
+        },
+        {
+          "NAME": "Finewood bow",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "10 Finewood + 20 Corewood + 2 deer hide",
+          "UPGRADE 1 COST (craft lvl+1)": "5 Finewood + 5 Corewood + 2 deer hide",
+          "UPGRADE 2 COST (craft lvl+2)": "10 Finewood + 10 Corewood + 4 deer hide",
+          "UPGRADE 3 COST (craft lvl+3)": "15 Finewood + 15 Corewood + 6 deer hide"
+        },
+        {
+          "NAME": "Huntsman bow",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "10 Finewood + 20 iron + 10 feathers + 2 deer hide",
+          "UPGRADE 1 COST (craft lvl+1)": "5 Finewood + 10 iron + 5 feathers + 2 deer hide",
+          "UPGRADE 2 COST (craft lvl+2)": "10 Finewood + 20 iron + 10 feathers + 4 deer hide",
+          "UPGRADE 3 COST (craft lvl+3)": "15 Finewood + 30 iron + 15 feathers + 6 deer hide"
+        },
+        {
+          "NAME": "Draugr Fang",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "10 ancient bark + 20 silver + 2 deer hide + 10 guck",
+          "UPGRADE 1 COST (craft lvl+1)": "5 ancient bark + 10 silver + 2 deer hide + 2 guck",
+          "UPGRADE 2 COST (craft lvl+2)": "10 ancient bark + 20 silver + 4 deer hide + 4 guck",
+          "UPGRADE 3 COST (craft lvl+3)": "15 ancient bark + 30 silver + 6 deer hide + 6 guck"
+        },
+        {
+          "NAME": "Wood shield",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR COST": "1",
+          "CREATION COST": "4 leather scraps + |4 resin",
+          "UPGRADE 1 COST (craft lvl+1)": "5 wood + 2 resin + 2 leather scraps",
+          "UPGRADE 2 COST (craft lvl+2)": "10 wood + 4 resin + 4 leather scraps"
+        },
+        {
+          "NAME": "Wood tower shield",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR COST": "1",
+          "CREATION COST": "10 wood + 4 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "5 wood + 3 leather scraps",
+          "UPGRADE 2 COST (craft lvl+2)": "10 wood + 6 leather scraps"
+        },
+        {
+          "NAME": "Bronze buckler",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR COST": "1",
+          "CREATION COST": "4 wood + 10 bronze",
+          "UPGRADE 1 COST (craft lvl+1)": "5 bronze + 1 wood",
+          "UPGRADE 2 COST (craft lvl+2)": "10 bronze + 2 wood"
+        },
+        {
+          "NAME": "Banded shield",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR COST": "2",
+          "CREATION COST": "10 Finewood + 8 iron",
+          "UPGRADE 1 COST (craft lvl+1)": "10 Finewood + 4 iron",
+          "UPGRADE 2 COST (craft lvl+2)": "20 Finewood + 8 iron"
+        },
+        {
+          "NAME": "Iron tower shield",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR COST": "2",
+          "CREATION COST": "15 Finewood + 10 iron",
+          "UPGRADE 1 COST (craft lvl+1)": "10 Finewood + 5 iron",
+          "UPGRADE 2 COST (craft lvl+2)": "20 Finewood + 10 iron"
+        },
+        {
+          "NAME": "Silver Shield",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "3",
+          "REPAIR COST": "3",
+          "CREATION COST": "10 Finewood + 8 silver",
+          "UPGRADE 1 COST (craft lvl+1)": "10 Finewood + 4 silver",
+          "UPGRADE 2 COST (craft lvl+2)": "20 Finewood + 8 silver"
+        },
+        {
+          "NAME": "Serpent scale shield",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "3",
+          "REPAIR COST": "3",
+          "CREATION COST": "10 Finewood + 4 iron + 8 serpent scale",
+          "UPGRADE 1 COST (craft lvl+1)": "10 Finewood + 2 iron + 4 serpent scale",
+          "UPGRADE 2 COST (craft lvl+2)": "20 Finewood + 4 iron + 8 serpent scale"
+        },
+        {
+          "NAME": "Black metal shield",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "3",
+          "REPAIR COST": "3",
+          "CREATION COST": "10 Finewood + 8 black metal + 5 chain",
+          "UPGRADE 1 COST (craft lvl+1)": "10 Finewood + 4 black metal + 2 chain",
+          "UPGRADE 2 COST (craft lvl+2)": "20 Finewood + 8 black metal + 4 chain"
+        },
+        {
+          "NAME": "Black metal tower shield",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "3",
+          "REPAIR COST": "3",
+          "CREATION COST": "15 Finewood + 10 black metal + 7 chain",
+          "UPGRADE 1 COST (craft lvl+1)": "15 Finewood + 6 black metal + 2 chain",
+          "UPGRADE 2 COST (craft lvl+2)": "20 Finewood + 8 black metal + 4 chain"
+        },
+        {
+          "NAME": "Wood arrow",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "CREATION COST": "8 wood"
+        },
+        {
+          "NAME": "Fire arrow",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "CREATION COST": "8 wood + 8 resin + 2 feathers"
+        },
+        {
+          "NAME": "Flinthead arrow",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "CREATION COST": "8 wood + 2 flint + 2 feathers"
+        },
+        {
+          "NAME": "Bronzehead arrow",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "CREATION COST": "8 wood + 1 bronze + 2 feathers"
+        },
+        {
+          "NAME": "Ironhead arrow",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "CREATION COST": "8 wood + 1 iron + 2 feathers"
+        },
+        {
+          "NAME": "Silver arrow",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "3",
+          "CREATION COST": "8 wood + 1 silver + 2 feathers"
+        },
+        {
+          "NAME": "Obsidian arrow",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "3",
+          "CREATION COST": "8 wood + 4 obsidian + 2 feathers"
+        },
+        {
+          "NAME": "Poison arrow",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "3",
+          "CREATION COST": "8 wood + 4 obsidian + 2 feathers + 2 ooze"
+        },
+        {
+          "NAME": "Frost arrow",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "4",
+          "CREATION COST": "8 wood + 4 obsidian + 2 feathers + 1 freeze gland"
+        },
+        {
+          "NAME": "Needle arrow",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "4",
+          "CREATION COST": "4 needle + 2 feathers"
+        },
+        {
+          "NAME": "Ooze bomb",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "CREATION COST": "5 leather scraps + 10 ooze + 3 resin"
+        },
+        {
+          "NAME": "Rag pants",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "5 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "5 leather scraps",
+          "UPGRADE 2 COST (craft lvl+2)": "N/A",
+          "UPGRADE 3 COST (craft lvl+3)": "N/A"
+        },
+        {
+          "NAME": "Rag tunic",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "5 leather scraps",
+          "UPGRADE 1 COST (craft lvl+1)": "5 leather scraps",
+          "UPGRADE 2 COST (craft lvl+2)": "N/A",
+          "UPGRADE 3 COST (craft lvl+3)": "N/A"
+        },
+        {
+          "NAME": "Leather pants",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "6 deer hide",
+          "UPGRADE 1 COST (craft lvl+1)": "6 deer hide + 5 bone fragments",
+          "UPGRADE 2 COST (craft lvl+2)": "12 deer hide + 10 bone fragments",
+          "UPGRADE 3 COST (craft lvl+3)": "18 deer hide + 15 bone fragments"
+        },
+        {
+          "NAME": "Leather tunic",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "6 deer hide",
+          "UPGRADE 1 COST (craft lvl+1)": "6 deer hide + 5 bone fragments",
+          "UPGRADE 2 COST (craft lvl+2)": "12 deer hide + 10 bone fragments",
+          "UPGRADE 3 COST (craft lvl+3)": "18 deer hide + 15 bone fragments"
+        },
+        {
+          "NAME": "Leather helmet",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "6 deer hide",
+          "UPGRADE 1 COST (craft lvl+1)": "6 deer hide + 5 bone fragments",
+          "UPGRADE 2 COST (craft lvl+2)": "12 deer hide + 10 bone fragments",
+          "UPGRADE 3 COST (craft lvl+3)": "18 deer hide + 15 bone fragments"
+        },
+        {
+          "NAME": "Deer hide cape",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "4 deer hide + 5 bone fragments",
+          "UPGRADE 1 COST (craft lvl+1)": "4 deer hide + 5 bone fragments",
+          "UPGRADE 2 COST (craft lvl+2)": "8 deer hide + 10 bone fragments",
+          "UPGRADE 3 COST (craft lvl+3)": "12 deer hide + 15 bone fragments"
+        },
+        {
+          "NAME": "Troll leather pants",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "3",
+          "REPAIR LEVEL": "3",
+          "CREATION COST": "5 troll hide",
+          "UPGRADE 1 COST (craft lvl+1)": "2 troll hide",
+          "UPGRADE 2 COST (craft lvl+2)": "4 troll hide",
+          "UPGRADE 3 COST (craft lvl+3)": "6 troll hide"
+        },
+        {
+          "NAME": "Troll leather tunic",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "3",
+          "REPAIR LEVEL": "3",
+          "CREATION COST": "5 troll hide",
+          "UPGRADE 1 COST (craft lvl+1)": "2 troll hide",
+          "UPGRADE 2 COST (craft lvl+2)": "4 troll hide",
+          "UPGRADE 3 COST (craft lvl+3)": "6 troll hide"
+        },
+        {
+          "NAME": "Troll leather helmet",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "3",
+          "REPAIR LEVEL": "3",
+          "CREATION COST": "5 troll hide + 3 bone fragments",
+          "UPGRADE 1 COST (craft lvl+1)": "2 troll hide + 1 bone fragments",
+          "UPGRADE 2 COST (craft lvl+2)": "4 troll hide + 2 bone fragments",
+          "UPGRADE 3 COST (craft lvl+3)": "6 troll hide + 3 bone fragments"
+        },
+        {
+          "NAME": "Troll hide cape",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "3",
+          "REPAIR LEVEL": "3",
+          "CREATION COST": "10 troll hide + 10 bone fragments",
+          "UPGRADE 1 COST (craft lvl+1)": "5 troll hide + 5 bone fragments",
+          "UPGRADE 2 COST (craft lvl+2)": "10 troll hide + 10 bone fragments",
+          "UPGRADE 3 COST (craft lvl+3)": "15 troll hide + 15 bone fragments"
+        },
+        {
+          "NAME": "Bronze plate leggings",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "5 bronze + 2 deer hide",
+          "UPGRADE 1 COST (craft lvl+1)": "3 bronze",
+          "UPGRADE 2 COST (craft lvl+2)": "6 bronze",
+          "UPGRADE 3 COST (craft lvl+3)": "9 bronze"
+        },
+        {
+          "NAME": "Bronze plate cuirass",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "5 bronze + 2 deer hide",
+          "UPGRADE 1 COST (craft lvl+1)": "3 bronze",
+          "UPGRADE 2 COST (craft lvl+2)": "6 bronze",
+          "UPGRADE 3 COST (craft lvl+3)": "9 bronze"
+        },
+        {
+          "NAME": "Bronze helmet",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "5 bronze + 2 deer hide",
+          "UPGRADE 1 COST (craft lvl+1)": "3 bronze",
+          "UPGRADE 2 COST (craft lvl+2)": "6 bronze",
+          "UPGRADE 3 COST (craft lvl+3)": "9 bronze"
+        },
+        {
+          "NAME": "Iron greaves",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "20 iron + 2 deer hide",
+          "UPGRADE 1 COST (craft lvl+1)": "5 iron",
+          "UPGRADE 2 COST (craft lvl+2)": "10 iron",
+          "UPGRADE 3 COST (craft lvl+3)": "15 iron"
+        },
+        {
+          "NAME": "Iron scale mail",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "20 iron + 2 deer hide",
+          "UPGRADE 1 COST (craft lvl+1)": "5 iron",
+          "UPGRADE 2 COST (craft lvl+2)": "10 iron",
+          "UPGRADE 3 COST (craft lvl+3)": "15 iron"
+        },
+        {
+          "NAME": "Iron helmet",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "20 iron + 2 deer hide",
+          "UPGRADE 1 COST (craft lvl+1)": "5 iron",
+          "UPGRADE 2 COST (craft lvl+2)": "10 iron",
+          "UPGRADE 3 COST (craft lvl+3)": "15 iron"
+        },
+        {
+          "NAME": "Wolf armor legs",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "20 silver + 5 wolf pelt + 4 wolf fang",
+          "UPGRADE 1 COST (craft lvl+1)": "5 silver + 2 wolf pelt + 1 wolf fang",
+          "UPGRADE 2 COST (craft lvl+2)": "10 silver + 4 wolf pelt + 2 wolf fang",
+          "UPGRADE 3 COST (craft lvl+3)": "15 silver + 6 wolf pelt + 3 wolf fang"
+        },
+        {
+          "NAME": "Wolf armor chest",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "20 silver + 5 wolf pelt + 1 chain",
+          "UPGRADE 1 COST (craft lvl+1)": "5 silver + 2 wolf pelt",
+          "UPGRADE 2 COST (craft lvl+2)": "10 silver + 4 wolf pelt",
+          "UPGRADE 3 COST (craft lvl+3)": "15 silver + 6 wolf pelt"
+        },
+        {
+          "NAME": "Drake helmet",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "20 silver + 2 wolf pelt + 1 drake trophy",
+          "UPGRADE 1 COST (craft lvl+1)": "5 silver",
+          "UPGRADE 2 COST (craft lvl+2)": "10 silver",
+          "UPGRADE 3 COST (craft lvl+3)": "15 silver"
+        },
+        {
+          "NAME": "Wolf fur cape",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "6 wolf pelt + 4 silver + 1 wolf trophy",
+          "UPGRADE 1 COST (craft lvl+1)": "4 wolf pelt + 2 silver",
+          "UPGRADE 2 COST (craft lvl+2)": "8 wolf pelt + 4 silver",
+          "UPGRADE 3 COST (craft lvl+3)": "12 wolf pelt + 6 silver"
+        },
+        {
+          "NAME": "Padded greaves",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "10 iron + 20 linen thread",
+          "UPGRADE 1 COST (craft lvl+1)": "3 iron",
+          "UPGRADE 2 COST (craft lvl+2)": "6 iron",
+          "UPGRADE 3 COST (craft lvl+3)": "9 iron"
+        },
+        {
+          "NAME": "Padded cuirass",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "10 iron + 20 linen thread",
+          "UPGRADE 1 COST (craft lvl+1)": "3 iron",
+          "UPGRADE 2 COST (craft lvl+2)": "6 iron",
+          "UPGRADE 3 COST (craft lvl+3)": "9 iron"
+        },
+        {
+          "NAME": "Padded helmet",
+          "SOURCE": "Forge",
+          "CRAFT LEVEL": "1",
+          "REPAIR LEVEL": "1",
+          "CREATION COST": "10 iron + 15 linen thread",
+          "UPGRADE 1 COST (craft lvl+1)": "5 iron",
+          "UPGRADE 2 COST (craft lvl+2)": "10 iron",
+          "UPGRADE 3 COST (craft lvl+3)": "15 iron"
+        },
+        {
+          "NAME": "Linen cape",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "20 linen thread + 1 silver",
+          "UPGRADE 1 COST (craft lvl+1)": "4 linen thread",
+          "UPGRADE 2 COST (craft lvl+2)": "8 linen thread",
+          "UPGRADE 3 COST (craft lvl+3)": "12 linen thread"
+        },
+        {
+          "NAME": "Lox cape",
+          "SOURCE": "Workbench",
+          "CRAFT LEVEL": "2",
+          "REPAIR LEVEL": "2",
+          "CREATION COST": "6 lox pelt + 2 silver",
+          "UPGRADE 1 COST (craft lvl+1)": "2 lox pelt",
+          "UPGRADE 2 COST (craft lvl+2)": "4 lox pelt",
+          "UPGRADE 3 COST (craft lvl+3)": "6 lox pelt"
+        }
+      ]
+    }
+  ],
+  "full_text": "Crafting\n\nIntroduction. Crafting is the process of combining materials to create new items.\nSome basic items can be crafted in the player inventory, but most items require a dedicated crafting station such as a Workbench or Forge.\n\nInventory. The following recipes are available in the crafting menu in the player inventory.\n\nWorkbench. The following recipes are available when using a Workbench.\n\nForge. The following recipes are available when using a Forge.\n\nCauldron. The following recipes are available when using a cauldron.\n\nArtisan table. The following recipes are available when using a artisan table.\n(Not repairable)",
+  "scraped_at": "2026-02-26T02:14:11.993113+00:00"
+}

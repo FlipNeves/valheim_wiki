@@ -1,0 +1,202 @@
+{
+  "title": "The Bog Witch",
+  "url": "https://valheim.fandom.com/wiki/The_Bog_Witch",
+  "slug": "The_Bog_Witch",
+  "categories": [
+    "NPCs"
+  ],
+  "infobox": {
+    "_infobox_title": "The Bog Witch",
+    "Internal ID": "BogWitch",
+    "Species": "Greydwarf",
+    "Gender": "Female",
+    "Eye color": "Light blue"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Bog Witch is a Greydwarf trader found in the Swamp biome. She sells unique ingredients and items from her swamp hut which can be purchased with Coins, with additional items unlocking as the world progresses. Her spices and serving tray are required to prepare and eat a Feast."
+    },
+    {
+      "heading": "Location",
+      "level": 2,
+      "text": "During world generation, up to 10 spawn locations are determined for The Bog Witch. All spawn locations are within Swamp biomes, each at least 1000 meters apart, and only found between 3000 and 8000 meters from the world center. Approaching any of these locations will permanently place The Bog Witch there, nullifying all other potential spawns. When discovered, a cauldron icon will appear on the world map.\nShe spawns with her own point of interest, a small hut decorated with various potions. A Greydwarf sits next to the entrance, and a Kvastur constantly sweeps inside the hut interior. The hut has Comfort level three and grants the player all relevant buffs.\nThe camp is surrounded by a shimmering, transparent dome that acts as a safety zone that Creatures cannot enter. The safe zone cannot be destroyed."
+    },
+    {
+      "heading": "Trading",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Candle wick x50",
+          "Icon": "",
+          "Cost": "100 Coins",
+          "Availability": "Always",
+          "Item Use/Description": "Required for Resin candle."
+        },
+        {
+          "Name": "Scythe handle",
+          "Icon": "",
+          "Cost": "200 Coins",
+          "Availability": "After defeating Moder",
+          "Item Use/Description": "Required for Scythe."
+        },
+        {
+          "Name": "Love potion x5",
+          "Icon": "",
+          "Cost": "110 Coins",
+          "Availability": "Always",
+          "Item Use/Description": "Increases Troll spawning."
+        },
+        {
+          "Name": "Toadstool",
+          "Icon": "",
+          "Cost": "85 Coins",
+          "Availability": "After defeating Moder",
+          "Item Use/Description": "Required for Berserkir mead."
+        },
+        {
+          "Name": "Fragrant bundle x5",
+          "Icon": "",
+          "Cost": "140 Coins",
+          "Availability": "After defeating Moder",
+          "Item Use/Description": "Required for Anti-sting concoction."
+        },
+        {
+          "Name": "Fresh seaweed x5",
+          "Icon": "",
+          "Cost": "75 Coins",
+          "Availability": "Always",
+          "Item Use/Description": "Required for Draught of Vananidir."
+        },
+        {
+          "Name": "Cured squirrel hamstring x5",
+          "Icon": "",
+          "Cost": "80 Coins",
+          "Availability": "Always",
+          "Item Use/Description": "Required for Tonic of Ratatosk."
+        },
+        {
+          "Name": "Powdered dragon eggshells x5",
+          "Icon": "",
+          "Cost": "120 Coins",
+          "Availability": "Always",
+          "Item Use/Description": "Required for Mead of Troll endurance."
+        },
+        {
+          "Name": "Pungent pebbles x5",
+          "Icon": "",
+          "Cost": "125 Coins",
+          "Availability": "Always",
+          "Item Use/Description": "Required for Brew of animal whispers."
+        },
+        {
+          "Name": "Ivy seeds x3",
+          "Icon": "",
+          "Cost": "65 Coins",
+          "Availability": "Always",
+          "Item Use/Description": "Required to plant Ivy."
+        },
+        {
+          "Name": "Serving tray",
+          "Icon": "",
+          "Cost": "140 Coins",
+          "Availability": "Always",
+          "Item Use/Description": "Required to eat Feast."
+        },
+        {
+          "Name": "Woodland herb blend x5",
+          "Icon": "",
+          "Cost": "120 Coins",
+          "Availability": "After defeating The Elder",
+          "Item Use/Description": "Required for Whole roasted Meadow boar, Black Forest buffet platter and Swamp dweller's delight feasts."
+        },
+        {
+          "Name": "Seafarer's herbs x5",
+          "Icon": "",
+          "Cost": "130 Coins",
+          "Availability": "After killing a Serpent",
+          "Item Use/Description": "Required for Sailor's bounty feast."
+        },
+        {
+          "Name": "Mountain peak pepper powder x5",
+          "Icon": "",
+          "Cost": "140 Coins",
+          "Availability": "After defeating Moder",
+          "Item Use/Description": "Required for Hearty Mountain logger's stew feast."
+        },
+        {
+          "Name": "Grasslands herbalist harvest x5",
+          "Icon": "",
+          "Cost": "160 Coins",
+          "Availability": "After defeating Yagluth",
+          "Item Use/Description": "Required for Plains pie picnic feast."
+        },
+        {
+          "Name": "Herbs of the hidden hills x5",
+          "Icon": "",
+          "Cost": "180 Coins",
+          "Availability": "After defeating The Queen",
+          "Item Use/Description": "Required for Mushrooms galore á la Mistlands feast."
+        },
+        {
+          "Name": "Fiery spice powder x5",
+          "Icon": "",
+          "Cost": "200 Coins",
+          "Availability": "After defeating Fader",
+          "Item Use/Description": "Required for Ashlands gourmet bowl feast."
+        },
+        {
+          "Name": "Corked vial x5",
+          "Icon": "",
+          "Cost": "150 Coins",
+          "Availability": "After defeating The Elder",
+          "Item Use/Description": "Required for Blob bombs."
+        }
+      ]
+    },
+    {
+      "heading": "Buys",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Amber",
+          "Icon": "",
+          "Price for One": "5 Coins",
+          "Stack Size": "20",
+          "Price per Stack": "100 Coins"
+        },
+        {
+          "Name": "Amber pearl",
+          "Icon": "",
+          "Price for One": "10 Coins",
+          "Stack Size": "50",
+          "Price per Stack": "500 Coins"
+        },
+        {
+          "Name": "Ruby",
+          "Icon": "",
+          "Price for One": "20 Coins",
+          "Stack Size": "20",
+          "Price per Stack": "400 Coins"
+        },
+        {
+          "Name": "Silver necklace",
+          "Icon": "",
+          "Price for One": "30 Coins",
+          "Stack Size": "20",
+          "Price per Stack": "600 Coins"
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Like the other NPCs, The Bog Witch speaks to the player, but all her quotes are short onomatopoeia like \"Hm...\", \"Kgk.\" or \"Lhm!\""
+    }
+  ],
+  "full_text": "The Bog Witch\n\nInternal ID: BogWitch | Species: Greydwarf | Gender: Female | Eye color: Light blue\n\nIntroduction. The Bog Witch is a Greydwarf trader found in the Swamp biome. She sells unique ingredients and items from her swamp hut which can be purchased with Coins, with additional items unlocking as the world progresses. Her spices and serving tray are required to prepare and eat a Feast.\n\nLocation. During world generation, up to 10 spawn locations are determined for The Bog Witch. All spawn locations are within Swamp biomes, each at least 1000 meters apart, and only found between 3000 and 8000 meters from the world center. Approaching any of these locations will permanently place The Bog Witch there, nullifying all other potential spawns. When discovered, a cauldron icon will appear on the world map.\nShe spawns with her own point of interest, a small hut decorated with various potions. A Greydwarf sits next to the entrance, and a Kvastur constantly sweeps inside the hut interior. The hut has Comfort level three and grants the player all relevant buffs.\nThe camp is surrounded by a shimmering, transparent dome that acts as a safety zone that Creatures cannot enter. The safe zone cannot be destroyed.\n\nTrivia. • Like the other NPCs, The Bog Witch speaks to the player, but all her quotes are short onomatopoeia like \"Hm...\", \"Kgk.\" or \"Lhm!\"",
+  "scraped_at": "2026-02-26T01:50:42.907809+00:00"
+}

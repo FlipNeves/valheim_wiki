@@ -1,0 +1,67 @@
+{
+  "title": "Iron sword",
+  "url": "https://valheim.fandom.com/wiki/Iron_sword",
+  "slug": "Iron_sword",
+  "categories": [
+    "Weapons",
+    "Swords",
+    "Forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Iron sword",
+    "Internal ID": "SwordIron",
+    "Type": "Sword",
+    "Source": "Forge",
+    "Usage": "Weapon",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Wood x3, Iron x30, Leather scraps x6",
+    "Attack speed": "1.84 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "2.7 range, 10 angle, 1.0 height, 0.7 ray",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The iron sword is the second sword.\n• Primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.\n• Secondary attack deals 3x damage with a slightly longer reach."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Slash",
+          "Quality 1": "55",
+          "Quality 2": "61",
+          "Quality 3": "67",
+          "Quality 4": "73"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "2 Wood20 Iron3 Leather scraps",
+          "Quality 2": "1 Wood10 Iron2 Leather scraps",
+          "Quality 3": "2 Wood20 Iron4 Leather scraps",
+          "Quality 4": "3 Wood30 Iron6 Leather scraps"
+        },
+        {
+          "stat": "Forge level",
+          "Quality 1": "2",
+          "Quality 2": "3",
+          "Quality 3": "4",
+          "Quality 4": "5"
+        }
+      ]
+    }
+  ],
+  "full_text": "Iron sword\n\nInternal ID: SwordIron | Type: Sword | Source: Forge | Usage: Weapon | Wielding: One-handed | Crafting Materials: Wood x3, Iron x30, Leather scraps x6 | Attack speed: 1.84 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.7 range, 10 angle, 1.0 height, 0.7 ray | Movement speed: -5%\n\nIntroduction. The iron sword is the second sword.\n• Primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.\n• Secondary attack deals 3x damage with a slightly longer reach.",
+  "scraped_at": "2026-02-26T01:16:12.684866+00:00"
+}

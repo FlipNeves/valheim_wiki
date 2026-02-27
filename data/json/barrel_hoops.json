@@ -1,0 +1,26 @@
+{
+  "title": "Barrel hoops",
+  "url": "https://valheim.fandom.com/wiki/Barrel_hoops",
+  "slug": "Barrel_hoops",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Barrel hoops",
+    "Type": "Material",
+    "Internal ID": "BarrelRings",
+    "Source": "Haldor",
+    "Usage": "Building",
+    "Buy": "100, Coins",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Barrel hoops are used to build Barrels. They can be brought from Haldor at 100 Coins for 3 items."
+    }
+  ],
+  "full_text": "Barrel hoops\n\nType: Material | Internal ID: BarrelRings | Source: Haldor | Usage: Building | Buy: 100, Coins | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Barrel hoops are used to build Barrels. They can be brought from Haldor at 100 Coins for 3 items.",
+  "scraped_at": "2026-02-26T01:30:31.352810+00:00"
+}

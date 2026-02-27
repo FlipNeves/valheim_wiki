@@ -1,0 +1,42 @@
+{
+  "title": "Deer trophy",
+  "url": "https://valheim.fandom.com/wiki/Deer_trophy",
+  "slug": "Deer_trophy",
+  "categories": [
+    "Trophies",
+    "Materials",
+    "Forsaken offerings"
+  ],
+  "infobox": {
+    "_infobox_title": "Deer trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyDeer",
+    "Source": "Deer",
+    "Usage": "Decoration, summon, Eikthyr",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Deer Trophy is a rare drop from Deers in the Meadows."
+    },
+    {
+      "heading": "Boss Summoning",
+      "level": 3,
+      "text": "A total of two Deer Trophies are required at the Mystical Altar to summon the first boss Eikthyr."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mead horn of Odin\n• Stagbreaker"
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed in an Item Stand.\n• Can be used to program the Ballista."
+    }
+  ],
+  "full_text": "Deer trophy\n\nType: Trophy | Internal ID: TrophyDeer | Source: Deer | Usage: Decoration, summon, Eikthyr | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Deer Trophy is a rare drop from Deers in the Meadows.\n\nBoss Summoning. A total of two Deer Trophies are required at the Mystical Altar to summon the first boss Eikthyr.\n\nCrafting. • Mead horn of Odin\n• Stagbreaker\n\nMisc. • Can be displayed in an Item Stand.\n• Can be used to program the Ballista.",
+  "scraped_at": "2026-02-26T01:32:53.553177+00:00"
+}

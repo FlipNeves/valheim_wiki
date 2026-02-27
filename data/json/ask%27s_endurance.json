@@ -1,0 +1,21 @@
+{
+  "title": "Ask's endurance",
+  "url": "https://valheim.fandom.com/wiki/Ask%27s_Endurance",
+  "slug": "Ask%27s_Endurance",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Ask's endurance",
+    "Effects": "Run stamina usage: -10% | Jump stamina usage: -10% | Attack stamina usage: -20% | Pierce: +10%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ask's endurance is a status effect granted by wearing the Ask armor set.\nIt reduces stamina from running and jumping by 10%, from attacking by 20% and increases pierce damage by 10%."
+    }
+  ],
+  "full_text": "Ask's endurance\n\nEffects: Run stamina usage: -10% | Jump stamina usage: -10% | Attack stamina usage: -20% | Pierce: +10%\n\nIntroduction. Ask's endurance is a status effect granted by wearing the Ask armor set.\nIt reduces stamina from running and jumping by 10%, from attacking by 20% and increases pierce damage by 10%.",
+  "scraped_at": "2026-02-26T02:09:11.340034+00:00"
+}

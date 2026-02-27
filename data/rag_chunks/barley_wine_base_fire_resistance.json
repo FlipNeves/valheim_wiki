@@ -1,0 +1,13 @@
+{
+  "title": "Fire resistance barley wine",
+  "url": "https://valheim.fandom.com/wiki/Barley_wine_base:_Fire_resistance",
+  "slug": "Barley_wine_base:_Fire_resistance",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "content": "# Fire resistance barley wine\n\nType: Mead | Internal ID: BarleyWine | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Barley wine base: Fire resistance x1 | Duration: 10m | Cooldown: 10m | Other Effect(s): Resistance vs. Fire\n\n# Introduction\n\nFire resistance barley wine is a Plains-tier consumable item fermented from Barley wine base: Fire resistance.\n\n## Recipe\n\nBarley wine base: Fire resistance is produced in a Mead ketill with:\n• 10 Barley\n• 10 Cloudberries\nSix Fire resistance barley wines are produced by fermenting the wine base for two in-game days.\n\n## Effect\n\nConsuming it grants Resistant vs. Fire for 600s (10 minutes), reducing fire damage taken (see resistance for details).\n\nCategorias: Mead, Fermenter recipes, Items",
+  "content_length": 795,
+  "scraped_at": "2026-02-26T02:14:59.869690+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Amber pearl",
+  "url": "https://valheim.fandom.com/wiki/Amber_pearl",
+  "slug": "Amber_pearl",
+  "categories": [
+    "Valuables"
+  ],
+  "infobox": {
+    "_infobox_title": "Amber pearl",
+    "Type": "Valuable",
+    "Internal ID": "AmberPearl",
+    "Source": "Burial Chambers, Troll Cave, Sunken Crypts, Stone Grave, Viking Graveyard",
+    "Usage": "Selling to a, Trader",
+    "Sell": "10, Coins",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Amber pearl is a Valuable item."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Stone Grave and Viking Graveyard in the Meadows\n• Burial Chambers and Troll Caves in the Black Forest\n• Sunken Crypts in the Swamp\n• Amber pearl can be obtained from Fishing, as a bonus drop when catching Pike."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Celebratory cap"
+    },
+    {
+      "heading": "Selling",
+      "level": 3,
+      "text": "• As a valuable, it can be sold to any of the traders for 10 Coins."
+    }
+  ],
+  "full_text": "Amber pearl\n\nType: Valuable | Internal ID: AmberPearl | Source: Burial Chambers, Troll Cave, Sunken Crypts, Stone Grave, Viking Graveyard | Usage: Selling to a, Trader | Sell: 10, Coins | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Amber pearl is a Valuable item.\n\nAvailability. • Stone Grave and Viking Graveyard in the Meadows\n• Burial Chambers and Troll Caves in the Black Forest\n• Sunken Crypts in the Swamp\n• Amber pearl can be obtained from Fishing, as a bonus drop when catching Pike.\n\nCrafting. • Celebratory cap\n\nSelling. • As a valuable, it can be sold to any of the traders for 10 Coins.",
+  "scraped_at": "2026-02-26T01:45:53.060615+00:00"
+}

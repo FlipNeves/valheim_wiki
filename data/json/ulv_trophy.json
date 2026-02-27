@@ -1,0 +1,31 @@
+{
+  "title": "Ulv trophy",
+  "url": "https://valheim.fandom.com/wiki/Ulv_trophy",
+  "slug": "Ulv_trophy",
+  "categories": [
+    "Trophies",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Ulv trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyUlv",
+    "Source": "Ulv",
+    "Usage": "Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Ulv trophy is a rare drop from Ulvs inside Frost Caves in the Mountains."
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed in an Item Stand.\n• Can be used to program the Ballista."
+    }
+  ],
+  "full_text": "Ulv trophy\n\nType: Trophy | Internal ID: TrophyUlv | Source: Ulv | Usage: Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Ulv trophy is a rare drop from Ulvs inside Frost Caves in the Mountains.\n\nMisc. • Can be displayed in an Item Stand.\n• Can be used to program the Ballista.",
+  "scraped_at": "2026-02-26T01:37:29.553495+00:00"
+}

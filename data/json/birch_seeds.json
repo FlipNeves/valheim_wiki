@@ -1,0 +1,31 @@
+{
+  "title": "Birch seeds",
+  "url": "https://valheim.fandom.com/wiki/Birch_seeds",
+  "slug": "Birch_seeds",
+  "categories": [
+    "Seeds",
+    "Farming"
+  ],
+  "infobox": {
+    "_infobox_title": "Birch seeds",
+    "Type": "Seed",
+    "Internal ID": "BirchSeeds",
+    "Source": "Birch",
+    "Usage": "Farming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Produces": "1, Birch",
+    "Grow Time (s)": "5000-7000",
+    "Needs Cultivated Ground?": "No",
+    "Space Needed (m)": "4",
+    "Hospitable Biomes": "Meadows, ,, Black Forest, , and, Plains"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Birch seeds is an item which can be planted using the Cultivator to produce new Birch trees. Once planted, the seeds take a few in-game days to grow to full size. Seedlings require a small amount of space directly around where they are planted; if they do not have enough space they will not grow into full trees. They can be obtained from birch trees, where the drop rate varies based on whether the tree was planted and which biome it originated. Details here."
+    }
+  ],
+  "full_text": "Birch seeds\n\nType: Seed | Internal ID: BirchSeeds | Source: Birch | Usage: Farming | Teleportable (Can go through wood portal?): Yes | Produces: 1, Birch | Grow Time (s): 5000-7000 | Needs Cultivated Ground?: No | Space Needed (m): 4 | Hospitable Biomes: Meadows, ,, Black Forest, , and, Plains\n\nIntroduction. Birch seeds is an item which can be planted using the Cultivator to produce new Birch trees. Once planted, the seeds take a few in-game days to grow to full size. Seedlings require a small amount of space directly around where they are planted; if they do not have enough space they will not grow into full trees. They can be obtained from birch trees, where the drop rate varies based on whether the tree was planted and which biome it originated. Details here.",
+  "scraped_at": "2026-02-26T02:13:09.911223+00:00"
+}

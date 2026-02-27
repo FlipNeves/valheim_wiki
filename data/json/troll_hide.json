@@ -1,0 +1,40 @@
+{
+  "title": "Troll hide",
+  "url": "https://valheim.fandom.com/wiki/Troll_hide",
+  "slug": "Troll_hide",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Troll hide",
+    "Type": "Material",
+    "Internal ID": "TrollHide",
+    "Source": "Troll, ,, Trollfish, bonus drop",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Troll hide is the recovered blue hide from, mainly, defeated Trolls."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Dropped from Trolls.\n• Bonus drop from Trollfish."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Barber station"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Ancient bark spear\n• Troll hide cape\n• Troll leather helmet\n• Troll leather pants\n• Troll leather tunic\n• Horn of Celebration"
+    }
+  ],
+  "full_text": "Troll hide\n\nType: Material | Internal ID: TrollHide | Source: Troll, ,, Trollfish, bonus drop | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Troll hide is the recovered blue hide from, mainly, defeated Trolls.\n\nAvailability. • Dropped from Trolls.\n• Bonus drop from Trollfish.\n\nBuilding. • Barber station\n\nCrafting. • Ancient bark spear\n• Troll hide cape\n• Troll leather helmet\n• Troll leather pants\n• Troll leather tunic\n• Horn of Celebration",
+  "scraped_at": "2026-02-26T01:37:20.135676+00:00"
+}

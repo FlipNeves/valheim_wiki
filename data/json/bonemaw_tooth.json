@@ -1,0 +1,35 @@
+{
+  "title": "Bonemaw tooth",
+  "url": "https://valheim.fandom.com/wiki/Bonemaw_tooth",
+  "slug": "Bonemaw_tooth",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Bonemaw tooth",
+    "Type": "Material",
+    "Internal ID": "BonemawSerpentTooth",
+    "Source": "Bonemaw Serpent",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bonemaw tooth is an item used to craft Ashlands-tier weapons."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Dropped by Bonemaw Serpents."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Ash Fang\n• Ripper\n• Splitnir"
+    }
+  ],
+  "full_text": "Bonemaw tooth\n\nType: Material | Internal ID: BonemawSerpentTooth | Source: Bonemaw Serpent | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Bonemaw tooth is an item used to craft Ashlands-tier weapons.\n\nAvailability. • Dropped by Bonemaw Serpents.\n\nCrafting. • Ash Fang\n• Ripper\n• Splitnir",
+  "scraped_at": "2026-02-26T01:31:27.534266+00:00"
+}

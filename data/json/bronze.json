@@ -1,0 +1,38 @@
+{
+  "title": "Bronze",
+  "url": "https://valheim.fandom.com/wiki/Bronze",
+  "slug": "Bronze",
+  "categories": [
+    "Metals",
+    "Materials",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Bronze",
+    "Type": "Metal",
+    "Internal ID": "Bronze",
+    "Source": "Forge | Smelter",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "No",
+    "Crafting Materials": "Copper x2, Tin x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bronze is a crafting material crafted by processing two Copper and one Tin at the Forge. Bronze can also be obtained by destroying the standing braziers found in Frost Caves within the Mountain biome, or by destroying Ancient pots found in ruins and Putrid Holes within the Ashlands biome. Additionally, Bronze can also be obtained by directly smelting the uncommon Scrap bronze in a Smelter."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "• Building: Adze Anvils Artisan press Cartography table Dvergr lantern Fermenter Hanging brazier Standing brazier\n• Crafting: Bronze atgeir Bronze axe Bronze buckler Bronze helmet Bronze mace Bronze nails Bronze pickaxe Bronze plate cuirass Bronze plate leggings Bronze spear Bronze sword Bronzehead arrow Cultivator Heart of the Forest Bronze Pendant Krom Celebratory cap"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Bronze is currently the only alloy in the game. Meaning, its composition is that of two or more metals.\n• Like other metals, Bronze cannot be teleported, without the Portal stone. (As of the Ashlands Update)\n• It takes 78 Bronze to craft one of each base equipment (armor, weapons, tools) in the Black Forest tier. Further 222 Bronze to fully upgrade (total 300 Bronze). 98 Bronze to craft one of each base equipment in all Biomes tiers. Further 232 to fully upgrade (total 330 Bronze)."
+    }
+  ],
+  "full_text": "Bronze\n\nType: Metal | Internal ID: Bronze | Source: Forge | Smelter | Usage: Building, Crafting | Teleportable (Can go through wood portal?): No | Crafting Materials: Copper x2, Tin x1\n\nIntroduction. Bronze is a crafting material crafted by processing two Copper and one Tin at the Forge. Bronze can also be obtained by destroying the standing braziers found in Frost Caves within the Mountain biome, or by destroying Ancient pots found in ruins and Putrid Holes within the Ashlands biome. Additionally, Bronze can also be obtained by directly smelting the uncommon Scrap bronze in a Smelter.\n\nUsage. • Building: Adze Anvils Artisan press Cartography table Dvergr lantern Fermenter Hanging brazier Standing brazier\n• Crafting: Bronze atgeir Bronze axe Bronze buckler Bronze helmet Bronze mace Bronze nails Bronze pickaxe Bronze plate cuirass Bronze plate leggings Bronze spear Bronze sword Bronzehead arrow Cultivator Heart of the Forest Bronze Pendant Krom Celebratory cap\n\nNotes. • Bronze is currently the only alloy in the game. Meaning, its composition is that of two or more metals.\n• Like other metals, Bronze cannot be teleported, without the Portal stone. (As of the Ashlands Update)\n• It takes 78 Bronze to craft one of each base equipment (armor, weapons, tools) in the Black Forest tier. Further 222 Bronze to fully upgrade (total 300 Bronze). 98 Bronze to craft one of each base equipment in all Biomes tiers. Further 232 to fully upgrade (total 330 Bronze).",
+  "scraped_at": "2026-02-26T01:31:34.152670+00:00"
+}

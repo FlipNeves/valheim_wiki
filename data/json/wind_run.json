@@ -1,0 +1,31 @@
+{
+  "title": "Wind run",
+  "url": "https://valheim.fandom.com/wiki/Wind_Run",
+  "slug": "Wind_Run",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Wind run",
+    "Effects": "Run faster when running with the direction of the wind."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wind run is a status effect granted by wearing the Asksvin cloak.\nWhen moving in the same direction as the wind, movement speed is increased and running stamina usage is decreasing. Not much different from sailing with tailwind while on ocean with a ship."
+    },
+    {
+      "heading": "Details",
+      "level": 2,
+      "text": "The movement speed bonus ranges between +0% and +25% according to the formula: s p e e d = b a s e _ s p e e d × ( 1 + 0.25 × w i n d _ f a c t o r × a n g l e _ f a c t o r ) {\\displaystyle speed=base\\_speed\\times (1+0.25\\times wind\\_factor\\times angle\\_factor)}\nThe running stamina usage ranges between -0% and -100% according to the formula: s t a m i n a _ u s a g e = b a s e _ u s a g e × ( 1 − w i n d _ f a c t o r × a n g l e _ f a c t o r ) {\\displaystyle stamina\\_usage=base\\_usage\\times (1-wind\\_factor\\times angle\\_factor)}\nThe two variables are:\n• w i n d _ f a c t o r {\\displaystyle wind\\_factor} is the Wind strength, between 0.05 and 1.\n• a n g l e _ f a c t o r = ( 1 + ( c o s ( w i n d _ a n g l e ) + 1 ) / 2 {\\displaystyle angle\\_factor=(1+(cos(wind\\_angle)+1)/2} varies between 0 and 1 depending on the angle between the movement direction and the wind. As examples, the wind factor is 1 with tail wind, 0 when facing wind and 0.5 with 90° wind.\nThe bonus speed is multiplicative with other bonus."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• As of patch 218.15, the effect does not work with Moder's forsaken power (Wind direction will not change while not on a ship)\n• It can be paired with Fenris set for a drastic increase in movement speed, which is even higher with Moder's forsaken power extra 10% speed bonus\n• The increased movement speed from wind also works while swimming.\n• Before patch 0.219.16, the wind run movement speed bonus ranged between +0% and +100% and there was not stamina reduction."
+    }
+  ],
+  "full_text": "Wind run\n\nEffects: Run faster when running with the direction of the wind.\n\nIntroduction. Wind run is a status effect granted by wearing the Asksvin cloak.\nWhen moving in the same direction as the wind, movement speed is increased and running stamina usage is decreasing. Not much different from sailing with tailwind while on ocean with a ship.\n\nDetails. The movement speed bonus ranges between +0% and +25% according to the formula: s p e e d = b a s e _ s p e e d × ( 1 + 0.25 × w i n d _ f a c t o r × a n g l e _ f a c t o r ) {\\displaystyle speed=base\\_speed\\times (1+0.25\\times wind\\_factor\\times angle\\_factor)}\nThe running stamina usage ranges between -0% and -100% according to the formula: s t a m i n a _ u s a g e = b a s e _ u s a g e × ( 1 − w i n d _ f a c t o r × a n g l e _ f a c t o r ) {\\displaystyle stamina\\_usage=base\\_usage\\times (1-wind\\_factor\\times angle\\_factor)}\nThe two variables are:\n• w i n d _ f a c t o r {\\displaystyle wind\\_factor} is the Wind strength, between 0.05 and 1.\n• a n g l e _ f a c t o r = ( 1 + ( c o s ( w i n d _ a n g l e ) + 1 ) / 2 {\\displaystyle angle\\_factor=(1+(cos(wind\\_angle)+1)/2} varies between 0 and 1 depending on the angle between the movement direction and the wind. As examples, the wind factor is 1 with tail wind, 0 when facing wind and 0.5 with 90° wind.\nThe bonus speed is multiplicative with other bonus.\n\nNotes. • As of patch 218.15, the effect does not work with Moder's forsaken power (Wind direction will not change while not on a ship)\n• It can be paired with Fenris set for a drastic increase in movement speed, which is even higher with Moder's forsaken power extra 10% speed bonus\n• The increased movement speed from wind also works while swimming.\n• Before patch 0.219.16, the wind run movement speed bonus ranged between +0% and +100% and there was not stamina reduction.",
+  "scraped_at": "2026-02-26T02:08:40.485250+00:00"
+}

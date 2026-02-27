@@ -1,0 +1,89 @@
+{
+  "title": "Surtling",
+  "url": "https://valheim.fandom.com/wiki/Surtling",
+  "slug": "Surtling",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Surtling",
+    "Internal ID": "Surtling",
+    "Faction": "Demon",
+    "Main biome": "Swamp",
+    "Drops": "Surtling core | Coal | Surtling trophy",
+    "Abilities": "Fireball (3s)",
+    "Trophy": "Surtling trophy",
+    "Weak to (x1.5)": "Frost, , Water",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Lightning, ,, Stagger",
+    "Immune to (x0)": "Fire, ,, Poison, ,, Spirit, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Surtlings are aggressive creatures found near Fire geysers in Swamps. They are small flaming imps that are relatively weak, especially in Swamps where the constant raining significantly reduces the damage from their ranged fireball attack."
+    },
+    {
+      "heading": "Attacks and abilities",
+      "level": 2,
+      "text": "Surtlings spawning near Fire geysers can be farmed through lowering the ground around the spawn area with a pickaxe. As soon as the Surtling spawns in water, it will take damage and quickly die."
+    },
+    {
+      "heading": "Fireball",
+      "level": 3,
+      "text": "Winds back before tossing a ball of fire at the player, which applies the Burning status (10 Blunt and 40 Fire damage). This attack has a 3-second cooldown and can be used within 10 meters of a player. The fireball travels at 11 meters per second for up to 4 seconds before despawning and has a spread of 2–20 degrees."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Coal",
+          "0 Star": "4",
+          "1 Star": "8",
+          "2 Star": "16"
+        },
+        {
+          "Item": "Surtling core",
+          "0 Star": "50%",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Surtling trophy",
+          "0 Star": "5%",
+          "1 Star": "5%",
+          "2 Star": "5%"
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "3 spawn points near Fire geysers",
+          "Limit": "-",
+          "Frequency": "Respawn after 5 minutes",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "During \"There's a smell of sulfur in the air...\" event after defeating Bonemass",
+          "Limit": "4",
+          "Frequency": "Very common",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Surtling is a reference to Surtr, also anglicized as 'Surt', a mighty giant fire jötunn in Norse mythology. Interestingly, in earlier versions of the game, among Runestones the player may stumble upon in Swamp biome provided the origin of Surtlings as demonic creatures born from splintered fragments of Surtr himself after being struck down and mutilated by First Men.\n• The flames around 1-star Surtlings are blue, with 2-star Surtlings being pink.\n• Projectiles can be parried, staggering the surtling for some time and allowing you to close the distance for melee attacks, and possibly pushing them into water.\n• While they take damage from water, rain does not affect them.\n• Before the Ashlands update, Surtlings were very common and the only inhabitants of Ashlands."
+    }
+  ],
+  "full_text": "Surtling\n\nInternal ID: Surtling | Faction: Demon | Main biome: Swamp | Drops: Surtling core | Coal | Surtling trophy | Abilities: Fireball (3s) | Trophy: Surtling trophy | Weak to (x1.5): Frost, , Water | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Lightning, ,, Stagger | Immune to (x0): Fire, ,, Poison, ,, Spirit, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Surtlings are aggressive creatures found near Fire geysers in Swamps. They are small flaming imps that are relatively weak, especially in Swamps where the constant raining significantly reduces the damage from their ranged fireball attack.\n\nAttacks and abilities. Surtlings spawning near Fire geysers can be farmed through lowering the ground around the spawn area with a pickaxe. As soon as the Surtling spawns in water, it will take damage and quickly die.\n\nFireball. Winds back before tossing a ball of fire at the player, which applies the Burning status (10 Blunt and 40 Fire damage). This attack has a 3-second cooldown and can be used within 10 meters of a player. The fireball travels at 11 meters per second for up to 4 seconds before despawning and has a spread of 2–20 degrees.\n\nNotes. • Surtling is a reference to Surtr, also anglicized as 'Surt', a mighty giant fire jötunn in Norse mythology. Interestingly, in earlier versions of the game, among Runestones the player may stumble upon in Swamp biome provided the origin of Surtlings as demonic creatures born from splintered fragments of Surtr himself after being struck down and mutilated by First Men.\n• The flames around 1-star Surtlings are blue, with 2-star Surtlings being pink.\n• Projectiles can be parried, staggering the surtling for some time and allowing you to close the distance for melee attacks, and possibly pushing them into water.\n• While they take damage from water, rain does not affect them.\n• Before the Ashlands update, Surtlings were very common and the only inhabitants of Ashlands.",
+  "scraped_at": "2026-02-26T01:09:29.895091+00:00"
+}

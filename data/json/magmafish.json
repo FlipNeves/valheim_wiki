@@ -1,0 +1,31 @@
+{
+  "title": "Magmafish",
+  "url": "https://valheim.fandom.com/wiki/Magmafish",
+  "slug": "Magmafish",
+  "categories": [
+    "Fish",
+    "Fishing"
+  ],
+  "infobox": {
+    "_infobox_title": "Magmafish",
+    "Type": "Fish",
+    "Internal ID": "fish11",
+    "Source": "Fishing",
+    "Usage": "Decoration | Cooking",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Magmafish are passive creatures (fish) found in the waters of the Ashlands biome.\nThey can be caught with a fishing pole using Hot fishing bait which can be made at the Food preparation table by combining 20 Fishing bait and a Warrior trophy.\nNeeded to craft a Fishing hat"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Has a unique line: \"Please lay me to rest by the fire...\""
+    }
+  ],
+  "full_text": "Magmafish\n\nType: Fish | Internal ID: fish11 | Source: Fishing | Usage: Decoration | Cooking | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Magmafish are passive creatures (fish) found in the waters of the Ashlands biome.\nThey can be caught with a fishing pole using Hot fishing bait which can be made at the Food preparation table by combining 20 Fishing bait and a Warrior trophy.\nNeeded to craft a Fishing hat\n\nNotes. • Has a unique line: \"Please lay me to rest by the fire...\"",
+  "scraped_at": "2026-02-26T01:53:47.517685+00:00"
+}

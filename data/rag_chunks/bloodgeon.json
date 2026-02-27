@@ -1,0 +1,13 @@
+{
+  "title": "Bloodgeon",
+  "url": "https://valheim.fandom.com/wiki/Bloodgeon",
+  "slug": "Bloodgeon",
+  "categories": [
+    "Weapons",
+    "Clubs",
+    "Black forge recipes"
+  ],
+  "content": "# Bloodgeon\n\nInternal ID: MaceEldnerBlood | Type: Club | Source: Black forge | Usage: Weapon | Wielding: One-handed | Crafting Materials: Flametal x24, Bloodstone x3 | Attack speed: 1.72 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.5 range, 30 angle, 0.8 height, 0.3 ray, vertical | Movement speed: -5%\n\n# Introduction\n\nBloodgeon is the upgraded form of Flametal mace using the Bloodstone. Like all upgraded-weapons that use Bloodstone, their hit effect is damage increased by 0.2% for every point of health the player is missing (not the percentage missing).\nAn upgraded Bloodgeon will NOT keep its upgrade level when it is modified using gemstones.\n\n## Upgrade information\n\n• stat: Blunt | Quality 1: 135 | Quality 2: 141 | Quality 3: 147 | Quality 4: 153\n\n• stat: Durability | Quality 1: 150 | Quality 2: 200 | Quality 3: 250 | Quality 4: 300\n\n• stat: Crafting | Quality 1: 1 Flametal mace8 Flametal1 Bloodstone | Quality 2: 8 Flametal1 Bloodstone | Quality 3: 16 Flametal2 Bloodstone | Quality 4: 24 Flametal3 Bloodstone\n\n• stat: Black forge level | Quality 1: 4 | Quality 2: 5 | Quality 3: 6 (not yet available) | Quality 4: 7 (not yet available)\n\nCategorias: Weapons, Clubs, Black forge recipes",
+  "content_length": 1213,
+  "scraped_at": "2026-02-26T01:11:55.769805+00:00"
+}

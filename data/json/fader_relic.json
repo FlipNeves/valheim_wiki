@@ -1,0 +1,25 @@
+{
+  "title": "Fader relic",
+  "url": "https://valheim.fandom.com/wiki/Fader_relic",
+  "slug": "Fader_relic",
+  "categories": [
+    "Unfinished",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Fader relic",
+    "Type": "Material",
+    "Internal ID": "FaderDrop",
+    "Source": "Fader",
+    "Usage": "Placeholder"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fader relic is an item dropped from the Ashlands boss Fader. It has no current use, but will likely receive one in the Deep North update."
+    }
+  ],
+  "full_text": "Fader relic\n\nType: Material | Internal ID: FaderDrop | Source: Fader | Usage: Placeholder\n\nIntroduction. Fader relic is an item dropped from the Ashlands boss Fader. It has no current use, but will likely receive one in the Deep North update.",
+  "scraped_at": "2026-02-26T01:33:17.887570+00:00"
+}

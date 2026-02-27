@@ -1,0 +1,84 @@
+{
+  "title": "Ulv",
+  "url": "https://valheim.fandom.com/wiki/Ulv",
+  "slug": "Ulv",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Ulv",
+    "Internal ID": "Ulv",
+    "Faction": "Mountain",
+    "Main biome": "Mountain",
+    "Drops": "Ulv trophy | Wolf fang",
+    "Abilities": "Bite (5s), Slash (9s)",
+    "Trophy": "Ulv trophy",
+    "Weak to (x1.5)": "Poison",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Spirit, ,, Stagger",
+    "Very resistant to (x0.25)": "Fire",
+    "Immune to (x0)": "Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ulve are aggressive creatures found in Mountains inside Frost Caves. Their appearance is distinctly werewolf-like, however unlike Fenrings, they trot on all-fours."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Ulv trophy",
+          "0 Star": "10%",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Wolf fang",
+          "0 Star": "50%",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Common spawn point in Frost Caves.",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "No"
+        },
+        {
+          "Type": "Common spawn point in Howling Caverns.",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "Yes (Only 1-Star)"
+        }
+      ]
+    },
+    {
+      "heading": "Bite",
+      "level": 3,
+      "text": "Crouches down before swinging up to bite the player (80 Slash damage). This extends 2.2 meters in a 25-degree horizontal arc and can be used every 5 seconds when within 1.5 meters of a player."
+    },
+    {
+      "heading": "Slash",
+      "level": 3,
+      "text": "Steps back before lifting both paws to slash downward (70 Slash damage). It has a vertical hitbox that hits 2.5 meters out and spans 60 degrees. This has a 9-second cooldown and can be used within 3 meters of a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Ulv is from Old Norse ulfr. The word is still used in both Norway and Denmark but became taboo in Sweden and replaced with varg."
+    }
+  ],
+  "full_text": "Ulv\n\nInternal ID: Ulv | Faction: Mountain | Main biome: Mountain | Drops: Ulv trophy | Wolf fang | Abilities: Bite (5s), Slash (9s) | Trophy: Ulv trophy | Weak to (x1.5): Poison | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Spirit, ,, Stagger | Very resistant to (x0.25): Fire | Immune to (x0): Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Ulve are aggressive creatures found in Mountains inside Frost Caves. Their appearance is distinctly werewolf-like, however unlike Fenrings, they trot on all-fours.\n\nBite. Crouches down before swinging up to bite the player (80 Slash damage). This extends 2.2 meters in a 25-degree horizontal arc and can be used every 5 seconds when within 1.5 meters of a player.\n\nSlash. Steps back before lifting both paws to slash downward (70 Slash damage). It has a vertical hitbox that hits 2.5 meters out and spans 60 degrees. This has a 9-second cooldown and can be used within 3 meters of a player.\n\nNotes. • Ulv is from Old Norse ulfr. The word is still used in both Norway and Denmark but became taboo in Sweden and replaced with varg.",
+  "scraped_at": "2026-02-26T01:09:46.088002+00:00"
+}

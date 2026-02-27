@@ -1,0 +1,28 @@
+{
+  "title": "Sparkler",
+  "url": "https://valheim.fandom.com/wiki/Sparkler",
+  "slug": "Sparkler",
+  "categories": [
+    "Weapons"
+  ],
+  "infobox": {
+    "_infobox_title": "Sparkler",
+    "Internal ID": "Sparkler",
+    "Source": "Hildir",
+    "Buy": "150, Coins"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Sparkler is a weapon which can be purchased from Hildir for 150 Coins."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• An ordinary sparkler. Used for decorative purposes.\n• Can't be repaired."
+    }
+  ],
+  "full_text": "Sparkler\n\nInternal ID: Sparkler | Source: Hildir | Buy: 150, Coins\n\nIntroduction. Sparkler is a weapon which can be purchased from Hildir for 150 Coins.\n\nNotes. • An ordinary sparkler. Used for decorative purposes.\n• Can't be repaired.",
+  "scraped_at": "2026-02-26T01:18:31.821171+00:00"
+}

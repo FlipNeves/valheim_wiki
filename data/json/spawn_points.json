@@ -1,0 +1,620 @@
+{
+  "title": "Spawn points",
+  "url": "https://valheim.fandom.com/wiki/Spawn_points",
+  "slug": "Spawn_points",
+  "categories": [
+    "Mechanics"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Spawns points are placed near points of interest and dungeons (Burial Chambers, Troll Cave and Sunken Crypts). Most spawn points only work once. Some spawn points only have a random chance of appearing.\n• Spawn points activate when there is a player within 60 meters.\n• The spawned creature has a 10% chance to level up (9% for 1 star, 1% for 2 stars), unless the level up is disabled.\n• Respawn timer starts ticking when the spawned creatures are killed, unless the spawn point is one time.\n• Most spawn points work both day and night (which allows daytime Oozers and Wraiths).\nBelow is an incomplete list of spawn points:",
+      "table_data": [
+        {
+          "Biome": "Meadows",
+          "Place": "Boar runestone",
+          "Amount": "1-9",
+          "Type": "Boar",
+          "Level up": "Yes",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Stone Grave",
+          "Amount": "0-1",
+          "Type": "Skeleton (melee)",
+          "Level up": "Yes",
+          "Other": "Only at nights, 50% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "Village",
+          "Amount": "1-2",
+          "Type": "Boar",
+          "Level up": "Yes",
+          "Other": "Randomly generated"
+        },
+        {
+          "Biome": "Black Forest",
+          "Place": "Burial grounds (outside)",
+          "Amount": "3",
+          "Type": "Skeleton",
+          "Level up": "Yes",
+          "Other": "1 respawns every hour"
+        },
+        {
+          "Biome": "",
+          "Place": "Small ruins",
+          "Amount": "5",
+          "Type": "Greydwarf",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "1",
+          "Type": "Greydwarf shaman",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Troll Cave (outside)",
+          "Amount": "0-1",
+          "Type": "Troll",
+          "Level up": "Yes",
+          "Other": "33% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "Troll Cave (inside)",
+          "Amount": "0-1",
+          "Type": "Troll",
+          "Level up": "Yes",
+          "Other": "75% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "Tiny ruins",
+          "Amount": "1",
+          "Type": "Greydwarf",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Tower (small)",
+          "Amount": "1-2",
+          "Type": "Skeleton",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Tower",
+          "Amount": "5",
+          "Type": "Skeleton",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "House",
+          "Amount": "6",
+          "Type": "Skeleton",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-1",
+          "Type": "Greydwarf",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-1",
+          "Type": "Greydwarf brute",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "House",
+          "Amount": "5",
+          "Type": "Greydwarf",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "Swamp",
+          "Place": "Tower",
+          "Amount": "2",
+          "Type": "Draugr",
+          "Level up": "",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Tower",
+          "Amount": "1",
+          "Type": "Draugr elite",
+          "Level up": "",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "1",
+          "Type": "Draugr",
+          "Level up": "",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Crypt",
+          "Amount": "0-1",
+          "Type": "Oozer",
+          "Level up": "",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-1",
+          "Type": "Draugr",
+          "Level up": "",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Geyser",
+          "Amount": "3",
+          "Type": "Surtling",
+          "Level up": "Yes",
+          "Other": "Respawns every 5 minutes"
+        },
+        {
+          "Biome": "Mountain",
+          "Place": "Egg nest",
+          "Amount": "0-3",
+          "Type": "Drake",
+          "Level up": "",
+          "Other": "66% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "AbandonedLogCabin01",
+          "Amount": "",
+          "Type": "None",
+          "Level up": "",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "AbandonedLogCabin02",
+          "Amount": "0-2",
+          "Type": "Stone Golem",
+          "Level up": "",
+          "Other": "10% and 50% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "AbandonedLogCabin03",
+          "Amount": "0-1",
+          "Type": "Stone Golem",
+          "Level up": "",
+          "Other": "10% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-2",
+          "Type": "Skeleton",
+          "Level up": "Yes",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "AbandonedLogCabin04",
+          "Amount": "0-2",
+          "Type": "Stone Golem",
+          "Level up": "",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-2",
+          "Type": "Skeleton",
+          "Level up": "Yes",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "StoneTowerRuins04",
+          "Amount": "3",
+          "Type": "Draugr",
+          "Level up": "",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "StoneTowerRuins05",
+          "Amount": "0-4",
+          "Type": "Skeleton",
+          "Level up": "Yes",
+          "Other": "33% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-1",
+          "Type": "Evil bone pile",
+          "Level up": "",
+          "Other": "50% chance"
+        },
+        {
+          "Biome": "Plains",
+          "Place": "Tower",
+          "Amount": "5",
+          "Type": "Fuling",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Ruins",
+          "Amount": "1",
+          "Type": "Fuling",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "House",
+          "Amount": "4",
+          "Type": "Fuling",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Stones",
+          "Amount": "1",
+          "Type": "Fuling Berserker",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Village",
+          "Amount": "0-3",
+          "Type": "Fuling Berserker",
+          "Level up": "Yes",
+          "Other": "Randomly generated"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "10-16",
+          "Type": "Fuling",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "3-4",
+          "Type": "Fuling (Spear)",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "1-4",
+          "Type": "Fuling shaman",
+          "Level up": "",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Tar pit 1",
+          "Amount": "2",
+          "Type": "Growth",
+          "Level up": "",
+          "Other": "Respawns every hour"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-7",
+          "Type": "Growth",
+          "Level up": "",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Tar pit 2",
+          "Amount": "2",
+          "Type": "Growth",
+          "Level up": "",
+          "Other": "Respawns every hour"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-7",
+          "Type": "Growth",
+          "Level up": "",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Tar pit 3",
+          "Amount": "2",
+          "Type": "Growth",
+          "Level up": "",
+          "Other": "Respawns every hour"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-4",
+          "Type": "Growth",
+          "Level up": "",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "Mistlands",
+          "Place": "Dvergr Guard Tower 1",
+          "Amount": "3-4",
+          "Type": "Dvergr rogue",
+          "Level up": "Yes",
+          "Other": "50% chance for the extra spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "2-4",
+          "Type": "Dvergr mage",
+          "Level up": "Yes",
+          "Other": "50% chance for each extra spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Dvergr Guard Tower 2",
+          "Amount": "3-4",
+          "Type": "Dvergr rogue",
+          "Level up": "Yes",
+          "Other": "50% chance for the extra spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "2-4",
+          "Type": "Dvergr mage",
+          "Level up": "Yes",
+          "Other": "50% chance for each extra spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Dvergr Guard Tower 3",
+          "Amount": "2-4",
+          "Type": "Dvergr rogue",
+          "Level up": "Yes",
+          "Other": "50% chance for each extra spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "2-3",
+          "Type": "Dvergr mage",
+          "Level up": "Yes",
+          "Other": "50% chance for the extra spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Ruined Dvergr Guard Tower 1",
+          "Amount": "0-2",
+          "Type": "Seeker",
+          "Level up": "Yes",
+          "Other": "18.8% and 9.4% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-2",
+          "Type": "Seeker",
+          "Level up": "Yes",
+          "Other": "3.13% and 1.56% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-3",
+          "Type": "Seeker",
+          "Level up": "Yes",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Ruined Dvergr Guard Tower 2",
+          "Amount": "0-3",
+          "Type": "Seeker",
+          "Level up": "Yes",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Ruined Dvergr Guard Tower 3",
+          "Amount": "0-4",
+          "Type": "Seeker",
+          "Level up": "Yes",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Dvergr Lighthouse",
+          "Amount": "2-3",
+          "Type": "Dvergr rogue",
+          "Level up": "Yes",
+          "Other": "50% chance for the extra spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "3",
+          "Type": "Dvergr mage",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Dvergr Excavation Site 1",
+          "Amount": "0-2",
+          "Type": "Dvergr rogue",
+          "Level up": "Yes",
+          "Other": "66% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-6",
+          "Type": "Dvergr rogue",
+          "Level up": "Yes",
+          "Other": "33% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-4",
+          "Type": "Dvergr mage",
+          "Level up": "Yes",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Dvergr Excavation Site 2",
+          "Amount": "0-2",
+          "Type": "Dvergr rogue",
+          "Level up": "Yes",
+          "Other": "66% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-1",
+          "Type": "Dvergr rogue",
+          "Level up": "Yes",
+          "Other": "50% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-5",
+          "Type": "Dvergr rogue",
+          "Level up": "Yes",
+          "Other": "33% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-4",
+          "Type": "Dvergr mage",
+          "Level up": "Yes",
+          "Other": "50% chance per spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Dvergr Excavation Site 3",
+          "Amount": "2-6",
+          "Type": "Seeker",
+          "Level up": "Yes",
+          "Other": "50% chance for each extra spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Dvergr Harbour",
+          "Amount": "0-2",
+          "Type": "Dvergr rogue",
+          "Level up": "Yes",
+          "Other": "25% and 75% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-1",
+          "Type": "Dvergr mage",
+          "Level up": "Yes",
+          "Other": "25% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-2",
+          "Type": "Dvergr mage",
+          "Level up": "Yes",
+          "Other": "12.5% and 66% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "Giant Remains (with skull)",
+          "Amount": "5",
+          "Type": "Tick",
+          "Level up": "",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Infested Mine 1 (exterior)",
+          "Amount": "5",
+          "Type": "Seeker",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Infested Mine 2 (exterior)",
+          "Amount": "2-4",
+          "Type": "Seeker",
+          "Level up": "Yes",
+          "Other": "50% chance for each extra spawn point"
+        },
+        {
+          "Biome": "",
+          "Place": "Infested Citadel (exterior)",
+          "Amount": "4",
+          "Type": "Seeker",
+          "Level up": "Yes",
+          "Other": ""
+        },
+        {
+          "Biome": "",
+          "Place": "Mistlands_RoadPost1",
+          "Amount": "0-1",
+          "Type": "Dvergr rogue",
+          "Level up": "Yes",
+          "Other": "50% chance"
+        },
+        {
+          "Biome": "",
+          "Place": "",
+          "Amount": "0-1",
+          "Type": "Dvergr mage",
+          "Level up": "Yes",
+          "Other": "50% chance"
+        }
+      ]
+    }
+  ],
+  "full_text": "Spawn points\n\nIntroduction. Spawns points are placed near points of interest and dungeons (Burial Chambers, Troll Cave and Sunken Crypts). Most spawn points only work once. Some spawn points only have a random chance of appearing.\n• Spawn points activate when there is a player within 60 meters.\n• The spawned creature has a 10% chance to level up (9% for 1 star, 1% for 2 stars), unless the level up is disabled.\n• Respawn timer starts ticking when the spawned creatures are killed, unless the spawn point is one time.\n• Most spawn points work both day and night (which allows daytime Oozers and Wraiths).\nBelow is an incomplete list of spawn points:",
+  "scraped_at": "2026-02-26T01:58:09.736395+00:00"
+}

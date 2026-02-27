@@ -1,0 +1,32 @@
+{
+  "title": "Bile bomb",
+  "url": "https://valheim.fandom.com/wiki/Bile_bomb",
+  "slug": "Bile_bomb",
+  "categories": [
+    "Weapons",
+    "Workbench recipes",
+    "Bombs"
+  ],
+  "infobox": {
+    "_infobox_title": "Bile bomb",
+    "Internal ID": "BombBile",
+    "Type": "Bomb",
+    "Source": "Workbench",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Sap x1, Bilebag x1, Resin x3"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bile bomb is a thrown weapon that creates a Fire and Poison 4-meter radius AoE cloud, which stays for 10 seconds. Anyone in the cloud (excluding the thrower) takes 15 fire damage over 5 seconds, and 30 poison damage over 6 seconds. If an enemy stays in the cloud, the fire damage stacks (reapplying every second) and the poison duration is refreshed, so the maximum damage is 15*10 fire + 30*(10+6)/6 poison = 150 fire + 80 poison.\nDamage value does not depend on any player skill, but may be altered by enemy resistance."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Crafted with the Workbench, stacks up to 50\n• Sap can be extracted from Ancient Roots in the Mistlands biome using the Sap Extractor.\n• Bilebags are dropped by Gjall in the Mistlands.\n• Resin is dropped by Greydwarf, Greydwarf shaman and Greydwarf brute. It has a chance of dropping from chopped Birch trees and Smaller Beech Trees."
+    }
+  ],
+  "full_text": "Bile bomb\n\nInternal ID: BombBile | Type: Bomb | Source: Workbench | Wielding: One-handed | Crafting Materials: Sap x1, Bilebag x1, Resin x3\n\nIntroduction. Bile bomb is a thrown weapon that creates a Fire and Poison 4-meter radius AoE cloud, which stays for 10 seconds. Anyone in the cloud (excluding the thrower) takes 15 fire damage over 5 seconds, and 30 poison damage over 6 seconds. If an enemy stays in the cloud, the fire damage stacks (reapplying every second) and the poison duration is refreshed, so the maximum damage is 15*10 fire + 30*(10+6)/6 poison = 150 fire + 80 poison.\nDamage value does not depend on any player skill, but may be altered by enemy resistance.\n\nAvailability. • Crafted with the Workbench, stacks up to 50\n• Sap can be extracted from Ancient Roots in the Mistlands biome using the Sap Extractor.\n• Bilebags are dropped by Gjall in the Mistlands.\n• Resin is dropped by Greydwarf, Greydwarf shaman and Greydwarf brute. It has a chance of dropping from chopped Birch trees and Smaller Beech Trees.",
+  "scraped_at": "2026-02-26T01:10:59.116208+00:00"
+}

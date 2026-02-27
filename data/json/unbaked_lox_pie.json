@@ -1,0 +1,46 @@
+{
+  "title": "Lox meat pie",
+  "url": "https://valheim.fandom.com/wiki/Unbaked_lox_pie",
+  "slug": "Unbaked_lox_pie",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Lox meat pie",
+    "Type": "Food",
+    "Internal ID": "LoxPie",
+    "Source": "Stone oven",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Unbaked lox pie x1",
+    "Max Health": "75",
+    "Max Stamina": "24",
+    "Duration": "30m",
+    "Healing": "4 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lox meat pie is a Plains-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Unbaked lox pie is produced in a Food preparation table with:\n• 2 Cloudberries\n• 2 Lox meat\n• 4 Barley flour\nLox meat pie is produced by cooking Unbaked lox pie in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Plains pie picnic"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Lox meat pie provides the second-highest health gain in the Plains at 75, second to Serpent stew, which provides 80"
+    }
+  ],
+  "full_text": "Lox meat pie\n\nType: Food | Internal ID: LoxPie | Source: Stone oven | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Unbaked lox pie x1 | Max Health: 75 | Max Stamina: 24 | Duration: 30m | Healing: 4 hp/tick\n\nIntroduction. Lox meat pie is a Plains-tier food.\n\nRecipe. Unbaked lox pie is produced in a Food preparation table with:\n• 2 Cloudberries\n• 2 Lox meat\n• 4 Barley flour\nLox meat pie is produced by cooking Unbaked lox pie in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal.\n\nCrafting. • Plains pie picnic\n\nNotes. • Lox meat pie provides the second-highest health gain in the Plains at 75, second to Serpent stew, which provides 80",
+  "scraped_at": "2026-02-26T02:15:59.982972+00:00"
+}

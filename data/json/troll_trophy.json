@@ -1,0 +1,40 @@
+{
+  "title": "Troll trophy",
+  "url": "https://valheim.fandom.com/wiki/Troll_trophy",
+  "slug": "Troll_trophy",
+  "categories": [
+    "Trophies"
+  ],
+  "infobox": {
+    "_infobox_title": "Troll trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyFrostTroll",
+    "Source": "Troll",
+    "Usage": "Crafting, Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Troll trophy is a common drop, 50%, from Trolls in the Black Forest."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mossy fishing bait\n• Trollstav"
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed on an Item stand.\n• Can be used to program the Ballista."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• In the alpha, the Black Forest had a different Troll variant, which was brown-colored. Their trophy can still be spawned in using the developer console with the ID TrophyForestTroll, but has no mesh when dropped on the ground."
+    }
+  ],
+  "full_text": "Troll trophy\n\nType: Trophy | Internal ID: TrophyFrostTroll | Source: Troll | Usage: Crafting, Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Troll trophy is a common drop, 50%, from Trolls in the Black Forest.\n\nCrafting. • Mossy fishing bait\n• Trollstav\n\nMisc. • Can be displayed on an Item stand.\n• Can be used to program the Ballista.\n\nTrivia. • In the alpha, the Black Forest had a different Troll variant, which was brown-colored. Their trophy can still be spawned in using the developer console with the ID TrophyForestTroll, but has no mesh when dropped on the ground.",
+  "scraped_at": "2026-02-26T02:15:26.736971+00:00"
+}

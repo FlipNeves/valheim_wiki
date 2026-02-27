@@ -1,0 +1,32 @@
+{
+  "title": "Lava",
+  "url": "https://valheim.fandom.com/wiki/Lava",
+  "slug": "Lava",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Lava",
+    "Type": "Point of interest",
+    "Location": "Ashlands"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lava is an environmental hazard and point of interest found in Ashlands. Flametal ore veins are located in lava lakes, and can start sinking into the lava when struck."
+    },
+    {
+      "heading": "Description",
+      "level": 2,
+      "text": "Lava deals a high amount of true damage on contact, being able to kill even a high-health player in just one or two seconds, and regardless of resistances. After leaving lava, a player will still be lit on fire and take fire damage, though this is reduced by fire resistance.\nFireballs often emerge from it. Thus, one must be very careful treading around it. Dying in lava causes the tombstone to be left behind on top of the lava.\nIt can be crossed by creating small platforms using Basalt bombs or by riding a tamed Asksvin.\nLava does not flow like Tar, rather, it is a type of the ground, akin to Pathen or Paved road. It can be terraformed using a Hoe or mined with a Pickaxe, but it cannot be paved over. Exploding Unstable lava rocks leave a crater in it when detonated.\nFlametal structures are the only structures that can be easily built anywhere on it. Other structures require a minimum distance of two meters from the lava surface (vertically and horizontally) before it starts burning. An exception to this, is the Black marble column, wide/small, that can sometimes be built closer to, or right on the lava edge without burning."
+    },
+    {
+      "heading": "Tips",
+      "level": 2,
+      "text": "• Most Ashlands creatures are able to walk on top of lava. Asksvin are especially dangerous, as their leaps can easily knock players onto lava. Tamed Asksvin can be used to cross lava safely.\n• Flametal Armor provides a 40% heat resistance bonus.\n• Keeping a couple Basalt bombs (or their ingredients) at base is useful for recovering a tombstone after death.\n• Even though most structures burn when in contact to Lava, that is not instant. Making them a semi-viable platform to jump across in a pinch, in case you do not have Basalt bombs on hand.\n• The logs of a fallen Scorched tree will not burn in lava. You can stand on the log and not get burned."
+    }
+  ],
+  "full_text": "Lava\n\nType: Point of interest | Location: Ashlands\n\nIntroduction. Lava is an environmental hazard and point of interest found in Ashlands. Flametal ore veins are located in lava lakes, and can start sinking into the lava when struck.\n\nDescription. Lava deals a high amount of true damage on contact, being able to kill even a high-health player in just one or two seconds, and regardless of resistances. After leaving lava, a player will still be lit on fire and take fire damage, though this is reduced by fire resistance.\nFireballs often emerge from it. Thus, one must be very careful treading around it. Dying in lava causes the tombstone to be left behind on top of the lava.\nIt can be crossed by creating small platforms using Basalt bombs or by riding a tamed Asksvin.\nLava does not flow like Tar, rather, it is a type of the ground, akin to Pathen or Paved road. It can be terraformed using a Hoe or mined with a Pickaxe, but it cannot be paved over. Exploding Unstable lava rocks leave a crater in it when detonated.\nFlametal structures are the only structures that can be easily built anywhere on it. Other structures require a minimum distance of two meters from the lava surface (vertically and horizontally) before it starts burning. An exception to this, is the Black marble column, wide/small, that can sometimes be built closer to, or right on the lava edge without burning.\n\nTips. • Most Ashlands creatures are able to walk on top of lava. Asksvin are especially dangerous, as their leaps can easily knock players onto lava. Tamed Asksvin can be used to cross lava safely.\n• Flametal Armor provides a 40% heat resistance bonus.\n• Keeping a couple Basalt bombs (or their ingredients) at base is useful for recovering a tombstone after death.\n• Even though most structures burn when in contact to Lava, that is not instant. Making them a semi-viable platform to jump across in a pinch, in case you do not have Basalt bombs on hand.\n• The logs of a fallen Scorched tree will not burn in lava. You can stand on the log and not get burned.",
+  "scraped_at": "2026-02-26T01:47:30.360968+00:00"
+}

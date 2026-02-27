@@ -1,0 +1,36 @@
+{
+  "title": "Boar jerky",
+  "url": "https://valheim.fandom.com/wiki/Boar_jerky",
+  "slug": "Boar_jerky",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Boar jerky",
+    "Type": "Food",
+    "Internal ID": "BoarJerky",
+    "Source": "Cauldron",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Boar meat x1, Honey x1",
+    "Max Health": "23",
+    "Max Stamina": "23",
+    "Duration": "30m",
+    "Healing": "2 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Boar jerky is a Black Forest-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Boar jerky is produced in a level 1 Cauldron with:\n• 1 Boar meat\n• 1 Honey"
+    }
+  ],
+  "full_text": "Boar jerky\n\nType: Food | Internal ID: BoarJerky | Source: Cauldron | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Boar meat x1, Honey x1 | Max Health: 23 | Max Stamina: 23 | Duration: 30m | Healing: 2 hp/tick\n\nIntroduction. Boar jerky is a Black Forest-tier food.\n\nRecipe. Boar jerky is produced in a level 1 Cauldron with:\n• 1 Boar meat\n• 1 Honey",
+  "scraped_at": "2026-02-26T01:25:16.610296+00:00"
+}

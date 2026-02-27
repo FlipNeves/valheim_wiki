@@ -1,0 +1,41 @@
+{
+  "title": "Smelter",
+  "url": "https://valheim.fandom.com/wiki/Smelter",
+  "slug": "Smelter",
+  "categories": [
+    "Crafting structures",
+    "Light sources",
+    "Crafting"
+  ],
+  "infobox": {
+    "_infobox_title": "Smelter",
+    "Type": "Crafting",
+    "Internal ID": "smelter",
+    "Source": "Workbench",
+    "Crafting Materials": "Stone x20, Surtling core x5",
+    "Support": "Stone (from 100 to 1000)",
+    "Loss": "1/8 vertical, 1/1 horizontal",
+    "Neutral to (x1)": "Pickaxe, ,, Lightning",
+    "Resistant to (x0.5)": "Blunt, ,, Slash, ,, Pierce, ,, Chop",
+    "Immune to (x0)": "Fire, ,, Frost, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Smelter is used to process certain raw materials into metal using Coal as fuel.\nMaterials that can currently be smelted are:\n• Copper ore\n• Tin ore\n• Silver ore\n• Scrap iron\n• Copper scrap\n• Iron ore\nIngots produced are dropped out in the front of the smelter, indicated by the angled chute. The smelter also requires free space on the left to be filled with ore and on the right to be filled with coal.\nThe smelter uses approximately one Coal every 15 seconds as fuel. It takes 30 seconds[1] to produce one bar of metal.\nIt can hold a total of 20 coal and 10 ores."
+    },
+    {
+      "heading": "Building",
+      "level": 2,
+      "text": "It will be unlocked when the player acquires a Surtling core. It must be constructed near a Workbench.\nSmelters can be placed directly onto terrain and stone structures. Currently, they cannot be placed on wood structures, but it is possible to bypass this to an extent by terraforming terrain with a Hoe to be in line with wooden floors."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Like other structures that process materials, smelters are sped up with the passage of time that happens when the player is sleeping.\n• When destroyed with a Hammer or other means, it drops all materials used. It is therefore possible to alternate between using a smelter and the Charcoal kiln, reconstructing them as needed.\n• Smelters require adequate venting for the smoke above them, otherwise the smelter will stop smelting.\n• The smelter, while active, gives off the Fire effect for about 4.5 meters from any side (not just the interaction point)."
+    }
+  ],
+  "full_text": "Smelter\n\nType: Crafting | Internal ID: smelter | Source: Workbench | Crafting Materials: Stone x20, Surtling core x5 | Support: Stone (from 100 to 1000) | Loss: 1/8 vertical, 1/1 horizontal | Neutral to (x1): Pickaxe, ,, Lightning | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Chop | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\nIntroduction. The Smelter is used to process certain raw materials into metal using Coal as fuel.\nMaterials that can currently be smelted are:\n• Copper ore\n• Tin ore\n• Silver ore\n• Scrap iron\n• Copper scrap\n• Iron ore\nIngots produced are dropped out in the front of the smelter, indicated by the angled chute. The smelter also requires free space on the left to be filled with ore and on the right to be filled with coal.\nThe smelter uses approximately one Coal every 15 seconds as fuel. It takes 30 seconds[1] to produce one bar of metal.\nIt can hold a total of 20 coal and 10 ores.\n\nBuilding. It will be unlocked when the player acquires a Surtling core. It must be constructed near a Workbench.\nSmelters can be placed directly onto terrain and stone structures. Currently, they cannot be placed on wood structures, but it is possible to bypass this to an extent by terraforming terrain with a Hoe to be in line with wooden floors.\n\nNotes. • Like other structures that process materials, smelters are sped up with the passage of time that happens when the player is sleeping.\n• When destroyed with a Hammer or other means, it drops all materials used. It is therefore possible to alternate between using a smelter and the Charcoal kiln, reconstructing them as needed.\n• Smelters require adequate venting for the smoke above them, otherwise the smelter will stop smelting.\n• The smelter, while active, gives off the Fire effect for about 4.5 meters from any side (not just the interaction point).",
+  "scraped_at": "2026-02-26T01:50:15.207164+00:00"
+}

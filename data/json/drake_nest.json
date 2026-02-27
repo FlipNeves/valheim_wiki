@@ -1,0 +1,35 @@
+{
+  "title": "Drake Nest",
+  "url": "https://valheim.fandom.com/wiki/Drake_Nest",
+  "slug": "Drake_Nest",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Drake Nest",
+    "Type": "Point of interest",
+    "Internal ID": "DrakeNest01",
+    "Location": "Mountain",
+    "Resources": "Dragon egg",
+    "Inhabitants": "Drake"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Drake Nests are Points of interest found in the Mountain. They look like a nest made of large rocks and ice blocks with a glowing pink egg in the middle."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "Drake Nests always have a Dragon egg in the center, which does respawn after 480 minutes (8 real-time hours) once it is picked. They are protected by up to 3 Drakes with a 66% chance to spawn each."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Each world contains 200 Drake Nests, they appear above 100 meter altitude on relatively flat grounds."
+    }
+  ],
+  "full_text": "Drake Nest\n\nType: Point of interest | Internal ID: DrakeNest01 | Location: Mountain | Resources: Dragon egg | Inhabitants: Drake\n\nIntroduction. Drake Nests are Points of interest found in the Mountain. They look like a nest made of large rocks and ice blocks with a glowing pink egg in the middle.\n\nResources. Drake Nests always have a Dragon egg in the center, which does respawn after 480 minutes (8 real-time hours) once it is picked. They are protected by up to 3 Drakes with a 66% chance to spawn each.\n\nNotes. • Each world contains 200 Drake Nests, they appear above 100 meter altitude on relatively flat grounds.",
+  "scraped_at": "2026-02-26T01:51:56.264526+00:00"
+}

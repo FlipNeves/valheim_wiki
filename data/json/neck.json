@@ -1,0 +1,85 @@
+{
+  "title": "Neck",
+  "url": "https://valheim.fandom.com/wiki/Neck",
+  "slug": "Neck",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Neck",
+    "Internal ID": "Neck",
+    "Faction": "Forest",
+    "Main biome": "Meadows",
+    "Drops": "Neck tail | Neck trophy",
+    "Abilities": "Bite (4s)",
+    "Trophy": "Neck trophy",
+    "Weak to (x1.5)": "Fire",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Stagger",
+    "Resistant to (x0.5)": "Poison",
+    "Immune to (x0)": "Spirit, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Necks are aggressive creatures found in Meadows near water. They are amphibious in nature with four eyes and lily pads protruding out of their bodies."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Neck tail",
+          "0 Star": "70%",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Neck trophy",
+          "0 Star": "5%",
+          "1 Star": "5%",
+          "2 Star": "5%"
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Anywhere near water in Meadows",
+          "Limit": "6",
+          "Frequency": "Common",
+          "Stars": "After 800 meters from the world center"
+        },
+        {
+          "Type": "Anywhere below 10 meter altitude in Meadows when raining",
+          "Limit": "8",
+          "Frequency": "Very common",
+          "Stars": "After 800 meters from the world center"
+        },
+        {
+          "Type": "During \"Eikthyr rallies the creatures of the forest\" event before defeating Eikthyr",
+          "Limit": "2",
+          "Frequency": "Very common",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Bite",
+      "level": 3,
+      "text": "Bites down on the player with a horizontally-arched attack hitbox 1.7 meters long and 90 degrees across (6 Slash damage). This attack can be used every 4 seconds when within 1.2 meters of a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Though the Runestone's information about them described Necks as lizard-like creatures, they also resembled frogs due to the presence of lily pads on their bodies and their proclivity for hanging around marshy pond areas. The latter alludes to their mythological counterpart's nature as humanoid, shapeshifting water spirits.\n• Necks are typically found near shorelines. Especially during rainy weather, necks may be present further inland.\n• They seem to be capable of eating planted crops, such as onions. Beware when growing things where necks can spawn!"
+    }
+  ],
+  "full_text": "Neck\n\nInternal ID: Neck | Faction: Forest | Main biome: Meadows | Drops: Neck tail | Neck trophy | Abilities: Bite (4s) | Trophy: Neck trophy | Weak to (x1.5): Fire | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Stagger | Resistant to (x0.5): Poison | Immune to (x0): Spirit, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Necks are aggressive creatures found in Meadows near water. They are amphibious in nature with four eyes and lily pads protruding out of their bodies.\n\nBite. Bites down on the player with a horizontally-arched attack hitbox 1.7 meters long and 90 degrees across (6 Slash damage). This attack can be used every 4 seconds when within 1.2 meters of a player.\n\nNotes. • Though the Runestone's information about them described Necks as lizard-like creatures, they also resembled frogs due to the presence of lily pads on their bodies and their proclivity for hanging around marshy pond areas. The latter alludes to their mythological counterpart's nature as humanoid, shapeshifting water spirits.\n• Necks are typically found near shorelines. Especially during rainy weather, necks may be present further inland.\n• They seem to be capable of eating planted crops, such as onions. Beware when growing things where necks can spawn!",
+  "scraped_at": "2026-02-26T01:08:44.523691+00:00"
+}

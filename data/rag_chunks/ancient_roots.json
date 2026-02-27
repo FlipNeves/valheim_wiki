@@ -1,0 +1,11 @@
+{
+  "title": "Ancient Roots",
+  "url": "https://valheim.fandom.com/wiki/Ancient_Roots",
+  "slug": "Ancient_Roots",
+  "categories": [
+    "Resource nodes"
+  ],
+  "content": "# Ancient Roots\n\nType: Resource nodes | Internal ID: YggdrasilRoot | Location: Mistlands | Resources: Sap\n\n# Introduction\n\nAncient Roots are a resource found in the Mistlands biome. Sap Extractors can be placed on them to harvest Sap.\n\n## Availability\n\nAncient Roots can be commonly found in Mistlands, at ground level. They emit a green light glow which can be seen through the mist.\n\n## Sap harvesting\n\nEach root dries up as Sap is extracted from it using a Sap Extractor. Each Sap Extractor collects and stores one sap every 60 seconds. Multiple sap extractors can be placed on one Ancient Root.\nThe reservoir of sap in an ancient root regenerates at a rate of 1 sap per 400 seconds, up to a maximum storage of 50 sap. Thus, sap is a renewable resource.\nAncient Roots have three visual states: Full, half dried, and dried up.\n\n• State: Full | In-game description: The ancient root is pulsating with energy | Harvestable Sap: 41 - 50\n\n• State: Half dried | In-game description: The ancient root's glow is fading | Harvestable Sap: 5 - 40\n\n• State: Dried up | In-game description: The ancient root seems all dried up | Harvestable Sap: < 5\n\nCategorias: Resource nodes",
+  "content_length": 1168,
+  "scraped_at": "2026-02-26T01:49:29.808238+00:00"
+}

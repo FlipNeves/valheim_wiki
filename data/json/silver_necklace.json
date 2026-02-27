@@ -1,0 +1,41 @@
+{
+  "title": "Silver necklace",
+  "url": "https://valheim.fandom.com/wiki/Silver_necklace",
+  "slug": "Silver_necklace",
+  "categories": [
+    "Valuables"
+  ],
+  "infobox": {
+    "_infobox_title": "Silver necklace",
+    "Type": "Valuable",
+    "Internal ID": "SilverNecklace",
+    "Source": "Stone Grave, ,, Viking Graveyard, ,, Chests",
+    "Usage": "Building, Selling to a, Trader",
+    "Sell": "30, Coins",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Silver necklace is a Valuable item."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Stone Grave and Viking Graveyard in the Meadows\n• Mountain grave in the Mountain\n• Loot chests and meat piles inside Frost Caves in the Mountain\n• Buried Chests located with a Wishbone\n• Loot chests found at Stonehenge structures in the Plains"
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Treasure chest"
+    },
+    {
+      "heading": "Selling",
+      "level": 3,
+      "text": "• As a valuable, it can be sold to any of the traders for 30 Coins."
+    }
+  ],
+  "full_text": "Silver necklace\n\nType: Valuable | Internal ID: SilverNecklace | Source: Stone Grave, ,, Viking Graveyard, ,, Chests | Usage: Building, Selling to a, Trader | Sell: 30, Coins | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Silver necklace is a Valuable item.\n\nAvailability. • Stone Grave and Viking Graveyard in the Meadows\n• Mountain grave in the Mountain\n• Loot chests and meat piles inside Frost Caves in the Mountain\n• Buried Chests located with a Wishbone\n• Loot chests found at Stonehenge structures in the Plains\n\nBuilding. • Treasure chest\n\nSelling. • As a valuable, it can be sold to any of the traders for 30 Coins.",
+  "scraped_at": "2026-02-26T01:46:02.132399+00:00"
+}

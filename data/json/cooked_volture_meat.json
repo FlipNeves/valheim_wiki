@@ -1,0 +1,44 @@
+{
+  "title": "Volture meat",
+  "url": "https://valheim.fandom.com/wiki/Cooked_volture_meat",
+  "slug": "Cooked_volture_meat",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Volture meat",
+    "Type": "Material",
+    "Internal ID": "VoltureMeat",
+    "Source": "Volture",
+    "Usage": "Cauldron, ,, Iron cooking station",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Volture meat is a food dropped by Voltures. It can be cooked using an Iron cooking station, but not on a wooden Cooking station, to obtain Cooked volture meat, or Coal if overcooked."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Creature": "Volture",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Cooked volture meat\n• Coal, if left on an Iron cooking station for too long\n• Mashed meat\nCooked volture meat cannot be used to craft recipes using Volture meat as ingredient."
+    }
+  ],
+  "full_text": "Volture meat\n\nType: Material | Internal ID: VoltureMeat | Source: Volture | Usage: Cauldron, ,, Iron cooking station | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Volture meat is a food dropped by Voltures. It can be cooked using an Iron cooking station, but not on a wooden Cooking station, to obtain Cooked volture meat, or Coal if overcooked.\n\nCrafting. • Cooked volture meat\n• Coal, if left on an Iron cooking station for too long\n• Mashed meat\nCooked volture meat cannot be used to craft recipes using Volture meat as ingredient.",
+  "scraped_at": "2026-02-26T02:11:27.188733+00:00"
+}

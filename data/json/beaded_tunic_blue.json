@@ -1,0 +1,32 @@
+{
+  "title": "Beaded tunic blue",
+  "url": "https://valheim.fandom.com/wiki/Beaded_tunic_blue",
+  "slug": "Beaded_tunic_blue",
+  "categories": [
+    "Armor",
+    "Body"
+  ],
+  "infobox": {
+    "_infobox_title": "Beaded tunic blue",
+    "Internal ID": "ArmorTunic3",
+    "Type": "Body",
+    "Source": "Hildir",
+    "Buy": "550, Coins",
+    "Armor": "1",
+    "Base Item Stamina Usage": "-20%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Beaded tunic blue is an armor piece which can be purchased from Hildir for 550 Coins. This item will be in the merchant's assortment only after returning Hildir's bronze chest."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 20%."
+    }
+  ],
+  "full_text": "Beaded tunic blue\n\nInternal ID: ArmorTunic3 | Type: Body | Source: Hildir | Buy: 550, Coins | Armor: 1 | Base Item Stamina Usage: -20%\n\nIntroduction. Beaded tunic blue is an armor piece which can be purchased from Hildir for 550 Coins. This item will be in the merchant's assortment only after returning Hildir's bronze chest.\n\nNotes. • Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 20%.",
+  "scraped_at": "2026-02-26T01:20:45.480528+00:00"
+}

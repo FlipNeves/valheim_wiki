@@ -1,0 +1,12 @@
+{
+  "title": "Black forge",
+  "url": "https://valheim.fandom.com/wiki/Black_forge",
+  "slug": "Black_forge",
+  "categories": [
+    "Crafting structures",
+    "Crafting"
+  ],
+  "content": "# Black forge\n\nType: Crafting | Skill: Crafting | Internal ID: blackforge | Source: Workbench | Usage: Build and Craft, Mistlands, items | Max Level: 5 | Improvements: Black forge cooler | Vice | Metal cutter | Gem cutter | Crafting Materials: Black marble x10, Yggdrasil wood x10, Black core x5 | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nBlack forges are base structures used for crafting and repairing Mistlands and Ashlands gear. They require a roof and 70% cover to be usable. Repairing items does not cost any resources.\n\n## Upgrades\n\nUpgrading a Black forge enables additional crafting recipes and higher upgrade levels for items. A Black forge can be upgraded up to level 5 by building the following structures near it:\n\n• Name: Black forge cooler | Materials: 5 Iron5 Copper4 Black marble\n\n• Name: Vice | Materials: 5 Iron8 Copper2 Mechanical spring\n\n• Name: Metal cutter | Materials: 5 Black marble5 Flametal5 Ashwood4 Charred bone\n\n• Name: Gem cutter | Materials: 5 Flametal8 Ashwood2 Morgen sinew1 Bloodstone\n\n• stat: Total (Black forge included) | Name: 19 Black marble10 Yggdrasil wood5 Black core10 Iron13 Copper2 Mechanical spring10 Flametal13 Ashwood4 Charred bone2 Morgen sinew1 Bloodstone\n\nCategorias: Crafting structures, Crafting",
+  "content_length": 1392,
+  "scraped_at": "2026-02-26T02:08:44.976895+00:00"
+}

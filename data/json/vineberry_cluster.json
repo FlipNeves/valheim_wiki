@@ -1,0 +1,97 @@
+{
+  "title": "Vineberry cluster",
+  "url": "https://valheim.fandom.com/wiki/Vineberry_cluster",
+  "slug": "Vineberry_cluster",
+  "categories": [
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Vineberry cluster",
+    "Type": "Food",
+    "Internal ID": "Vineberry",
+    "Source": "Ashlands",
+    "Usage": "Crafting, Eating, Farming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "30",
+    "Max Stamina": "30",
+    "Max Eitr": "30",
+    "Duration": "15m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Vineberries are food grown from Ashvine. They can be eaten raw, but are more useful in Cauldron recipes."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• They be found on Ashvine clusters growing on the sides of Charred ruins in the Ashlands biome.\n• Ashvine can be farmed with Vineberry seeds."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "• Can be eaten directly, but the Health, Stamina, and Eitr provided are far inferior to other foods available in its tier."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Result": "Ashlands gourmet bowl",
+          "Ingredients": "3 Cooked asksvin tail 5 Vineberry cluster 2 Scorching medley 1 Fiery spice powder",
+          "Crafting Station": "Food preparation table"
+        },
+        {
+          "Result": "Mead base: Lingering eitr",
+          "Ingredients": "10 Sap 10 Vineberry cluster 10 Magecap",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Mead base: Lingering health",
+          "Ingredients": "10 Sap 10 Vineberry cluster 10 Smoke puff",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Fiery svinstew",
+          "Ingredients": "1 Asksvin tail 2 Vineberry cluster 1 Smoke puff",
+          "Crafting Station": "Cauldron(5)"
+        },
+        {
+          "Result": "Sizzling berry broth",
+          "Ingredients": "3 Sap 2 Fiddlehead 2 Vineberry cluster",
+          "Crafting Station": "Cauldron(5)"
+        },
+        {
+          "Result": "Sparkling shroomshake",
+          "Ingredients": "4 Sap 2 Vineberry cluster 2 Smoke puff 2 Magecap",
+          "Crafting Station": "Cauldron(6)"
+        },
+        {
+          "Result": "Spicy marmalade",
+          "Ingredients": "3 Vineberry cluster 1 Honey 1 Fiddlehead",
+          "Crafting Station": "Cauldron(5)"
+        },
+        {
+          "Result": "Uncooked piquant pie",
+          "Ingredients": "2 Vineberry cluster 2 Asksvin tail 4 Barley flour",
+          "Crafting Station": "Food preparation table"
+        },
+        {
+          "Result": "Uncooked roasted crust pie",
+          "Ingredients": "2 Vineberry cluster 1 Volture egg 4 Barley flour",
+          "Crafting Station": "Food preparation table"
+        }
+      ]
+    },
+    {
+      "heading": "Farming",
+      "level": 3,
+      "text": "• See Ashvine."
+    }
+  ],
+  "full_text": "Vineberry cluster\n\nType: Food | Internal ID: Vineberry | Source: Ashlands | Usage: Crafting, Eating, Farming | Teleportable (Can go through wood portal?): Yes | Max Health: 30 | Max Stamina: 30 | Max Eitr: 30 | Duration: 15m | Healing: 1 hp/tick\n\nIntroduction. Vineberries are food grown from Ashvine. They can be eaten raw, but are more useful in Cauldron recipes.\n\nAvailability. • They be found on Ashvine clusters growing on the sides of Charred ruins in the Ashlands biome.\n• Ashvine can be farmed with Vineberry seeds.\n\nUsage. • Can be eaten directly, but the Health, Stamina, and Eitr provided are far inferior to other foods available in its tier.\n\nFarming. • See Ashvine.",
+  "scraped_at": "2026-02-26T01:29:11.118414+00:00"
+}

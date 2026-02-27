@@ -1,0 +1,32 @@
+{
+  "title": "Bracelets of the Brave",
+  "url": "https://valheim.fandom.com/wiki/Bracelets_of_the_Brave",
+  "slug": "Bracelets_of_the_Brave",
+  "categories": [
+    "Trinket"
+  ],
+  "infobox": {
+    "_infobox_title": "Bracelets of the Brave",
+    "Internal ID": "TrinketBlackDamageHealth",
+    "Type": "Trinkets",
+    "Source": "Forge",
+    "Crafting Materials": "Black metal x5, Lox pelt x5, Lox trophy x1",
+    "Adrenaline Cost": "85",
+    "Effect": "100 health gain | +20 Club skill | +10% Blunt damage",
+    "Duration": "1m"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bracelets of the Brave is a Plains-tier trinket."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Once 85 Adrenaline has been gained, the Bracelets of the Brave will trigger automatically, providing 100 health immediately, and +20 Clubs skill and +10% Blunt damage for 60 seconds."
+    }
+  ],
+  "full_text": "Bracelets of the Brave\n\nInternal ID: TrinketBlackDamageHealth | Type: Trinkets | Source: Forge | Crafting Materials: Black metal x5, Lox pelt x5, Lox trophy x1 | Adrenaline Cost: 85 | Effect: 100 health gain | +20 Club skill | +10% Blunt damage | Duration: 1m\n\nIntroduction. Bracelets of the Brave is a Plains-tier trinket.\n\nEffects. Once 85 Adrenaline has been gained, the Bracelets of the Brave will trigger automatically, providing 100 health immediately, and +20 Clubs skill and +10% Blunt damage for 60 seconds.",
+  "scraped_at": "2026-02-26T02:10:04.879433+00:00"
+}

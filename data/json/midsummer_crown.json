@@ -1,0 +1,33 @@
+{
+  "title": "Midsummer crown",
+  "url": "https://valheim.fandom.com/wiki/Midsummer_Crown",
+  "slug": "Midsummer_Crown",
+  "categories": [
+    "Armor",
+    "Head",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Midsummer Crown",
+    "Internal ID": "HelmetMidsummerCrown",
+    "Type": "Head",
+    "Source": "Workbench",
+    "Season": "Midsummer",
+    "Crafting Materials": "Dandelion, x10",
+    "Armor": "1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Midsummer crown is a seasonal armor piece available during midsummer.\nThe crown provides 1 armor and has no additional effect."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Crafted with Dandelion x10 at a Workbench from 1 June – 6 July as part of the Midsummer event."
+    }
+  ],
+  "full_text": "Midsummer crown\n\nInternal ID: HelmetMidsummerCrown | Type: Head | Source: Workbench | Season: Midsummer | Crafting Materials: Dandelion, x10 | Armor: 1\n\nIntroduction. Midsummer crown is a seasonal armor piece available during midsummer.\nThe crown provides 1 armor and has no additional effect.\n\nAvailability. Crafted with Dandelion x10 at a Workbench from 1 June – 6 July as part of the Midsummer event.",
+  "scraped_at": "2026-02-26T02:08:49.242302+00:00"
+}

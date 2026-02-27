@@ -1,0 +1,36 @@
+{
+  "title": "Trollfish",
+  "url": "https://valheim.fandom.com/wiki/Trollfish",
+  "slug": "Trollfish",
+  "categories": [
+    "Fish",
+    "Fishing"
+  ],
+  "infobox": {
+    "_infobox_title": "Trollfish",
+    "Type": "Fish",
+    "Internal ID": "fish5",
+    "Source": "Fishing",
+    "Usage": "Cooking | Crafting | Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Trollfish are passive creatures (fish) found in the waters just offshore of the Black Forest biome.\nThey can be caught with a fishing pole using Mossy fishing bait, which can be crafted at the Food preparation table by combining 20 Fishing bait and a Troll trophy.\nNeeded to craft a Fishing hat"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Raw fish\n• Fishing hat\n• Mead base: Troll endurance"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Has a unique line: \"Stop it with the baiting already!\""
+    }
+  ],
+  "full_text": "Trollfish\n\nType: Fish | Internal ID: fish5 | Source: Fishing | Usage: Cooking | Crafting | Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Trollfish are passive creatures (fish) found in the waters just offshore of the Black Forest biome.\nThey can be caught with a fishing pole using Mossy fishing bait, which can be crafted at the Food preparation table by combining 20 Fishing bait and a Troll trophy.\nNeeded to craft a Fishing hat\n\nCrafting. • Raw fish\n• Fishing hat\n• Mead base: Troll endurance\n\nNotes. • Has a unique line: \"Stop it with the baiting already!\"",
+  "scraped_at": "2026-02-26T01:49:49.035183+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Meat platter",
+  "url": "https://valheim.fandom.com/wiki/Uncooked_meat_platter",
+  "slug": "Uncooked_meat_platter",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "content": "# Meat platter\n\nType: Food | Internal ID: Meatplatter | Source: Stone oven | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Uncooked meat platter x1 | Max Health: 80 | Max Stamina: 26 | Duration: 30m | Healing: 5 hp/tick\n\n# Introduction\n\nMeat platter is a Mistlands-tier food.\n\n## Recipe\n\nUncooked meat platter is produced in a Food preparation table with:\n• 1 Hare meat\n• 1 Lox meat\n• 1 Seeker meat\nMeat platter is produced by cooking Uncooked meat platter in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal.\n\n## Notes\n\n• Meat platter provides the same amount of health and stamina as Honey glazed chicken.\n• The meat platter provides less health and stamina than Misthare supreme, but lasts five minutes longer.\n• Although both the meat platter and the misthare supreme require Hare meat, meat platters require hunting or taming to acquire Lox meat, while the Jotun puffs and Carrots for the misthare supreme can be farmed.\n\nCategorias: Food, Materials",
+  "content_length": 1043,
+  "scraped_at": "2026-02-26T02:16:49.102989+00:00"
+}

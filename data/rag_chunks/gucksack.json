@@ -1,0 +1,11 @@
+{
+  "title": "Gucksack",
+  "url": "https://valheim.fandom.com/wiki/Gucksack",
+  "slug": "Gucksack",
+  "categories": [
+    "Resource nodes"
+  ],
+  "content": "# Gucksack\n\nType: Resource nodes | Internal ID: GuckSack | GuckSack_small | Location: Swamp | Resources: Guck | Neutral to: Chop, ,, Pickaxe | Immune to: Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit\n\n# Introduction\n\nGucksacks are resource nodes found on infested trees in Swamps. They drop Guck when destroyed and can only be damaged with axes or pickaxes.\n\n### Spawning\n\n• Up to 700 infested trees are generated when the world is created.\n• Each tree has up to 6 Gucksacks (66% chance for each) and up to 3 smaller Gucksacks (25% chance for each) closer to the ground.\n\n## Drops\n\nLarge Variant:\nSmall Variant:\nOn average, each infested tree contains ~23 Gucks. On average, each world can provide 16034 Gucks from infested trees.\n\n• Item: Drop Rate | Guck: 4-7\n\n• Item: Drop Rate | Guck: 1-2\n\n## Notes\n\n• Gucksacks spawn high on the trees so building scaffolding with ladders and floors is needed.\n• Gucksacks do not respawn. However Abominations are a renewable source for Gucks.\n• Gucksacks are only vulnerable to Chop and Pickaxe damage types. This also allows some creatures to destroy them, since some creature types (e.g. Abominations or even Trolls) can deal chop and/or pickaxe damage with their attacks.\n\nCategorias: Resource nodes",
+  "content_length": 1277,
+  "scraped_at": "2026-02-26T01:49:23.004181+00:00"
+}

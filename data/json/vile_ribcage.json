@@ -1,0 +1,30 @@
+{
+  "title": "Vile ribcage",
+  "url": "https://valheim.fandom.com/wiki/Vile_ribcage",
+  "slug": "Vile_ribcage",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Vile ribcage",
+    "Type": "Material",
+    "Internal ID": "UndeadBjornRibcage",
+    "Source": "Vile",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Vile ribcage is an item found by killing Viles in the Plains."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Vilebone Cage\n• Vilebone Drapes\n• Vilebone Maulclaws"
+    }
+  ],
+  "full_text": "Vile ribcage\n\nType: Material | Internal ID: UndeadBjornRibcage | Source: Vile | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Vile ribcage is an item found by killing Viles in the Plains.\n\nCrafting. • Vilebone Cage\n• Vilebone Drapes\n• Vilebone Maulclaws",
+  "scraped_at": "2026-02-26T01:37:33.288712+00:00"
+}

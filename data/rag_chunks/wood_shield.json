@@ -1,0 +1,13 @@
+{
+  "title": "Wood shield",
+  "url": "https://valheim.fandom.com/wiki/Wood_shield",
+  "slug": "Wood_shield",
+  "categories": [
+    "Weapons",
+    "Shields",
+    "Workbench recipes"
+  ],
+  "content": "# Wood shield\n\nInternal ID: ShieldWood | Type: Shield | Source: Workbench | Usage: Blocking | Wielding: Off-hand | Crafting Materials: Wood x10, Resin x4, Leather scraps x4 | Movement speed: -5%\n\n# Introduction\n\nThe Wood shield is the first round Shield. It has four less block power and 80 less block force compared to Wood tower shield but can be used to parry enemy attacks.\n\n## Upgrade information\n\nThe cost to max is 25 wood, 10 resin and 10 leather scraps.\n\n• stat: Block armor | Quality 1: 6 | Quality 2: 12 | Quality 3: 18\n\n• stat: Durability | Quality 1: 200 | Quality 2: 250 | Quality 3: 300\n\n• stat: Crafting | Quality 1: 10 Wood4 Resin4 Leather scraps | Quality 2: 5 Wood2 Resin2 Leather scraps | Quality 3: 10 Wood4 Resin4 Leather scraps\n\n• stat: Workbench level | Quality 1: 1 | Quality 2: 2 | Quality 3: 3\n\n## Notes\n\n• When crafting, players can customize the shield with a few different pre-set designs and colors by clicking the style button beneath the item name in the crafting window. The design can not be changed afterward.\n\nCategorias: Weapons, Shields, Workbench recipes",
+  "content_length": 1094,
+  "scraped_at": "2026-02-26T01:19:59.196579+00:00"
+}

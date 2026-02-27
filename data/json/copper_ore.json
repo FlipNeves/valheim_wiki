@@ -1,0 +1,36 @@
+{
+  "title": "Copper ore",
+  "url": "https://valheim.fandom.com/wiki/Copper_ore",
+  "slug": "Copper_ore",
+  "categories": [
+    "Ores",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Copper ore",
+    "Type": "Ore",
+    "Internal ID": "CopperOre",
+    "Source": "Copper deposit",
+    "Usage": "Makes, Copper",
+    "Teleportable (Can go through wood portal?)": "No"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Copper ore can be refined into Copper in a Smelter.\nTwo Copper can be further processed at a Forge with Tin to yield Bronze."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "It can be mined from Copper deposits which can be found in Black Forest biomes using any Pickaxe. Such deposits have subtle bronze-colored streaks that reflect the sunlight. It is the only visual feature that distinguishes them from typical stone boulders.\nCopper deposits are generated in a large size which extends down into the ground, so digging deep underneath the surface is necessary to fully extract a single deposit."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• A way of farming Copper is to dig the earth all around the deposit until it crumbles on itself into Copper ores.\n• Like other metals, Copper ore cannot be teleported without a Portal stone.\n• The attacks of a Troll, despite being harmless to normal terrain, cause immense damage to Copper ore. If the player has no pickaxe or simply yearns for a change from their usual monotonous mining method, a troll can make for a great alternative."
+    }
+  ],
+  "full_text": "Copper ore\n\nType: Ore | Internal ID: CopperOre | Source: Copper deposit | Usage: Makes, Copper | Teleportable (Can go through wood portal?): No\n\nIntroduction. Copper ore can be refined into Copper in a Smelter.\nTwo Copper can be further processed at a Forge with Tin to yield Bronze.\n\nAvailability. It can be mined from Copper deposits which can be found in Black Forest biomes using any Pickaxe. Such deposits have subtle bronze-colored streaks that reflect the sunlight. It is the only visual feature that distinguishes them from typical stone boulders.\nCopper deposits are generated in a large size which extends down into the ground, so digging deep underneath the surface is necessary to fully extract a single deposit.\n\nNotes. • A way of farming Copper is to dig the earth all around the deposit until it crumbles on itself into Copper ores.\n• Like other metals, Copper ore cannot be teleported without a Portal stone.\n• The attacks of a Troll, despite being harmless to normal terrain, cause immense damage to Copper ore. If the player has no pickaxe or simply yearns for a change from their usual monotonous mining method, a troll can make for a great alternative.",
+  "scraped_at": "2026-02-26T01:49:53.757929+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Charcoal kiln",
+  "url": "https://valheim.fandom.com/wiki/Charcoal_Kiln",
+  "slug": "Charcoal_Kiln",
+  "categories": [
+    "Crafting structures",
+    "Light sources",
+    "Crafting"
+  ],
+  "content": "# Charcoal kiln\n\nType: Crafting | Internal ID: charcoal_kiln | Source: Workbench | Crafting Materials: Stone x20, Surtling core x5 | Support: Stone (from 100 to 1000) | Loss: 1/8 vertical, 1/1 horizontal | Neutral to (x1): Pickaxe, ,, Lightning | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Chop | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\n# Introduction\n\nThe Charcoal Kiln is used to create Coal from wood. It converts single units of Wood, Finewood, or Corewood into coal at a rate of 1 every 16 seconds.\nIt can hold up to 25 wood at a time. When adding wood to the kiln, the game will prioritize wood from the player inventory in the following order:\n• Wood\n• Finewood\n• Corewood\n\n## Building\n\nThe Charcoal kiln is unlocked when the player acquires a Surtling core. A nearby Workbench is required to construct it.\nKilns can be placed directly onto terrain and stone structures. Currently, they cannot be placed on wood structures, but it is possible to bypass this to an extent by terraforming terrain with a Hoe to be in line with wooden floors.\n\n## Notes\n\n• Like other structures that process materials, Charcoal kilns are sped up with the passage of time that happens when the player is sleeping.\n• When destroyed with a Hammer or other means, it drops all materials used. It is therefore possible to alternate between using a Smelter and the Charcoal kiln, reconstructing them as needed.\n• Active kilns grant the Fire effect, providing players with heat as well as scaring away the appropriate monsters, albeit only 2 meters from all sides of it (not just the interaction point).\n\nCategorias: Crafting structures, Light sources, Crafting",
+  "content_length": 1664,
+  "scraped_at": "2026-02-26T01:59:56.959275+00:00"
+}

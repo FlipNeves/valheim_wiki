@@ -1,0 +1,32 @@
+{
+  "title": "Ooze bomb",
+  "url": "https://valheim.fandom.com/wiki/Ooze_bomb",
+  "slug": "Ooze_bomb",
+  "categories": [
+    "Weapons",
+    "Workbench recipes",
+    "Bombs"
+  ],
+  "infobox": {
+    "_infobox_title": "Ooze bomb",
+    "Internal ID": "BombOoze",
+    "Type": "Bomb",
+    "Source": "Workbench",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Leather scraps x5, Ooze x5, Resin x3"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ooze bomb is a thrown weapon that creates a Poison 4-meter radius AoE cloud, which stays for 10 seconds. Anyone in the cloud (excluding the thrower) takes 40 poison damage over 7 seconds. If an enemy stays in the cloud, the damage is refreshed, so the maximum damage is 40*(10+7)/7 = 97.\nDamage value does not depend on any player skill, but may be altered by enemy resistance."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Crafted with the Workbench, stacks up to 50\n• Ooze can be found in the Swamp biome by killing Blobs and Oozers\n• Leather scraps are found in Chests in the Meadows biome, dropped from Boars or Bats or mined from Muddy scrap piles.\n• Resin is dropped by Greydwarf, Greydwarf shaman and Greydwarf brute. It has a chance of dropping from chopped Birch and Pine trees, and Smaller Beech Trees."
+    }
+  ],
+  "full_text": "Ooze bomb\n\nInternal ID: BombOoze | Type: Bomb | Source: Workbench | Wielding: One-handed | Crafting Materials: Leather scraps x5, Ooze x5, Resin x3\n\nIntroduction. Ooze bomb is a thrown weapon that creates a Poison 4-meter radius AoE cloud, which stays for 10 seconds. Anyone in the cloud (excluding the thrower) takes 40 poison damage over 7 seconds. If an enemy stays in the cloud, the damage is refreshed, so the maximum damage is 40*(10+7)/7 = 97.\nDamage value does not depend on any player skill, but may be altered by enemy resistance.\n\nAvailability. • Crafted with the Workbench, stacks up to 50\n• Ooze can be found in the Swamp biome by killing Blobs and Oozers\n• Leather scraps are found in Chests in the Meadows biome, dropped from Boars or Bats or mined from Muddy scrap piles.\n• Resin is dropped by Greydwarf, Greydwarf shaman and Greydwarf brute. It has a chance of dropping from chopped Birch and Pine trees, and Smaller Beech Trees.",
+  "scraped_at": "2026-02-26T01:17:12.063894+00:00"
+}

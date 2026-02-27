@@ -1,0 +1,11 @@
+{
+  "title": "Blob",
+  "url": "https://valheim.fandom.com/wiki/Blob",
+  "slug": "Blob",
+  "categories": [
+    "Creatures"
+  ],
+  "content": "# Blob\n\nInternal ID: Blob | Faction: Undead | Main biome: Swamp | Drops: Ooze | Blob trophy | Abilities: Area of effect | Trophy: Blob trophy | Weak to (x1.5): Blunt, ,, Frost, ,, Lightning | Neutral to (x1): Spirit | Resistant to (x0.5): Fire, ,, Pierce, ,, Slash | Immune to (x0): Poison, ,, Stagger, ,, Chop, ,, Pickaxe\n\n# Introduction\n\nBlobs are aggressive creatures found in the Swamps. They are large, gelatinous piles of sentient ooze that emit poisonous green gasses.\n\n### Drops\n\n• Item: Blob trophy | 0 Star: 10%\n\n• Item: Ooze | 0 Star: 1\n\n### Spawning\n\n• Type: Anywhere in the Swamps | Limit: 2 | Frequency: Uncommon | Stars: No\n\n• Type: Common spawn point in Sunken Crypts | Limit: - | Frequency: One time | Stars: No\n\n• Type: Upon Oozers death, 2 spawn | Limit: - | Frequency: - | Stars: No\n\n• Type: Spawned by Bonemass (4 per ability) | Limit: 8 | Frequency: - | Stars: No\n\n• Type: During \"A foul smell from the swamp\" event after defeating Bonemass | Limit: 5 | Frequency: Very common | Stars: No\n\n• Type: When a Blob bomb Poison is used | Limit: - | Frequency: - | Stars: No\n\n### Area of effect\n\nBlobs will stretch slightly before compressing and releasing a cloud of poisonous gas 4 meters in radius, applying the Poison status (90 Poison damage). Despite visual appearances, the cloud does not actually persist and only hits once. This ability can be used when a player is within 2 meters, and it has a cooldown of 2 seconds.\n\n## Notes\n\n• Blobs can follow players out to the ocean and jump into boats.\n• Entering a Sunken Crypt and leaving Blobs alive there will count towards spawn caps effectively suppressing their spawns in a large area (including the Bonemass ability).\n\nCategorias: Creatures",
+  "content_length": 1714,
+  "scraped_at": "2026-02-26T01:06:18.522168+00:00"
+}

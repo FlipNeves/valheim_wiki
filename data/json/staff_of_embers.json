@@ -1,0 +1,78 @@
+{
+  "title": "Staff of Embers",
+  "url": "https://valheim.fandom.com/wiki/Staff_of_embers",
+  "slug": "Staff_of_embers",
+  "categories": [
+    "Weapons",
+    "Magic",
+    "Elemental magic",
+    "2 more",
+    "Galdr table recipes",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Staff of Embers",
+    "Internal ID": "StaffFireball",
+    "Type": "Elemental magic",
+    "Source": "Galdr table",
+    "Usage": "Magic weapon",
+    "Crafting Materials": "Yggdrasil wood x30, Surtling core x6, Refined eitr x24",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Staff of Embers is one of the four Mistlands Magic weapons. Its primary attack launches a moderately slow fireball that flies in an arc. The fireball deals blunt damage on direct hits, and causes an explosion that ignites and deals Area of Effect damage against non-player characters. Damage and eitr usage are dependent on the caster's Elemental magic skill level. Like the other magic weapons, it has no secondary ability.\nWhile the staff has two attack animations, first swung from right to left, and then back, there is no combo bonus for continued attacks."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Fire",
+          "Quality 1": "120",
+          "Quality 2": "126",
+          "Quality 3": "132",
+          "Quality 4": "138"
+        },
+        {
+          "stat": "Blunt",
+          "Quality 1": "120",
+          "Quality 2": "120",
+          "Quality 3": "120",
+          "Quality 4": "120"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "20 Yggdrasil wood4 Surtling core16 Refined eitr",
+          "Quality 2": "10 Yggdrasil wood2 Surtling core8 Refined eitr",
+          "Quality 3": "20 Yggdrasil wood4 Surtling core16 Refined eitr",
+          "Quality 4": "30 Yggdrasil wood6 Surtling core24 Refined eitr"
+        },
+        {
+          "stat": "Galdr table level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The head of the staff glows faintly orange-red at all times. It is very dim compared to most proper light sources, but can provide a small amount of light in the dark. The glow effect also makes players slightly easier to detect while sneaking, increasing the visibility of its holder by approximately 20%.\n• If one of the Runestones he left behind in the Mistlands is to be believed, Ulf once set his own beard aflame with a Staff of Embers he ironically crafted under one of the ravens' guidance (possibly Munin), much to his embarrassment. This foreshadows the Area of Effect nature of its fireball attack the player must be attentive to.\n• At max skill level in Elemental magic, the staff only consumes 24 Eitr when used. This means that at or near that skill level, you can technically cast the staff with Eitr from only a Magecap.\n• The range combined with the AoE of the staff's attack makes it an excellent weapon for hunting Hares."
+    }
+  ],
+  "full_text": "Staff of Embers\n\nInternal ID: StaffFireball | Type: Elemental magic | Source: Galdr table | Usage: Magic weapon | Crafting Materials: Yggdrasil wood x30, Surtling core x6, Refined eitr x24 | Movement speed: -5%\n\nIntroduction. The Staff of Embers is one of the four Mistlands Magic weapons. Its primary attack launches a moderately slow fireball that flies in an arc. The fireball deals blunt damage on direct hits, and causes an explosion that ignites and deals Area of Effect damage against non-player characters. Damage and eitr usage are dependent on the caster's Elemental magic skill level. Like the other magic weapons, it has no secondary ability.\nWhile the staff has two attack animations, first swung from right to left, and then back, there is no combo bonus for continued attacks.\n\nNotes. • The head of the staff glows faintly orange-red at all times. It is very dim compared to most proper light sources, but can provide a small amount of light in the dark. The glow effect also makes players slightly easier to detect while sneaking, increasing the visibility of its holder by approximately 20%.\n• If one of the Runestones he left behind in the Mistlands is to be believed, Ulf once set his own beard aflame with a Staff of Embers he ironically crafted under one of the ravens' guidance (possibly Munin), much to his embarrassment. This foreshadows the Area of Effect nature of its fireball attack the player must be attentive to.\n• At max skill level in Elemental magic, the staff only consumes 24 Eitr when used. This means that at or near that skill level, you can technically cast the staff with Eitr from only a Magecap.\n• The range combined with the AoE of the staff's attack makes it an excellent weapon for hunting Hares.",
+  "scraped_at": "2026-02-26T02:17:18.747727+00:00"
+}

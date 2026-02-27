@@ -1,0 +1,30 @@
+{
+  "title": "Standing wood torch",
+  "url": "https://valheim.fandom.com/wiki/Standing_wood_torch",
+  "slug": "Standing_wood_torch",
+  "categories": [
+    "Furniture",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Standing wood torch",
+    "Type": "Furniture",
+    "Internal ID": "piece_groundtorch_wood",
+    "Source": "Workbench",
+    "Usage": "Lightsource",
+    "Crafting Materials": "Wood x2, Resin x2",
+    "Weak to (x1.5)": "Chop, ,, Slash",
+    "Neutral to (x1)": "Blunt, ,, Fire, ,, Frost, ,, Lightning, ,, Pickaxe",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Standing wood torch is a light source.\nIt can hold up to four Resin at once. With 1/4 fuel, a standing wood torch will last for 2 hours and 46 minutes. At maximum capacity, a standing wood torch should burn for 11 hours and 06 minutes."
+    }
+  ],
+  "full_text": "Standing wood torch\n\nType: Furniture | Internal ID: piece_groundtorch_wood | Source: Workbench | Usage: Lightsource | Crafting Materials: Wood x2, Resin x2 | Weak to (x1.5): Chop, ,, Slash | Neutral to (x1): Blunt, ,, Fire, ,, Frost, ,, Lightning, ,, Pickaxe | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. The Standing wood torch is a light source.\nIt can hold up to four Resin at once. With 1/4 fuel, a standing wood torch will last for 2 hours and 46 minutes. At maximum capacity, a standing wood torch should burn for 11 hours and 06 minutes.",
+  "scraped_at": "2026-02-26T01:42:32.680877+00:00"
+}

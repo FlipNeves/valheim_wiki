@@ -1,0 +1,36 @@
+{
+  "title": "Skelett",
+  "url": "https://valheim.fandom.com/wiki/Skelett",
+  "slug": "Skelett",
+  "categories": [
+    "Minions",
+    "Tameable creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Skelett",
+    "Internal ID": "Skeleton_Friendly",
+    "Type": "Minion",
+    "Faction": "Players",
+    "Tameable": "Yes",
+    "Abilities": "Sword | Bow",
+    "Weak to (x1.5)": "Blunt, ,, Fire",
+    "Neutral to (x1)": "Slash, ,, Lightning, ,, Spirit, ,, Stagger",
+    "Resistant to (x0.5)": "Pierce, ,, Frost",
+    "Immune to (x0)": "Poison, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Skeletts are creatures summoned by players using the Dead Raiser. As summons, they fight on behalf of nearby players, attacking any nearby hostile creatures. Otherwise, they look and behave similar to Skeletons, except for being purple in color.\nSkeletts come in two variants: A melee-oriented type with sword and (optionally) shield, and an archer type with a bow and arrows.\nThe damage dealt by a Skelett is heavily influenced by the Blood magic skill level of their summoner: They are capable of dealing up to 3 times more damage at blood magic level 100 than at level 0; their damage scales linearly from 1x to 3x based on blood magic level. Their Health is not affected by skill level."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Skeletts cannot swim or drown, and will instead walk on the seafloor.\n• Skeletts always spawn with one of 99 possible names. They can also be re-named by players.\n• Skeletts are considered tameable mobs, but are also always tame. This means that they can be pet like other tameable mobs. Additionally, like all tamed mobs, players are only able to damage them either by using the Butcher knife or by enabling friendly fire mode. If the Dead Raiser is used by the player after the maximum number of Skeletts have been summoned, the oldest Skelett will be killed off and replaced with a new one. Killing a summoned Skelett before exceeding the maximum frees up one of the summoner's summon slots. They can then use the Dead Raiser to re-summon a new Skelett. This can be done on purpose to obtain the desired Skelett variants, or just to quickly get new ones with full health.\n• Skeletts are able to be shielded with a Staff of Protection in the same way that players can be."
+    }
+  ],
+  "full_text": "Skelett\n\nInternal ID: Skeleton_Friendly | Type: Minion | Faction: Players | Tameable: Yes | Abilities: Sword | Bow | Weak to (x1.5): Blunt, ,, Fire | Neutral to (x1): Slash, ,, Lightning, ,, Spirit, ,, Stagger | Resistant to (x0.5): Pierce, ,, Frost | Immune to (x0): Poison, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\nIntroduction. Skeletts are creatures summoned by players using the Dead Raiser. As summons, they fight on behalf of nearby players, attacking any nearby hostile creatures. Otherwise, they look and behave similar to Skeletons, except for being purple in color.\nSkeletts come in two variants: A melee-oriented type with sword and (optionally) shield, and an archer type with a bow and arrows.\nThe damage dealt by a Skelett is heavily influenced by the Blood magic skill level of their summoner: They are capable of dealing up to 3 times more damage at blood magic level 100 than at level 0; their damage scales linearly from 1x to 3x based on blood magic level. Their Health is not affected by skill level.\n\nNotes. • Skeletts cannot swim or drown, and will instead walk on the seafloor.\n• Skeletts always spawn with one of 99 possible names. They can also be re-named by players.\n• Skeletts are considered tameable mobs, but are also always tame. This means that they can be pet like other tameable mobs. Additionally, like all tamed mobs, players are only able to damage them either by using the Butcher knife or by enabling friendly fire mode. If the Dead Raiser is used by the player after the maximum number of Skeletts have been summoned, the oldest Skelett will be killed off and replaced with a new one. Killing a summoned Skelett before exceeding the maximum frees up one of the summoner's summon slots. They can then use the Dead Raiser to re-summon a new Skelett. This can be done on purpose to obtain the desired Skelett variants, or just to quickly get new ones with full health.\n• Skeletts are able to be shielded with a Staff of Protection in the same way that players can be.",
+  "scraped_at": "2026-02-26T02:19:21.687070+00:00"
+}

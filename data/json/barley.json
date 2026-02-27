@@ -1,0 +1,67 @@
+{
+  "title": "Barley",
+  "url": "https://valheim.fandom.com/wiki/Barley",
+  "slug": "Barley",
+  "categories": [
+    "Seeds",
+    "Farming",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Barley",
+    "Type": "Seed",
+    "Internal ID": "Barley",
+    "Source": "Fuling Village, in the, Plains, biome",
+    "Usage": "Building, Crafting, Farming, Taming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Produces": "2 Barley",
+    "Grow Time (s)": "1h 6m 40s, -, 1h 23m 20s",
+    "Needs Cultivated Ground?": "Yes",
+    "Space Needed (m)": "1",
+    "Hospitable Biomes": "Plains"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Barley is a material item found in the Plains."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Barley can be found naturally in various places:\n• Found inside Fuling Village as small patches of cultivated land. This is where the player can usually find 12 planted Barley ready to harvest for two barley each.\n• Barley can also be found inside of Plains Chest found in Fuling Village, Fuling Outpost and Fuling Ruin."
+    },
+    {
+      "heading": "Farming",
+      "level": 3,
+      "text": "Barley can only be planted and harvested in the Plains biome, using a Cultivator. It takes between 4000s and 5000s (between 66m40s and 83m20s, or about 2.22-2.78 in-game days) for it to fully grow."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Straw"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Barley flour via Windmill\n• Barley wine base: Fire resistance\n• Yggdrasil porridge"
+    },
+    {
+      "heading": "Farming",
+      "level": 3,
+      "text": "• 2 Barley can be obtained by planting and growing a single Barley using the Cultivator."
+    },
+    {
+      "heading": "Taming",
+      "level": 3,
+      "text": "• Lox\n• Hen"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Fully grown Barley will drop two Barley when damaged by weapons. AoE attacks, such as those of the Stagbreaker, Iron sledge or Polearms' secondary attack can be used. No Barley is lost, however, these methods do not grant experience towards the Farming skill, and the chance of extra yields will not trigger. As such, using a Scythe or harvesting by hand have potentially better yield."
+    }
+  ],
+  "full_text": "Barley\n\nType: Seed | Internal ID: Barley | Source: Fuling Village, in the, Plains, biome | Usage: Building, Crafting, Farming, Taming | Teleportable (Can go through wood portal?): Yes | Produces: 2 Barley | Grow Time (s): 1h 6m 40s, -, 1h 23m 20s | Needs Cultivated Ground?: Yes | Space Needed (m): 1 | Hospitable Biomes: Plains\n\nIntroduction. Barley is a material item found in the Plains.\n\nAvailability. Barley can be found naturally in various places:\n• Found inside Fuling Village as small patches of cultivated land. This is where the player can usually find 12 planted Barley ready to harvest for two barley each.\n• Barley can also be found inside of Plains Chest found in Fuling Village, Fuling Outpost and Fuling Ruin.\n\nFarming. Barley can only be planted and harvested in the Plains biome, using a Cultivator. It takes between 4000s and 5000s (between 66m40s and 83m20s, or about 2.22-2.78 in-game days) for it to fully grow.\n\nBuilding. • Straw\n\nCrafting. • Barley flour via Windmill\n• Barley wine base: Fire resistance\n• Yggdrasil porridge\n\nFarming. • 2 Barley can be obtained by planting and growing a single Barley using the Cultivator.\n\nTaming. • Lox\n• Hen\n\nNotes. • Fully grown Barley will drop two Barley when damaged by weapons. AoE attacks, such as those of the Stagbreaker, Iron sledge or Polearms' secondary attack can be used. No Barley is lost, however, these methods do not grant experience towards the Farming skill, and the chance of extra yields will not trigger. As such, using a Scythe or harvesting by hand have potentially better yield.",
+  "scraped_at": "2026-02-26T01:30:26.220023+00:00"
+}

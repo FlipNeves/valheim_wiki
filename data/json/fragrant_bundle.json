@@ -1,0 +1,31 @@
+{
+  "title": "Fragrant bundle",
+  "url": "https://valheim.fandom.com/wiki/Fragrant_bundle",
+  "slug": "Fragrant_bundle",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Fragrant bundle",
+    "Type": "Material",
+    "Internal ID": "FragrantBundle",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "140, Coins, for 5",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fragrant bundle can be purchased from The Bog Witch at 140 Coins for 5 items. It is only sold after Moder has been defeated."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mead base: Anti-sting"
+    }
+  ],
+  "full_text": "Fragrant bundle\n\nType: Material | Internal ID: FragrantBundle | Source: The Bog Witch | Usage: Crafting | Buy: 140, Coins, for 5 | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Fragrant bundle can be purchased from The Bog Witch at 140 Coins for 5 items. It is only sold after Moder has been defeated.\n\nCrafting. • Mead base: Anti-sting",
+  "scraped_at": "2026-02-26T01:33:52.959612+00:00"
+}

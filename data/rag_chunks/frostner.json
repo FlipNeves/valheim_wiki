@@ -1,0 +1,13 @@
+{
+  "title": "Frostner",
+  "url": "https://valheim.fandom.com/wiki/Frostner",
+  "slug": "Frostner",
+  "categories": [
+    "Weapons",
+    "Clubs",
+    "Forge recipes"
+  ],
+  "content": "# Frostner\n\nInternal ID: MaceSilver | Type: Club | Source: Forge | Usage: Weapon | Wielding: One-handed | Crafting Materials: Silver x45 | Attack speed: 1.72 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.5 range, 30 angle, 0.8 height, 0.3 ray, vertical | Movement speed: -5%\n\n# Introduction\n\nThe Frostner is the fourth one-handed club. Its primary attack is a 3-hit combo with double damage on the last hit. Its slower secondary attack deals 2.5x damage and 2x staggering.\nIts very high knockback and slow makes it a good choice for fighting multiple foes at once. These attributes in combination with different damage types make the Frostner a very effective all round weapon even in later biomes.\n\n## Upgrade information\n\n• stat: Blunt | Quality 1: 35 | Quality 2: 35 | Quality 3: 35 | Quality 4: 35\n\n• stat: Frost | Quality 1: 40 | Quality 2: 46 | Quality 3: 52 | Quality 4: 58\n\n• stat: Spirit | Quality 1: 20 | Quality 2: 20 | Quality 3: 20 | Quality 4: 20\n\n• stat: Durability | Quality 1: 200 | Quality 2: 250 | Quality 3: 300 | Quality 4: 350\n\n• stat: Crafting | Quality 1: 10 Ancient bark30 Silver5 Ymir flesh5 Freeze gland | Quality 2: 15 Silver | Quality 3: 30 Silver | Quality 4: 45 Silver\n\n• stat: Forge level | Quality 1: 3 | Quality 2: 4 | Quality 3: 5 | Quality 4: 6\n\n## Notes\n\n• The Frost damage is applied instantly, even though the slow persists over time.\n• The Spirit damage is applied over time (and only affects some enemies).\n• The hammer itself also gives off a Frost Aura, which is a purely visual effect.\n• The Wet status causes Frost weakness, making the Frostner effective against enemies submerged in water (rain only affects players).\n• Players are less likely to see a foe stagger from damage from Frostner compared to other maces; this is because frost does not contribute to staggering, only physical damage does.\n• The knockback can be detrimental when focusing a target down, especially when playing in a group. Using the secondary attack to finish off the target may be preferred over primary attacks.\n• The combination of knockback and slowing effect provided by frost makes the Frostner optimal for crowd control.\n\n## Trivia\n\n• Frostner's appearance is loosely based on archeological finds and artistic representations of Mjölnir, the one-handed hammer of Thor.\n\nCategorias: Weapons, Clubs, Forge recipes",
+  "content_length": 2353,
+  "scraped_at": "2026-02-26T01:15:23.211683+00:00"
+}

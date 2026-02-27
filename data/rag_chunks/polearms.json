@@ -1,0 +1,12 @@
+{
+  "title": "Polearms",
+  "url": "https://valheim.fandom.com/wiki/Polearms",
+  "slug": "Polearms",
+  "categories": [
+    "Weapons",
+    "Polearms"
+  ],
+  "content": "# Polearms\n\n# Introduction\n\nPolearms is a weapon class.\nPolearms are strong two-handed weapons. All polearms deal pierce damage, and have a distinct AoE special attack.\nMost polearms in the game are referred to as atgeirs. Atgeirs share a distinctive in-game look, featuring a thin, curved blade attached to the side of a long wooden pole.\n\n## List of polearms\n\n• Name: Bronze atgeir | Damage: Pierce: 45/63 | Stamina (primary): 12 | Stamina (secondary): 24 | Block armor: 16\n\n• Name: Iron atgeir | Damage: Pierce: 65/83 | Stamina (primary): 14 | Stamina (secondary): 28 | Block armor: 28\n\n• Name: Black metal atgeir | Damage: Pierce: 105/123 | Stamina (primary): 18 | Stamina (secondary): 36 | Block armor: 52\n\n• Name: Himminafl | Damage: Pierce: 85/85Lightning: 40/58 | Stamina (primary): 20 | Stamina (secondary): 40 | Block armor: 64\n\n## Properties\n\n• Attack type: Primary attack | Stamina (base): 12–20 | Range: 3.2 m | Attack speed: 2.98 s (0.84 + 0.86 + 1.28) | Damage: 1x + 1x + 2x | Staggering: 1x | Knockback: 30 | Notes: Player does not move forward on first strike, moves forward 0.5 m on following strikes. 30 degree arc.\n\n• Attack type: Secondary attack | Stamina (base): 2x | Range: 3 m (AoE) | Attack speed: 1.56 s | Damage: 1x | Staggering: 6x | Knockback: 10x | Notes: Player moves 0.5 m forward. 360 degree arc. No multi-target damage penalty.\n\nCategorias: Weapons, Polearms",
+  "content_length": 1393,
+  "scraped_at": "2026-02-26T01:17:26.635386+00:00"
+}

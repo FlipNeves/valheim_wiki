@@ -1,0 +1,32 @@
+{
+  "title": "Resounding Shackle",
+  "url": "https://valheim.fandom.com/wiki/Resounding_Shackle",
+  "slug": "Resounding_Shackle",
+  "categories": [
+    "Trinket"
+  ],
+  "infobox": {
+    "_infobox_title": "Resounding Shackle",
+    "Internal ID": "TrinketScaleStaminaDamage",
+    "Type": "Trinkets",
+    "Source": "Black forge",
+    "Crafting Materials": "Refined eitr x5, Scale hide x5, Mandible x1, Seeker trophy x1",
+    "Adrenaline Cost": "75",
+    "Effect": "100 stamina gain | +10% Slash",
+    "Duration": "1m"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Resounding Shackle is a Mistlands-tier trinket."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Once 75 Adrenaline has been gained, the Resounding Shackle will trigger automatically, providing 100 stamina immediately, and +10% slash damage for 60 seconds."
+    }
+  ],
+  "full_text": "Resounding Shackle\n\nInternal ID: TrinketScaleStaminaDamage | Type: Trinkets | Source: Black forge | Crafting Materials: Refined eitr x5, Scale hide x5, Mandible x1, Seeker trophy x1 | Adrenaline Cost: 75 | Effect: 100 stamina gain | +10% Slash | Duration: 1m\n\nIntroduction. Resounding Shackle is a Mistlands-tier trinket.\n\nEffects. Once 75 Adrenaline has been gained, the Resounding Shackle will trigger automatically, providing 100 stamina immediately, and +10% slash damage for 60 seconds.",
+  "scraped_at": "2026-02-26T02:10:15.455386+00:00"
+}

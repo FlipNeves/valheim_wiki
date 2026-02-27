@@ -1,0 +1,43 @@
+{
+  "title": "Accessories",
+  "url": "https://valheim.fandom.com/wiki/Accessories",
+  "slug": "Accessories",
+  "categories": [
+    "Accessories"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Accessories are items that can equipped. They share the same equipment slot, only one accessory can be equipped at a time."
+    },
+    {
+      "heading": "List of accessories",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Megingjord",
+          "Source": "Haldor",
+          "Cost": "950 Coins",
+          "Effects": "+150.0 carry weight"
+        },
+        {
+          "Name": "Wishbone",
+          "Source": "Bonemass",
+          "Cost": "",
+          "Effects": "Reveals nearby secrets, notably Silver veins"
+        },
+        {
+          "Name": "Wisplight",
+          "Source": "Workbench",
+          "Cost": "1 Silver 1 Wisp",
+          "Effects": "Clears the mist in the Mistlands"
+        }
+      ]
+    }
+  ],
+  "full_text": "Accessories\n\nIntroduction. Accessories are items that can equipped. They share the same equipment slot, only one accessory can be equipped at a time.",
+  "scraped_at": "2026-02-26T02:05:45.532578+00:00"
+}

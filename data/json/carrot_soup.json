@@ -1,0 +1,41 @@
+{
+  "title": "Carrot soup",
+  "url": "https://valheim.fandom.com/wiki/Carrot_soup",
+  "slug": "Carrot_soup",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Carrot soup",
+    "Type": "Food",
+    "Internal ID": "CarrotSoup",
+    "Source": "Cauldron",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mushroom x1, Carrot x3",
+    "Max Health": "15",
+    "Max Stamina": "45",
+    "Duration": "25m",
+    "Healing": "2 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Carrot soup is a Black Forest-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Carrot soup is produced in a level 1 Cauldron with:\n• 3 Carrot\n• 1 Mushroom"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "Carrot soup provides the highest stamina gain in the Black Forest at 45."
+    }
+  ],
+  "full_text": "Carrot soup\n\nType: Food | Internal ID: CarrotSoup | Source: Cauldron | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mushroom x1, Carrot x3 | Max Health: 15 | Max Stamina: 45 | Duration: 25m | Healing: 2 hp/tick\n\nIntroduction. Carrot soup is a Black Forest-tier food.\n\nRecipe. Carrot soup is produced in a level 1 Cauldron with:\n• 3 Carrot\n• 1 Mushroom\n\nNotes. Carrot soup provides the highest stamina gain in the Black Forest at 45.",
+  "scraped_at": "2026-02-26T01:25:36.974409+00:00"
+}

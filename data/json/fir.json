@@ -1,0 +1,100 @@
+{
+  "title": "Fir",
+  "url": "https://valheim.fandom.com/wiki/Fir",
+  "slug": "Fir",
+  "categories": [
+    "Trees"
+  ],
+  "infobox": {
+    "_infobox_title": "Fir",
+    "Biome": "Black Forest, ,, Swamp, , and, Mountain",
+    "Wood Type": "Wood",
+    "Yield": "20",
+    "Tool Needed": "Stone axe",
+    "Additional Loot": "Fir cone | Feathers | Resin"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fir is a type of tree that can be found in the Black Forest, Swamp, and Mountain biomes. It is characterized by its dark brown trunk and long pointed branches. Fir can be found in small and large variants. Both variants can be chopped with a Stone axe or better. The small variant produces 4 Wood when destroyed. The large variant produces 20 wood when destroyed, and the stump will yield another 2 wood. Fir will sometimes produce a Fir cone when destroyed, which can be planted using the Cultivator.\nCutting down a fir tree leaves a stump which is too low to be struck by the regular blow of the axe. To remove stumps, the player must use the alternate attack, which chops straight downward.",
+      "table_data": [
+        {
+          "Item": "Wood",
+          "Amount": "20",
+          "Chance": "From logs",
+          "Average": "20"
+        },
+        {
+          "Item": "Wood",
+          "Amount": "2",
+          "Chance": "From stump",
+          "Average": "2"
+        },
+        {
+          "Item": "Fir cone",
+          "Amount": "1",
+          "Chance": "67%",
+          "Average": "0.5"
+        },
+        {
+          "Item": "Feathers",
+          "Amount": "1",
+          "Chance": "17%",
+          "Average": "0.13"
+        },
+        {
+          "Item": "Resin",
+          "Amount": "1",
+          "Chance": "17%",
+          "Average": "0.13"
+        },
+        {
+          "Item": "Wood",
+          "Amount": "1",
+          "Chance": "83%",
+          "Average": "3.75"
+        },
+        {
+          "Item": "Fir cone",
+          "Amount": "1",
+          "Chance": "8%",
+          "Average": "0.37"
+        },
+        {
+          "Item": "Resin",
+          "Amount": "1",
+          "Chance": "8%",
+          "Average": "0.37"
+        },
+        {
+          "Item": "Wood",
+          "Amount": "1",
+          "Chance": "100%",
+          "Average": "4.5"
+        }
+      ]
+    },
+    {
+      "heading": "Planting Firs",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Meadows": "Swamp",
+          "Yes": "No"
+        },
+        {
+          "Meadows": "Mistlands",
+          "Yes": "No"
+        },
+        {
+          "Meadows": "Ashlands",
+          "Yes": "No"
+        }
+      ]
+    }
+  ],
+  "full_text": "Fir\n\nBiome: Black Forest, ,, Swamp, , and, Mountain | Wood Type: Wood | Yield: 20 | Tool Needed: Stone axe | Additional Loot: Fir cone | Feathers | Resin\n\nIntroduction. Fir is a type of tree that can be found in the Black Forest, Swamp, and Mountain biomes. It is characterized by its dark brown trunk and long pointed branches. Fir can be found in small and large variants. Both variants can be chopped with a Stone axe or better. The small variant produces 4 Wood when destroyed. The large variant produces 20 wood when destroyed, and the stump will yield another 2 wood. Fir will sometimes produce a Fir cone when destroyed, which can be planted using the Cultivator.\nCutting down a fir tree leaves a stump which is too low to be struck by the regular blow of the axe. To remove stumps, the player must use the alternate attack, which chops straight downward.",
+  "scraped_at": "2026-02-26T01:48:34.731537+00:00"
+}

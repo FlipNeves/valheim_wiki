@@ -1,0 +1,36 @@
+{
+  "title": "Ceramic plate",
+  "url": "https://valheim.fandom.com/wiki/Ceramic_plate",
+  "slug": "Ceramic_plate",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Ceramic plate",
+    "Type": "Material",
+    "Internal ID": "CeramicPlate",
+    "Source": "Artisan table, level 2",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Crafts 5, Black marble"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ceramic plate is a material made from Black marble at the Artisan table. It can only be crafted after building the Artisan press upgrade after defeating The Queen."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Drakkar"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Shield core"
+    }
+  ],
+  "full_text": "Ceramic plate\n\nType: Material | Internal ID: CeramicPlate | Source: Artisan table, level 2 | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Crafts 5, Black marble\n\nIntroduction. Ceramic plate is a material made from Black marble at the Artisan table. It can only be crafted after building the Artisan press upgrade after defeating The Queen.\n\nBuilding. • Drakkar\n\nCrafting. • Shield core",
+  "scraped_at": "2026-02-26T01:31:51.714434+00:00"
+}

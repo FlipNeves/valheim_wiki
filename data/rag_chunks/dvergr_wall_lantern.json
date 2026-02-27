@@ -1,0 +1,12 @@
+{
+  "title": "Dvergr wall lantern",
+  "url": "https://valheim.fandom.com/wiki/Dvergr_wall_lantern",
+  "slug": "Dvergr_wall_lantern",
+  "categories": [
+    "Furniture",
+    "Light sources"
+  ],
+  "content": "# Dvergr wall lantern\n\nType: Furniture | Internal ID: piece_dvergr_lantern | Source: Black forge | Usage: Decoration, Lightsource | Crafting Materials: Copper x2, Dvergr lantern x1, Chain x1 | Support: Iron (from 20 to 1500) | Loss: 1/13 vertical, 1/13 horizontal | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe | Resistant to (x0.5): Pierce, ,, Fire, ,, Frost, ,, Lightning | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nThe Dvergr wall lantern is a light source and does not require any fuel.\n\nCategorias: Furniture, Light sources",
+  "content_length": 560,
+  "scraped_at": "2026-02-26T01:41:09.502018+00:00"
+}

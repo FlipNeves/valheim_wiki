@@ -1,0 +1,83 @@
+{
+  "title": "Drake",
+  "url": "https://valheim.fandom.com/wiki/Drake",
+  "slug": "Drake",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Drake",
+    "Internal ID": "Hatchling",
+    "Faction": "Mountain",
+    "Main biome": "Mountain",
+    "Drops": "Drake trophy | Freeze gland",
+    "Abilities": "Spit cold (6s)",
+    "Trophy": "Drake trophy",
+    "Weak to (x1.5)": "Fire",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Lightning, ,, Poison",
+    "Immune to (x0)": "Frost, ,, Spirit, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Drakes are aggressive creatures found in the Mountains. They are slender, legless frost dragons with ice-blue scales and four horns. Drakes are the male offspring of their mother, Moder."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Drake trophy",
+          "0 Star": "5%",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Freeze gland",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Up to 3 spawn points in Drake Nest (100 meter altitude)",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "No"
+        },
+        {
+          "Type": "Middle of the tall Mountains (100 meter altitude)",
+          "Limit": "2",
+          "Frequency": "Common",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"A cold wind blows from the mountains\" event before defeating Moder",
+          "Limit": "3",
+          "Frequency": "Very common",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Spit cold",
+      "level": 3,
+      "text": "Fires three balls of ice at the player, inflicting the Frost effect (90 Frost damage each). Each projectile travels at 15 meters per second for up to 10 seconds before despawning and has a spread of 10–20 degrees. This attack can be used within 5–15 meters of the player and has a 6-second cooldown."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Originally introduced as a \"Dragon Hatchling\",[3] they were renamed to \"Drakes\" before release.[4] Drakes are still referred to in game files as a \"Hatchling\".\n• Drakes have a maximum chase distance of 200m from their spawn position. After that, they will drop aggro more easily.\n• Players are likely to find Drakes close to a Dragon egg protecting it.\n• The drops from Drakes are unusually valuable. Their Freeze glands, glowing blue objects dropped on death, are necessary for all frost-based weapons and foods, and their trophy is used to make the helmet for Wolf Armor.\n• Appearance-wise, they greatly resemble an Amphiptere, a winged, legless type of dragon, in stark contrast to Moder who resembles a huge wyvern.\n• Drakes may be weak to fire, however, because of the massive damage difference between Fire arrows and Obsidian arrows, Obsidian are stronger (Fire totaling 44 and Obsidian totaling 52) This does not make their fire weakness useless, as Fire arrows make a good replacement if you do not have Obsidian arrows yet or just to save materials."
+    }
+  ],
+  "full_text": "Drake\n\nInternal ID: Hatchling | Faction: Mountain | Main biome: Mountain | Drops: Drake trophy | Freeze gland | Abilities: Spit cold (6s) | Trophy: Drake trophy | Weak to (x1.5): Fire | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Lightning, ,, Poison | Immune to (x0): Frost, ,, Spirit, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. Drakes are aggressive creatures found in the Mountains. They are slender, legless frost dragons with ice-blue scales and four horns. Drakes are the male offspring of their mother, Moder.\n\nSpit cold. Fires three balls of ice at the player, inflicting the Frost effect (90 Frost damage each). Each projectile travels at 15 meters per second for up to 10 seconds before despawning and has a spread of 10–20 degrees. This attack can be used within 5–15 meters of the player and has a 6-second cooldown.\n\nNotes. • Originally introduced as a \"Dragon Hatchling\",[3] they were renamed to \"Drakes\" before release.[4] Drakes are still referred to in game files as a \"Hatchling\".\n• Drakes have a maximum chase distance of 200m from their spawn position. After that, they will drop aggro more easily.\n• Players are likely to find Drakes close to a Dragon egg protecting it.\n• The drops from Drakes are unusually valuable. Their Freeze glands, glowing blue objects dropped on death, are necessary for all frost-based weapons and foods, and their trophy is used to make the helmet for Wolf Armor.\n• Appearance-wise, they greatly resemble an Amphiptere, a winged, legless type of dragon, in stark contrast to Moder who resembles a huge wyvern.\n• Drakes may be weak to fire, however, because of the massive damage difference between Fire arrows and Obsidian arrows, Obsidian are stronger (Fire totaling 44 and Obsidian totaling 52) This does not make their fire weakness useless, as Fire arrows make a good replacement if you do not have Obsidian arrows yet or just to save materials.",
+  "scraped_at": "2026-02-26T01:06:52.215483+00:00"
+}

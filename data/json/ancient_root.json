@@ -1,0 +1,54 @@
+{
+  "title": "Ancient Roots",
+  "url": "https://valheim.fandom.com/wiki/Ancient_root",
+  "slug": "Ancient_root",
+  "categories": [
+    "Resource nodes"
+  ],
+  "infobox": {
+    "_infobox_title": "Ancient Roots",
+    "Type": "Resource nodes",
+    "Internal ID": "YggdrasilRoot",
+    "Location": "Mistlands",
+    "Resources": "Sap"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ancient Roots are a resource found in the Mistlands biome. Sap Extractors can be placed on them to harvest Sap."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Ancient Roots can be commonly found in Mistlands, at ground level. They emit a green light glow which can be seen through the mist."
+    },
+    {
+      "heading": "Sap harvesting",
+      "level": 2,
+      "text": "Each root dries up as Sap is extracted from it using a Sap Extractor. Each Sap Extractor collects and stores one sap every 60 seconds. Multiple sap extractors can be placed on one Ancient Root.\nThe reservoir of sap in an ancient root regenerates at a rate of 1 sap per 400 seconds, up to a maximum storage of 50 sap. Thus, sap is a renewable resource.\nAncient Roots have three visual states: Full, half dried, and dried up.",
+      "table_data": [
+        {
+          "State": "Full",
+          "In-game description": "The ancient root is pulsating with energy",
+          "Harvestable Sap": "41 - 50",
+          "Image": ""
+        },
+        {
+          "State": "Half dried",
+          "In-game description": "The ancient root's glow is fading",
+          "Harvestable Sap": "5 - 40",
+          "Image": ""
+        },
+        {
+          "State": "Dried up",
+          "In-game description": "The ancient root seems all dried up",
+          "Harvestable Sap": "< 5",
+          "Image": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Ancient Roots\n\nType: Resource nodes | Internal ID: YggdrasilRoot | Location: Mistlands | Resources: Sap\n\nIntroduction. Ancient Roots are a resource found in the Mistlands biome. Sap Extractors can be placed on them to harvest Sap.\n\nAvailability. Ancient Roots can be commonly found in Mistlands, at ground level. They emit a green light glow which can be seen through the mist.\n\nSap harvesting. Each root dries up as Sap is extracted from it using a Sap Extractor. Each Sap Extractor collects and stores one sap every 60 seconds. Multiple sap extractors can be placed on one Ancient Root.\nThe reservoir of sap in an ancient root regenerates at a rate of 1 sap per 400 seconds, up to a maximum storage of 50 sap. Thus, sap is a renewable resource.\nAncient Roots have three visual states: Full, half dried, and dried up.",
+  "scraped_at": "2026-02-26T01:53:41.202060+00:00"
+}

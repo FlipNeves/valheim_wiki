@@ -1,0 +1,31 @@
+{
+  "title": "Woodland herb blend",
+  "url": "https://valheim.fandom.com/wiki/Woodland_herb_blend",
+  "slug": "Woodland_herb_blend",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Woodland herb blend",
+    "Type": "Material",
+    "Internal ID": "SpiceForests",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "120, Coins, for 5",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Woodland herb blend can be purchased from The Bog Witch at 120 Coins for 5 items. It is only sold after The Elder has been defeated."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Whole roasted Meadow boar\n• Black Forest buffet platter\n• Swamp dweller's delight"
+    }
+  ],
+  "full_text": "Woodland herb blend\n\nType: Material | Internal ID: SpiceForests | Source: The Bog Witch | Usage: Crafting | Buy: 120, Coins, for 5 | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Woodland herb blend can be purchased from The Bog Witch at 120 Coins for 5 items. It is only sold after The Elder has been defeated.\n\nCrafting. • Whole roasted Meadow boar\n• Black Forest buffet platter\n• Swamp dweller's delight",
+  "scraped_at": "2026-02-26T01:37:59.601255+00:00"
+}

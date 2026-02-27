@@ -1,0 +1,11 @@
+{
+  "title": "Lava Blob",
+  "url": "https://valheim.fandom.com/wiki/Lava_Blob",
+  "slug": "Lava_Blob",
+  "categories": [
+    "Creatures"
+  ],
+  "content": "# Lava Blob\n\nInternal ID: BlobLava | Main biome: Ashlands | Tameable: No | Drops: Proustite powder | Sulfur | Abilities: Area of effect | Weak to (x1.5): Blunt, ,, Frost, ,, Lightning | Neutral to (x1): Slash, ,, Spirit | Resistant to (x0.5): Pierce, ,, Poison | Immune to (x0): Fire, ,, Chop, ,, Pickaxe | Stagger limit: No\n\n# Introduction\n\nLava Blobs are aggressive creatures found in the Ashlands. They are the lava counterparts of Blobs that can spread fire.\nSimilar to their Blob counterparts, the Lava Blob jumps around, and so can close large distance between itself and the player.\n\n## Spawning\n\n• Type: Middle of the Ashlands | Limit: 2 | Frequency: Common | Stars: No\n\n• Type: When a Blob bomb Lava is used | Limit: - | Frequency: - | Stars: No\n\n### Area of effect\n\nExpands rapidly before exploding in a fiery shower that destroys the blob in the process (70 Blunt, 30 Fire, 160 Tier 1 Chop and 160 Tier 1 Pickaxe damage). This explosion has a 6-meter radius and can be used when a player is within that range or immediately upon death. This ability also has the attribute of being able to destroy terrain.\n\n## Drops\n\n• Item: Proustite powder | 0 Star: 1\n\n• Item: Sulfur | 0 Star: 1\n\n## Notes\n\n• The Lava Blob does not have a head, face, or eyes, but it still has a 'front' and cannot perform its standard explosion attack unless it is facing its target. If it is not facing its target, it will rotate in place until it is, and only then explode.\n\n## Tips\n\n• When the blob growth animation starts, players wanting to avoid being damaged from the explosion should immediately dodge roll or begin sprinting away from the Lava Blob.\n• With careful timing and positioning, players can use the Lava Blob to damage enemies or fell trees without taking any damage themselves.\n\nCategorias: Creatures",
+  "content_length": 1801,
+  "scraped_at": "2026-02-26T01:08:20.448414+00:00"
+}

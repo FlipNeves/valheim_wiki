@@ -1,0 +1,12 @@
+{
+  "title": "Scythe",
+  "url": "https://valheim.fandom.com/wiki/Scythe",
+  "slug": "Scythe",
+  "categories": [
+    "Tools",
+    "Forge recipes"
+  ],
+  "content": "# Scythe\n\nInternal ID: Scythe | Type: Tool | Source: Forge | Usage: Farming | Wielding: Two-handed | Crafting Materials: Silver x10\n\n# Introduction\n\nThe Scythe is a tool used to harvest crops. It cannot be used as a weapon.\n\n## Upgrade information\n\n• stat: Durability | Quality 1: 200 | Quality 2: 400 | Quality 3: 600\n\n• stat: Crafting recipe | Quality 1: Scythe handle x1Silver x6 | Quality 2: Silver x5 | Quality 3: Silver x10\n\n• stat: Workbench level | Quality 1: 2 | Quality 2: 3 | Quality 3: 4\n\n## Notes\n\n• Farming (Skill) decreases scythe stamina consumption and increases its range.\n• Scythe does not work on Jotun puffs and Magecap.\n• If used on an enemy, it will cause no damage, however, it will still give Farming experience.\n\nCategorias: Tools, Forge recipes",
+  "content_length": 771,
+  "scraped_at": "2026-02-26T01:40:04.192817+00:00"
+}

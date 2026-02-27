@@ -1,0 +1,11 @@
+{
+  "title": "Trader",
+  "url": "https://valheim.fandom.com/wiki/Trader",
+  "slug": "Trader",
+  "categories": [
+    "NPCs"
+  ],
+  "content": "# Trader\n\n# Introduction\n\nTraders are NPCs that sell items in exchange for Coins. They can also exchange valuables for coins.\nThere are three traders:\n• Haldor found in the Black Forest.\n• Hildir found in the Meadows.\n• The Bog Witch found in the Swamp.\n\n## Location\n\nThere can only be one merchant of each type in a world. Each trader has multiple possible spawn locations. Approaching any of these locations will permanently place the trader there. This can happen from 320 to 453 meters away (about twice of the default minimap range) when the related Zones are generated. When discovered, the trader icon will appear on the world map.\n\n## Valuables\n\nValuables is a category of items which can be exchanged for Coins at any of the traders.\nThere is no price difference between traders and they all accept all valuables. Once sold, valuable items cannot be bought back from traders.\n\n### List of valuables\n\n• Name: Amber | Price for One: 5 Coins | Stack Size: 20 | Price per Stack: 100 Coins\n\n• Name: Amber pearl | Price for One: 10 Coins | Stack Size: 50 | Price per Stack: 500 Coins\n\n• Name: Ruby | Price for One: 20 Coins | Stack Size: 20 | Price per Stack: 400 Coins\n\n• Name: Silver necklace | Price for One: 30 Coins | Stack Size: 20 | Price per Stack: 600 Coins\n\nCategorias: NPCs",
+  "content_length": 1287,
+  "scraped_at": "2026-02-26T02:17:32.370595+00:00"
+}

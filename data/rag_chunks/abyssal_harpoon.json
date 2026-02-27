@@ -1,0 +1,13 @@
+{
+  "title": "Abyssal harpoon",
+  "url": "https://valheim.fandom.com/wiki/Abyssal_harpoon",
+  "slug": "Abyssal_harpoon",
+  "categories": [
+    "Weapons",
+    "Spears",
+    "Workbench recipes"
+  ],
+  "content": "# Abyssal harpoon\n\nInternal ID: SpearChitin | Type: Spear | Source: Workbench | Usage: Weapon | Wielding: One-handed | Crafting Materials: Finewood x8, Chitin x30, Leather scraps x3 | Attack speed: ? | Hitbox: ? | Movement speed: -5%\n\n# Introduction\n\nThe Abyssal harpoon is a utility spear. Its primary attack throws the spear and latches onto non-boss creatures.\nWhen a leashed enemy moves too far away, they are dragged towards the player, draining the player's stamina constantly.\nAttacking again or with any other weapon, moving too far away from the leashed target, running out of stamina, or attempting to drag the target through impassable terrain or structures will break the leash.\n\n## Upgrade information\n\n• stat: Pierce | Quality 1: 10\n\n• stat: Durability | Quality 1: 50\n\n• stat: Crafting | Quality 1: 8 Finewood30 Chitin3 Leather scraps\n\n• stat: Workbench level | Quality 1: 2\n\n## Notes\n\n• Does not work on fish.\n• The Abyssal harpoon is mostly a utility weapon which can be used for relocating creatures, such as Boars into pens, or for dragging Sea Serpents to land, making their Serpent scales and trophy recoverable (these items normally sink to the bottom of water out of sight).\n• Interacting with a ship's rudder will not break the leash.\n• A Medium stamina mead may be helpful to maintain contact with a leashed target, because the stamina regeneration will occur even while the leashed target struggles to escape.\n• If in multiplayer, with Friendly Fire turned on, players can harpoon each other. And with careful coordination and preparation, can even launch each other across vast distances.\n\nCategorias: Weapons, Spears, Workbench recipes",
+  "content_length": 1663,
+  "scraped_at": "2026-02-26T01:10:07.657787+00:00"
+}

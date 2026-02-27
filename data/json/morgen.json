@@ -1,0 +1,121 @@
+{
+  "title": "Morgen",
+  "url": "https://valheim.fandom.com/wiki/Morgen",
+  "slug": "Morgen",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Morgen",
+    "Internal ID": "Morgen",
+    "Faction": "Demon",
+    "Main biome": "Ashlands",
+    "Drops": "Morgen sinew | Morgen heart | Morgen trophy",
+    "Abilities": "Bite (4s), Roll R (20s), Roll L (12s), Swipe (4s each for 4 variants), Body slam (12s)",
+    "Trophy": "Morgen trophy",
+    "Weak to (x1.5)": "Lightning",
+    "Neutral to (x1)": "Frost, ,, Poison, ,, Spirit, ,, Stagger",
+    "Resistant to (x0.5)": "Blunt, ,, Slash, ,, Pierce, ,, Fire",
+    "Immune to (x0)": "Chop, ,, Pickaxe",
+    "Stagger limit": "30%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Morgens are agile, aggressive foes found in the Ashlands. They rise from the ground after breaking out of their disguise, similar to Abominations."
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "In the middle of Ashlands, both day and night",
+          "Limit": "1",
+          "Frequency": "Very Rare",
+          "Stars": "No"
+        },
+        {
+          "Type": "Burrowing in the middle of some Ashlands ruins",
+          "Limit": "1",
+          "Frequency": "One time",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Inside Putrid Holes",
+          "Limit": "1",
+          "Frequency": "One time",
+          "Stars": "Yes"
+        }
+      ]
+    },
+    {
+      "heading": "Attacks and abilities",
+      "level": 2,
+      "text": "All Morgen attacks do friendly fire damage to allied creatures. Many of their attacks feature large movements — these movements shift the attack's hitbox with the user, extending their range. The impact of its jump attacks cause an area of effect hitbox which can be parried, with sufficient parry defense it will cancel the following dash."
+    },
+    {
+      "heading": "Bite",
+      "level": 3,
+      "text": "Jumps forward and bites down on the player (160 Blunt, 100 Tier 3 Chop and 100 Tier 3 Pickaxe damage). This attack creates a horizontal 4-meter 45-degree hitbox. It can be used every 4 seconds within 7 meters of a player."
+    },
+    {
+      "heading": "Roll (right)",
+      "level": 3,
+      "text": "Morgens jump up and roll to their right upon landing (50 Blunt, 100 Tier 3 Chop and 100 Tier 3 Pickaxe damage). This attack hits in a 3-meter circular area around the user and can be used every 20 seconds[1] within 12 meters of a player."
+    },
+    {
+      "heading": "Roll (left)",
+      "level": 3,
+      "text": "Morgens jump up and roll to their left upon landing (50 Blunt, 100 Tier 3 Chop and 100 Tier 3 Pickaxe damage). This attack hits in a 3-meter circular area around the user and can be used every 12 seconds[1] within 12 meters of a player."
+    },
+    {
+      "heading": "Swipe",
+      "level": 3,
+      "text": "This attack has four variations that each have their own 4-second cooldown: a right swipe, a left swipe, a right swipe followed by a left swipe, and a left swipe followed by a right swipe (160 Blunt, 100 Tier 3 Chop and 100 Tier 3 Pickaxe damage). These attacks can be used within 5 meters of a player, hitting in a 6-meter 60-degree horizontal arc."
+    },
+    {
+      "heading": "Body slam",
+      "level": 3,
+      "text": "[2] Stands upright and lift both arms up before slamming into the ground (160 Blunt damage). Morgens can attempt to use this attack every 12 seconds when within 5–12 meters of a player. It hits in a vertical arc 4 meters long, spanning 45 degrees."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Morgen sinew",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Morgen heart",
+          "0 Star": "80%",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Morgen trophy",
+          "0 Star": "5%",
+          "1 Star": "5%",
+          "2 Star": "5%"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• There is no difference in appearance between the 0-star, 1-star and 2-star Morgen."
+    },
+    {
+      "heading": "Tips",
+      "level": 2,
+      "text": "• Ever since the rework of the Forsaken Powers, it is ill-advised to engage a 2-star Morgen, even with maxed armor, maxed health, and a good shield, as its attacks will override a block, unless the player has a very high blocking skill. Parries are effective, but the damage from taking a hit, even with such drastic damage reduction, can nearly two-shot a player."
+    }
+  ],
+  "full_text": "Morgen\n\nInternal ID: Morgen | Faction: Demon | Main biome: Ashlands | Drops: Morgen sinew | Morgen heart | Morgen trophy | Abilities: Bite (4s), Roll R (20s), Roll L (12s), Swipe (4s each for 4 variants), Body slam (12s) | Trophy: Morgen trophy | Weak to (x1.5): Lightning | Neutral to (x1): Frost, ,, Poison, ,, Spirit, ,, Stagger | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Fire | Immune to (x0): Chop, ,, Pickaxe | Stagger limit: 30%\n\nIntroduction. Morgens are agile, aggressive foes found in the Ashlands. They rise from the ground after breaking out of their disguise, similar to Abominations.\n\nAttacks and abilities. All Morgen attacks do friendly fire damage to allied creatures. Many of their attacks feature large movements — these movements shift the attack's hitbox with the user, extending their range. The impact of its jump attacks cause an area of effect hitbox which can be parried, with sufficient parry defense it will cancel the following dash.\n\nBite. Jumps forward and bites down on the player (160 Blunt, 100 Tier 3 Chop and 100 Tier 3 Pickaxe damage). This attack creates a horizontal 4-meter 45-degree hitbox. It can be used every 4 seconds within 7 meters of a player.\n\nRoll (right). Morgens jump up and roll to their right upon landing (50 Blunt, 100 Tier 3 Chop and 100 Tier 3 Pickaxe damage). This attack hits in a 3-meter circular area around the user and can be used every 20 seconds[1] within 12 meters of a player.\n\nRoll (left). Morgens jump up and roll to their left upon landing (50 Blunt, 100 Tier 3 Chop and 100 Tier 3 Pickaxe damage). This attack hits in a 3-meter circular area around the user and can be used every 12 seconds[1] within 12 meters of a player.\n\nSwipe. This attack has four variations that each have their own 4-second cooldown: a right swipe, a left swipe, a right swipe followed by a left swipe, and a left swipe followed by a right swipe (160 Blunt, 100 Tier 3 Chop and 100 Tier 3 Pickaxe damage). These attacks can be used within 5 meters of a player, hitting in a 6-meter 60-degree horizontal arc.\n\nBody slam. [2] Stands upright and lift both arms up before slamming into the ground (160 Blunt damage). Morgens can attempt to use this attack every 12 seconds when within 5–12 meters of a player. It hits in a vertical arc 4 meters long, spanning 45 degrees.\n\nNotes. • There is no difference in appearance between the 0-star, 1-star and 2-star Morgen.\n\nTips. • Ever since the rework of the Forsaken Powers, it is ill-advised to engage a 2-star Morgen, even with maxed armor, maxed health, and a good shield, as its attacks will override a block, unless the player has a very high blocking skill. Parries are effective, but the damage from taking a hit, even with such drastic damage reduction, can nearly two-shot a player.",
+  "scraped_at": "2026-02-26T01:08:39.547817+00:00"
+}

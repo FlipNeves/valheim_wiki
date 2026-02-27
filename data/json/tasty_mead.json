@@ -1,0 +1,47 @@
+{
+  "title": "Tasty mead",
+  "url": "https://valheim.fandom.com/wiki/Tasty_mead",
+  "slug": "Tasty_mead",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Tasty mead",
+    "Type": "Mead",
+    "Internal ID": "MeadTasty",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mead base: Tasty x1",
+    "Duration": "10s",
+    "Cooldown": "10s",
+    "Health Regen": "-50% rate",
+    "Stamina Regen": "+100% rate"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Tasty mead is a Black Forest-tier consumable item fermented from Mead base: Tasty."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Mead base: Tasty is produced in a Mead ketill with:\n• 10 Honey\n• 10 Raspberries\n• 5 Blueberries\nSix Tasty meads are produced by fermenting the mead base for two in-game days."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Grants the following effects when consumed:\n• Health regen -50%\n• Stamina regen +100%\nLike all other meads, the player cannot consume another tasty mead while the effect is active, but unlike the stamina meads, there is no cooldown. Once the effect ends, a second mead can be immediately consumed.\nThe stamina regeneration effect will be interrupted if the user performs any action that normally consumes stamina, such as attacking or sprinting. Tasty mead may be useful in boss fights due to its short cooldown period and dramatic restorative effects.\nNote: \"-50% health regen\" does not drain health, it merely slows regeneration."
+    },
+    {
+      "heading": "Other locations",
+      "level": 2,
+      "text": "Other than brewing the meads, they can be found by destroying Dvergr barrels or Ancient pots."
+    }
+  ],
+  "full_text": "Tasty mead\n\nType: Mead | Internal ID: MeadTasty | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Tasty x1 | Duration: 10s | Cooldown: 10s | Health Regen: -50% rate | Stamina Regen: +100% rate\n\nIntroduction. Tasty mead is a Black Forest-tier consumable item fermented from Mead base: Tasty.\n\nRecipe. Mead base: Tasty is produced in a Mead ketill with:\n• 10 Honey\n• 10 Raspberries\n• 5 Blueberries\nSix Tasty meads are produced by fermenting the mead base for two in-game days.\n\nEffect. Grants the following effects when consumed:\n• Health regen -50%\n• Stamina regen +100%\nLike all other meads, the player cannot consume another tasty mead while the effect is active, but unlike the stamina meads, there is no cooldown. Once the effect ends, a second mead can be immediately consumed.\nThe stamina regeneration effect will be interrupted if the user performs any action that normally consumes stamina, such as attacking or sprinting. Tasty mead may be useful in boss fights due to its short cooldown period and dramatic restorative effects.\nNote: \"-50% health regen\" does not drain health, it merely slows regeneration.\n\nOther locations. Other than brewing the meads, they can be found by destroying Dvergr barrels or Ancient pots.",
+  "scraped_at": "2026-02-26T01:53:59.270543+00:00"
+}

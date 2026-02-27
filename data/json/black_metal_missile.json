@@ -1,0 +1,27 @@
+{
+  "title": "Black metal missile",
+  "url": "https://valheim.fandom.com/wiki/Black_metal_missile",
+  "slug": "Black_metal_missile",
+  "categories": [
+    "Weapons",
+    "Missiles",
+    "Artisan table recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Black metal missile",
+    "Internal ID": "TurretBolt",
+    "Type": "Missile",
+    "Source": "Artisan table",
+    "Usage": "Ballista ammunition",
+    "Crafting Materials": "Wood x10, Black metal x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Black metal missile is a missile used as ammunition for the Ballista, and can be crafted at the Artisan table."
+    }
+  ],
+  "full_text": "Black metal missile\n\nInternal ID: TurretBolt | Type: Missile | Source: Artisan table | Usage: Ballista ammunition | Crafting Materials: Wood x10, Black metal x1\n\nIntroduction. Black metal missile is a missile used as ammunition for the Ballista, and can be crafted at the Artisan table.",
+  "scraped_at": "2026-02-26T01:11:22.344624+00:00"
+}

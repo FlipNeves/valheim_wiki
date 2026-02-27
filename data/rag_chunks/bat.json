@@ -1,0 +1,11 @@
+{
+  "title": "Bat",
+  "url": "https://valheim.fandom.com/wiki/Bat",
+  "slug": "Bat",
+  "categories": [
+    "Creatures"
+  ],
+  "content": "# Bat\n\nInternal ID: Bat | Faction: Mountain | Main biome: Mountain | Drops: Leather scraps | Abilities: Melee (10s) | Weak to (x1.5): Fire, ,, Spirit | Neutral to (x1): Lightning, ,, Stagger | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce | Immune to (x0): Frost, ,, Poison, ,, Chop, ,, Pickaxe | Stagger limit: 50%\n\n# Introduction\n\nBats are aggressive creatures found in Mountains inside Frost Caves. They have a small body size and glossy black coat and wings, capable of flight.\n\n### Drops\n\n• Item: Leather scraps | 0 Star: 50%\n\n### Spawning\n\n• Type: Common spawn point in Frost Caves. | Limit: - | Frequency: One time | Stars: No\n\n• Type: Common spawn point in Howling Caverns. | Limit: - | Frequency: One time | Stars: Yes (Only 1-Star)\n\n• Type: During \"You stirred the cauldron,\" event after killing Bonemass. | Limit: 10 | Frequency: Very common | Stars: No\n\n### Melee\n\nLunges forward and bites the player (20 Slash damage). This hits in a 1.5-meter 60-degree horizontal arc. It can use this attack every 10 seconds when 1.5 meters from a player.\n\n## Notes\n\n• When the \"You stirred the cauldron,\" event concludes, any remaining bats do not despawn. Therefore, wandering bats might still attack after the end of the event, posing danger especially for tamed animals.\n\nCategorias: Creatures",
+  "content_length": 1297,
+  "scraped_at": "2026-02-26T01:06:09.631068+00:00"
+}

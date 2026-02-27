@@ -1,0 +1,40 @@
+{
+  "title": "Majestic carapace",
+  "url": "https://valheim.fandom.com/wiki/Majestic_carapace",
+  "slug": "Majestic_carapace",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Majestic carapace",
+    "Type": "Material",
+    "Internal ID": "QueenDrop",
+    "Source": "The Queen",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Majestic carapace is an item dropped by The Queen. It is required to build the Artisan press."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Five are dropped by The Queen upon defeat, unaffected by the resource rate."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Artisan press"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• This item was named \"Queen drop\" and was a placeholder before the Ashlands update."
+    }
+  ],
+  "full_text": "Majestic carapace\n\nType: Material | Internal ID: QueenDrop | Source: The Queen | Usage: Building | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Majestic carapace is an item dropped by The Queen. It is required to build the Artisan press.\n\nAvailability. Five are dropped by The Queen upon defeat, unaffected by the resource rate.\n\nBuilding. • Artisan press\n\nTrivia. • This item was named \"Queen drop\" and was a placeholder before the Ashlands update.",
+  "scraped_at": "2026-02-26T01:35:00.871838+00:00"
+}

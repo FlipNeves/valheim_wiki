@@ -1,0 +1,80 @@
+{
+  "title": "Black metal axe",
+  "url": "https://valheim.fandom.com/wiki/Black_metal_axe",
+  "slug": "Black_metal_axe",
+  "categories": [
+    "Weapons",
+    "Axes",
+    "Forge recipes",
+    "Tools"
+  ],
+  "infobox": {
+    "_infobox_title": "Black metal axe",
+    "Internal ID": "AxeBlackMetal",
+    "Type": "Axe",
+    "Source": "Forge",
+    "Usage": "Wood cutting",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Black metal x30, Linen thread x15",
+    "Attack speed": "2.0 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "2.2 range, 90 angle, 0.6 height, vertical, no multitarget penalty",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Black metal axe is the fifth one-handed axe. It can be used to chop down Beech, Birch, Oak, Fir, Pine, Ancient, Yggdrasil and Scorched Trees.\nIts primary attack is a 3-hit attack combo with double damage on the last hit. Its secondary attack is a slow but powerful overhead swing. This is perfect for removing tree stumps that are too low to hit with a normal swing."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Slash",
+          "Quality 1": "100",
+          "Quality 2": "105",
+          "Quality 3": "110",
+          "Quality 4": "115",
+          "Total": ""
+        },
+        {
+          "stat": "Chop (trees)",
+          "Quality 1": "60",
+          "Quality 2": "63",
+          "Quality 3": "66",
+          "Quality 4": "69",
+          "Total": ""
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "175",
+          "Quality 2": "225",
+          "Quality 3": "275",
+          "Quality 4": "325",
+          "Total": ""
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "6 Finewood20 Black metal5 Linen thread",
+          "Quality 2": "10 Black metal5 Linen thread",
+          "Quality 3": "20 Black metal10 Linen thread",
+          "Quality 4": "30 Black metal15 Linen thread",
+          "Total": "6 Finewood80 Black metal35 Linen thread"
+        },
+        {
+          "stat": "Forge level",
+          "Quality 1": "4",
+          "Quality 2": "5",
+          "Quality 3": "6",
+          "Quality 4": "7",
+          "Total": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Black metal axe\n\nInternal ID: AxeBlackMetal | Type: Axe | Source: Forge | Usage: Wood cutting | Wielding: One-handed | Crafting Materials: Black metal x30, Linen thread x15 | Attack speed: 2.0 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.2 range, 90 angle, 0.6 height, vertical, no multitarget penalty | Movement speed: -5%\n\nIntroduction. The Black metal axe is the fifth one-handed axe. It can be used to chop down Beech, Birch, Oak, Fir, Pine, Ancient, Yggdrasil and Scorched Trees.\nIts primary attack is a 3-hit attack combo with double damage on the last hit. Its secondary attack is a slow but powerful overhead swing. This is perfect for removing tree stumps that are too low to hit with a normal swing.",
+  "scraped_at": "2026-02-26T01:11:07.279069+00:00"
+}

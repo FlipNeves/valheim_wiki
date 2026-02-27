@@ -1,0 +1,37 @@
+{
+  "title": "CAPE TEST",
+  "url": "https://valheim.fandom.com/wiki/CAPE_TEST",
+  "slug": "CAPE_TEST",
+  "categories": [
+    "Unfinished",
+    "Armor",
+    "Capes"
+  ],
+  "infobox": {
+    "_infobox_title": "CAPE TEST",
+    "Internal ID": "CapeTest",
+    "Type": "Cape",
+    "Source": "n/a",
+    "Crafting Materials": "n/a",
+    "Armor": "1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "CAPE TEST is an armor piece."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "A test asset only obtainable via console commands."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The icon for this object is the Bronze plate cuirass icon."
+    }
+  ],
+  "full_text": "CAPE TEST\n\nInternal ID: CapeTest | Type: Cape | Source: n/a | Crafting Materials: n/a | Armor: 1\n\nIntroduction. CAPE TEST is an armor piece.\n\nNotes. A test asset only obtainable via console commands.\n\nTrivia. • The icon for this object is the Bronze plate cuirass icon.",
+  "scraped_at": "2026-02-26T01:21:07.568118+00:00"
+}

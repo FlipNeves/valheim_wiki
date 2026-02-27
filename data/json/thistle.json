@@ -1,0 +1,35 @@
+{
+  "title": "Thistle",
+  "url": "https://valheim.fandom.com/wiki/Thistle",
+  "slug": "Thistle",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Thistle",
+    "Type": "Material",
+    "Internal ID": "Thistle",
+    "Source": "Gathered in the, Black Forest, and, Swamp",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Thistle are found within both the Black Forest and Swamp biomes. They are most easily found at night, as the blue glow that surrounds it is more visible in the dark. Thistle can spawn in groups of 1-5. Picked thistle will respawn after 240 minutes (4 hours)."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Maypole\n• Spice rack"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Black Forest buffet platter\n• Blood pudding\n• Mead base: Frost resistance\n• Mead base: Poison resistance\n• Sailor's bounty\n• Sausages"
+    }
+  ],
+  "full_text": "Thistle\n\nType: Material | Internal ID: Thistle | Source: Gathered in the, Black Forest, and, Swamp | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Thistle are found within both the Black Forest and Swamp biomes. They are most easily found at night, as the blue glow that surrounds it is more visible in the dark. Thistle can spawn in groups of 1-5. Picked thistle will respawn after 240 minutes (4 hours).\n\nBuilding. • Maypole\n• Spice rack\n\nCrafting. • Black Forest buffet platter\n• Blood pudding\n• Mead base: Frost resistance\n• Mead base: Poison resistance\n• Sailor's bounty\n• Sausages",
+  "scraped_at": "2026-02-26T01:37:02.732522+00:00"
+}

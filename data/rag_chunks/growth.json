@@ -1,0 +1,11 @@
+{
+  "title": "Growth",
+  "url": "https://valheim.fandom.com/wiki/Growth",
+  "slug": "Growth",
+  "categories": [
+    "Creatures"
+  ],
+  "content": "# Growth\n\nInternal ID: BlobTar | Faction: Undead | Main biome: Plains | Drops: Tar | Growth trophy | Abilities: Attack (8s, 6x) | Trophy: Growth trophy | Weak to (x1.5): Blunt, ,, Fire | Neutral to (x1): Lightning, ,, Spirit | Resistant to (x0.5): Frost, ,, Pierce, ,, Slash | Immune to (x0): Poison, ,, Stagger, ,, Chop, ,, Pickaxe\n\n# Introduction\n\nGrowths are aggressive creatures found in Plains, specifically in Tar pits. They, like Blobs and Oozers, are large, gelatinous piles of sentient tar that emit poisonous black gasses.\n\n### Drops\n\n• Item: Growth trophy | 0 Star: 10%\n\n• Item: Tar | 0 Star: 1\n\n### Spawning\n\n• Type: Up to 9 spawn points in Tar pits | Limit: - | Frequency: 2 respawn every hour, even when the pit is drained | Stars: No\n\n• Type: When a Blob bomb Tar is used | Limit: - | Frequency: - | Stars: No\n\n### Attack\n\nLaunches six orbs of tar at the enemy, applying the Tarred and Poison statuses (45 Blunt and 50 Poison damage). Each orb travels at 12 meters per second for up to 4 seconds before despawning and has a spread of 5–20 degrees. This ability can be used when a player is within 15 meters, and it has a cooldown of 8 seconds.\n\n## Notes\n\n• Growths in the tar can be difficult to discern from a distance. Three or more growths may loosely surround the player, dealing high damage.\n• They are hostile to other Plains creatures, which makes luring them into Deathsquitos, Fulings or Lox a viable strategy to killing or distracting them. Lox will usually make quick work of them with their powerful AOE attacks.\n• Killing them inside the tar pit may result in their loot being stuck\n\nCategorias: Creatures",
+  "content_length": 1633,
+  "scraped_at": "2026-02-26T01:08:02.948078+00:00"
+}

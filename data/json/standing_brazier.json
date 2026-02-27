@@ -1,0 +1,42 @@
+{
+  "title": "Standing brazier",
+  "url": "https://valheim.fandom.com/wiki/Standing_brazier",
+  "slug": "Standing_brazier",
+  "categories": [
+    "Furniture",
+    "Fires",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Standing brazier",
+    "Type": "Furniture",
+    "Internal ID": "piece_brazierfloor01",
+    "Source": "Forge",
+    "Usage": "Coal, -fueled light source.",
+    "Crafting Materials": "Bronze x5, Coal x2, Fenris claw x3",
+    "Support": "Wood (from 10 to 100)",
+    "Loss": "1/8 vertical, 1/5 horizontal",
+    "Other Effect(s)": "Produces smoke, Removes the Cold Effect, Adds the Fire Effect, Rapidly removes the Wet Effect, Reduces Freezing Effect to Cold Effect",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Lightning",
+    "Immune to (x0)": "Fire, ,, Frost, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Standing brazier is a light source that can be placed on any surface, and must be built within the range of a Forge."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "The Standing brazier has all the same functions as a Campfire and is a base structure.\nStanding braziers are fueled with Coal. With 1/5 fuel, a Standing brazier will last for 5 hours and 33 minutes. At maximum capacity, a Standing brazier should burn for 27 hours and 47 minutes. It can be used for cooking, however, it does not fit easily like a Campfire does.\nThe Fire Effect for the Standing brazier extends for about 4–5 meters (Measured from the closest the player can stand without setting themselves on fire)."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Destroying the Standing brazier with a Hammer will not yield back any Coal and will only return the 5 Bronze and 3 Fenris claws used for its construction. All Coal used as fuel and for the initial construction will not be dropped.\n• Standing braziers found in Frost Caves can be destroyed for Coal and sometimes Bronze.\n• Standing braziers stop working if exposed to rainy weather without a roof."
+    }
+  ],
+  "full_text": "Standing brazier\n\nType: Furniture | Internal ID: piece_brazierfloor01 | Source: Forge | Usage: Coal, -fueled light source. | Crafting Materials: Bronze x5, Coal x2, Fenris claw x3 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Other Effect(s): Produces smoke, Removes the Cold Effect, Adds the Fire Effect, Rapidly removes the Wet Effect, Reduces Freezing Effect to Cold Effect | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Lightning | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\nIntroduction. The Standing brazier is a light source that can be placed on any surface, and must be built within the range of a Forge.\n\nUsage. The Standing brazier has all the same functions as a Campfire and is a base structure.\nStanding braziers are fueled with Coal. With 1/5 fuel, a Standing brazier will last for 5 hours and 33 minutes. At maximum capacity, a Standing brazier should burn for 27 hours and 47 minutes. It can be used for cooking, however, it does not fit easily like a Campfire does.\nThe Fire Effect for the Standing brazier extends for about 4–5 meters (Measured from the closest the player can stand without setting themselves on fire).\n\nNotes. • Destroying the Standing brazier with a Hammer will not yield back any Coal and will only return the 5 Bronze and 3 Fenris claws used for its construction. All Coal used as fuel and for the initial construction will not be dropped.\n• Standing braziers found in Frost Caves can be destroyed for Coal and sometimes Bronze.\n• Standing braziers stop working if exposed to rainy weather without a roof.",
+  "scraped_at": "2026-02-26T01:42:20.507792+00:00"
+}

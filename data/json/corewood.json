@@ -1,0 +1,36 @@
+{
+  "title": "Corewood",
+  "url": "https://valheim.fandom.com/wiki/Corewood",
+  "slug": "Corewood",
+  "categories": [
+    "Wood",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Corewood",
+    "Type": "Wood",
+    "Internal ID": "RoundLog",
+    "Source": "Pine",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Corewood is a different type of wood used in early building and crafting recipes. The main benefit of Corewood compared with common Wood is a greater support factor, which allows construction of larger and taller buildings."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Chop Pine Trees found in the Black Forest, or grown from Pine cones with a Cultivator.\n• Can be cut with a Stone axe."
+    },
+    {
+      "heading": "Smelting",
+      "level": 3,
+      "text": "• Corewood can be used with Charcoal Kiln to produce Coal, which can be used to smelt ores in a Smelter."
+    }
+  ],
+  "full_text": "Corewood\n\nType: Wood | Internal ID: RoundLog | Source: Pine | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Corewood is a different type of wood used in early building and crafting recipes. The main benefit of Corewood compared with common Wood is a greater support factor, which allows construction of larger and taller buildings.\n\nAvailability. • Chop Pine Trees found in the Black Forest, or grown from Pine cones with a Cultivator.\n• Can be cut with a Stone axe.\n\nSmelting. • Corewood can be used with Charcoal Kiln to produce Coal, which can be used to smelt ores in a Smelter.",
+  "scraped_at": "2026-02-26T01:32:25.614227+00:00"
+}

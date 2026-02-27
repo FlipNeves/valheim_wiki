@@ -1,0 +1,11 @@
+{
+  "title": "Rugs",
+  "url": "https://valheim.fandom.com/wiki/Blue_jute_carpet",
+  "slug": "Blue_jute_carpet",
+  "categories": [
+    "Furniture"
+  ],
+  "content": "# Rugs\n\n# Introduction\n\nRugs are made from the hides of their respective creature types, while carpets are made from jute. Both are used as decorative objects.\n\n## Common properties\n\nRugs and carpets share the following properties:\n\n• Property: Durability | Value: 50\n\n• Property: Support | Value: Wood (from 10 to 100)\n\n• Property: Loss | Value: 1/8 vertical, 1/5 horizontal\n\n• Property: Resistances | Value: Weak: Chop Neutral: Blunt, Slash, Pickaxe, Fire, Frost, Lightning Resistant: Pierce Immune: Poison, Spirit\n\n• Property: Damaged by Rain? | Value: No\n\n• Property: Comfort | Value: 1 (if no other rugs/carpets in range)\n\n### Rugs\n\n• Rug: Deer rug | Materials: Deer hide x4 | Internal id: rug_deer | Size: 2x3\n\n• Rug: Bearskin rug | Materials: Bear hide x1 Bear paw x2 Bear trophy x1 | Internal id: rug_Bjorn | Size: 4x5\n\n• Rug: Wolf rug | Materials: Wolf pelt x4 | Internal id: rug_wolf | Size: 2x3\n\n• Rug: Lox rug | Materials: Lox pelt x4 | Internal id: rug_fur | Size: 2.6x3.6\n\n• Rug: Straw | Materials: Barley x1 Flax x1 | Internal id: rug_straw | Size: 2×3\n\n• Rug: Hare rug | Materials: Scale hide x4 | Internal id: rug_hare | Size: 1.8x1.1\n\n• Rug: Asksvin rug | Materials: Asksvin hide x4 | Internal id: rug_asksvin | Size: 1.8x1.1\n\n### Carpets\n\n• Carpet: Blue jute carpet | Materials: Blue jute x4 | Internal id: jute_carpet_blue | Size: 3x3\n\n• Carpet: Red jute carpet | Materials: Red jute x4 | Internal id: jute_carpet | Size: 4x3\n\nCategorias: Furniture",
+  "content_length": 1468,
+  "scraped_at": "2026-02-26T02:02:32.438301+00:00"
+}

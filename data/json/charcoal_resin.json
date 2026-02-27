@@ -1,0 +1,30 @@
+{
+  "title": "Charcoal resin",
+  "url": "https://valheim.fandom.com/wiki/Charcoal_resin",
+  "slug": "Charcoal_resin",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Charcoal resin",
+    "Type": "Material",
+    "Internal ID": "CharcoalResin",
+    "Source": "Scorched Trees",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Charcoal resin has a chance of dropping from Scorched Trees."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Small green pot\n• Medium green pot\n• Large green pot"
+    }
+  ],
+  "full_text": "Charcoal resin\n\nType: Material | Internal ID: CharcoalResin | Source: Scorched Trees | Usage: Building | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Charcoal resin has a chance of dropping from Scorched Trees.\n\nBuilding. • Small green pot\n• Medium green pot\n• Large green pot",
+  "scraped_at": "2026-02-26T01:31:58.801720+00:00"
+}

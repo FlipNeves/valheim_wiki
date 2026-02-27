@@ -1,0 +1,69 @@
+{
+  "title": "Wolf fur cape",
+  "url": "https://valheim.fandom.com/wiki/Wolf_fur_cape",
+  "slug": "Wolf_fur_cape",
+  "categories": [
+    "Armor",
+    "Capes",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Wolf fur cape",
+    "Internal ID": "CapeWolf",
+    "Type": "Cape",
+    "Source": "Workbench",
+    "Crafting Materials": "Wolf pelt x12, Silver x6",
+    "Armor": "4",
+    "Set Pieces": "Wolf Armor",
+    "Resistances": "Resistant (0.5x) vs., Frost"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wolf fur cape is an armor piece made of wolf pelts, silver and a wolf trophy at the workbench. It is unlocked after picking up one of each of the materials."
+    },
+    {
+      "heading": "Stats",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Quality": "Durability",
+          "1": "1000",
+          "2": "1050",
+          "3": "1100",
+          "4": "1150"
+        },
+        {
+          "Quality": "Armor",
+          "1": "1",
+          "2": "2",
+          "3": "3",
+          "4": "4"
+        },
+        {
+          "Quality": "Crafting recipe",
+          "1": "6 Wolf pelt4 Silver1 Wolf trophy",
+          "2": "4 Wolf pelt2 Silver",
+          "3": "8 Wolf pelt4 Silver",
+          "4": "12 Wolf pelt6 Silver"
+        },
+        {
+          "Quality": "Workbench level",
+          "1": "2",
+          "2": "3",
+          "3": "4",
+          "4": "5"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Frost resist does not stack with frost resistance mead, Yagluth power or other armor pieces.\n• Frost resist will override the frost weakness from being Wet.\n• Frost resist prevents Cold and Freezing effect."
+    }
+  ],
+  "full_text": "Wolf fur cape\n\nInternal ID: CapeWolf | Type: Cape | Source: Workbench | Crafting Materials: Wolf pelt x12, Silver x6 | Armor: 4 | Set Pieces: Wolf Armor | Resistances: Resistant (0.5x) vs., Frost\n\nIntroduction. Wolf fur cape is an armor piece made of wolf pelts, silver and a wolf trophy at the workbench. It is unlocked after picking up one of each of the materials.\n\nNotes. • Frost resist does not stack with frost resistance mead, Yagluth power or other armor pieces.\n• Frost resist will override the frost weakness from being Wet.\n• Frost resist prevents Cold and Freezing effect.",
+  "scraped_at": "2026-02-26T01:24:28.785897+00:00"
+}

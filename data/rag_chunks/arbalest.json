@@ -1,0 +1,13 @@
+{
+  "title": "Arbalest",
+  "url": "https://valheim.fandom.com/wiki/Arbalest",
+  "slug": "Arbalest",
+  "categories": [
+    "Weapons",
+    "Crossbows",
+    "Black forge recipes"
+  ],
+  "content": "# Arbalest\n\nInternal ID: CrossbowArbalest | Type: Crossbow | Source: Black forge | Usage: Ranged weapon | Wielding: Two-handed | Crafting Materials: Wood x15, Iron x12, Root x3 | Movement speed: -5%\n\n# Introduction\n\nThe Arbalest is the first crossbow crafted at a Black forge. Its primary attack fires bolts. To attack, a bolt is first loaded into the crossbow. Loading takes 3.5 seconds and uses 3 stamina at level 0, however, with the firing, loading, and readying animations, it can only be fired every 6 seconds. Jumping and sprinting resets the loading progress, and bolts cannot be loaded while sprinting. After the crossbow is loaded, it can be fired at any time at no stamina cost. After firing, another bolt will need to be loaded. The bolts do not stay loaded when switching to other weapons, so a bolt is loaded whenever the item is equipped.\nThe bolts travel significantly faster than arrows and follow a straight line instead of a parabolic curve (no gravity-induced drop).\n\n## Upgrade information\n\n• stat: Pierce | Quality 1: 200 | Quality 2: 203 | Quality 3: 206 | Quality 4: 209\n\n• stat: Durability | Quality 1: 50 | Quality 2: 100 | Quality 3: 150 | Quality 4: 200\n\n• stat: Crafting | Quality 1: 10 Wood8 Iron4 Root | Quality 2: 5 Wood4 Iron1 Root | Quality 3: 10 Wood8 Iron2 Root | Quality 4: 15 Wood12 Iron3 Root\n\n• stat: Black forge level | Quality 1: 1 | Quality 2: 2 | Quality 3: 3 | Quality 4: 4\n\n## Notes\n\n• This weapon's recoil deals knockback to the player when shot, which can result in falling off any steep objects. Shooting while jumping negates this entirely.\n• While much slower, they have drastically higher damage than bows, the other main physical ranged weapon. This makes them a very ideal choice for sneak attacks to deal massive one-time damage, providing an important advantage against certain enemies (such as Lox or Seeker soldiers).\n• This weapon can be fired while blocking. However, the player cannot block while loading a bolt.\n• The speed of the bolts can make it significantly easier to hit enemy weak points, or hunt fast-moving enemies such as Hares.\n• This weapon has 50 lower durability than most bows of the same quality, at quality 2 it only has 100 durability, exactly enough to shoot one entire stack of bolts. Players should take note of this and prepare adequately before trying to use it on extended trips or in boss fights.\n\nCategorias: Weapons, Crossbows, Black forge recipes",
+  "content_length": 2436,
+  "scraped_at": "2026-02-26T01:10:23.379870+00:00"
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Abyssal razor",
+  "url": "https://valheim.fandom.com/wiki/Abyssal_Razor",
+  "slug": "Abyssal_Razor",
+  "categories": [
+    "Weapons",
+    "Knives",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Abyssal razor",
+    "Internal ID": "KnifeChitin",
+    "Type": "Knife",
+    "Source": "Workbench",
+    "Usage": "Weapon",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Chitin x30",
+    "Attack speed": "1.52 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "1.8 range, 45 angle, 0.5 height, 0.3 ray"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Abyssal razor is the third knife. Its primary attack is a 3-hit attack combo with double damage on the last hit. Its secondary attack is a forward leap with 3x damage.\nIt deals 6x damage against enemies that have not been alerted."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Pierce",
+          "Quality 1": "20",
+          "Quality 2": "21",
+          "Quality 3": "22",
+          "Quality 4": "23",
+          "Total": ""
+        },
+        {
+          "stat": "Slash",
+          "Quality 1": "20",
+          "Quality 2": "21",
+          "Quality 3": "22",
+          "Quality 4": "23",
+          "Total": ""
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350",
+          "Total": ""
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "4 Finewood20 Chitin2 Leather scraps",
+          "Quality 2": "10 Chitin",
+          "Quality 3": "20 Chitin",
+          "Quality 4": "30 Chitin",
+          "Total": "4 Finewood80 Chitin2 Leather scraps"
+        },
+        {
+          "stat": "Workbench level",
+          "Quality 1": "2",
+          "Quality 2": "3",
+          "Quality 3": "4",
+          "Quality 4": "5",
+          "Total": ""
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Damage is equivalent to an iron tier weapon, without requiring any ore to craft."
+    }
+  ],
+  "full_text": "Abyssal razor\n\nInternal ID: KnifeChitin | Type: Knife | Source: Workbench | Usage: Weapon | Wielding: One-handed | Crafting Materials: Chitin x30 | Attack speed: 1.52 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 1.8 range, 45 angle, 0.5 height, 0.3 ray\n\nIntroduction. The Abyssal razor is the third knife. Its primary attack is a 3-hit attack combo with double damage on the last hit. Its secondary attack is a forward leap with 3x damage.\nIt deals 6x damage against enemies that have not been alerted.\n\nNotes. • Damage is equivalent to an iron tier weapon, without requiring any ore to craft.",
+  "scraped_at": "2026-02-26T02:04:54.954371+00:00"
+}

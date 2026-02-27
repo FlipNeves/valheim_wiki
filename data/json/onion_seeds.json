@@ -1,0 +1,36 @@
+{
+  "title": "Onion seeds",
+  "url": "https://valheim.fandom.com/wiki/Onion_seeds",
+  "slug": "Onion_seeds",
+  "categories": [
+    "Seeds",
+    "Farming"
+  ],
+  "infobox": {
+    "_infobox_title": "Onion seeds",
+    "Type": "Seed",
+    "Internal ID": "OnionSeeds",
+    "Source": "Found in huts or ruins in the, Mountain",
+    "Usage": "Farming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Produces": "3, Onions",
+    "Grow Time (s)": "4000-5000",
+    "Needs Cultivated Ground?": "Yes",
+    "Space Needed (m)": "1",
+    "Hospitable Biomes": "Meadows, ,, Black Forest, , and, Plains"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Onion seeds can be planted using the Cultivator in order to grow 1x Onion."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Onion seeds are found in Mountain Tower and Abandoned Cabins in the Mountain. Picked seeds won't respawn.\n• Three seeds can be obtained by planting an Onion using the Cultivator option \"Seed-onion\".\n• Coral Cod have a chance to drop 1-2 seeds when caught"
+    }
+  ],
+  "full_text": "Onion seeds\n\nType: Seed | Internal ID: OnionSeeds | Source: Found in huts or ruins in the, Mountain | Usage: Farming | Teleportable (Can go through wood portal?): Yes | Produces: 3, Onions | Grow Time (s): 4000-5000 | Needs Cultivated Ground?: Yes | Space Needed (m): 1 | Hospitable Biomes: Meadows, ,, Black Forest, , and, Plains\n\nIntroduction. Onion seeds can be planted using the Cultivator in order to grow 1x Onion.\n\nAvailability. • Onion seeds are found in Mountain Tower and Abandoned Cabins in the Mountain. Picked seeds won't respawn.\n• Three seeds can be obtained by planting an Onion using the Cultivator option \"Seed-onion\".\n• Coral Cod have a chance to drop 1-2 seeds when caught",
+  "scraped_at": "2026-02-26T01:51:43.732848+00:00"
+}

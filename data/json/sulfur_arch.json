@@ -1,0 +1,42 @@
+{
+  "title": "Sulfur arch",
+  "url": "https://valheim.fandom.com/wiki/Sulfur_arch",
+  "slug": "Sulfur_arch",
+  "categories": [
+    "Resource nodes"
+  ],
+  "infobox": {
+    "_infobox_title": "Sulfur arch",
+    "Type": "Resource nodes",
+    "Internal ID": "SulfurArch | Pickable_SulfurRock",
+    "Location": "Ashlands",
+    "Resources": "Sulfur, ,, Grausten",
+    "Neutral to": "Pickaxe",
+    "Immune to": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Sulfur arches are Grausten structure found in the Ashlands with Sulfur Rocks hanging below.\nSulfur rocks can be picked without tools and yield 2 to 3 Sulfurs. The Grausten arch can be mined with any pickaxe."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Sulfur arches appear as medium-sized, arch-shaped rocks with distinct black color and orange dots, which help differentiate them from regular Ashlands rocks at a distance.\nThey are only found on the surface."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "A Sulfur arch can have up to 20 Sulfur rocks with a 40% chance for each Sulfur rock to appear (8 rock per arch on average).",
+      "table_data": [
+        {
+          "Item": "Drop Rate",
+          "Sulfur": "0-60 (average 20)"
+        }
+      ]
+    }
+  ],
+  "full_text": "Sulfur arch\n\nType: Resource nodes | Internal ID: SulfurArch | Pickable_SulfurRock | Location: Ashlands | Resources: Sulfur, ,, Grausten | Neutral to: Pickaxe | Immune to: Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit\n\nIntroduction. Sulfur arches are Grausten structure found in the Ashlands with Sulfur Rocks hanging below.\nSulfur rocks can be picked without tools and yield 2 to 3 Sulfurs. The Grausten arch can be mined with any pickaxe.\n\nAvailability. Sulfur arches appear as medium-sized, arch-shaped rocks with distinct black color and orange dots, which help differentiate them from regular Ashlands rocks at a distance.\nThey are only found on the surface.\n\nDrops. A Sulfur arch can have up to 20 Sulfur rocks with a 40% chance for each Sulfur rock to appear (8 rock per arch on average).",
+  "scraped_at": "2026-02-26T01:49:38.436348+00:00"
+}

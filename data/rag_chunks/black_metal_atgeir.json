@@ -1,0 +1,13 @@
+{
+  "title": "Black metal atgeir",
+  "url": "https://valheim.fandom.com/wiki/Black_metal_atgeir",
+  "slug": "Black_metal_atgeir",
+  "categories": [
+    "Weapons",
+    "Polearms",
+    "Forge recipes"
+  ],
+  "content": "# Black metal atgeir\n\nInternal ID: AtgeirBlackmetal | Type: Polearm | Source: Forge | Usage: Weapon | Wielding: Two-handed | Crafting Materials: Black metal x45, Linen thread x15 | Attack speed: 1.56 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 3.0 range, 360 angle, 1.0 height, 0.3 ray, no multitarget penalty | Movement speed: -5%\n\n# Introduction\n\nThe Black metal atgeir is the third polearm.\n\n### Combat style\n\n• Primary attack is a 3-stab combo with long reach and 2x damage on the last hit.\n• Secondary attack is an AOE swing with a three-meter range that deals normal damage and 6x stagger with no multitarget penalty.\n\n## Upgrade information\n\nTotal cost for the fully upgraded polearm is 10 Finewood, 120 Black metal, and 35 Linen thread.\n\n• stat: Pierce | Quality 1: 105 | Quality 2: 111 | Quality 3: 117 | Quality 4: 123\n\n• stat: Durability | Quality 1: 175 | Quality 2: 225 | Quality 3: 275 | Quality 4: 325\n\n• stat: Crafting | Quality 1: 10 Finewood30 Black metal5 Linen thread | Quality 2: 15 Black metal5 Linen thread | Quality 3: 30 Black metal10 Linen thread | Quality 4: 45 Black metal15 Linen thread\n\n• stat: Forge level | Quality 1: 4 | Quality 2: 5 | Quality 3: 6 | Quality 4: 7\n\n## Notes\n\n• The secondary attack is enough to stagger most creatures, which makes it optimal for crowd control.\n• Despite the visual resembling a slash, the secondary attack deals piercing damage.\n\nCategorias: Weapons, Polearms, Forge recipes",
+  "content_length": 1452,
+  "scraped_at": "2026-02-26T01:11:03.356889+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Greydwarf eye",
+  "url": "https://valheim.fandom.com/wiki/Greydwarf_eye",
+  "slug": "Greydwarf_eye",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Greydwarf eye",
+    "Type": "Material",
+    "Internal ID": "GreydwarfEye",
+    "Source": "Greydwarf, ,, Greydwarf brute, , and, Greydwarf shaman",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Greydwarf eyes are a type of material and can be used in building, crafting, and upgrading."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Portal\n• Ward\n• Standing blue-burning iron torch\n• Blue standing brazier\n• Portal stone"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Cyan firework\n• Eyescream\n• Mead base: Frost resistance"
+    },
+    {
+      "heading": "Upgrading",
+      "level": 3,
+      "text": "• Copper knife"
+    },
+    {
+      "heading": "Refueling",
+      "level": 3,
+      "text": "• Standing blue-burning iron torch\n• Blue standing brazier"
+    }
+  ],
+  "full_text": "Greydwarf eye\n\nType: Material | Internal ID: GreydwarfEye | Source: Greydwarf, ,, Greydwarf brute, , and, Greydwarf shaman | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Greydwarf eyes are a type of material and can be used in building, crafting, and upgrading.\n\nBuilding. • Portal\n• Ward\n• Standing blue-burning iron torch\n• Blue standing brazier\n• Portal stone\n\nCrafting. • Cyan firework\n• Eyescream\n• Mead base: Frost resistance\n\nUpgrading. • Copper knife\n\nRefueling. • Standing blue-burning iron torch\n• Blue standing brazier",
+  "scraped_at": "2026-02-26T01:34:11.963895+00:00"
+}

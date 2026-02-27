@@ -1,0 +1,54 @@
+{
+  "title": "Serpent meat",
+  "url": "https://valheim.fandom.com/wiki/Serpent_meat",
+  "slug": "Serpent_meat",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Serpent meat",
+    "Type": "Material",
+    "Internal ID": "SerpentMeat",
+    "Source": "Serpent",
+    "Usage": "Iron cooking station",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Serpent meat is a guaranteed drop from Serpents, and drops in quantities of 6-7. It can be cooked on an Iron cooking station to obtain Cooked serpent meat and be eaten or crafted into other foods."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Creature": "Serpent",
+          "0 Star": "6-7",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "For Serpent meat",
+      "level": 4,
+      "text": "• Cooked serpent meat\n• Coal, if left on an Iron cooking station for too long"
+    },
+    {
+      "heading": "For Cooked serpent meat",
+      "level": 4,
+      "text": "• Serpent stew\n• Sailor's bounty\nUnlike most other foods made from meat, Serpent meat has to be cooked on an Iron cooking station first to be crafted into other foods."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Serpent meat floats. It can remain floating for a considerable period. If the player kills a Serpent during a storm but cannot pick up the meat at the time, return as soon as possible and the meat may still be recoverable.\n• As Serpent stew provides more health and stamina, eating the meat is not ideal unless in excess of it.\n• The stew's constituent ingredients are easily obtainable, with Mushrooms able to be foraged from Meadows and Black Forests, while the Honey can be obtained from Beehives.\n• A player eating Serpent meat may want to limit the amount of it they carry, as each one is much heavier than any other foods."
+    }
+  ],
+  "full_text": "Serpent meat\n\nType: Material | Internal ID: SerpentMeat | Source: Serpent | Usage: Iron cooking station | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Serpent meat is a guaranteed drop from Serpents, and drops in quantities of 6-7. It can be cooked on an Iron cooking station to obtain Cooked serpent meat and be eaten or crafted into other foods.\n\nFor Serpent meat. • Cooked serpent meat\n• Coal, if left on an Iron cooking station for too long\n\nFor Cooked serpent meat. • Serpent stew\n• Sailor's bounty\nUnlike most other foods made from meat, Serpent meat has to be cooked on an Iron cooking station first to be crafted into other foods.\n\nNotes. • Serpent meat floats. It can remain floating for a considerable period. If the player kills a Serpent during a storm but cannot pick up the meat at the time, return as soon as possible and the meat may still be recoverable.\n• As Serpent stew provides more health and stamina, eating the meat is not ideal unless in excess of it.\n• The stew's constituent ingredients are easily obtainable, with Mushrooms able to be foraged from Meadows and Black Forests, while the Honey can be obtained from Beehives.\n• A player eating Serpent meat may want to limit the amount of it they carry, as each one is much heavier than any other foods.",
+  "scraped_at": "2026-02-26T01:28:38.431535+00:00"
+}

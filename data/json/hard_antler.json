@@ -1,0 +1,30 @@
+{
+  "title": "Hard antler",
+  "url": "https://valheim.fandom.com/wiki/Hard_antler",
+  "slug": "Hard_antler",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Hard antler",
+    "Type": "Material",
+    "Internal ID": "HardAntler",
+    "Source": "Eikthyr",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Hard antler is dropped by Eikthyr, the first Boss. Eikthyr is guaranteed to drop three (3) hard antlers upon defeat."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "One Hard antler is needed to craft the Antler pickaxe at a Workbench. This pickaxe is crucial to mine the first ore, Copper ore, in order to progress further in the game."
+    }
+  ],
+  "full_text": "Hard antler\n\nType: Material | Internal ID: HardAntler | Source: Eikthyr | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Hard antler is dropped by Eikthyr, the first Boss. Eikthyr is guaranteed to drop three (3) hard antlers upon defeat.\n\nUsage. One Hard antler is needed to craft the Antler pickaxe at a Workbench. This pickaxe is crucial to mine the first ore, Copper ore, in order to progress further in the game.",
+  "scraped_at": "2026-02-26T01:34:20.925366+00:00"
+}

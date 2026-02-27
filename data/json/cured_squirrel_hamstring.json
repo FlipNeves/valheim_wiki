@@ -1,0 +1,31 @@
+{
+  "title": "Cured squirrel hamstring",
+  "url": "https://valheim.fandom.com/wiki/Cured_squirrel_hamstring",
+  "slug": "Cured_squirrel_hamstring",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Cured squirrel hamstring",
+    "Type": "Material",
+    "Internal ID": "CuredSquirrelHamstring",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "80, Coins, for 5",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Cured squirrel hamstring can be purchased from The Bog Witch at 80 Coins for 5 items."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mead base: Ratatosk"
+    }
+  ],
+  "full_text": "Cured squirrel hamstring\n\nType: Material | Internal ID: CuredSquirrelHamstring | Source: The Bog Witch | Usage: Crafting | Buy: 80, Coins, for 5 | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Cured squirrel hamstring can be purchased from The Bog Witch at 80 Coins for 5 items.\n\nCrafting. • Mead base: Ratatosk",
+  "scraped_at": "2026-02-26T01:32:37.946214+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Corpse run",
+  "url": "https://valheim.fandom.com/wiki/Corpse_Run",
+  "slug": "Corpse_Run",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Corpse run",
+    "Effects": "Run stamina usage: -75% | Jump stamina usage: -75% | Max carry weight: +150.0",
+    "Damage Modifier": "Resistant (0.5x) VS Blunt | Resistant (0.5x) VS Slash | Resistant (0.5x) VS Pierce"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Corpse run is a status effect applied to the player upon collecting all the items from their grave. The effect lasts for 50 seconds and applies the following effects:\n• Jump stamina usage: -75%\n• Run stamina usage: -75%\n• Damage modifier: Resistant VS Blunt\n• Damage modifier: Resistant VS Slash\n• Damage modifier: Resistant VS Pierce\n• 5 health per second\n• Carry weight: +150.0 (with Megingjord to 600.0)"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Eikthyr Power in combination with Corpse run will cause the stamina cost of running and jumping to go to zero, allowing natural Stamina regeneration while the player is running or jumping.\n• Corpse run does not override the Encumbered effects stamina or speed penalty, even with Eikthyr Power active.\n• Corpse run will not activate if the player puts new items into their tombstone or leaves some items behind. The grave must be completely emptied in order for it to destroy itself to provide the Corpse run effect.\n• A player who dies without any items in their inventory will not generate a tombstone upon death and is therefore unable to receive the Corpse run bonus.\n• A player with multiple tombstones could receive the Corpse run bonus multiple times in a short span. The bonuses do not stack, and will just refresh the duration."
+    }
+  ],
+  "full_text": "Corpse run\n\nEffects: Run stamina usage: -75% | Jump stamina usage: -75% | Max carry weight: +150.0 | Damage Modifier: Resistant (0.5x) VS Blunt | Resistant (0.5x) VS Slash | Resistant (0.5x) VS Pierce\n\nIntroduction. Corpse run is a status effect applied to the player upon collecting all the items from their grave. The effect lasts for 50 seconds and applies the following effects:\n• Jump stamina usage: -75%\n• Run stamina usage: -75%\n• Damage modifier: Resistant VS Blunt\n• Damage modifier: Resistant VS Slash\n• Damage modifier: Resistant VS Pierce\n• 5 health per second\n• Carry weight: +150.0 (with Megingjord to 600.0)\n\nNotes. • Eikthyr Power in combination with Corpse run will cause the stamina cost of running and jumping to go to zero, allowing natural Stamina regeneration while the player is running or jumping.\n• Corpse run does not override the Encumbered effects stamina or speed penalty, even with Eikthyr Power active.\n• Corpse run will not activate if the player puts new items into their tombstone or leaves some items behind. The grave must be completely emptied in order for it to destroy itself to provide the Corpse run effect.\n• A player who dies without any items in their inventory will not generate a tombstone upon death and is therefore unable to receive the Corpse run bonus.\n• A player with multiple tombstones could receive the Corpse run bonus multiple times in a short span. The bonuses do not stack, and will just refresh the duration.",
+  "scraped_at": "2026-02-26T01:59:43.896351+00:00"
+}

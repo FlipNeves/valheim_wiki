@@ -1,0 +1,92 @@
+{
+  "title": "Mistwalker",
+  "url": "https://valheim.fandom.com/wiki/Mistwalker",
+  "slug": "Mistwalker",
+  "categories": [
+    "Weapons",
+    "Swords",
+    "Black forge recipes",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Mistwalker",
+    "Internal ID": "SwordMistwalker",
+    "Type": "Sword",
+    "Source": "Black forge",
+    "Usage": "Weapon",
+    "Crafting Materials": "Iron x30, Refined eitr x15, Wisp x3",
+    "Attack speed": "1.84 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "2.7 range, 10 angle, 1.0 height, 0.7 ray",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Mistwalker is the fifth sword.\n• Primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.\n• Secondary attack deals 3x damage with a slightly longer reach.\nThe Mistwalker is capable of dispelling the Mist of Mistlands in a 5-meter radius, a noticeably shorter range than a Wisplight or Wisp torch."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Slash",
+          "Quality 1": "75",
+          "Quality 2": "75",
+          "Quality 3": "75",
+          "Quality 4": "75",
+          "Total": ""
+        },
+        {
+          "stat": "Frost",
+          "Quality 1": "40",
+          "Quality 2": "46",
+          "Quality 3": "52",
+          "Quality 4": "58",
+          "Total": ""
+        },
+        {
+          "stat": "Spirit",
+          "Quality 1": "",
+          "Quality 2": "5",
+          "Quality 3": "10",
+          "Quality 4": "15",
+          "Total": ""
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350",
+          "Total": ""
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "3 Finewood15 Iron10 Refined eitr3 Wisp",
+          "Quality 2": "10 Iron5 Refined eitr1 Wisp",
+          "Quality 3": "20 Iron10 Refined eitr2 Wisp",
+          "Quality 4": "30 Iron15 Refined eitr3 Wisp",
+          "Total": "3 Finewood75 Iron40 Refined eitr9 Wisp"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4",
+          "Total": ""
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The blade of the Mistwalker is constantly enshrouded in mist and also glows faintly bluish-white at all times. It is a bit dimmer than most proper light sources, but can provide some light in the dark. The glow effect also makes players slightly easier to detect while sneaking, increasing the visibility of its holder by approximately 20%."
+    }
+  ],
+  "full_text": "Mistwalker\n\nInternal ID: SwordMistwalker | Type: Sword | Source: Black forge | Usage: Weapon | Crafting Materials: Iron x30, Refined eitr x15, Wisp x3 | Attack speed: 1.84 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.7 range, 10 angle, 1.0 height, 0.7 ray | Movement speed: -5%\n\nIntroduction. The Mistwalker is the fifth sword.\n• Primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.\n• Secondary attack deals 3x damage with a slightly longer reach.\nThe Mistwalker is capable of dispelling the Mist of Mistlands in a 5-meter radius, a noticeably shorter range than a Wisplight or Wisp torch.\n\nNotes. • The blade of the Mistwalker is constantly enshrouded in mist and also glows faintly bluish-white at all times. It is a bit dimmer than most proper light sources, but can provide some light in the dark. The glow effect also makes players slightly easier to detect while sneaking, increasing the visibility of its holder by approximately 20%.",
+  "scraped_at": "2026-02-26T01:16:46.021001+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Thunder stone",
+  "url": "https://valheim.fandom.com/wiki/Thunder_stone",
+  "slug": "Thunder_stone",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Thunder stone",
+    "Type": "Material",
+    "Internal ID": "Thunderstone",
+    "Source": "Haldor",
+    "Usage": "Building",
+    "Buy": "50, Coins",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Thunder stone is an item which got introduced in the Hearth & Home update and is used to construct the Obliterator."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Purchased from the trader Haldor for 50 Coins a piece, after defeating The Elder."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Obliterator"
+    }
+  ],
+  "full_text": "Thunder stone\n\nType: Material | Internal ID: Thunderstone | Source: Haldor | Usage: Building | Buy: 50, Coins | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Thunder stone is an item which got introduced in the Hearth & Home update and is used to construct the Obliterator.\n\nAvailability. • Purchased from the trader Haldor for 50 Coins a piece, after defeating The Elder.\n\nBuilding. • Obliterator",
+  "scraped_at": "2026-02-26T01:37:05.092146+00:00"
+}

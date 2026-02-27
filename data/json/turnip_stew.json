@@ -1,0 +1,46 @@
+{
+  "title": "Turnip stew",
+  "url": "https://valheim.fandom.com/wiki/Turnip_stew",
+  "slug": "Turnip_stew",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Turnip stew",
+    "Type": "Food",
+    "Internal ID": "TurnipStew",
+    "Source": "Cauldron",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Boar meat x1, Turnip x3",
+    "Max Health": "18",
+    "Max Stamina": "55",
+    "Duration": "25m",
+    "Healing": "2 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Turnip stew is a Swamp-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Turnip stew is produced at a level 2 Cauldron with:\n• 1 Boar meat\n• 3 Turnip"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Swamp dweller's delight"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Turnip stew provides the highest stamina gain in the Swamps at 55."
+    }
+  ],
+  "full_text": "Turnip stew\n\nType: Food | Internal ID: TurnipStew | Source: Cauldron | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Boar meat x1, Turnip x3 | Max Health: 18 | Max Stamina: 55 | Duration: 25m | Healing: 2 hp/tick\n\nIntroduction. Turnip stew is a Swamp-tier food.\n\nRecipe. Turnip stew is produced at a level 2 Cauldron with:\n• 1 Boar meat\n• 3 Turnip\n\nCrafting. • Swamp dweller's delight\n\nNotes. • Turnip stew provides the highest stamina gain in the Swamps at 55.",
+  "scraped_at": "2026-02-26T01:29:06.375646+00:00"
+}

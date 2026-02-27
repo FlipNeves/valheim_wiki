@@ -1,0 +1,72 @@
+{
+  "title": "Blood Fang",
+  "url": "https://valheim.fandom.com/wiki/Blood_Fang",
+  "slug": "Blood_Fang",
+  "categories": [
+    "Weapons",
+    "Bows",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Blood Fang",
+    "Internal ID": "BowAshlandsBlood",
+    "Type": "Bow",
+    "Source": "Black forge",
+    "Usage": "Ranged weapon",
+    "Wielding": "Two-handed",
+    "Crafting Materials": "Flametal x15, Bloodstone x3",
+    "Attack speed": "0.8 s + 2.5 s draw time",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Blood Fang is the upgraded form of Ash Fang using Bloodstone. Like all upgraded-weapons that use Bloodstone, their hit effect is damage increased by 0.2% for every point of health the player is missing (not the percentage missing).\nAn upgraded Ash Fang will NOT keep its upgrade level when it is modified using gemstones."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Pierce",
+          "Quality 1": "82",
+          "Quality 2": "86",
+          "Quality 3": "90",
+          "Quality 4": "94"
+        },
+        {
+          "stat": "Spirit",
+          "Quality 1": "",
+          "Quality 2": "5",
+          "Quality 3": "10",
+          "Quality 4": "15"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "100",
+          "Quality 2": "150",
+          "Quality 3": "200",
+          "Quality 4": "250"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "1 Ash Fang5 Flametal1 Bloodstone",
+          "Quality 2": "5 Flametal1 Bloodstone",
+          "Quality 3": "10 Flametal2 Bloodstone",
+          "Quality 4": "15 Flametal3 Bloodstone"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "4",
+          "Quality 2": "5",
+          "Quality 3": "6 (not yet available)",
+          "Quality 4": "7 (not yet available)"
+        }
+      ]
+    }
+  ],
+  "full_text": "Blood Fang\n\nInternal ID: BowAshlandsBlood | Type: Bow | Source: Black forge | Usage: Ranged weapon | Wielding: Two-handed | Crafting Materials: Flametal x15, Bloodstone x3 | Attack speed: 0.8 s + 2.5 s draw time | Movement speed: -5%\n\nIntroduction. Blood Fang is the upgraded form of Ash Fang using Bloodstone. Like all upgraded-weapons that use Bloodstone, their hit effect is damage increased by 0.2% for every point of health the player is missing (not the percentage missing).\nAn upgraded Ash Fang will NOT keep its upgrade level when it is modified using gemstones.",
+  "scraped_at": "2026-02-26T01:11:46.526928+00:00"
+}

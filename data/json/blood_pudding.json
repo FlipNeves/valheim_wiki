@@ -1,0 +1,40 @@
+{
+  "title": "Blood pudding",
+  "url": "https://valheim.fandom.com/wiki/Blood_pudding",
+  "slug": "Blood_pudding",
+  "categories": [
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Blood pudding",
+    "Type": "Food",
+    "Internal ID": "BloodPudding",
+    "Source": "Cauldron, (level 4)",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Thistle x2, Bloodbag x2, Barley flour x4",
+    "Max Health": "25",
+    "Max Stamina": "75",
+    "Duration": "30m",
+    "Healing": "2 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Blood pudding is a Plains-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Blood pudding is produced at a level 4 Cauldron with:\n• 2 Thistle\n• 2 Bloodbag\n• 4 Barley flour"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Blood pudding provides the highest stamina gain in the Plains at 75."
+    }
+  ],
+  "full_text": "Blood pudding\n\nType: Food | Internal ID: BloodPudding | Source: Cauldron, (level 4) | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Thistle x2, Bloodbag x2, Barley flour x4 | Max Health: 25 | Max Stamina: 75 | Duration: 30m | Healing: 2 hp/tick\n\nIntroduction. Blood pudding is a Plains-tier food.\n\nRecipe. Blood pudding is produced at a level 4 Cauldron with:\n• 2 Thistle\n• 2 Bloodbag\n• 4 Barley flour\n\nNotes. • Blood pudding provides the highest stamina gain in the Plains at 75.",
+  "scraped_at": "2026-02-26T01:25:03.963969+00:00"
+}

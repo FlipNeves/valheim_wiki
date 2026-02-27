@@ -1,0 +1,11 @@
+{
+  "title": "Dodge (skill)",
+  "url": "https://valheim.fandom.com/wiki/Dodge_(skill)",
+  "slug": "Dodge_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "content": "# Dodge (skill)\n\nDescription: Stamina drain when dodging.\n\n# Introduction\n\nDodge is a skill.\n\n## Effect\n\nDodge skill decreases Dodging Stamina cost down to -50%, multiplicative with all other modifiers.\n\n## Leveling up\n\nThe player gains 0.025 experience every time the Dodging action is performed. The player gains an additional 0.25 experience if hit during the invincibility frames.\n\nCategorias: Skills",
+  "content_length": 404,
+  "scraped_at": "2026-02-26T01:43:28.538946+00:00"
+}

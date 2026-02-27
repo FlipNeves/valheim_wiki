@@ -1,0 +1,13 @@
+{
+  "title": "Flesh Rippers",
+  "url": "https://valheim.fandom.com/wiki/Flesh_rippers",
+  "slug": "Flesh_rippers",
+  "categories": [
+    "Weapons",
+    "Forge recipes",
+    "Unarmed"
+  ],
+  "content": "# Flesh Rippers\n\nInternal ID: FistFenrirClaw | Type: Fists | Source: Forge | Usage: Weapon | Wielding: Two-handed | Crafting Materials: Fenris hair x3, Fenris claw x3, Silver x3 | Attack speed: 1.48 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2 range, 1 height, 0.3 ray\n\n# Introduction\n\nFlesh Rippers are a weapon crafted from materials found in the Mountains. This is one of the 3 fist weapons in the game other than bare fists.\nThe primary attack is a 2-hit combo with 2x damage at the second hit. The secondary attack is a kick which does additional knockback and 6x staggering.\nIt deals 6x damage against unalerted enemies.\n\n## Upgrade information\n\n• stat: Slash | Quality 1: 60 | Quality 2: 64 | Quality 3: 68 | Quality 4: 72\n\n• stat: Durability | Quality 1: 300 | Quality 2: 350 | Quality 3: 400 | Quality 4: 450\n\n• stat: Crafting | Quality 1: 10 Fenris hair6 Fenris claw10 Silver | Quality 2: 1 Fenris hair1 Fenris claw1 Silver | Quality 3: 2 Fenris hair2 Fenris claw2 Silver | Quality 4: 3 Fenris hair3 Fenris claw3 Silver\n\n• stat: Forge level | Quality 1: 3 | Quality 2: 4 | Quality 3: 5 | Quality 4: 6\n\n## Notes\n\n• The secondary attack is enough to stagger most creatures.\n• Flesh Rippers like other fist weapons are the most durable of any weapon in the game by having durability value of 450 at max level.\n\nCategorias: Weapons, Forge recipes, Unarmed",
+  "content_length": 1374,
+  "scraped_at": "2026-02-26T02:04:49.646613+00:00"
+}

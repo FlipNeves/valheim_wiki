@@ -1,0 +1,132 @@
+{
+  "title": "Honey",
+  "url": "https://valheim.fandom.com/wiki/Honey",
+  "slug": "Honey",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Honey",
+    "Type": "Food",
+    "Internal ID": "Honey",
+    "Source": "Beehive",
+    "Usage": "Cooking, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "8",
+    "Max Stamina": "35",
+    "Duration": "15m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Honey is a food and ingredient produced by Beehives. It is required to make Mead base."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Beehives are typically found within Abandoned Houses, however, they can also be found around Swamps. When the player breaks a beehive, they receive a Queen bee, which can be used to craft beehives at their base to create a honey farm."
+    },
+    {
+      "heading": "Tips",
+      "level": 2,
+      "text": "• Its main use is for mead base recipes and an intermediate cooking ingredient."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Result": "Mead base: Frost resistance",
+          "Ingredients": "• Honey x10• Thistle x5• Bloodbag x2• Greydwarf eye x1",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Mead base: Minor eitr",
+          "Ingredients": "• Honey x10• Sap x5• Jotun puffs x2• Magecap x5",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Mead base: Major healing",
+          "Ingredients": "• Honey x10• Blood clot x4• Royal jelly x5",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Mead base: Medium healing",
+          "Ingredients": "• Honey x10• Bloodbag x4• Raspberries x10• Dandelion x1",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Mead base: Minor healing",
+          "Ingredients": "• Honey x10• Blueberries x5• Raspberries x10• Dandelion x1",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Mead base: Medium stamina",
+          "Ingredients": "• Honey x10• Cloudberries x10• Yellow mushroom x10",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Mead base: Minor stamina",
+          "Ingredients": "• Honey x10• Raspberries x10• Yellow mushroom x10",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Mead base: Poison resistance",
+          "Ingredients": "• Honey x10• Thistle x5• Neck tail x1• Coal x10",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Mead base: Tasty",
+          "Ingredients": "• Honey x10• Raspberries x10• Blueberries x5",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Mead base: Ratatosk",
+          "Ingredients": "• Honey x10• Blueberries x10• Cured squirrel hamstring x1",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Mead base: Troll endurance",
+          "Ingredients": "• Honey x10• Trollfish x2• Powdered dragon eggshells x1",
+          "Crafting Station": "Mead ketill"
+        },
+        {
+          "Result": "Boar jerky x2",
+          "Ingredients": "• Honey x1• Boar meat x1",
+          "Crafting Station": "Cauldron"
+        },
+        {
+          "Result": "Serpent stew",
+          "Ingredients": "• Honey x2• Cooked serpent meat x1• Mushroom x1",
+          "Crafting Station": "Cauldron (2)"
+        },
+        {
+          "Result": "Black soup",
+          "Ingredients": "• Honey x1• Bloodbag x1• Turnip x1",
+          "Crafting Station": "Cauldron (2)"
+        },
+        {
+          "Result": "Wolf jerky x2",
+          "Ingredients": "• Honey x1• Wolf meat x1",
+          "Crafting Station": "Cauldron (3)"
+        },
+        {
+          "Result": "Uncooked honey glazed chicken",
+          "Ingredients": "• Honey x3• Chicken meat x1• Jotun puffs x2",
+          "Crafting Station": "Food preparation table (1)"
+        },
+        {
+          "Result": "Spicy marmalade",
+          "Ingredients": "• Honey x1• Vineberry cluster x3• Fiddlehead x3",
+          "Crafting Station": "Cauldron (5)"
+        }
+      ]
+    }
+  ],
+  "full_text": "Honey\n\nType: Food | Internal ID: Honey | Source: Beehive | Usage: Cooking, Eating | Teleportable (Can go through wood portal?): Yes | Max Health: 8 | Max Stamina: 35 | Duration: 15m | Healing: 1 hp/tick\n\nIntroduction. Honey is a food and ingredient produced by Beehives. It is required to make Mead base.\n\nAvailability. • Beehives are typically found within Abandoned Houses, however, they can also be found around Swamps. When the player breaks a beehive, they receive a Queen bee, which can be used to craft beehives at their base to create a honey farm.\n\nTips. • Its main use is for mead base recipes and an intermediate cooking ingredient.",
+  "scraped_at": "2026-02-26T01:26:32.421575+00:00"
+}

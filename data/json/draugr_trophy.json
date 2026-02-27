@@ -1,0 +1,29 @@
+{
+  "title": "Draugr trophy",
+  "url": "https://valheim.fandom.com/wiki/Draugr_trophy",
+  "slug": "Draugr_trophy",
+  "categories": [
+    "Trophies"
+  ],
+  "infobox": {
+    "_infobox_title": "Draugr trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyDraugr, TrophyDraugrFem",
+    "Source": "Draugr",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Draugr trophy is a rare drop from Draugr in the Swamp."
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed in an Item Stand.\n• Can be used to program the Ballista."
+    }
+  ],
+  "full_text": "Draugr trophy\n\nType: Trophy | Internal ID: TrophyDraugr, TrophyDraugrFem | Source: Draugr | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Draugr trophy is a rare drop from Draugr in the Swamp.\n\nMisc. • Can be displayed in an Item Stand.\n• Can be used to program the Ballista.",
+  "scraped_at": "2026-02-26T02:14:50.753340+00:00"
+}

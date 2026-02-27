@@ -1,0 +1,14 @@
+{
+  "title": "Staff of the Wild",
+  "url": "https://valheim.fandom.com/wiki/Staff_of_the_Wild",
+  "slug": "Staff_of_the_Wild",
+  "categories": [
+    "Weapons",
+    "Magic",
+    "Elemental magic",
+    "Galdr table recipes"
+  ],
+  "content": "# Staff of the Wild\n\nInternal ID: StaffGreenRoots | Type: Elemental magic | Source: Galdr table | Usage: Magic weapon | Wielding: Two-handed | Crafting Materials: Ashwood x15, Fiddlehead x6, Celestial feather x9, Jade x3 | Movement speed: -5%\n\n# Introduction\n\nStaff of the Wild is a magic weapon that summons Root.\nEach summon cast green projectile that causes blunt and poison damage on impact, and a thorny vine grows immediately from the area of impact. This gives two sources of damage from one cast: the initial projectile damage, and the lingering blunt/poison damage of the vine's attacks.\nRoots cannot move and automatically attack all enemies within range. Up to 10 roots can be spawned at once and they last up to 25 seconds.\n\n## Upgrade information\n\n• stat: Poison | Quality 1: 20 | Quality 2: 40 | Quality 3: 60 | Quality 4: 80\n\n• stat: Blunt | Quality 1: 20 | Quality 2: 40 | Quality 3: 60 | Quality 4: 80\n\n• stat: Durability | Quality 1: 200 | Quality 2: 250 | Quality 3: 300 | Quality 4: 350\n\n• stat: Crafting | Quality 1: 15 Ashwood10 Fiddlehead3 Celestial feather1 Jade | Quality 2: 5 Ashwood2 Fiddlehead3 Celestial feather 1 Jade | Quality 3: 10 Ashwood4 Fiddlehead6 Celestial feather 2 Jade | Quality 4: 15 Ashwood6 Fiddlehead9 Celestial feather 3 Jade\n\n• stat: Galdr table level | Quality 1: 2 | Quality 2: 3 | Quality 3: 4 | Quality 4: 5 (not yet available)\n\nCategorias: Weapons, Magic, Elemental magic, Galdr table recipes",
+  "content_length": 1444,
+  "scraped_at": "2026-02-26T01:19:19.540604+00:00"
+}

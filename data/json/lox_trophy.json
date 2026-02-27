@@ -1,0 +1,35 @@
+{
+  "title": "Lox trophy",
+  "url": "https://valheim.fandom.com/wiki/Lox_trophy",
+  "slug": "Lox_trophy",
+  "categories": [
+    "Trophies"
+  ],
+  "infobox": {
+    "_infobox_title": "Lox trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyLox",
+    "Source": "Lox",
+    "Usage": "Crafting, Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lox trophy is a rare 10% drop rate item dropped by Lox."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Misty fishing bait\n• Bracelets of the Brave"
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed in an Item stand.\n• Can be used to program Ballistas."
+    }
+  ],
+  "full_text": "Lox trophy\n\nType: Trophy | Internal ID: TrophyLox | Source: Lox | Usage: Crafting, Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Lox trophy is a rare 10% drop rate item dropped by Lox.\n\nCrafting. • Misty fishing bait\n• Bracelets of the Brave\n\nMisc. • Can be displayed in an Item stand.\n• Can be used to program Ballistas.",
+  "scraped_at": "2026-02-26T02:15:36.715242+00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Celebratory cap",
+  "url": "https://valheim.fandom.com/wiki/Celebratory_cap",
+  "slug": "Celebratory_cap",
+  "categories": [
+    "Armor",
+    "Head",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Celebratory cap",
+    "Internal ID": "HelmetCelebration",
+    "Type": "Head",
+    "Source": "Workbench",
+    "Crafting Materials": "Deer hide x3, Bronze x3",
+    "Armor": "7",
+    "Resistances": "Base item stamina use: -15%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Celebratory Cap is an armor piece marking the fifth anniversary of the release of Valheim that can be crafted at a Workbench.\nIt affects base item stamina use by -15%."
+    },
+    {
+      "heading": "Crafting",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Durability",
+          "Quality 1": "800",
+          "Quality 2": "900",
+          "Quality 3": "1000",
+          "Quality 4": "1100"
+        },
+        {
+          "stat": "Armor",
+          "Quality 1": "1",
+          "Quality 2": "3",
+          "Quality 3": "5",
+          "Quality 4": "7"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "2 Deer hide1 Bronze1 Bear hide1 Amber pearl",
+          "Quality 2": "1 Deer hide1 Bronze",
+          "Quality 3": "2 Deer hide2 Bronze",
+          "Quality 4": "3 Deer hide3 Bronze"
+        },
+        {
+          "stat": "Workbench level",
+          "Quality 1": "2",
+          "Quality 2": "3",
+          "Quality 3": "4",
+          "Quality 4": "5"
+        }
+      ]
+    }
+  ],
+  "full_text": "Celebratory cap\n\nInternal ID: HelmetCelebration | Type: Head | Source: Workbench | Crafting Materials: Deer hide x3, Bronze x3 | Armor: 7 | Resistances: Base item stamina use: -15%\n\nIntroduction. Celebratory Cap is an armor piece marking the fifth anniversary of the release of Valheim that can be crafted at a Workbench.\nIt affects base item stamina use by -15%.",
+  "scraped_at": "2026-02-26T01:21:29.006256+00:00"
+}

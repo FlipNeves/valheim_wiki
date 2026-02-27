@@ -1,0 +1,74 @@
+{
+  "title": "Storm Star",
+  "url": "https://valheim.fandom.com/wiki/Storm_Star",
+  "slug": "Storm_Star",
+  "categories": [
+    "Weapons",
+    "Clubs",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Storm Star",
+    "Internal ID": "MaceEldnerLightning",
+    "Type": "Club",
+    "Source": "Black forge",
+    "Usage": "Weapon",
+    "Wielding": "One-handed",
+    "Crafting Materials": "Flametal x24, Iolite x3",
+    "Attack speed": "1.72 s",
+    "Chain last hit": "2x damage, +20% knockback",
+    "Hitbox": "2.5 range, 30 angle, 0.8 height, 0.3 ray, vertical",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Storm Star is the upgraded form of Flametal mace using the Iolite. Like all upgraded-weapons that use Iolite, they gain 10 lightning damage and their hit effect has a 25% chance to apply Chain Lightning.\nAn upgraded Storm Star will NOT keep its upgrade level when it is modified using gemstones."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Blunt",
+          "Quality 1": "135",
+          "Quality 2": "141",
+          "Quality 3": "147",
+          "Quality 4": "153"
+        },
+        {
+          "stat": "Lightning",
+          "Quality 1": "10",
+          "Quality 2": "10",
+          "Quality 3": "10",
+          "Quality 4": "10"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "150",
+          "Quality 2": "200",
+          "Quality 3": "250",
+          "Quality 4": "300"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "1 Flametal mace8 Flametal1 Iolite",
+          "Quality 2": "8 Flametal1 Iolite",
+          "Quality 3": "16 Flametal2 Iolite",
+          "Quality 4": "24 Flametal3 Iolite"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "4",
+          "Quality 2": "5",
+          "Quality 3": "6 (not yet available)",
+          "Quality 4": "7 (not yet available)"
+        }
+      ]
+    }
+  ],
+  "full_text": "Storm Star\n\nInternal ID: MaceEldnerLightning | Type: Club | Source: Black forge | Usage: Weapon | Wielding: One-handed | Crafting Materials: Flametal x24, Iolite x3 | Attack speed: 1.72 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.5 range, 30 angle, 0.8 height, 0.3 ray, vertical | Movement speed: -5%\n\nIntroduction. Storm Star is the upgraded form of Flametal mace using the Iolite. Like all upgraded-weapons that use Iolite, they gain 10 lightning damage and their hit effect has a 25% chance to apply Chain Lightning.\nAn upgraded Storm Star will NOT keep its upgrade level when it is modified using gemstones.",
+  "scraped_at": "2026-02-26T01:19:37.112625+00:00"
+}

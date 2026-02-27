@@ -1,0 +1,42 @@
+{
+  "title": "Blocking (skill)",
+  "url": "https://valheim.fandom.com/wiki/Blocking_(skill)",
+  "slug": "Blocking_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "infobox": {
+    "_infobox_title": "Blocking (skill)",
+    "Effect": "+0.5% block armor per level",
+    "Description": "Damage absorbed when blocking with a weapon or shield."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Blocking is a skill that increases the blocking armor of weapons and shields."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Blocking skill increases Block armor by 0.5% per level, reaching 50% at level 100."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "The player gains 0.5 experience per blocked attack and 1 experience when parrying. The experience is gained even if the block or parry fails."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• A fast way to level up is to find a Greydwarf nest in the Black Forest and equip a shield and one-handed weapon and hold block against Greydwarfs. The player may find a stump to place themselves against and hold right click to block the hits from Greydwarfs."
+    },
+    {
+      "heading": "Tips",
+      "level": 2,
+      "text": "• A fast way to level up blocking is to find a skeletons spawner (best place is the swamp) and make skeleton archers follow you to a hole you previously made, far enough that the spawner will summon new skeletons when you come back. Fill the hole with as many skeletons archers as you want (I recommend around 20), get a good shield (serpent shield is a good choice for the pierce resistance), armor (root harnesk for the same reason), health food (increases your block armor and stagger) and the nimble anklet trinket (for the stamina). The archers will attack you all at the same time and you can simply block all those attacks giving you tons of experience, you can also parry but be careful because so many enemies will damage you even with good armor. Just don´t forget the rested buff."
+    }
+  ],
+  "full_text": "Blocking (skill)\n\nEffect: +0.5% block armor per level | Description: Damage absorbed when blocking with a weapon or shield.\n\nIntroduction. Blocking is a skill that increases the blocking armor of weapons and shields.\n\nEffect. Blocking skill increases Block armor by 0.5% per level, reaching 50% at level 100.\n\nLeveling up. The player gains 0.5 experience per blocked attack and 1 experience when parrying. The experience is gained even if the block or parry fails.\n\nNotes. • A fast way to level up is to find a Greydwarf nest in the Black Forest and equip a shield and one-handed weapon and hold block against Greydwarfs. The player may find a stump to place themselves against and hold right click to block the hits from Greydwarfs.\n\nTips. • A fast way to level up blocking is to find a skeletons spawner (best place is the swamp) and make skeleton archers follow you to a hole you previously made, far enough that the spawner will summon new skeletons when you come back. Fill the hole with as many skeletons archers as you want (I recommend around 20), get a good shield (serpent shield is a good choice for the pierce resistance), armor (root harnesk for the same reason), health food (increases your block armor and stagger) and the nimble anklet trinket (for the stamina). The archers will attack you all at the same time and you can simply block all those attacks giving you tons of experience, you can also parry but be careful because so many enemies will damage you even with good armor. Just don´t forget the rested buff.",
+  "scraped_at": "2026-02-26T01:43:04.689997+00:00"
+}

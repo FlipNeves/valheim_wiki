@@ -1,0 +1,35 @@
+{
+  "title": "Sap",
+  "url": "https://valheim.fandom.com/wiki/Sap",
+  "slug": "Sap",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Sap",
+    "Type": "Material",
+    "Internal ID": "Sap",
+    "Source": "Mistlands, biome",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Sap is a raw resource obtained using Sap Extractors. Its primary use is to be refined into Refined eitr, and is also used for creating certain consumable items."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Harvested from Ancient Roots in the Mistlands biome using the Sap Extractor.\n• Because Sap replenishes over time at each Ancient Root, Sap is a renewable resource."
+    },
+    {
+      "heading": "Refining",
+      "level": 3,
+      "text": "• Refined eitr at an Eitr refinery"
+    }
+  ],
+  "full_text": "Sap\n\nType: Material | Internal ID: Sap | Source: Mistlands, biome | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Sap is a raw resource obtained using Sap Extractors. Its primary use is to be refined into Refined eitr, and is also used for creating certain consumable items.\n\nAvailability. • Harvested from Ancient Roots in the Mistlands biome using the Sap Extractor.\n• Because Sap replenishes over time at each Ancient Root, Sap is a renewable resource.\n\nRefining. • Refined eitr at an Eitr refinery",
+  "scraped_at": "2026-02-26T01:36:19.277885+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Swamp Runestone Tower",
+  "url": "https://valheim.fandom.com/wiki/Swamp_Runestone_Tower",
+  "slug": "Swamp_Runestone_Tower",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Swamp Runestone Tower",
+    "Type": "Point of interest",
+    "Internal ID": "SwampRuin1 | SwampRuin2",
+    "Location": "Swamp",
+    "Resources": "Swamp chest",
+    "Inhabitants": "Draugr, ,, Draugr elite, ,, Crow"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Swamp Runestone Towers are Points of interest found in the Swamp. They look like ruins of stone towers. They come in two variants."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "They have a 25.1% chance for a Swamp chest and a 30% chance for a Vegvisir toward the nearest Bonemass's altar. They are protected by a Body pile, a 32.1% chance for a Draugr elite and two additional Draugrs with a 50% chance each.\nTwo Crows are always flying around the tower."
+    }
+  ],
+  "full_text": "Swamp Runestone Tower\n\nType: Point of interest | Internal ID: SwampRuin1 | SwampRuin2 | Location: Swamp | Resources: Swamp chest | Inhabitants: Draugr, ,, Draugr elite, ,, Crow\n\nIntroduction. Swamp Runestone Towers are Points of interest found in the Swamp. They look like ruins of stone towers. They come in two variants.\n\nResources. They have a 25.1% chance for a Swamp chest and a 30% chance for a Vegvisir toward the nearest Bonemass's altar. They are protected by a Body pile, a 32.1% chance for a Draugr elite and two additional Draugrs with a 50% chance each.\nTwo Crows are always flying around the tower.",
+  "scraped_at": "2026-02-26T01:50:31.942384+00:00"
+}

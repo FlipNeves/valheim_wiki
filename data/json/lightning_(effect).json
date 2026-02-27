@@ -1,0 +1,21 @@
+{
+  "title": "Lightning (effect)",
+  "url": "https://valheim.fandom.com/wiki/Lightning_(effect)",
+  "slug": "Lightning_(effect)",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Lightning",
+    "Effects": "Visual effect"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lightning is a Status effect that is only a visual effect.\nIt is applied every time a creature or player receives Lightning damage and lasts 3 seconds."
+    }
+  ],
+  "full_text": "Lightning (effect)\n\nEffects: Visual effect\n\nIntroduction. Lightning is a Status effect that is only a visual effect.\nIt is applied every time a creature or player receives Lightning damage and lasts 3 seconds.",
+  "scraped_at": "2026-02-26T02:00:32.952271+00:00"
+}

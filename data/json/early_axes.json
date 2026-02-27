@@ -1,0 +1,66 @@
+{
+  "title": "Early axes",
+  "url": "https://valheim.fandom.com/wiki/Early_axes",
+  "slug": "Early_axes",
+  "categories": [
+    "Weapons",
+    "Axes",
+    "Workbench recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Early axes",
+    "Internal ID": "Early_Axes",
+    "Type": "Axe",
+    "Source": "Workbench",
+    "Usage": "Weapon",
+    "Wielding": "Dual wielded",
+    "Crafting Materials": "Wood x10, Leather scraps x6",
+    "Attack speed": "1.93 s",
+    "Hitbox": "2.2 range, 90 angle, 0.6 height, no multitarget penalty",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Early axes is the first dual wielded axe.\nIts primary attack is a 4-step combo: two single hits, one with each axe, followed by two double hits using both axes simultaneously, resulting in a total of 6 hits. The final double hit deals 2x damage with each individual hit.\nIts secondary attack costs 16 stamina and is a leap forward, followed by a slash with both axes for a single hit, dealing 2x the damage.\nThe Early axes deal Chop damage, which allows them to cut down the same trees than the Bronze axe can."
+    },
+    {
+      "heading": "Crafting",
+      "level": 2,
+      "text": "The Early axes require two rare components be crafted:\n• Curious axe head is found inside chest in the version 6 of Abandoned House.\n• Mysterious axe head is found inside chest in the version 2 of Abandoned House.",
+      "table_data": [
+        {
+          "stat": "Slash",
+          "Quality 1": "30",
+          "Quality 2": "35",
+          "Quality 3": "40",
+          "Quality 4": "45"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "175",
+          "Quality 2": "225",
+          "Quality 3": "275",
+          "Quality 4": "325"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "1 Curious axe head 1 Mysterious axe head4 Wood",
+          "Quality 2": "6 Wood2 Leather scraps",
+          "Quality 3": "8 Wood4 Leather scraps",
+          "Quality 4": "10 Wood6 Leather scraps"
+        },
+        {
+          "stat": "Workbench level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4"
+        }
+      ]
+    }
+  ],
+  "full_text": "Early axes\n\nInternal ID: Early_Axes | Type: Axe | Source: Workbench | Usage: Weapon | Wielding: Dual wielded | Crafting Materials: Wood x10, Leather scraps x6 | Attack speed: 1.93 s | Hitbox: 2.2 range, 90 angle, 0.6 height, no multitarget penalty | Movement speed: -5%\n\nIntroduction. The Early axes is the first dual wielded axe.\nIts primary attack is a 4-step combo: two single hits, one with each axe, followed by two double hits using both axes simultaneously, resulting in a total of 6 hits. The final double hit deals 2x damage with each individual hit.\nIts secondary attack costs 16 stamina and is a leap forward, followed by a slash with both axes for a single hit, dealing 2x the damage.\nThe Early axes deal Chop damage, which allows them to cut down the same trees than the Bronze axe can.\n\nCrafting. The Early axes require two rare components be crafted:\n• Curious axe head is found inside chest in the version 6 of Abandoned House.\n• Mysterious axe head is found inside chest in the version 2 of Abandoned House.",
+  "scraped_at": "2026-02-26T01:14:14.206981+00:00"
+}

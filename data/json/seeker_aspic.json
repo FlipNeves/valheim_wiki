@@ -1,0 +1,42 @@
+{
+  "title": "Seeker aspic",
+  "url": "https://valheim.fandom.com/wiki/Seeker_aspic",
+  "slug": "Seeker_aspic",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Seeker aspic",
+    "Type": "Food",
+    "Internal ID": "SeekerAspic",
+    "Source": "Cauldron",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Seeker meat x2, Magecap x2, Royal jelly x2",
+    "Max Health": "28",
+    "Max Stamina": "14",
+    "Max Eitr": "85",
+    "Duration": "30m",
+    "Healing": "3 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Seeker aspic is a Mistlands-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Two Seeker aspic are produced at a level 5 Cauldron with:\n• 2 Magecap\n• 2 Royal jelly\n• 2 Seeker meat"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Seeker aspic provides the highest eitr gain in the Mistlands at 85.\n• Two pieces of royal jelly yields two seeker aspics (a 2:2 ratio of royal jelly to aspic), whereas two pieces of royal jelly yield only one Yggdrasil porridge (a 2:1 ratio of royal jelly to porridge)."
+    }
+  ],
+  "full_text": "Seeker aspic\n\nType: Food | Internal ID: SeekerAspic | Source: Cauldron | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Seeker meat x2, Magecap x2, Royal jelly x2 | Max Health: 28 | Max Stamina: 14 | Max Eitr: 85 | Duration: 30m | Healing: 3 hp/tick\n\nIntroduction. Seeker aspic is a Mistlands-tier food.\n\nRecipe. Two Seeker aspic are produced at a level 5 Cauldron with:\n• 2 Magecap\n• 2 Royal jelly\n• 2 Seeker meat\n\nNotes. • Seeker aspic provides the highest eitr gain in the Mistlands at 85.\n• Two pieces of royal jelly yields two seeker aspics (a 2:2 ratio of royal jelly to aspic), whereas two pieces of royal jelly yield only one Yggdrasil porridge (a 2:1 ratio of royal jelly to porridge).",
+  "scraped_at": "2026-02-26T01:28:28.514018+00:00"
+}

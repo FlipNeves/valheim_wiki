@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.vs/
+*.log
+data/progress.json
+data/errors.log
+data/chroma_db/
+.venv/
+__pycache__/
+*.pyc
+

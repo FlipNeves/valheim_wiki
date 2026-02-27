@@ -1,0 +1,40 @@
+{
+  "title": "Torn spirit",
+  "url": "https://valheim.fandom.com/wiki/Torn_spirit",
+  "slug": "Torn_spirit",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Torn spirit",
+    "Type": "Material",
+    "Internal ID": "YagluthDrop",
+    "Source": "Yagluth",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Torn spirit is an item dropped by Yagluth after defeating him."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Three Torn spirits are dropped by Yagluth upon defeat."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Wisp fountain"
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Prior to the release of the Mistlands update, the Torn spirit was known as the Yagluth thing, an unfinished item with no uses. As of the Mistlands update, the icon of the Yagluth thing would be recolored and reused as the icon for the Queen drop. The Yagluth thing can still be obtained via the Developer console, but it has the icon of Torn spirit."
+    }
+  ],
+  "full_text": "Torn spirit\n\nType: Material | Internal ID: YagluthDrop | Source: Yagluth | Usage: Building | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Torn spirit is an item dropped by Yagluth after defeating him.\n\nAvailability. Three Torn spirits are dropped by Yagluth upon defeat.\n\nBuilding. • Wisp fountain\n\nTrivia. • Prior to the release of the Mistlands update, the Torn spirit was known as the Yagluth thing, an unfinished item with no uses. As of the Mistlands update, the icon of the Yagluth thing would be recolored and reused as the icon for the Queen drop. The Yagluth thing can still be obtained via the Developer console, but it has the icon of Torn spirit.",
+  "scraped_at": "2026-02-26T01:37:16.799304+00:00"
+}

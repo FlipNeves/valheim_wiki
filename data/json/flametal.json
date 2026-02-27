@@ -1,0 +1,33 @@
+{
+  "title": "Flametal",
+  "url": "https://valheim.fandom.com/wiki/Flametal",
+  "slug": "Flametal",
+  "categories": [
+    "Metals",
+    "Materials",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Flametal",
+    "Type": "Metal",
+    "Internal ID": "FlametalNew",
+    "Source": "Blast furnace",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "No",
+    "Crafting Materials": "Flametal ore x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Flametal is a crafting material that can be smelted from Flametal ore in a Blast furnace using Coal as fuel."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Flametal was obtainable before the Ashlands update, however, had no use. Flametal obtained before the update converts to \"Ancient metal\" and remains unusable. It possesses the ID of Flametal, whereas newly obtained bars have an ID of FlametalNew.\n• Like other metals, Flametal cannot be teleported without a Stone portal.\n• It takes 234 Flametal to craft one of each base equipment (armor, weapons, tools) in the Ashlands Tier. Further 686 Flametal to fully upgrade (total 920 Flametal). 300 Flametal to craft one of each magic variant base equipment. Further 909 Flametal to fully upgrade (total 1209 Flametal)."
+    }
+  ],
+  "full_text": "Flametal\n\nType: Metal | Internal ID: FlametalNew | Source: Blast furnace | Usage: Building, Crafting | Teleportable (Can go through wood portal?): No | Crafting Materials: Flametal ore x1\n\nIntroduction. Flametal is a crafting material that can be smelted from Flametal ore in a Blast furnace using Coal as fuel.\n\nTrivia. • Flametal was obtainable before the Ashlands update, however, had no use. Flametal obtained before the update converts to \"Ancient metal\" and remains unusable. It possesses the ID of Flametal, whereas newly obtained bars have an ID of FlametalNew.\n• Like other metals, Flametal cannot be teleported without a Stone portal.\n• It takes 234 Flametal to craft one of each base equipment (armor, weapons, tools) in the Ashlands Tier. Further 686 Flametal to fully upgrade (total 920 Flametal). 300 Flametal to craft one of each magic variant base equipment. Further 909 Flametal to fully upgrade (total 1209 Flametal).",
+  "scraped_at": "2026-02-26T01:33:38.594616+00:00"
+}

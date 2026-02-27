@@ -1,0 +1,105 @@
+{
+  "title": "The Elder",
+  "url": "https://valheim.fandom.com/wiki/The_Elder",
+  "slug": "The_Elder",
+  "categories": [
+    "Bosses"
+  ],
+  "infobox": {
+    "_infobox_title": "The Elder",
+    "Internal ID": "gd_king",
+    "Type": "Boss",
+    "Faction": "Boss",
+    "Main biome": "Black Forest",
+    "Tameable": "No",
+    "Drops": "The Elder trophy, Swamp key, The Elder Power",
+    "Abilities": "Root Spawn (25s), Shoot (6s), Stomp (5s)",
+    "Trophy": "The Elder trophy",
+    "Very weak to (x2)": "Fire",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning",
+    "Immune to (x0)": "Poison, ,, Spirit, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Elder is the second boss. He appears as a towering humanoid tree-like entity with multiple thin branches sprouting out of his slender, bark-covered body."
+    },
+    {
+      "heading": "Summoning",
+      "level": 2,
+      "text": "The Elder's Forsaken Altar is located in Black Forests. His location can be revealed when visiting Burial Chambers and sometimes ruined structures around Black Forests, where a Vegvisir will reveal his nearest summoning location on the map.\nHe is summoned by placing three Ancient seeds in his Forsaken altar in Black Forests. Like all bosses, the Elder can be summoned as many times as desired, provided the required materials are met."
+    },
+    {
+      "heading": "Attacks and abilities",
+      "level": 2,
+      "text": "The Elder has an environment aura that removes darkness and raining."
+    },
+    {
+      "heading": "Root Spawn",
+      "level": 3,
+      "text": "The Elder will raise an arm in the air to summon 15 hostile Roots within a 15-meter radius circle around the player. Roots can attack players in melee range but are otherwise immobile and will despawn after 18–20 seconds or when The Elder is defeated. Although not typically possible in regular gameplay, a maximum of 30 Roots can be active at once. This ability has a 25-second cooldown and can be used while within 30 meters of a player."
+    },
+    {
+      "heading": "Shoot",
+      "level": 3,
+      "text": "A ranged volley of 25 vines directed at a target player (35 Pierce, 20 Tier 0 Chop and 20 Tier 0 Pickaxe damage per hit). This attack has a 6-second cooldown and can be used when a player is 15–50 meters away. He attempts to track players while aiming. Each vine has an initial velocity of 30 meters per second and a spread of 10–20 degrees. They can travel for up to 6 seconds before disappearing."
+    },
+    {
+      "heading": "Stomp",
+      "level": 3,
+      "text": "A close-range stomp over a large area (60 Blunt, 1000 Tier 0 Chop and 1000 Tier 0 Pickaxe damage). It hits in a circle 5 meters in radius from the impact point. This attack can be used when within 3 meters of a player and is accessible every 5 seconds."
+    },
+    {
+      "heading": "Aftermath",
+      "level": 2,
+      "text": "Defeating the Elder allows the player to unlock and enter swamp crypts (which are the primary source of Scrap iron in the game) with the Swamp key."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "The Elder trophy",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Swamp key",
+          "0 Star": "1 per player",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Forsaken power",
+      "level": 3,
+      "text": "Mounting The Elder’s trophy upon his respective stone will allow the player to claim his Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:\n• Health regen: +30%\n• Chop damage: +60%\n• Pickaxe damage: +60%"
+    },
+    {
+      "heading": "Events",
+      "level": 3,
+      "text": "Defeating The Elder affects the following events for that world:\n• Disables: \"The forest is moving...\"\n• Enables: \"A foul smell from the swamp...\" (if Bonemass has not been defeated)\n• Enables: \"The ground is shaking.\" (if a Troll has died in the world)"
+    },
+    {
+      "heading": "Creature spawning",
+      "level": 3,
+      "text": "Defeating The Elder unlocks several creatures to spawn at night in unusual biomes. They can only have 0 stars:\n• Greydwarf brute in Meadows.\n• Greydwarf shaman in Meadows.\n• Draugr while it is \"Misty\" in Meadows, Black Forest, Mountain, Plains.\n• Odin in Meadows, Black Forest, Plains."
+    },
+    {
+      "heading": "Traders",
+      "level": 3,
+      "text": "Defeating The Elder unlocks the Thunder stone and Ymir flesh for sale from Haldor. It also unlocks the Woodland herb blend from The Bog Witch for 120 Coins."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The altar provides a few hints on what items are used to summon him. First, the altar reads \"Burn their young\" referring to Ancient seeds. In addition, the top of the columns are topped by statues that look similar to Ancient Seeds in shape.\n• Because of The Elder's location in the Black Forest, additional enemies such as Trolls or Greydwarfs may join the battle and increase the difficulty significantly, especially at night.\n• The Elder's high-damage ranged attack can be effective in quickly gathering resources such as Wood, Corewood, Stone, and Copper ore, without the use of tools.\n• In the in-game trophies menu, there is another description of The Elder, \"Even in death, it seems to grin with secret knowledge.\"\nThe many names of The Elder:\n• In the game files, The Elder is also known as \"gd_king\" as well as \"theelder\". Likely to be interpreted as \"Greydwarf King\".\n• Warnings inscribed in a few of the runestones found in the Black Forest refer to The Elder as \"the One Who Walks\" once, and \"the Old One\" twice:"
+    }
+  ],
+  "full_text": "The Elder\n\nInternal ID: gd_king | Type: Boss | Faction: Boss | Main biome: Black Forest | Tameable: No | Drops: The Elder trophy, Swamp key, The Elder Power | Abilities: Root Spawn (25s), Shoot (6s), Stomp (5s) | Trophy: The Elder trophy | Very weak to (x2): Fire | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning | Immune to (x0): Poison, ,, Spirit, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. The Elder is the second boss. He appears as a towering humanoid tree-like entity with multiple thin branches sprouting out of his slender, bark-covered body.\n\nSummoning. The Elder's Forsaken Altar is located in Black Forests. His location can be revealed when visiting Burial Chambers and sometimes ruined structures around Black Forests, where a Vegvisir will reveal his nearest summoning location on the map.\nHe is summoned by placing three Ancient seeds in his Forsaken altar in Black Forests. Like all bosses, the Elder can be summoned as many times as desired, provided the required materials are met.\n\nAttacks and abilities. The Elder has an environment aura that removes darkness and raining.\n\nRoot Spawn. The Elder will raise an arm in the air to summon 15 hostile Roots within a 15-meter radius circle around the player. Roots can attack players in melee range but are otherwise immobile and will despawn after 18–20 seconds or when The Elder is defeated. Although not typically possible in regular gameplay, a maximum of 30 Roots can be active at once. This ability has a 25-second cooldown and can be used while within 30 meters of a player.\n\nShoot. A ranged volley of 25 vines directed at a target player (35 Pierce, 20 Tier 0 Chop and 20 Tier 0 Pickaxe damage per hit). This attack has a 6-second cooldown and can be used when a player is 15–50 meters away. He attempts to track players while aiming. Each vine has an initial velocity of 30 meters per second and a spread of 10–20 degrees. They can travel for up to 6 seconds before disappearing.\n\nStomp. A close-range stomp over a large area (60 Blunt, 1000 Tier 0 Chop and 1000 Tier 0 Pickaxe damage). It hits in a circle 5 meters in radius from the impact point. This attack can be used when within 3 meters of a player and is accessible every 5 seconds.\n\nAftermath. Defeating the Elder allows the player to unlock and enter swamp crypts (which are the primary source of Scrap iron in the game) with the Swamp key.\n\nForsaken power. Mounting The Elder’s trophy upon his respective stone will allow the player to claim his Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:\n• Health regen: +30%\n• Chop damage: +60%\n• Pickaxe damage: +60%\n\nEvents. Defeating The Elder affects the following events for that world:\n• Disables: \"The forest is moving...\"\n• Enables: \"A foul smell from the swamp...\" (if Bonemass has not been defeated)\n• Enables: \"The ground is shaking.\" (if a Troll has died in the world)\n\nCreature spawning. Defeating The Elder unlocks several creatures to spawn at night in unusual biomes. They can only have 0 stars:\n• Greydwarf brute in Meadows.\n• Greydwarf shaman in Meadows.\n• Draugr while it is \"Misty\" in Meadows, Black Forest, Mountain, Plains.\n• Odin in Meadows, Black Forest, Plains.\n\nTraders. Defeating The Elder unlocks the Thunder stone and Ymir flesh for sale from Haldor. It also unlocks the Woodland herb blend from The Bog Witch for 120 Coins.\n\nNotes. • The altar provides a few hints on what items are used to summon him. First, the altar reads \"Burn their young\" referring to Ancient seeds. In addition, the top of the columns are topped by statues that look similar to Ancient Seeds in shape.\n• Because of The Elder's location in the Black Forest, additional enemies such as Trolls or Greydwarfs may join the battle and increase the difficulty significantly, especially at night.\n• The Elder's high-damage ranged attack can be effective in quickly gathering resources such as Wood, Corewood, Stone, and Copper ore, without the use of tools.\n• In the in-game trophies menu, there is another description of The Elder, \"Even in death, it seems to grin with secret knowledge.\"\nThe many names of The Elder:\n• In the game files, The Elder is also known as \"gd_king\" as well as \"theelder\". Likely to be interpreted as \"Greydwarf King\".\n• Warnings inscribed in a few of the runestones found in the Black Forest refer to The Elder as \"the One Who Walks\" once, and \"the Old One\" twice:",
+  "scraped_at": "2026-02-26T01:39:21.294497+00:00"
+}

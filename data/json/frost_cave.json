@@ -1,0 +1,93 @@
+{
+  "title": "Frost Cave",
+  "url": "https://valheim.fandom.com/wiki/Frost_cave",
+  "slug": "Frost_cave",
+  "categories": [
+    "Points of interest",
+    "Dungeons"
+  ],
+  "infobox": {
+    "_infobox_title": "Frost Cave",
+    "Type": "Dungeon",
+    "Location": "Mountain",
+    "Inhabitants": "Bat, Ulv, Cultist, Stone Golem, Tetra"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Frost Caves are dungeons found in the Mountains."
+    },
+    {
+      "heading": "Description",
+      "level": 2,
+      "text": "The entrance is composed of a spiky rock formation with large, blue icicles hanging from the roof of the cave mouth. These caves are the lairs of Cultists, Ulvs, Bats, and rarely Stone Golems.\nBats lurk in deep shafts down into the mountain. Ulvs may be found in the icy caves or in worked-stone lairs with Cultists. Stone Golems can be found as a rare spawn in deep caves around an icy lake.\nFrost Caves may also contain a vegvisir that shows Moder's nearest location.\nThe natural parts of the caves are dimly lit, with patches of light from cracks in the ceiling, or occasional standing torches by chests or altars. Glowing crystal formations may also be found on the floor and walls of the cave. Standing braziers can be found in the worked-stone portions of the caves and provide heat and light.\nA rare feature that can spawn deep in the caves is a large frozen lake, guarded by one to three Stone Golems. By the shore of this frozen lake the player can find a runestone left by a weary traveler, the remains of his campfire, and a Fishing rod he left behind (which, when looted, also drops two to four Fishing bait)."
+    },
+    {
+      "heading": "Strategy",
+      "level": 2,
+      "text": "Walls of blue ice frequently block passages in the caves and will need to be broken. This can be done with any weapon, pickaxe, or even determined punching. Breaking these walls does create noise that will alert nearby creatures. These walls may not always hide a passage, but sometimes a plain cave wall or a stone with ancient markings. The ice walls have cracks in them that can give a hint to what lies beyond them if a player can peek through.\nOne unique feature of Frost Caves are icicles hanging from the ceiling and growing up from the floor. They will break if struck by a powerful enough attack. Weapons will lose durability with these attacks, so swinging wildly may cause a lot more wear and tear on the player's gear. The icicles can be knocked loose from the ceiling, and will drop and do significant damage to anything below them with the same disregard for human life as a falling tree. This is the biggest concern when using Stagbreaker or an Iron sledge in the Frost Caves.\nA skilled archer can knock icicles down onto the heads of enemies instead of simply taking the easy route and shooting the enemy. Impaling enemies with falling icicles is challenging, but gratifying.\nAnother environmental peril of Frost Caves is the uncaring force of gravity. The caves frequently feature vertical shafts that may or may not have precarious paths down into them. Falling down one of these shafts will, of course, hurt. Bats often spawn in these vertical shafts and in the chaos of their rapid fly-bys a careless character can find themselves baited by these flying creatures into a quick trip to the bottom. The good news is that if a player falls down into a hole that has no path up, there will be a way up from the bottom, just not the way they arrived. These shafts can be cleared with a running jump or sometimes have narrow ledges that will allow a cautious explorer to move by.\nThe lairs of the Cultists are behind wooden doors (Wood and sometimes Iron when destroyed), and feature a wide range of breakable objects, from furniture for Finewood, to bones for Bone fragments, to tapestries of matted hair for Fenris hair. The Red jute curtains obscure vision, often hiding enemies. One strategy is to use an Iron sledge to simply demolish everything, but this will obviously alert any inhabitants. These lairs may contain altars with Fenris hair and Fenris claws and Cultists, as well as rooms and corridors that can contain Ulvs. If Ulvs are detected, Ooze bombs are useful, since werewolves are vulnerable to poison. The tight corridors and poor sight-lines often make combat up close and personal, but a stealthy player may be able to use a bow in some areas.\nThese lairs also feature piles of meat which have standard drop of Entrails with a chance to drop extra Coins, Silver necklace and Entrails. Altar rooms are the most rewarding, as they can have 0-4 jute and hair tapestries, with 0–5 additional knots of hair hanging beneath each one. The altar may have 2 or 4 offerings of Claws or hair, but they are guarded with 0–3 cultists.\nThe Cultist lairs have many braziers that provide light and warmth. A player can linger by a brazier and receive a Comfort level of 2 with a Rested bonus. These Standing braziers can also be destroyed for Coal and Bronze.",
+      "table_data": [
+        {
+          "Amount": "1",
+          "Item": "Entrails",
+          "Chance": "45.45%"
+        },
+        {
+          "Amount": "9–41",
+          "Item": "Coins",
+          "Chance": "45.45%"
+        },
+        {
+          "Amount": "1",
+          "Item": "Silver necklace",
+          "Chance": "9.09%"
+        },
+        {
+          "Amount": "1–3",
+          "Item": "Coal",
+          "Chance": "80%"
+        },
+        {
+          "Amount": "1",
+          "Item": "Bronze",
+          "Chance": "20%"
+        }
+      ]
+    },
+    {
+      "heading": "Loot",
+      "level": 2,
+      "text": "• Fenris hair (hanging on walls, or laying on altar pillars)\n• Fenris claw (laying on altar pillars)\n• Red jute (from destroyed curtains)\n• Crystal (cave floor and walls)\n• Coal (from destroyed Standing Brazier)\n• Bronze (from destroyed Standing Brazier)\n• Finewood (from destroyed items)\n• Wood (from destroyed doors)\n• Iron (a rare drop from destroyed doors)\n• Bone fragments\n• Entrails (from meat piles)\n• Chests: (2-4 of the following)",
+      "table_data": [
+        {
+          "Amount": "15–35",
+          "Item": "Coins",
+          "Chance": "65%"
+        },
+        {
+          "Amount": "1–9",
+          "Item": "Obsidian",
+          "Chance": "48%"
+        },
+        {
+          "Amount": "1–2",
+          "Item": "Ruby",
+          "Chance": "16%"
+        },
+        {
+          "Amount": "1",
+          "Item": "Silver necklace",
+          "Chance": "3%"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Judging from murals that one may stumble upon in the upper floors of the Frost Cave (one of which depicting humanoid figure worshiping a large wolf) and the altar with a stone wolf bust in the heart of the underground temple within, Cultists, Ulvs, and possibly Fenring may very well be human Vikings of Valheim who turned into their current forms as a sign of their devotion to Fenrir.\n• Cultists can potentially drop their trophy upon death, which is a necessary component of making the Fenris Hood."
+    }
+  ],
+  "full_text": "Frost Cave\n\nType: Dungeon | Location: Mountain | Inhabitants: Bat, Ulv, Cultist, Stone Golem, Tetra\n\nIntroduction. Frost Caves are dungeons found in the Mountains.\n\nDescription. The entrance is composed of a spiky rock formation with large, blue icicles hanging from the roof of the cave mouth. These caves are the lairs of Cultists, Ulvs, Bats, and rarely Stone Golems.\nBats lurk in deep shafts down into the mountain. Ulvs may be found in the icy caves or in worked-stone lairs with Cultists. Stone Golems can be found as a rare spawn in deep caves around an icy lake.\nFrost Caves may also contain a vegvisir that shows Moder's nearest location.\nThe natural parts of the caves are dimly lit, with patches of light from cracks in the ceiling, or occasional standing torches by chests or altars. Glowing crystal formations may also be found on the floor and walls of the cave. Standing braziers can be found in the worked-stone portions of the caves and provide heat and light.\nA rare feature that can spawn deep in the caves is a large frozen lake, guarded by one to three Stone Golems. By the shore of this frozen lake the player can find a runestone left by a weary traveler, the remains of his campfire, and a Fishing rod he left behind (which, when looted, also drops two to four Fishing bait).\n\nStrategy. Walls of blue ice frequently block passages in the caves and will need to be broken. This can be done with any weapon, pickaxe, or even determined punching. Breaking these walls does create noise that will alert nearby creatures. These walls may not always hide a passage, but sometimes a plain cave wall or a stone with ancient markings. The ice walls have cracks in them that can give a hint to what lies beyond them if a player can peek through.\nOne unique feature of Frost Caves are icicles hanging from the ceiling and growing up from the floor. They will break if struck by a powerful enough attack. Weapons will lose durability with these attacks, so swinging wildly may cause a lot more wear and tear on the player's gear. The icicles can be knocked loose from the ceiling, and will drop and do significant damage to anything below them with the same disregard for human life as a falling tree. This is the biggest concern when using Stagbreaker or an Iron sledge in the Frost Caves.\nA skilled archer can knock icicles down onto the heads of enemies instead of simply taking the easy route and shooting the enemy. Impaling enemies with falling icicles is challenging, but gratifying.\nAnother environmental peril of Frost Caves is the uncaring force of gravity. The caves frequently feature vertical shafts that may or may not have precarious paths down into them. Falling down one of these shafts will, of course, hurt. Bats often spawn in these vertical shafts and in the chaos of their rapid fly-bys a careless character can find themselves baited by these flying creatures into a quick trip to the bottom. The good news is that if a player falls down into a hole that has no path up, there will be a way up from the bottom, just not the way they arrived. These shafts can be cleared with a running jump or sometimes have narrow ledges that will allow a cautious explorer to move by.\nThe lairs of the Cultists are behind wooden doors (Wood and sometimes Iron when destroyed), and feature a wide range of breakable objects, from furniture for Finewood, to bones for Bone fragments, to tapestries of matted hair for Fenris hair. The Red jute curtains obscure vision, often hiding enemies. One strategy is to use an Iron sledge to simply demolish everything, but this will obviously alert any inhabitants. These lairs may contain altars with Fenris hair and Fenris claws and Cultists, as well as rooms and corridors that can contain Ulvs. If Ulvs are detected, Ooze bombs are useful, since werewolves are vulnerable to poison. The tight corridors and poor sight-lines often make combat up close and personal, but a stealthy player may be able to use a bow in some areas.\nThese lairs also feature piles of meat which have standard drop of Entrails with a chance to drop extra Coins, Silver necklace and Entrails. Altar rooms are the most rewarding, as they can have 0-4 jute and hair tapestries, with 0–5 additional knots of hair hanging beneath each one. The altar may have 2 or 4 offerings of Claws or hair, but they are guarded with 0–3 cultists.\nThe Cultist lairs have many braziers that provide light and warmth. A player can linger by a brazier and receive a Comfort level of 2 with a Rested bonus. These Standing braziers can also be destroyed for Coal and Bronze.\n\nLoot. • Fenris hair (hanging on walls, or laying on altar pillars)\n• Fenris claw (laying on altar pillars)\n• Red jute (from destroyed curtains)\n• Crystal (cave floor and walls)\n• Coal (from destroyed Standing Brazier)\n• Bronze (from destroyed Standing Brazier)\n• Finewood (from destroyed items)\n• Wood (from destroyed doors)\n• Iron (a rare drop from destroyed doors)\n• Bone fragments\n• Entrails (from meat piles)\n• Chests: (2-4 of the following)\n\nNotes. • Judging from murals that one may stumble upon in the upper floors of the Frost Cave (one of which depicting humanoid figure worshiping a large wolf) and the altar with a stone wolf bust in the heart of the underground temple within, Cultists, Ulvs, and possibly Fenring may very well be human Vikings of Valheim who turned into their current forms as a sign of their devotion to Fenrir.\n• Cultists can potentially drop their trophy upon death, which is a necessary component of making the Fenris Hood.",
+  "scraped_at": "2026-02-26T01:52:02.192277+00:00"
+}

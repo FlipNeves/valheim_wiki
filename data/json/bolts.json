@@ -1,0 +1,56 @@
+{
+  "title": "Bolts",
+  "url": "https://valheim.fandom.com/wiki/Bolts",
+  "slug": "Bolts",
+  "categories": [
+    "Weapons",
+    "Bolts"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bolts are a type of ammunition for Crossbows.\nBolts' damage is added to base crossbow damage before any other damage calculation. (See Damage mechanics for details)."
+    },
+    {
+      "heading": "List of bolts",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Bone bolt",
+          "Icon": "",
+          "Damage": "Pierce: 32",
+          "Knockback": "0"
+        },
+        {
+          "Name": "Iron bolt",
+          "Icon": "",
+          "Damage": "Pierce: 42",
+          "Knockback": "0"
+        },
+        {
+          "Name": "Black metal bolt",
+          "Icon": "",
+          "Damage": "Pierce: 62",
+          "Knockback": "0"
+        },
+        {
+          "Name": "Carapace bolt",
+          "Icon": "",
+          "Damage": "Pierce: 72",
+          "Knockback": "0"
+        },
+        {
+          "Name": "Charred bolt",
+          "Icon": "",
+          "Damage": "Pierce: 82",
+          "Knockback": "0"
+        }
+      ]
+    }
+  ],
+  "full_text": "Bolts\n\nIntroduction. Bolts are a type of ammunition for Crossbows.\nBolts' damage is added to base crossbow damage before any other damage calculation. (See Damage mechanics for details).",
+  "scraped_at": "2026-02-26T01:12:00.813277+00:00"
+}

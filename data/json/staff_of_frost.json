@@ -1,0 +1,76 @@
+{
+  "title": "Staff of Frost",
+  "url": "https://valheim.fandom.com/wiki/Staff_of_frost",
+  "slug": "Staff_of_frost",
+  "categories": [
+    "Weapons",
+    "Magic",
+    "Elemental magic",
+    "2 more",
+    "Galdr table recipes",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Staff of Frost",
+    "Internal ID": "StaffIceShards",
+    "Type": "Elemental magic",
+    "Source": "Galdr table",
+    "Usage": "Magic weapon",
+    "Crafting Materials": "Yggdrasil wood x30, Freeze gland x6, Refined eitr x24",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Staff of Frost is one of four Magic weapons introduced in the Mistlands update. Its primary attack fires freezing shards of ice at a rapid pace with low accuracy. While its poor accuracy limits the staff's effective range severely, the freezing effect slows any enemies hit by the attack. This allows even small and fast enemies to be hit repeatedly and kept at a distance.\nThe staff's damage and eitr usage are dependent on the caster's Elemental magic skill level. Like the other magic weapons, it has no secondary attack.\nWet enemies are vulnerable to Frost damage and will take increased damage from the staff."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "Total cost for the fully upgraded staff: 80 Yggdrasil wood, 16 Freeze gland, 64 Refined eitr",
+      "table_data": [
+        {
+          "stat": "Frost",
+          "Quality 1": "30",
+          "Quality 2": "32",
+          "Quality 3": "34",
+          "Quality 4": "36"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "200",
+          "Quality 2": "250",
+          "Quality 3": "300",
+          "Quality 4": "350"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "20 Yggdrasil wood4 Freeze gland16 Refined eitr",
+          "Quality 2": "10 Yggdrasil wood2 Freeze gland8 Refined eitr",
+          "Quality 3": "20 Yggdrasil wood4 Freeze gland16 Refined eitr",
+          "Quality 4": "30 Yggdrasil wood6 Freeze gland24 Refined eitr"
+        },
+        {
+          "stat": "Galdr table level",
+          "Quality 1": "1",
+          "Quality 2": "2",
+          "Quality 3": "3",
+          "Quality 4": "4"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The head of the staff glows faintly light-blue at all times. It is a bit dimmer than most proper light sources, but it can provide some light in the dark.\n• The glow effect also makes players slightly easier to detect while sneaking, increasing the visibility of its holder by approximately 20%."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The staff's description refers to Fimbulvetr, the (possibly volcanic) Winter that was said to be the first stage of Ragnarok."
+    }
+  ],
+  "full_text": "Staff of Frost\n\nInternal ID: StaffIceShards | Type: Elemental magic | Source: Galdr table | Usage: Magic weapon | Crafting Materials: Yggdrasil wood x30, Freeze gland x6, Refined eitr x24 | Movement speed: -5%\n\nIntroduction. The Staff of Frost is one of four Magic weapons introduced in the Mistlands update. Its primary attack fires freezing shards of ice at a rapid pace with low accuracy. While its poor accuracy limits the staff's effective range severely, the freezing effect slows any enemies hit by the attack. This allows even small and fast enemies to be hit repeatedly and kept at a distance.\nThe staff's damage and eitr usage are dependent on the caster's Elemental magic skill level. Like the other magic weapons, it has no secondary attack.\nWet enemies are vulnerable to Frost damage and will take increased damage from the staff.\n\nUpgrade information. Total cost for the fully upgraded staff: 80 Yggdrasil wood, 16 Freeze gland, 64 Refined eitr\n\nNotes. • The head of the staff glows faintly light-blue at all times. It is a bit dimmer than most proper light sources, but it can provide some light in the dark.\n• The glow effect also makes players slightly easier to detect while sneaking, increasing the visibility of its holder by approximately 20%.\n\nTrivia. • The staff's description refers to Fimbulvetr, the (possibly volcanic) Winter that was said to be the first stage of Ragnarok.",
+  "scraped_at": "2026-02-26T02:17:21.877602+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Draugr Elite trophy",
+  "url": "https://valheim.fandom.com/wiki/Draugr_Elite_trophy",
+  "slug": "Draugr_Elite_trophy",
+  "categories": [
+    "Trophies",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Draugr Elite trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyDraugrElite",
+    "Source": "Draugr elite",
+    "Usage": "Crafting, Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Draugr Elite trophy is a rare drop from Draugr elite in the Swamp."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Iron sledge"
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed in an Item Stand.\n• Can be used to program the Ballista."
+    }
+  ],
+  "full_text": "Draugr Elite trophy\n\nType: Trophy | Internal ID: TrophyDraugrElite | Source: Draugr elite | Usage: Crafting, Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Draugr Elite trophy is a rare drop from Draugr elite in the Swamp.\n\nCrafting. • Iron sledge\n\nMisc. • Can be displayed in an Item Stand.\n• Can be used to program the Ballista.",
+  "scraped_at": "2026-02-26T01:33:04.266059+00:00"
+}

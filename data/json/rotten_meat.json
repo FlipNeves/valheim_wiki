@@ -1,0 +1,31 @@
+{
+  "title": "Rotten meat",
+  "url": "https://valheim.fandom.com/wiki/Rotten_meat",
+  "slug": "Rotten_meat",
+  "categories": [
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Rotten meat",
+    "Internal ID": "RottenMeat",
+    "Source": "Putrid Hole",
+    "Usage": "Clearing active Food Buffs",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Duration": "15s",
+    "Other Effect(s)": "Health regen: -100%, Stamina regen: -100%, Movement speed: -50%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Rotten meat is a type of consumable.\nConsuming rotten meat has the same effect as eating Bukeperries and can be used to switch to different Foods."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Drops from mounds of flesh in Putrid Holes.\n• Drops from Vile"
+    }
+  ],
+  "full_text": "Rotten meat\n\nInternal ID: RottenMeat | Source: Putrid Hole | Usage: Clearing active Food Buffs | Teleportable (Can go through wood portal?): Yes | Duration: 15s | Other Effect(s): Health regen: -100%, Stamina regen: -100%, Movement speed: -50%\n\nIntroduction. Rotten meat is a type of consumable.\nConsuming rotten meat has the same effect as eating Bukeperries and can be used to switch to different Foods.\n\nAvailability. • Drops from mounds of flesh in Putrid Holes.\n• Drops from Vile",
+  "scraped_at": "2026-02-26T01:54:50.727418+00:00"
+}

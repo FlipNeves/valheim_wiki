@@ -1,0 +1,44 @@
+{
+  "title": "Neck tail",
+  "url": "https://valheim.fandom.com/wiki/Neck_tail",
+  "slug": "Neck_tail",
+  "categories": [
+    "Materials",
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Neck tail",
+    "Type": "Material",
+    "Internal ID": "NeckTail",
+    "Source": "Neck",
+    "Usage": "Cauldron, ,, Cooking station, ,, Mead ketill",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Neck tail is a basic food obtained from killing Necks. It can be cooked on a Cooking station or Iron cooking station to obtain Grilled neck tail or Coal if overcooked. It may also be used for a Cauldron recipe or Mead ketill recipe."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Creature": "Neck",
+          "0 Star": "70%",
+          "1 Star": "2",
+          "2 Star": "4"
+        }
+      ]
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Grilled neck tail\n• Coal, if left on a Cooking station for too long\n• Minced meat sauce\n• Mead base: Poison resistance\nGrilled neck tail cannot be used to craft recipes using Neck tail as ingredient."
+    }
+  ],
+  "full_text": "Neck tail\n\nType: Material | Internal ID: NeckTail | Source: Neck | Usage: Cauldron, ,, Cooking station, ,, Mead ketill | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Neck tail is a basic food obtained from killing Necks. It can be cooked on a Cooking station or Iron cooking station to obtain Grilled neck tail or Coal if overcooked. It may also be used for a Cauldron recipe or Mead ketill recipe.\n\nCrafting. • Grilled neck tail\n• Coal, if left on a Cooking station for too long\n• Minced meat sauce\n• Mead base: Poison resistance\nGrilled neck tail cannot be used to craft recipes using Neck tail as ingredient.",
+  "scraped_at": "2026-02-26T01:27:32.244271+00:00"
+}

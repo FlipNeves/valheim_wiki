@@ -1,0 +1,46 @@
+{
+  "title": "Misthare supreme",
+  "url": "https://valheim.fandom.com/wiki/Uncooked_misthare_supreme",
+  "slug": "Uncooked_misthare_supreme",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Misthare supreme",
+    "Type": "Food",
+    "Internal ID": "Mistharesupreme",
+    "Source": "Stone oven",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Uncooked misthare supreme x1",
+    "Max Health": "85",
+    "Max Stamina": "28",
+    "Duration": "25m",
+    "Healing": "5 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Misthare supreme is a Mistlands-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Uncooked misthare supreme is produced in a Food preparation table with:\n• 1 Hare meat\n• 3 Jotun puffs\n• 2 Carrot\nMisthare supreme is produced by cooking Uncooked misthare supreme in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mushrooms galore á la Mistlands"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Misthare supreme provides the highest health gain in the Mistlands at 85.\n• This dish is both powerful and efficient - requiring only farmable Jotun puffs and Carrots means that all the player must leave their base for is to hunt Hares, which can also be trapped."
+    }
+  ],
+  "full_text": "Misthare supreme\n\nType: Food | Internal ID: Mistharesupreme | Source: Stone oven | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Uncooked misthare supreme x1 | Max Health: 85 | Max Stamina: 28 | Duration: 25m | Healing: 5 hp/tick\n\nIntroduction. Misthare supreme is a Mistlands-tier food.\n\nRecipe. Uncooked misthare supreme is produced in a Food preparation table with:\n• 1 Hare meat\n• 3 Jotun puffs\n• 2 Carrot\nMisthare supreme is produced by cooking Uncooked misthare supreme in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn and turn into Coal.\n\nCrafting. • Mushrooms galore á la Mistlands\n\nNotes. • Misthare supreme provides the highest health gain in the Mistlands at 85.\n• This dish is both powerful and efficient - requiring only farmable Jotun puffs and Carrots means that all the player must leave their base for is to hunt Hares, which can also be trapped.",
+  "scraped_at": "2026-02-26T02:16:52.692882+00:00"
+}

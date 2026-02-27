@@ -1,0 +1,103 @@
+{
+  "title": "Cauldron",
+  "url": "https://valheim.fandom.com/wiki/Cauldron",
+  "slug": "Cauldron",
+  "categories": [
+    "Crafting structures",
+    "Crafting"
+  ],
+  "infobox": {
+    "_infobox_title": "Cauldron",
+    "Type": "Crafting",
+    "Skill": "Cooking",
+    "Internal ID": "piece_cauldron",
+    "Source": "Forge",
+    "Usage": "Cooking",
+    "Max Level": "6",
+    "Improvements": "Spice rack | Butcher's table | Pots and pans | Mortar and pestle | Rolling pins and cutting boards",
+    "Crafting Materials": "Tin, x10",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce, ,, Fire",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Cauldron is a crafting station used to prepare food. It requires a fire source underneath to operate, such as a Campfire or Hearth."
+    },
+    {
+      "heading": "Building",
+      "level": 2,
+      "text": "Cauldrons can be placed using the Hammer, found under the Crafting tab. A fire does not need to be present to place a Cauldron, only to use/craft with it.\nThe Cauldron recipe is unlocked only when the player picks up Tin for the first time after smelting it and has a Forge built."
+    },
+    {
+      "heading": "Upgrades",
+      "level": 2,
+      "text": "Upgrading a Cauldron enables additional crafting recipes. A Cauldron can be upgraded up to level 6 by building the following structures near it:",
+      "table_data": [
+        {
+          "Name": "Spice rack",
+          "Icon": "",
+          "Materials": "3 Dandelion 2 Carrot 5 Mushroom 3 Thistle 3 Turnip"
+        },
+        {
+          "Name": "Butcher's table",
+          "Icon": "",
+          "Materials": "2 Ancient bark 4 Corewood 4 Finewood 2 Silver"
+        },
+        {
+          "Name": "Pots and pans",
+          "Icon": "",
+          "Materials": "5 Iron 5 Copper 5 Black metal 10 Finewood"
+        },
+        {
+          "Name": "Mortar and pestle",
+          "Icon": "",
+          "Materials": "8 Black marble 6 Finewood 4 Corewood"
+        },
+        {
+          "Name": "Rolling pins and cutting boards",
+          "Icon": "",
+          "Materials": "8 Ashwood 6 Finewood 4 Flametal"
+        },
+        {
+          "stat": "Total (Cauldron included)",
+          "Icon": "3 Dandelion 2 Carrot 5 Mushroom 3 Thistle 3 Turnip 26 Finewood 8 Corewood 2 Ancient bark 8 Ashwood 10 Tin 5 Copper 5 Iron 2 Silver 5 Black metal 4 Flametal 8 Black marble"
+        }
+      ]
+    },
+    {
+      "heading": "Level 1 (base)",
+      "level": 3,
+      "text": "• Boar jerky x2 - introduced in Hearth and Home.\n• Carrot soup\n• Cooked egg - introduced in Mistlands.\n• Deer stew - introduced in Hearth and Home.\n• Minced meat sauce\n• Queen's jam x4"
+    },
+    {
+      "heading": "Level 2",
+      "level": 3,
+      "text": "• Black soup - introduced in Hearth and Home.\n• Serpent stew\n• Turnip stew\n• Sausages x4\n• Muckshake - introduced in Hearth and Home.\n• Onion soup"
+    },
+    {
+      "heading": "Level 3",
+      "level": 3,
+      "text": "• Eyescream - introduced in Hearth and Home.\n• Wolf jerky x2 - introduced in Hearth and Home.\n• Wolf skewer - introduced in Hearth and Home."
+    },
+    {
+      "heading": "Level 4",
+      "level": 3,
+      "text": "• Fish wraps\n• Blood pudding"
+    },
+    {
+      "heading": "Level 5",
+      "level": 3,
+      "text": "• Fiery svinstew - introduced in Ashlands.\n• Mushroom omelette - introduced in Mistlands.\n• Salad x3 - introduced in Mistlands.\n• Seeker aspic x2 - introduced in Mistlands.\n• Sizzling berry broth - introduced in Ashlands.\n• Spicy marmalade - introduced in Ashlands.\n• Yggdrasil porridge - introduced in Mistlands."
+    },
+    {
+      "heading": "Level 6",
+      "level": 3,
+      "text": "• Marinated greens - introduced in Ashlands.\n• Mashed meat - introduced in Ashlands.\n• Scorching medley - introduced in Ashlands.\n• Sparkling shroomshake - introduced in Ashlands."
+    }
+  ],
+  "full_text": "Cauldron\n\nType: Crafting | Skill: Cooking | Internal ID: piece_cauldron | Source: Forge | Usage: Cooking | Max Level: 6 | Improvements: Spice rack | Butcher's table | Pots and pans | Mortar and pestle | Rolling pins and cutting boards | Crafting Materials: Tin, x10 | Neutral to (x1): Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce, ,, Fire | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. The Cauldron is a crafting station used to prepare food. It requires a fire source underneath to operate, such as a Campfire or Hearth.\n\nBuilding. Cauldrons can be placed using the Hammer, found under the Crafting tab. A fire does not need to be present to place a Cauldron, only to use/craft with it.\nThe Cauldron recipe is unlocked only when the player picks up Tin for the first time after smelting it and has a Forge built.\n\nUpgrades. Upgrading a Cauldron enables additional crafting recipes. A Cauldron can be upgraded up to level 6 by building the following structures near it:\n\nLevel 1 (base). • Boar jerky x2 - introduced in Hearth and Home.\n• Carrot soup\n• Cooked egg - introduced in Mistlands.\n• Deer stew - introduced in Hearth and Home.\n• Minced meat sauce\n• Queen's jam x4\n\nLevel 2. • Black soup - introduced in Hearth and Home.\n• Serpent stew\n• Turnip stew\n• Sausages x4\n• Muckshake - introduced in Hearth and Home.\n• Onion soup\n\nLevel 3. • Eyescream - introduced in Hearth and Home.\n• Wolf jerky x2 - introduced in Hearth and Home.\n• Wolf skewer - introduced in Hearth and Home.\n\nLevel 4. • Fish wraps\n• Blood pudding\n\nLevel 5. • Fiery svinstew - introduced in Ashlands.\n• Mushroom omelette - introduced in Mistlands.\n• Salad x3 - introduced in Mistlands.\n• Seeker aspic x2 - introduced in Mistlands.\n• Sizzling berry broth - introduced in Ashlands.\n• Spicy marmalade - introduced in Ashlands.\n• Yggdrasil porridge - introduced in Mistlands.\n\nLevel 6. • Marinated greens - introduced in Ashlands.\n• Mashed meat - introduced in Ashlands.\n• Scorching medley - introduced in Ashlands.\n• Sparkling shroomshake - introduced in Ashlands.",
+  "scraped_at": "2026-02-26T02:14:55.030828+00:00"
+}

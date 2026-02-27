@@ -1,0 +1,43 @@
+{
+  "title": "Giant herring",
+  "url": "https://valheim.fandom.com/wiki/Giant_herring",
+  "slug": "Giant_herring",
+  "categories": [
+    "Fish",
+    "Fishing"
+  ],
+  "infobox": {
+    "_infobox_title": "Giant herring",
+    "Type": "Fish",
+    "Internal ID": "fish6",
+    "Source": "Fishing",
+    "Usage": "Decoration | Cooking",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Giant herring are passive creatures (fish) found in the waters just offshore of the Swamp biome.\nThey can be caught with a fishing pole using a Sticky fishing bait which can be crafted at the Food preparation table by combining 20 Fishing bait and an Abomination Trophy.\nNeeded to craft a Fishing hat"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Result": "Raw fish",
+          "Ingredients": "Giant herring x1",
+          "Crafting Station": "Food preparation table"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Has a unique line: \"What's that nasty smell? Surely it couldn't be me!\"\n• When caught, has chance to also give Iron ore."
+    }
+  ],
+  "full_text": "Giant herring\n\nType: Fish | Internal ID: fish6 | Source: Fishing | Usage: Decoration | Cooking | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Giant herring are passive creatures (fish) found in the waters just offshore of the Swamp biome.\nThey can be caught with a fishing pole using a Sticky fishing bait which can be crafted at the Food preparation table by combining 20 Fishing bait and an Abomination Trophy.\nNeeded to craft a Fishing hat\n\nNotes. • Has a unique line: \"What's that nasty smell? Surely it couldn't be me!\"\n• When caught, has chance to also give Iron ore.",
+  "scraped_at": "2026-02-26T01:50:18.908852+00:00"
+}

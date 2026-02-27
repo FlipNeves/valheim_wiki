@@ -1,0 +1,11 @@
+{
+  "title": "Resting",
+  "url": "https://valheim.fandom.com/wiki/Resting",
+  "slug": "Resting",
+  "categories": [
+    "Effects"
+  ],
+  "content": "# Resting\n\nEffects: Health regen: +200% | Stamina regen: +300% | Eitr regen: +300%\n\n# Introduction\n\nResting is a status effect applied when there are no hostile creatures nearby and the player is sitting near a fire, or while under the Fire effect and Shelter effect simultaneously. The resting effect cannot be applied if the player is Wet (unless sitting in a Hot tub) or while under the effect of any harming status effect, such as Burning, Freezing or Poison.\nAfter 20 uninterrupted seconds with the resting effect, the player will receive the Rested effect. The comfort level of the surroundings will determine the length of the rested bonus provided, with the rested length being 7 minutes greater than the comfort level (e.g comfort 3 provides 10 minutes of the rested bonus). Note that the resting effect may be reset if a hostile creature approaches, the fire goes out, or in large buildings where the fire radius may not reach all corners of the building.\n\nCategorias: Effects",
+  "content_length": 986,
+  "scraped_at": "2026-02-26T02:00:58.042996+00:00"
+}

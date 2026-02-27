@@ -1,0 +1,91 @@
+{
+  "title": "Stonehenge",
+  "url": "https://valheim.fandom.com/wiki/Stonehenge",
+  "slug": "Stonehenge",
+  "categories": [
+    "Points of interest",
+    "Lore"
+  ],
+  "infobox": {
+    "_infobox_title": "Stonehenge",
+    "Type": "Structure",
+    "Internal ID": "StoneHenge1 to | StoneHenge6",
+    "Location": "Plains",
+    "Resources": "Stonehenge Center Chest",
+    "Inhabitants": "Fuling Berserker | Fuling"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Stonehenges are permanent structures found in Plains. They are a formation of large boulders placed on top of each other, either in a circle or by themselves."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "Stonehenges comes in 6 variants. Each variant features one or more of the following features:\n• A chance for a Vegvisir that marks the location of the closest Yagluth's Forsaken Altars.\n• A chance for a Stonehenge Center Chest that rarely contains a Fuling totem.\n• A chance for Fuling berserkers or Fulings protecting the zone."
+    },
+    {
+      "heading": "List of variants",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Id": "StoneHenge1",
+          "Image": "",
+          "Number per world": "5",
+          "Vegvisir": "40%",
+          "Chest": "50%",
+          "Creatures": "0–3 Fuling Berserkers"
+        },
+        {
+          "Id": "StoneHenge2",
+          "Image": "",
+          "Number per world": "5",
+          "Vegvisir": "no",
+          "Chest": "50%",
+          "Creatures": "0–3 Fuling Berserkers"
+        },
+        {
+          "Id": "StoneHenge3",
+          "Image": "",
+          "Number per world": "5",
+          "Vegvisir": "40%",
+          "Chest": "50%",
+          "Creatures": "0–3 Fuling Berserkers"
+        },
+        {
+          "Id": "StoneHenge4",
+          "Image": "",
+          "Number per world": "5",
+          "Vegvisir": "40%",
+          "Chest": "no",
+          "Creatures": "0–2 Fuling Berserkers"
+        },
+        {
+          "Id": "StoneHenge5",
+          "Image": "",
+          "Number per world": "20",
+          "Vegvisir": "40%",
+          "Chest": "no",
+          "Creatures": "0–3 Fulings"
+        },
+        {
+          "Id": "StoneHenge6",
+          "Image": "",
+          "Number per world": "20",
+          "Vegvisir": "no",
+          "Chest": "no",
+          "Creatures": "no"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Stonehenges were inspired by their real-life counterpart of the same name found in Wiltshire, England. The real pre-historic monument is said to have been constructed over 5000 years ago."
+    }
+  ],
+  "full_text": "Stonehenge\n\nType: Structure | Internal ID: StoneHenge1 to | StoneHenge6 | Location: Plains | Resources: Stonehenge Center Chest | Inhabitants: Fuling Berserker | Fuling\n\nIntroduction. Stonehenges are permanent structures found in Plains. They are a formation of large boulders placed on top of each other, either in a circle or by themselves.\n\nResources. Stonehenges comes in 6 variants. Each variant features one or more of the following features:\n• A chance for a Vegvisir that marks the location of the closest Yagluth's Forsaken Altars.\n• A chance for a Stonehenge Center Chest that rarely contains a Fuling totem.\n• A chance for Fuling berserkers or Fulings protecting the zone.\n\nNotes. • Stonehenges were inspired by their real-life counterpart of the same name found in Wiltshire, England. The real pre-historic monument is said to have been constructed over 5000 years ago.",
+  "scraped_at": "2026-02-26T01:47:22.905099+00:00"
+}

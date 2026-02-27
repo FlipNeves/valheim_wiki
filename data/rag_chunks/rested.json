@@ -1,0 +1,11 @@
+{
+  "title": "Rested",
+  "url": "https://valheim.fandom.com/wiki/Rested",
+  "slug": "Rested",
+  "categories": [
+    "Effects"
+  ],
+  "content": "# Rested\n\nEffects: Health regen +50% | Stamina regen +100% | XP gain +50% | Eitr regen +100%\n\n# Introduction\n\nRested is a status effect applied after having the Resting effect for 20 seconds. The effect is removed when the player character logs out and does not persist into new game sessions.\nThe duration of the effect depends on the Comfort level from the player's surroundings. Placing furniture and building a shelter will increase the comfort level around the player. The base duration for the Rested effect is 7 minutes, with each comfort level adding an additional minute to the total: R e s t e d D u r a t i o n = B a s e D u r a t i o n + C o m f o r t L e v e l {\\displaystyle RestedDuration=BaseDuration+ComfortLevel}\nAlthough not mentioned in its description, the effect also provides a 50% boost to all skill experience earned. The comfort level does not affect this experience multiplier.\n\n## Tips\n\n• Placing a Campfire in the entrance hall of Dungeons can quickly restore a 10-minute Rested buff for merely 5 Stone and 2 Wood.\n• While acting as a \"buff\" to player stats, the opposite should be considered: the lack of having the Rested effect provides a huge disadvantage in combat and traversal and should not be overlooked. This especially applies when combined with the Wet effect, which can make the player extremely vulnerable, such as in the Swamp (where it is persistent).\n\nCategorias: Effects",
+  "content_length": 1417,
+  "scraped_at": "2026-02-26T02:00:54.108118+00:00"
+}

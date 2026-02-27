@@ -1,0 +1,38 @@
+{
+  "title": "Hot tub",
+  "url": "https://valheim.fandom.com/wiki/Hot_tub",
+  "slug": "Hot_tub",
+  "categories": [
+    "Furniture",
+    "Grants Comfort"
+  ],
+  "infobox": {
+    "_infobox_title": "Hot tub",
+    "Type": "Furniture",
+    "Internal ID": "piece_bathtub",
+    "Source": "Workbench",
+    "Usage": "Comfort",
+    "Crafting Materials": "Wood x20, Tar x6, Iron x10, Stone x8",
+    "Support": "Wood (from 10 to 100)",
+    "Loss": "1/8 vertical, 1/5 horizontal",
+    "Other Effect(s)": "Produces smoke, Add Wet Effect when inside",
+    "Weak to (x1.5)": "Chop",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Hot tub is a decorative item that can be placed on any flooring, and can be built using the Hammer within the range of a Workbench. It requires Wood as fuel and produces smoke while lit. The Hot Tub also increases the Comfort level by 2 when fueled.\nUniquely, the hot tub will allow a player to gain the Rested Effect while wet, something that is not normally possible.\nDestroying the hot tub with a hammer will not yield back any wood used for fuel and will only return the materials used for its construction. All wood used as fuel will not be dropped.\nWhile working, it provides the Fire effect but only for about one meter around it."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• A fueled hot tub will eventually kill the player in the Ashlands after spending too much time inside. This occurs in the same way as all water found in the Ashlands biome. In other biomes, the player character can remain in a hot tub indefinitely without being damaged by the water."
+    }
+  ],
+  "full_text": "Hot tub\n\nType: Furniture | Internal ID: piece_bathtub | Source: Workbench | Usage: Comfort | Crafting Materials: Wood x20, Tar x6, Iron x10, Stone x8 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Other Effect(s): Produces smoke, Add Wet Effect when inside | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\nIntroduction. The Hot tub is a decorative item that can be placed on any flooring, and can be built using the Hammer within the range of a Workbench. It requires Wood as fuel and produces smoke while lit. The Hot Tub also increases the Comfort level by 2 when fueled.\nUniquely, the hot tub will allow a player to gain the Rested Effect while wet, something that is not normally possible.\nDestroying the hot tub with a hammer will not yield back any wood used for fuel and will only return the materials used for its construction. All wood used as fuel will not be dropped.\nWhile working, it provides the Fire effect but only for about one meter around it.\n\nNotes. • A fueled hot tub will eventually kill the player in the Ashlands after spending too much time inside. This occurs in the same way as all water found in the Ashlands biome. In other biomes, the player character can remain in a hot tub indefinitely without being damaged by the water.",
+  "scraped_at": "2026-02-26T01:41:24.151126+00:00"
+}

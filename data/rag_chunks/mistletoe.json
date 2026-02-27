@@ -1,0 +1,12 @@
+{
+  "title": "Mistletoe",
+  "url": "https://valheim.fandom.com/wiki/Mistletoe",
+  "slug": "Mistletoe",
+  "categories": [
+    "Furniture",
+    "Seasonal Furniture"
+  ],
+  "content": "# Mistletoe\n\nType: Furniture | Internal ID: piece_mistletoe | Source: Workbench | Season: Yule (Christmas) | Usage: Decoration | Crafting Materials: Finewood x1, Red jute x1 | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nMistletoe is a seasonal decorative object that can be placed on the underside of a surface. It needs to be built within the range of a Workbench.\n\n## Availability\n\nThe Mistletoe cannot be built year-round. It can only be built during the Christmas season, 1 December – 6 January.\n\nCategorias: Furniture, Seasonal Furniture",
+  "content_length": 682,
+  "scraped_at": "2026-02-26T01:41:41.913643+00:00"
+}

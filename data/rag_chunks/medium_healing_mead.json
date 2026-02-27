@@ -1,0 +1,13 @@
+{
+  "title": "Medium healing mead",
+  "url": "https://valheim.fandom.com/wiki/Medium_healing_mead",
+  "slug": "Medium_healing_mead",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "content": "# Medium healing mead\n\nType: Mead | Internal ID: MeadHealthMedium | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Medium healing x1 | Duration: 10s | Cooldown: 2m | Health Regen: +75 HP over 10s\n\n# Introduction\n\nMedium healing mead is a Swamp-tier consumable item fermented from Mead base: Medium healing.\n\n## Recipe\n\nMead base: Medium healing is produced in a Mead ketill with:\n• 10 Honey\n• 4 Bloodbag\n• 10 Raspberries\n• 1 Dandelion\nSix Medium healing meads are produced by fermenting the mead base for two in-game days.\n\n## Effect\n\nUpon consumption, it restores 75 health over 10 seconds.\nA 2-min cooldown is applied preventing consumption of another healing mead.\n\nCategorias: Mead, Fermenter recipes, Items",
+  "content_length": 783,
+  "scraped_at": "2026-02-26T02:11:38.058321+00:00"
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Arrows",
+  "url": "https://valheim.fandom.com/wiki/Arrows",
+  "slug": "Arrows",
+  "categories": [
+    "Weapons",
+    "Arrows"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Arrows is a type of ammunition for Bows.\nArrow damage is added to base bow damage before any other damage calculation. (See Damage mechanics for details).\nIf you have more than one kind of arrow, you can right click the kind you want in your inventory."
+    },
+    {
+      "heading": "List of Arrows",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Wood arrow",
+          "Icon": "",
+          "Total Damage": "22",
+          "Damage Type": "Pierce: 22",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Flinthead arrow",
+          "Icon": "",
+          "Total Damage": "27",
+          "Damage Type": "Pierce: 27",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Bronzehead arrow",
+          "Icon": "",
+          "Total Damage": "32",
+          "Damage Type": "Pierce: 32",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Fire arrow",
+          "Icon": "",
+          "Total Damage": "33",
+          "Damage Type": "Pierce: 11Fire: 22",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Ironhead arrow",
+          "Icon": "",
+          "Total Damage": "42",
+          "Damage Type": "Pierce: 42",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Poison arrow",
+          "Icon": "",
+          "Total Damage": "78",
+          "Damage Type": "Pierce: 26Poison: 52",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Obsidian arrow",
+          "Icon": "",
+          "Total Damage": "52",
+          "Damage Type": "Pierce: 52",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Frost arrow",
+          "Icon": "",
+          "Total Damage": "78",
+          "Damage Type": "Pierce: 26Frost: 52",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Silver arrow",
+          "Icon": "",
+          "Total Damage": "72",
+          "Damage Type": "Pierce: 52Spirit: 20",
+          "Knockback": "10"
+        },
+        {
+          "Name": "Needle arrow",
+          "Icon": "",
+          "Total Damage": "62",
+          "Damage Type": "Pierce: 62",
+          "Knockback": "15"
+        },
+        {
+          "Name": "Carapace arrow",
+          "Icon": "",
+          "Total Damage": "72",
+          "Damage Type": "Pierce: 72",
+          "Knockback": "15"
+        },
+        {
+          "Name": "Charred arrow",
+          "Icon": "",
+          "Total Damage": "82",
+          "Damage Type": "Pierce: 82",
+          "Knockback": "15"
+        }
+      ]
+    }
+  ],
+  "full_text": "Arrows\n\nIntroduction. Arrows is a type of ammunition for Bows.\nArrow damage is added to base bow damage before any other damage calculation. (See Damage mechanics for details).\nIf you have more than one kind of arrow, you can right click the kind you want in your inventory.",
+  "scraped_at": "2026-02-26T01:10:27.291148+00:00"
+}

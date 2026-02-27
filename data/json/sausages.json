@@ -1,0 +1,51 @@
+{
+  "title": "Sausages",
+  "url": "https://valheim.fandom.com/wiki/Sausages",
+  "slug": "Sausages",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Sausages",
+    "Type": "Food",
+    "Internal ID": "Sausages",
+    "Source": "Cauldron",
+    "Usage": "Crafting, Eating, Taming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Entrails x4, Boar meat x1, Thistle x1",
+    "Max Health": "55",
+    "Max Stamina": "18",
+    "Duration": "25m",
+    "Healing": "3 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Sausages are a Swamp-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Four Sausages are produced in a level 2 Cauldron with:\n• 4 Entrails\n• 1 Boar meat\n• 1 Thistle"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Swamp dweller's delight"
+    },
+    {
+      "heading": "Other locations",
+      "level": 2,
+      "text": "Other than crafting, Sausages can be found:\n• In treasure chests at Infested Mines."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Sausages provide the second-highest health gain in the Swamps at 55, second to Serpent stew at 80, however the process of gathering the necessary items to make the stew is significantly more difficult and time-consuming.\n• Sausages continue to be a useful food item in the Mountains when paired with Wolf skewers.\n• Sausages can be given to tamed wolves."
+    }
+  ],
+  "full_text": "Sausages\n\nType: Food | Internal ID: Sausages | Source: Cauldron | Usage: Crafting, Eating, Taming | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Entrails x4, Boar meat x1, Thistle x1 | Max Health: 55 | Max Stamina: 18 | Duration: 25m | Healing: 3 hp/tick\n\nIntroduction. Sausages are a Swamp-tier food.\n\nRecipe. Four Sausages are produced in a level 2 Cauldron with:\n• 4 Entrails\n• 1 Boar meat\n• 1 Thistle\n\nCrafting. • Swamp dweller's delight\n\nOther locations. Other than crafting, Sausages can be found:\n• In treasure chests at Infested Mines.\n\nNotes. • Sausages provide the second-highest health gain in the Swamps at 55, second to Serpent stew at 80, however the process of gathering the necessary items to make the stew is significantly more difficult and time-consuming.\n• Sausages continue to be a useful food item in the Mountains when paired with Wolf skewers.\n• Sausages can be given to tamed wolves.",
+  "scraped_at": "2026-02-26T01:28:20.150681+00:00"
+}

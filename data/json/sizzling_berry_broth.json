@@ -1,0 +1,37 @@
+{
+  "title": "Sizzling berry broth",
+  "url": "https://valheim.fandom.com/wiki/Sizzling_berry_broth",
+  "slug": "Sizzling_berry_broth",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Sizzling berry broth",
+    "Type": "Food",
+    "Internal ID": "SizzlingBerryBroth",
+    "Source": "Cauldron",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Sap x3, Fiddlehead x2, Vineberry cluster x2",
+    "Max Health": "28",
+    "Max Stamina": "14",
+    "Max Eitr": "85",
+    "Duration": "25m",
+    "Healing": "4 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Sizzling berry broth is an Ashlands-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Sizzling berry broth is produced at a level 5 Cauldron with:\n• 3 Sap\n• 2 Fiddlehead\n• 2 Vineberry cluster"
+    }
+  ],
+  "full_text": "Sizzling berry broth\n\nType: Food | Internal ID: SizzlingBerryBroth | Source: Cauldron | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Sap x3, Fiddlehead x2, Vineberry cluster x2 | Max Health: 28 | Max Stamina: 14 | Max Eitr: 85 | Duration: 25m | Healing: 4 hp/tick\n\nIntroduction. Sizzling berry broth is an Ashlands-tier food.\n\nRecipe. Sizzling berry broth is produced at a level 5 Cauldron with:\n• 3 Sap\n• 2 Fiddlehead\n• 2 Vineberry cluster",
+  "scraped_at": "2026-02-26T01:28:44.479775+00:00"
+}

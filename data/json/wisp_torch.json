@@ -1,0 +1,33 @@
+{
+  "title": "Wisp torch",
+  "url": "https://valheim.fandom.com/wiki/Wisp_torch",
+  "slug": "Wisp_torch",
+  "categories": [
+    "Furniture",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Wisp torch",
+    "Type": "Furniture",
+    "Internal ID": "piece_groundtorch_mist",
+    "Usage": "Light source; dispels the mist.",
+    "Crafting Materials": "Yggdrasil wood x1, Wisp x1",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Lightning",
+    "Resistant to (x0.5)": "Pierce",
+    "Immune to (x0)": "Fire, ,, Frost, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Wisp torch is a special light source."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "The wisp torch allows the player to permanently clear part of the mist within Mistlands in a 12m radius. It does not have to be built close to a Workbench or another crafting station.\nUnlike other placeable torches, it requires no fuel. It also does not create a player base, thus creatures can still spawn around it."
+    }
+  ],
+  "full_text": "Wisp torch\n\nType: Furniture | Internal ID: piece_groundtorch_mist | Usage: Light source; dispels the mist. | Crafting Materials: Yggdrasil wood x1, Wisp x1 | Neutral to (x1): Blunt, ,, Slash, ,, Chop, ,, Pickaxe, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\nIntroduction. The Wisp torch is a special light source.\n\nUsage. The wisp torch allows the player to permanently clear part of the mist within Mistlands in a 12m radius. It does not have to be built close to a Workbench or another crafting station.\nUnlike other placeable torches, it requires no fuel. It also does not create a player base, thus creatures can still spawn around it.",
+  "scraped_at": "2026-02-26T01:42:39.802406+00:00"
+}

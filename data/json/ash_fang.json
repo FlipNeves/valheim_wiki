@@ -1,0 +1,72 @@
+{
+  "title": "Ash Fang",
+  "url": "https://valheim.fandom.com/wiki/Ash_Fang",
+  "slug": "Ash_Fang",
+  "categories": [
+    "Weapons",
+    "Bows",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Ash Fang",
+    "Internal ID": "BowAshlands",
+    "Type": "Bow",
+    "Source": "Black forge",
+    "Usage": "Ranged weapon",
+    "Wielding": "Two-handed",
+    "Crafting Materials": "Ashwood x15, Charred Bone x30, Flametal x15, Bonemaw Tooth x15",
+    "Attack speed": "0.8 s + 2.5 s draw time",
+    "Movement speed": "-5%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ash Fang is the sixth bow. Its primary attack fires arrows and charging the attack increases accuracy, damage and velocity of the arrow. It does not have a secondary attack. While upgraded, it also adds spirit damage to the arrows.\nSimilar to other Ashlands weapons, the bow can be upgraded to one of three variants using gemstones:\n• Blood Fang (Bloodstone)\n• Storm Fang (Iolite)\n• Root Fang (Jade)\nAn upgraded Ash Fang will NOT keep its upgrade level when it is modified using gemstones."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "Total cost for the fully upgraded bow is 40 Ashwood, 76 Charred bone, 35 Flametal and 35 Bonemaw tooth. However, it is only 25 Ashwood, 46 Charred bone, 20 Flametal and 20 Bonemaw tooth for level 3, which is the highest upgrade currently obtainable.",
+      "table_data": [
+        {
+          "stat": "Pierce",
+          "Quality 1": "82",
+          "Quality 2": "86",
+          "Quality 3": "90",
+          "Quality 4": "94"
+        },
+        {
+          "stat": "Spirit",
+          "Quality 1": "",
+          "Quality 2": "5",
+          "Quality 3": "10",
+          "Quality 4": "15"
+        },
+        {
+          "stat": "Durability",
+          "Quality 1": "100",
+          "Quality 2": "150",
+          "Quality 3": "200",
+          "Quality 4": "250"
+        },
+        {
+          "stat": "Crafting",
+          "Quality 1": "10 Ashwood16 Charred bone5 Flametal5 Bonemaw tooth",
+          "Quality 2": "5 Ashwood10Charred bone5 Flametal5 Bonemaw tooth",
+          "Quality 3": "10 Ashwood20 Charred bone10 Flametal10 Bonemaw tooth",
+          "Quality 4": "15 Ashwood30 Charred bone15 Flametal15 Bonemaw tooth"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "3",
+          "Quality 2": "4",
+          "Quality 3": "5",
+          "Quality 4": "6 (not yet available)"
+        }
+      ]
+    }
+  ],
+  "full_text": "Ash Fang\n\nInternal ID: BowAshlands | Type: Bow | Source: Black forge | Usage: Ranged weapon | Wielding: Two-handed | Crafting Materials: Ashwood x15, Charred Bone x30, Flametal x15, Bonemaw Tooth x15 | Attack speed: 0.8 s + 2.5 s draw time | Movement speed: -5%\n\nIntroduction. Ash Fang is the sixth bow. Its primary attack fires arrows and charging the attack increases accuracy, damage and velocity of the arrow. It does not have a secondary attack. While upgraded, it also adds spirit damage to the arrows.\nSimilar to other Ashlands weapons, the bow can be upgraded to one of three variants using gemstones:\n• Blood Fang (Bloodstone)\n• Storm Fang (Iolite)\n• Root Fang (Jade)\nAn upgraded Ash Fang will NOT keep its upgrade level when it is modified using gemstones.\n\nUpgrade information. Total cost for the fully upgraded bow is 40 Ashwood, 76 Charred bone, 35 Flametal and 35 Bonemaw tooth. However, it is only 25 Ashwood, 46 Charred bone, 20 Flametal and 20 Bonemaw tooth for level 3, which is the highest upgrade currently obtainable.",
+  "scraped_at": "2026-02-26T01:10:33.184817+00:00"
+}

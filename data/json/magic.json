@@ -1,0 +1,34 @@
+{
+  "title": "Magic",
+  "url": "https://valheim.fandom.com/wiki/Magic",
+  "slug": "Magic",
+  "categories": [
+    "Mechanics",
+    "Magic"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Magic is a combat mechanic that appeared with the Mistlands update, which has opened up the mage play style which functions similar, but different to the traditional play styles of melee and range, as well as offering more direct team-play benefits."
+    },
+    {
+      "heading": "Functioning",
+      "level": 2,
+      "text": "The magic mechanic revolves around the use of magic weapons (not to be confused with \"elemental\" weapons, which cause elemental damage such as fire, frost or poison). As of the Ashlands update, eight magic weapons have been introduced.\nA magical weapon will need Eitr to be used, which requires Eitr food to be consumed, and if the player tries to use a magical weapon without having an Eitr bar, the message \"Eitr required\" will be displayed.\nThere are currently two types of magic: Elemental magic and Blood magic. Each type has its own associated skill, Elemental magic (Skill) and Blood magic (Skill), which determines not only how much damage weapons of that type deal (either directly or indirectly), but also the cost used to cast magic of that type."
+    },
+    {
+      "heading": "Elemental Magic",
+      "level": 2,
+      "text": "Elemental Magic uses pure Eitr for casting offensive attacks."
+    },
+    {
+      "heading": "Blood Magic",
+      "level": 2,
+      "text": "Blood Magic uses both Eitr and a percentage of the user's current Health (Not maximum) to cast defensive actions, such as shielding allies from damage or summoning Skelett and other reinforcements. Getting greater skill in Blood magic leads to stronger shields as well as summoning stronger creatures."
+    }
+  ],
+  "full_text": "Magic\n\nIntroduction. Magic is a combat mechanic that appeared with the Mistlands update, which has opened up the mage play style which functions similar, but different to the traditional play styles of melee and range, as well as offering more direct team-play benefits.\n\nFunctioning. The magic mechanic revolves around the use of magic weapons (not to be confused with \"elemental\" weapons, which cause elemental damage such as fire, frost or poison). As of the Ashlands update, eight magic weapons have been introduced.\nA magical weapon will need Eitr to be used, which requires Eitr food to be consumed, and if the player tries to use a magical weapon without having an Eitr bar, the message \"Eitr required\" will be displayed.\nThere are currently two types of magic: Elemental magic and Blood magic. Each type has its own associated skill, Elemental magic (Skill) and Blood magic (Skill), which determines not only how much damage weapons of that type deal (either directly or indirectly), but also the cost used to cast magic of that type.\n\nElemental Magic. Elemental Magic uses pure Eitr for casting offensive attacks.\n\nBlood Magic. Blood Magic uses both Eitr and a percentage of the user's current Health (Not maximum) to cast defensive actions, such as shielding allies from damage or summoning Skelett and other reinforcements. Getting greater skill in Blood magic leads to stronger shields as well as summoning stronger creatures.",
+  "scraped_at": "2026-02-26T01:53:16.511558+00:00"
+}

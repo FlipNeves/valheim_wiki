@@ -1,0 +1,31 @@
+{
+  "title": "Pungent pebbles",
+  "url": "https://valheim.fandom.com/wiki/Pungent_pebbles",
+  "slug": "Pungent_pebbles",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Pungent pebbles",
+    "Type": "Material",
+    "Internal ID": "PungentPebbles",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "125, Coins, for 5",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Pungent pebbles can be purchased from The Bog Witch at 125 Coins for 5 items."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mead base: Animal whispers"
+    }
+  ],
+  "full_text": "Pungent pebbles\n\nType: Material | Internal ID: PungentPebbles | Source: The Bog Witch | Usage: Crafting | Buy: 125, Coins, for 5 | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Pungent pebbles can be purchased from The Bog Witch at 125 Coins for 5 items.\n\nCrafting. • Mead base: Animal whispers",
+  "scraped_at": "2026-02-26T01:35:57.551893+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Body pile",
+  "url": "https://valheim.fandom.com/wiki/Body_pile",
+  "slug": "Body_pile",
+  "categories": [
+    "Building",
+    "Creature spawner"
+  ],
+  "infobox": {
+    "_infobox_title": "Body pile",
+    "Internal ID": "Spawner_DraugrPile",
+    "Usage": "Draugr (melee) (43% chance), Draugr (ranged) (43% chance), Draugr elite (14% chance)",
+    "Weak to (x1.5)": "Spirit",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Lightning, ,, Frost",
+    "Resistant to (x0.5)": "Pierce, ,, Fire",
+    "Immune to (x0)": "Chop, ,, Pickaxe, ,, Poison"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Body pile is a creature spawner found in Sunken Crypts, Draugr Villages, Swamp and Mountain.\nThe pile can spawn any draugr:\n• Draugr (melee) (43% chance)\n• Draugr (ranged) (43% chance)\n• Draugr elite (14% chance)\nSpawned enemies have a 15% chance to be 1-star and a 2.25% chance to be 2-star.\nThe nest activates when there is a player within 20 meters. The nest attempts to spawn within 3 meters every 6 seconds until there are 2 draugr within 20 meters."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• In Sunken Crypts they may not spawn anything if there are draugr in nearby rooms.\n• Body piles are the best way to farm Draugr Elite trophy.\n• It is recommended to dispose of them as soon as possible because they will continuously spawn in hostile creatures.\n• If kept intact, these can provide a useful and infinite source of resources that the hostile creatures may drop.\n• The ratio of ranged and melee draugr is different from the default ratio (75% melee and 25% ranged)."
+    }
+  ],
+  "full_text": "Body pile\n\nInternal ID: Spawner_DraugrPile | Usage: Draugr (melee) (43% chance), Draugr (ranged) (43% chance), Draugr elite (14% chance) | Weak to (x1.5): Spirit | Neutral to (x1): Blunt, ,, Slash, ,, Lightning, ,, Frost | Resistant to (x0.5): Pierce, ,, Fire | Immune to (x0): Chop, ,, Pickaxe, ,, Poison\n\nIntroduction. The Body pile is a creature spawner found in Sunken Crypts, Draugr Villages, Swamp and Mountain.\nThe pile can spawn any draugr:\n• Draugr (melee) (43% chance)\n• Draugr (ranged) (43% chance)\n• Draugr elite (14% chance)\nSpawned enemies have a 15% chance to be 1-star and a 2.25% chance to be 2-star.\nThe nest activates when there is a player within 20 meters. The nest attempts to spawn within 3 meters every 6 seconds until there are 2 draugr within 20 meters.\n\nNotes. • In Sunken Crypts they may not spawn anything if there are draugr in nearby rooms.\n• Body piles are the best way to farm Draugr Elite trophy.\n• It is recommended to dispose of them as soon as possible because they will continuously spawn in hostile creatures.\n• If kept intact, these can provide a useful and infinite source of resources that the hostile creatures may drop.\n• The ratio of ranged and melee draugr is different from the default ratio (75% melee and 25% ranged).",
+  "scraped_at": "2026-02-26T01:38:13.912076+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Beaded dress yellow",
+  "url": "https://valheim.fandom.com/wiki/Beaded_dress_yellow",
+  "slug": "Beaded_dress_yellow",
+  "categories": [
+    "Armor",
+    "Body"
+  ],
+  "infobox": {
+    "_infobox_title": "Beaded dress yellow",
+    "Internal ID": "ArmorDress9",
+    "Type": "Body",
+    "Source": "Hildir",
+    "Buy": "550, Coins",
+    "Armor": "1",
+    "Base Item Stamina Usage": "-20%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Beaded dress yellow is an armor piece which can be purchased from Hildir for 550 Coins. This item will be in the merchant's assortment only after returning Hildir's bronze chest."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 20%."
+    }
+  ],
+  "full_text": "Beaded dress yellow\n\nInternal ID: ArmorDress9 | Type: Body | Source: Hildir | Buy: 550, Coins | Armor: 1 | Base Item Stamina Usage: -20%\n\nIntroduction. Beaded dress yellow is an armor piece which can be purchased from Hildir for 550 Coins. This item will be in the merchant's assortment only after returning Hildir's bronze chest.\n\nNotes. • Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 20%.",
+  "scraped_at": "2026-02-26T01:20:42.137628+00:00"
+}

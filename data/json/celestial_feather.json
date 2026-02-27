@@ -1,0 +1,35 @@
+{
+  "title": "Celestial feather",
+  "url": "https://valheim.fandom.com/wiki/Celestial_feather",
+  "slug": "Celestial_feather",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Celestial feather",
+    "Type": "Material",
+    "Internal ID": "CelestialFeather",
+    "Source": "Fallen Valkyrie",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Celestial feather is a material found in Ashlands.\nFallen Valkyries drop 2 to 3 Celestial feathers upon death. It can also be found in Charred chest inside Charred Fortress."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Feathery wreath"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Staff of the Wild\n• Dundr"
+    }
+  ],
+  "full_text": "Celestial feather\n\nType: Material | Internal ID: CelestialFeather | Source: Fallen Valkyrie | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Celestial feather is a material found in Ashlands.\nFallen Valkyries drop 2 to 3 Celestial feathers upon death. It can also be found in Charred chest inside Charred Fortress.\n\nBuilding. • Feathery wreath\n\nCrafting. • Staff of the Wild\n• Dundr",
+  "scraped_at": "2026-02-26T01:31:48.731217+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Root (Staff of the Wild)",
+  "url": "https://valheim.fandom.com/wiki/Root_(Staff_of_the_Wild)",
+  "slug": "Root_(Staff_of_the_Wild)",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Summoned Root",
+    "Internal ID": "staff_greenroots_tentaroot",
+    "Faction": "Player",
+    "Abilities": "10% chance to, immobilize, enemy for 10 seconds",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Spirit",
+    "Resistant to (x0.5)": "Fire",
+    "Immune to (x0)": "Poison, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Summoned roots are invoked by the Staff of the Wild and stay between 23 and 25 seconds before disappearing.\nThey remain stationary and attack any enemy creatures within range. Their attack has a 10% chance to immobilize enemies for 10 seconds.\nOther creatures do not attack the roots directly but they can intercept projectile or receive collateral damage."
+    }
+  ],
+  "full_text": "Root (Staff of the Wild)\n\nInternal ID: staff_greenroots_tentaroot | Faction: Player | Abilities: 10% chance to, immobilize, enemy for 10 seconds | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Frost, ,, Lightning, ,, Spirit | Resistant to (x0.5): Fire | Immune to (x0): Poison, ,, Chop, ,, Pickaxe\n\nIntroduction. Summoned roots are invoked by the Staff of the Wild and stay between 23 and 25 seconds before disappearing.\nThey remain stationary and attack any enemy creatures within range. Their attack has a 10% chance to immobilize enemies for 10 seconds.\nOther creatures do not attack the roots directly but they can intercept projectile or receive collateral damage.",
+  "scraped_at": "2026-02-26T01:08:56.848208+00:00"
+}

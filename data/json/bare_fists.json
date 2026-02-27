@@ -1,0 +1,25 @@
+{
+  "title": "Bare fists",
+  "url": "https://valheim.fandom.com/wiki/Bare_fists",
+  "slug": "Bare_fists",
+  "categories": [
+    "Weapons",
+    "Unarmed"
+  ],
+  "infobox": {
+    "_infobox_title": "Bare fists",
+    "Internal ID": "PlayerUnarmed",
+    "Type": "Fists",
+    "Source": "Always available",
+    "Wielding": "One-handed"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bare fists are the player's first weapons. They deal low damage, offering good knockback and stagger on the slower secondary attack (kick). They get quickly replaced by crafted weapons and tools.\nThe primary attack is a punch, and the secondary attack is a kick that does additional knockback. Both attacks have a base value of 5 blunt damage. The punch has a 2-hit combo where the second punch (left hand) does double damage."
+    }
+  ],
+  "full_text": "Bare fists\n\nInternal ID: PlayerUnarmed | Type: Fists | Source: Always available | Wielding: One-handed\n\nIntroduction. Bare fists are the player's first weapons. They deal low damage, offering good knockback and stagger on the slower secondary attack (kick). They get quickly replaced by crafted weapons and tools.\nThe primary attack is a punch, and the secondary attack is a kick that does additional knockback. Both attacks have a base value of 5 blunt damage. The punch has a 2-hit combo where the second punch (left hand) does double damage.",
+  "scraped_at": "2026-02-26T01:10:46.445176+00:00"
+}

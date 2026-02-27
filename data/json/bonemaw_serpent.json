@@ -1,0 +1,78 @@
+{
+  "title": "Bonemaw",
+  "url": "https://valheim.fandom.com/wiki/Bonemaw_Serpent",
+  "slug": "Bonemaw_Serpent",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Bonemaw Serpent",
+    "Internal ID": "BonemawSerpent",
+    "Faction": "Demon",
+    "Main biome": "Ashlands",
+    "Drops": "Bonemaw trophy | Bonemaw meat | Bonemaw tooth",
+    "Abilities": "Spit (20s, 3x), Bite (10s)",
+    "Trophy": "Bonemaw trophy",
+    "Weak to (x1.5)": "Frost",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Lightning",
+    "Resistant to (x0.5)": "Poison",
+    "Immune to (x0)": "Fire, ,, Spirit, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Bonemaw are aggressive creatures found in the boiling waters surrounding the Ashlands landmass. They pose a significant danger when sailing to the biome."
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Ashlands Ocean",
+          "Limit": "1",
+          "Frequency": "Rare",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Spit",
+      "level": 3,
+      "text": "Dives slightly before swooping up out of the water to launch a barrage of three fireballs at the player which inflict the Burning and Poison statuses (40 Blunt, 20 Fire and 20 Poison damage for each hit). The fireballs travel at 20 meters per second and can travel for 10 seconds before disappearing, and has a spread of 10–20 degrees. This ability can be used every 20 seconds when within 10–30 meters of a player."
+    },
+    {
+      "heading": "Bite",
+      "level": 3,
+      "text": "Bonemaws will draw their head back before lunging forward to bite the player (140 Slash damage). This attack can be used every 10 seconds when within 3 meters of a player; even when a player is within attacking range, Bonemaws will continue moving toward them to stay as close as possible. It extends 3 meters out and hits in an 80-degree horizontal arc."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "The Bonemaw will drop Bonemaw meat and Bonemaw teeth at the site of its death, floating on the surface of the water. The trophy, however, sinks.",
+      "table_data": [
+        {
+          "Item": "Bonemaw trophy",
+          "0 Star": "33%",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Bonemaw meat",
+          "0 Star": "6-7",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Bonemaw tooth",
+          "0 Star": "8-9",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Bonemaw\n\nInternal ID: BonemawSerpent | Faction: Demon | Main biome: Ashlands | Drops: Bonemaw trophy | Bonemaw meat | Bonemaw tooth | Abilities: Spit (20s, 3x), Bite (10s) | Trophy: Bonemaw trophy | Weak to (x1.5): Frost | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Lightning | Resistant to (x0.5): Poison | Immune to (x0): Fire, ,, Spirit, ,, Chop, ,, Pickaxe\n\nIntroduction. Bonemaw are aggressive creatures found in the boiling waters surrounding the Ashlands landmass. They pose a significant danger when sailing to the biome.\n\nSpit. Dives slightly before swooping up out of the water to launch a barrage of three fireballs at the player which inflict the Burning and Poison statuses (40 Blunt, 20 Fire and 20 Poison damage for each hit). The fireballs travel at 20 meters per second and can travel for 10 seconds before disappearing, and has a spread of 10–20 degrees. This ability can be used every 20 seconds when within 10–30 meters of a player.\n\nBite. Bonemaws will draw their head back before lunging forward to bite the player (140 Slash damage). This attack can be used every 10 seconds when within 3 meters of a player; even when a player is within attacking range, Bonemaws will continue moving toward them to stay as close as possible. It extends 3 meters out and hits in an 80-degree horizontal arc.\n\nDrops. The Bonemaw will drop Bonemaw meat and Bonemaw teeth at the site of its death, floating on the surface of the water. The trophy, however, sinks.",
+  "scraped_at": "2026-02-26T01:53:52.187892+00:00"
+}

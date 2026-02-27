@@ -1,0 +1,102 @@
+{
+  "title": "Blob",
+  "url": "https://valheim.fandom.com/wiki/Blob",
+  "slug": "Blob",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Blob",
+    "Internal ID": "Blob",
+    "Faction": "Undead",
+    "Main biome": "Swamp",
+    "Drops": "Ooze | Blob trophy",
+    "Abilities": "Area of effect",
+    "Trophy": "Blob trophy",
+    "Weak to (x1.5)": "Blunt, ,, Frost, ,, Lightning",
+    "Neutral to (x1)": "Spirit",
+    "Resistant to (x0.5)": "Fire, ,, Pierce, ,, Slash",
+    "Immune to (x0)": "Poison, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Blobs are aggressive creatures found in the Swamps. They are large, gelatinous piles of sentient ooze that emit poisonous green gasses."
+    },
+    {
+      "heading": "Drops",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Blob trophy",
+          "0 Star": "10%",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Ooze",
+          "0 Star": "1",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Anywhere in the Swamps",
+          "Limit": "2",
+          "Frequency": "Uncommon",
+          "Stars": "No"
+        },
+        {
+          "Type": "Common spawn point in Sunken Crypts",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "No"
+        },
+        {
+          "Type": "Upon Oozers death, 2 spawn",
+          "Limit": "-",
+          "Frequency": "-",
+          "Stars": "No"
+        },
+        {
+          "Type": "Spawned by Bonemass (4 per ability)",
+          "Limit": "8",
+          "Frequency": "-",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"A foul smell from the swamp\" event after defeating Bonemass",
+          "Limit": "5",
+          "Frequency": "Very common",
+          "Stars": "No"
+        },
+        {
+          "Type": "When a Blob bomb Poison is used",
+          "Limit": "-",
+          "Frequency": "-",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Area of effect",
+      "level": 3,
+      "text": "Blobs will stretch slightly before compressing and releasing a cloud of poisonous gas 4 meters in radius, applying the Poison status (90 Poison damage). Despite visual appearances, the cloud does not actually persist and only hits once. This ability can be used when a player is within 2 meters, and it has a cooldown of 2 seconds."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Blobs can follow players out to the ocean and jump into boats.\n• Entering a Sunken Crypt and leaving Blobs alive there will count towards spawn caps effectively suppressing their spawns in a large area (including the Bonemass ability)."
+    }
+  ],
+  "full_text": "Blob\n\nInternal ID: Blob | Faction: Undead | Main biome: Swamp | Drops: Ooze | Blob trophy | Abilities: Area of effect | Trophy: Blob trophy | Weak to (x1.5): Blunt, ,, Frost, ,, Lightning | Neutral to (x1): Spirit | Resistant to (x0.5): Fire, ,, Pierce, ,, Slash | Immune to (x0): Poison, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. Blobs are aggressive creatures found in the Swamps. They are large, gelatinous piles of sentient ooze that emit poisonous green gasses.\n\nArea of effect. Blobs will stretch slightly before compressing and releasing a cloud of poisonous gas 4 meters in radius, applying the Poison status (90 Poison damage). Despite visual appearances, the cloud does not actually persist and only hits once. This ability can be used when a player is within 2 meters, and it has a cooldown of 2 seconds.\n\nNotes. • Blobs can follow players out to the ocean and jump into boats.\n• Entering a Sunken Crypt and leaving Blobs alive there will count towards spawn caps effectively suppressing their spawns in a large area (including the Bonemass ability).",
+  "scraped_at": "2026-02-26T01:06:18.522168+00:00"
+}

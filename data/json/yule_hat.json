@@ -1,0 +1,27 @@
+{
+  "title": "Yule hat",
+  "url": "https://valheim.fandom.com/wiki/Yule_hat",
+  "slug": "Yule_hat",
+  "categories": [
+    "Armor",
+    "Head"
+  ],
+  "infobox": {
+    "_infobox_title": "Yule hat",
+    "Internal ID": "HelmetYule",
+    "Type": "Head",
+    "Source": "Haldor",
+    "Buy": "100, Coins",
+    "Crafting Materials": "N/A",
+    "Armor": "1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Yule hat is an armor piece which can be purchased from Haldor for 100 Coins."
+    }
+  ],
+  "full_text": "Yule hat\n\nInternal ID: HelmetYule | Type: Head | Source: Haldor | Buy: 100, Coins | Crafting Materials: N/A | Armor: 1\n\nIntroduction. Yule hat is an armor piece which can be purchased from Haldor for 100 Coins.",
+  "scraped_at": "2026-02-26T01:24:32.869619+00:00"
+}

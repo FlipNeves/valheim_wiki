@@ -1,0 +1,30 @@
+{
+  "title": "Chitin",
+  "url": "https://valheim.fandom.com/wiki/Chitin",
+  "slug": "Chitin",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Chitin",
+    "Type": "Material",
+    "Internal ID": "Chitin",
+    "Source": "Abyssal barnacle, ,, Coral cod",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Chitin is a material found in the Ocean.\nIt is obtained by mining Abyssal barnacles found on Leviathans which appear as living, moving islands in the Ocean. Catching a Coral cod fish has a 13.33% of dropping 1-2 chitin, although catching them requires Heavy fishing bait (which can be difficult to obtain)."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Abyssal harpoon\n• Abyssal razor\n• Fins of Destiny"
+    }
+  ],
+  "full_text": "Chitin\n\nType: Material | Internal ID: Chitin | Source: Abyssal barnacle, ,, Coral cod | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Chitin is a material found in the Ocean.\nIt is obtained by mining Abyssal barnacles found on Leviathans which appear as living, moving islands in the Ocean. Catching a Coral cod fish has a 13.33% of dropping 1-2 chitin, although catching them requires Heavy fishing bait (which can be difficult to obtain).\n\nCrafting. • Abyssal harpoon\n• Abyssal razor\n• Fins of Destiny",
+  "scraped_at": "2026-02-26T01:32:16.549053+00:00"
+}

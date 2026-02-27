@@ -1,0 +1,30 @@
+{
+  "title": "Deer hide",
+  "url": "https://valheim.fandom.com/wiki/Deer_hide",
+  "slug": "Deer_hide",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Deer hide",
+    "Type": "Material",
+    "Internal ID": "DeerHide",
+    "Source": "Deer",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Deer hide can be dropped from Deer or found in Troll Cave treasure chests within the Black Forest biome. They can also be looted from Fuling Villages by destroying the roofs of their dwellings."
+    },
+    {
+      "heading": "Upgrading",
+      "level": 3,
+      "text": "• Crude bow"
+    }
+  ],
+  "full_text": "Deer hide\n\nType: Material | Internal ID: DeerHide | Source: Deer | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Deer hide can be dropped from Deer or found in Troll Cave treasure chests within the Black Forest biome. They can also be looted from Fuling Villages by destroying the roofs of their dwellings.\n\nUpgrading. • Crude bow",
+  "scraped_at": "2026-02-26T01:32:50.842234+00:00"
+}

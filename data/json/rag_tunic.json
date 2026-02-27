@@ -1,0 +1,61 @@
+{
+  "title": "Rag Armor",
+  "url": "https://valheim.fandom.com/wiki/Rag_tunic",
+  "slug": "Rag_tunic",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Rag Armor is a Meadows-tier armor and the most basic armor that can be acquired. It is statistically inferior to Leather Armor, and provides minimal protection. There are no set bonuses for rag armor. Every player starts with a Rag Tunic equipped."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "This set of armor has two pieces which are crafted and upgraded at the Workbench.",
+      "table_data": [
+        {
+          "Armor piece": "Rag tunic",
+          "Armor": "1",
+          "Crafting cost": "5 Leather scraps",
+          "Weight": "2.0"
+        },
+        {
+          "Armor piece": "Rag pants",
+          "Armor": "1",
+          "Crafting cost": "5 Leather scraps",
+          "Weight": "2.0"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "2",
+          "Crafting cost": "10 Leather scraps",
+          "Weight": "4.0"
+        },
+        {
+          "Armor piece": "Rag tunic",
+          "Armor": "2",
+          "Upgrade cost(Total cost)": "5 (10) Leather scraps",
+          "Weight": "2.0"
+        },
+        {
+          "Armor piece": "Rag pants",
+          "Armor": "2",
+          "Upgrade cost(Total cost)": "5 (10) Leather scraps",
+          "Weight": "2.0"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "4",
+          "Upgrade cost(Total cost)": "10 (20) Leather scraps",
+          "Weight": "4.0"
+        }
+      ]
+    }
+  ],
+  "full_text": "Rag Armor\n\nIntroduction. Rag Armor is a Meadows-tier armor and the most basic armor that can be acquired. It is statistically inferior to Leather Armor, and provides minimal protection. There are no set bonuses for rag armor. Every player starts with a Rag Tunic equipped.\n\nArmor pieces. This set of armor has two pieces which are crafted and upgraded at the Workbench.",
+  "scraped_at": "2026-02-26T02:05:49.526801+00:00"
+}

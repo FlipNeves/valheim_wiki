@@ -1,0 +1,91 @@
+{
+  "title": "Fists",
+  "url": "https://valheim.fandom.com/wiki/Fists",
+  "slug": "Fists",
+  "categories": [
+    "Weapons",
+    "Unarmed"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fists is a weapon class."
+    },
+    {
+      "heading": "Description",
+      "level": 2,
+      "text": "When a player attacks without a weapon, tool equipped, or use a dedicated Fist weapon such as the Flesh Rippers, they do a Fist strike. The primary attack is a punch, and the secondary attack is a kick that does additional knockback with 6x staggering. The punch has a 2-hit combo where the second punch (left hand) does double damage.\nBare fists can be useful against the weakest of enemies; especially when the player wants to avoid the cost of weapon durability. It also costs less stamina than most weapons."
+    },
+    {
+      "heading": "List of Fists",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Bare fists",
+          "Icon": "",
+          "Damage": "blunt: 5",
+          "Knockback": "5",
+          "Stamina": "4"
+        },
+        {
+          "Name": "Paws of the Bear",
+          "Icon": "",
+          "Damage": "slash: 25/37",
+          "Knockback": "10",
+          "Stamina": "6"
+        },
+        {
+          "Name": "Flesh Rippers",
+          "Icon": "",
+          "Damage": "slash: 60/72",
+          "Knockback": "20",
+          "Stamina": "10"
+        },
+        {
+          "Name": "Vilebone Maulclaws",
+          "Icon": "",
+          "Damage": "pierce: 60 slash: 20/32",
+          "Knockback": "10",
+          "Stamina": "12"
+        }
+      ]
+    },
+    {
+      "heading": "Properties",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Attack type": "Fist (primary)",
+          "Stamina": "1x",
+          "Range": "2 m",
+          "Attack speed": "1.48 s (0.76 + 0.72)",
+          "Damage": "1x + 2x",
+          "Staggering": "1x",
+          "Knockback": "20",
+          "Notes": ""
+        },
+        {
+          "Attack type": "Kick (secondary)",
+          "Stamina": "2x",
+          "Range": "2 m",
+          "Attack speed": "1.48 s",
+          "Damage": "1x",
+          "Staggering": "6x",
+          "Knockback": "80",
+          "Notes": ""
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Fists was previously named Unarmed prior to the Frost Caves update."
+    }
+  ],
+  "full_text": "Fists\n\nIntroduction. Fists is a weapon class.\n\nDescription. When a player attacks without a weapon, tool equipped, or use a dedicated Fist weapon such as the Flesh Rippers, they do a Fist strike. The primary attack is a punch, and the secondary attack is a kick that does additional knockback with 6x staggering. The punch has a 2-hit combo where the second punch (left hand) does double damage.\nBare fists can be useful against the weakest of enemies; especially when the player wants to avoid the cost of weapon durability. It also costs less stamina than most weapons.\n\nNotes. • Fists was previously named Unarmed prior to the Frost Caves update.",
+  "scraped_at": "2026-02-26T01:14:35.921964+00:00"
+}

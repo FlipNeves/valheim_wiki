@@ -1,0 +1,46 @@
+{
+  "title": "Deer stew",
+  "url": "https://valheim.fandom.com/wiki/Deer_stew",
+  "slug": "Deer_stew",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Deer stew",
+    "Type": "Food",
+    "Internal ID": "DeerStew",
+    "Source": "Cauldron",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Cooked deer meat x1, Blueberries x1, Carrot x1",
+    "Max Health": "45",
+    "Max Stamina": "15",
+    "Duration": "25m",
+    "Healing": "3 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Deer stew is a Black Forest-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Deer stew is produced in a level 1 Cauldron with:\n• 1 Cooked deer meat\n• 1 Blueberries\n• 1 Carrot"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Black Forest buffet platter"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Deer stew provides the highest health gain in the Black Forest, at 45."
+    }
+  ],
+  "full_text": "Deer stew\n\nType: Food | Internal ID: DeerStew | Source: Cauldron | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Cooked deer meat x1, Blueberries x1, Carrot x1 | Max Health: 45 | Max Stamina: 15 | Duration: 25m | Healing: 3 hp/tick\n\nIntroduction. Deer stew is a Black Forest-tier food.\n\nRecipe. Deer stew is produced in a level 1 Cauldron with:\n• 1 Cooked deer meat\n• 1 Blueberries\n• 1 Carrot\n\nCrafting. • Black Forest buffet platter\n\nNotes. • Deer stew provides the highest health gain in the Black Forest, at 45.",
+  "scraped_at": "2026-02-26T01:25:53.385851+00:00"
+}

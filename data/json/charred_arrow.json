@@ -1,0 +1,32 @@
+{
+  "title": "Charred arrow",
+  "url": "https://valheim.fandom.com/wiki/Charred_arrow",
+  "slug": "Charred_arrow",
+  "categories": [
+    "Weapons",
+    "Arrows",
+    "Black forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Charred arrow",
+    "Internal ID": "ArrowCharred",
+    "Type": "Arrow",
+    "Source": "Black forge",
+    "Usage": "Bow ammunition",
+    "Crafting Materials": "Charred bone x4, Feathers x2, Ashwood x8"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Charred arrows are ammunition for bows and are the next direct upgrade from Carapace arrows."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Charred bone can be found in the Ashlands and is dropped from Charred Warriors, Marksmen and Twitchers.\n• Ashwood can be obtained from the Ashlands by cutting down or chopping up burned trees."
+    }
+  ],
+  "full_text": "Charred arrow\n\nInternal ID: ArrowCharred | Type: Arrow | Source: Black forge | Usage: Bow ammunition | Crafting Materials: Charred bone x4, Feathers x2, Ashwood x8\n\nIntroduction. Charred arrows are ammunition for bows and are the next direct upgrade from Carapace arrows.\n\nAvailability. • Charred bone can be found in the Ashlands and is dropped from Charred Warriors, Marksmen and Twitchers.\n• Ashwood can be obtained from the Ashlands by cutting down or chopping up burned trees.",
+  "scraped_at": "2026-02-26T01:13:12.274177+00:00"
+}

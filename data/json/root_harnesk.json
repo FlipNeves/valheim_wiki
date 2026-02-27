@@ -1,0 +1,153 @@
+{
+  "title": "Root Set",
+  "url": "https://valheim.fandom.com/wiki/Root_harnesk",
+  "slug": "Root_harnesk",
+  "categories": [
+    "Armor"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Root Set is a Swamp-tier armor. This set is in the tier above Bronze Armor and the Troll Set. It provides less armor points, but also a lower movement speed penalty compared to the other swamp-tier armor, Iron Armor. Each piece provides weakness to fire, but individual parts give resistance to pierce (in the harnesk) and poison (in the mask). It's unique set bonus increases the wearer's Bow skill by 15 levels (see: Improved archery).\nThe 50% poison resistance from the mask makes this armor very useful in the Swamp, where there are many poison-inflicting enemies. Furthermore, the resistance against pierce damage is useful against enemies in the Plains and Mistlands, many of which have pierce damage attacks. However, Barley wine is strongly encouraged to counter the fire weakness received from any piece of the armor."
+    },
+    {
+      "heading": "Armor pieces",
+      "level": 2,
+      "text": "This set of armor has three pieces which are crafted and upgraded at the Workbench.",
+      "table_data": [
+        {
+          "Armor piece": "Root mask",
+          "Armor": "8",
+          "Crafting cost": "10 Root10 Ancient bark4 Leather scraps",
+          "Weight": "3.0",
+          "Movementspeed": "",
+          "Effects": "Resistant vs. Poison Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Root harnesk",
+          "Armor": "8",
+          "Crafting cost": "10 Root10 Ancient bark2 Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-2%",
+          "Effects": "Resistant vs. Pierce Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Root leggings",
+          "Armor": "8",
+          "Crafting cost": "10 Root10 Ancient bark2 Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-2%",
+          "Effects": "Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "24",
+          "Crafting cost": "30 Root30 Ancient bark4 Leather scraps 4 Deer hide",
+          "Weight": "23.0",
+          "Movementspeed": "-4%",
+          "Effects": "Bows +15* Resistant vs. Poison & Pierce Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Root mask",
+          "Armor": "10",
+          "Upgrade cost(Total cost)": "2 (12) Root5 (15) Ancient bark(4) Leather scraps",
+          "Weight": "3.0",
+          "Movementspeed": "",
+          "Effects": "Resistant vs. Poison Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Root harnesk",
+          "Armor": "10",
+          "Upgrade cost(Total cost)": "2 (12) Root5 (15) Ancient bark(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-2%",
+          "Effects": "Resistant vs. Pierce Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Root leggings",
+          "Armor": "10",
+          "Upgrade cost(Total cost)": "2 (12) Root5 (15) Ancient bark(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-2%",
+          "Effects": "Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "30",
+          "Upgrade cost(Total cost)": "6 (36) Root15 (45) Ancient bark(4) Leather scraps (4) Deer hide",
+          "Weight": "23.0",
+          "Movementspeed": "-4%",
+          "Effects": "Bows +15* Resistant vs. Poison & Pierce Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Root mask",
+          "Armor": "12",
+          "Upgrade cost(Total cost)": "4 (16) Root10 (25) Ancient bark(4) Leather scraps",
+          "Weight": "3.0",
+          "Movementspeed": "",
+          "Effects": "Resistant vs. Poison Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Root harnesk",
+          "Armor": "12",
+          "Upgrade cost(Total cost)": "4 (16) Root10 (25) Ancient bark(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-2%",
+          "Effects": "Resistant vs. Pierce Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Root leggings",
+          "Armor": "12",
+          "Upgrade cost(Total cost)": "4 (16) Root10 (25) Ancient bark(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-2%",
+          "Effects": "Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "36",
+          "Upgrade cost(Total cost)": "12 (48) Root30 (75) Ancient bark(4) Leather scraps (4) Deer hide",
+          "Weight": "23.0",
+          "Movementspeed": "-4%",
+          "Effects": "Bows +15* Resistant vs. Poison & Pierce Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Root mask",
+          "Armor": "14",
+          "Upgrade cost(Total cost)": "6 (22) Root15 (40) Ancient bark(4) Leather scraps",
+          "Weight": "3.0",
+          "Movementspeed": "",
+          "Effects": "Resistant vs. Poison Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Root harnesk",
+          "Armor": "14",
+          "Upgrade cost(Total cost)": "6 (22) Root15 (40) Ancient bark(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-2%",
+          "Effects": "Resistant vs. Pierce Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Root leggings",
+          "Armor": "14",
+          "Upgrade cost(Total cost)": "6 (22) Root15 (40) Ancient bark(2) Deer hide",
+          "Weight": "10.0",
+          "Movementspeed": "-2%",
+          "Effects": "Weak vs. Fire"
+        },
+        {
+          "Armor piece": "Full set",
+          "Armor": "42",
+          "Upgrade cost(Total cost)": "18 (66) Root45 (120) Ancient bark(4) Leather scraps (4) Deer hide",
+          "Weight": "23.0",
+          "Movementspeed": "-4%",
+          "Effects": "Bows +15* Resistant vs. Poison & Pierce Weak vs. Fire"
+        }
+      ]
+    }
+  ],
+  "full_text": "Root Set\n\nIntroduction. The Root Set is a Swamp-tier armor. This set is in the tier above Bronze Armor and the Troll Set. It provides less armor points, but also a lower movement speed penalty compared to the other swamp-tier armor, Iron Armor. Each piece provides weakness to fire, but individual parts give resistance to pierce (in the harnesk) and poison (in the mask). It's unique set bonus increases the wearer's Bow skill by 15 levels (see: Improved archery).\nThe 50% poison resistance from the mask makes this armor very useful in the Swamp, where there are many poison-inflicting enemies. Furthermore, the resistance against pierce damage is useful against enemies in the Plains and Mistlands, many of which have pierce damage attacks. However, Barley wine is strongly encouraged to counter the fire weakness received from any piece of the armor.\n\nArmor pieces. This set of armor has three pieces which are crafted and upgraded at the Workbench.",
+  "scraped_at": "2026-02-26T01:56:29.490695+00:00"
+}

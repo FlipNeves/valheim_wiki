@@ -1,0 +1,84 @@
+{
+  "title": "Serpent",
+  "url": "https://valheim.fandom.com/wiki/Serpent",
+  "slug": "Serpent",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Serpent",
+    "Internal ID": "Serpent",
+    "Faction": "Sea",
+    "Main biome": "Ocean",
+    "Drops": "Serpent meat | Serpent scale | Serpent trophy",
+    "Abilities": "Attack (10s)",
+    "Trophy": "Serpent trophy",
+    "Weak to (x1.5)": "Frost",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Lightning",
+    "Resistant to (x0.5)": "Poison",
+    "Immune to (x0)": "Fire, ,, Spirit, ,, Stagger, ,, Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Serpents are aggressive creatures found in Oceans, and currently the only hostile creature spawning in Oceans. They are large, aquatic snake-like reptilian creatures with six glowing eyes, spiked dorsal fins and a gaping mouth filled with razor-sharp teeth.\nSerpents are hunted primarily for their meat, which can be used in mid-late game food.",
+      "table_data": [
+        {
+          "Item": "Serpent meat",
+          "0 Star": "6-7",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Serpent scale",
+          "0 Star": "8-10",
+          "col_2": "",
+          "col_3": ""
+        },
+        {
+          "Item": "Serpent trophy",
+          "0 Star": "33%",
+          "col_2": "",
+          "col_3": ""
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Middle of Ocean during the night time, despawn at dawn",
+          "Limit": "1",
+          "Frequency": "Rare",
+          "Stars": "No"
+        },
+        {
+          "Type": "Middle of Ocean during rain or thunderstorm",
+          "Limit": "1",
+          "Frequency": "Rare",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Attack",
+      "level": 3,
+      "text": "Serpents will draw their head back before lunging forward to bite the player (70 Slash damage). This attack can be used every 10 seconds when within 3 meters of a player; even when a player is within attacking range, serpents will continue moving toward them to stay as close as possible. It extends 3 meters out and hits in an 80-degree horizontal arc."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• A Raft is generally too slow and too fragile for a solo player to survive a serpent attack. Because of serpent attacks, the minimum recommended setup for ocean exploration is a Karve with at least a Finewood bow.\n• Only the serpents that are spawned in rainy conditions can be held in captivity. Serpents that spawn at night will despawn during the day.\n• Serpents will attempt to flee back into the ocean if dragged inland.\n• Serpent meat floats, but all other drops do not. Killing a serpent in deep water will result in the drops sinking to the bottom of the ocean and there is currently no way to dive to retrieve them. Therefore, an Abyssal harpoon can be used to drag the serpent to shallow water or even on land before it is killed, to collect the drops."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The Serpent is likely based on Jörmungandr from Norse mythology, the giant sea serpent that roams the waters of Midgard.\n• Upon release, serpent meat could be cooked on a cooking station. Now, the Iron cooking station is required to cook serpent meat."
+    }
+  ],
+  "full_text": "Serpent\n\nInternal ID: Serpent | Faction: Sea | Main biome: Ocean | Drops: Serpent meat | Serpent scale | Serpent trophy | Abilities: Attack (10s) | Trophy: Serpent trophy | Weak to (x1.5): Frost | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Lightning | Resistant to (x0.5): Poison | Immune to (x0): Fire, ,, Spirit, ,, Stagger, ,, Chop, ,, Pickaxe\n\nIntroduction. Serpents are aggressive creatures found in Oceans, and currently the only hostile creature spawning in Oceans. They are large, aquatic snake-like reptilian creatures with six glowing eyes, spiked dorsal fins and a gaping mouth filled with razor-sharp teeth.\nSerpents are hunted primarily for their meat, which can be used in mid-late game food.\n\nAttack. Serpents will draw their head back before lunging forward to bite the player (70 Slash damage). This attack can be used every 10 seconds when within 3 meters of a player; even when a player is within attacking range, serpents will continue moving toward them to stay as close as possible. It extends 3 meters out and hits in an 80-degree horizontal arc.\n\nNotes. • A Raft is generally too slow and too fragile for a solo player to survive a serpent attack. Because of serpent attacks, the minimum recommended setup for ocean exploration is a Karve with at least a Finewood bow.\n• Only the serpents that are spawned in rainy conditions can be held in captivity. Serpents that spawn at night will despawn during the day.\n• Serpents will attempt to flee back into the ocean if dragged inland.\n• Serpent meat floats, but all other drops do not. Killing a serpent in deep water will result in the drops sinking to the bottom of the ocean and there is currently no way to dive to retrieve them. Therefore, an Abyssal harpoon can be used to drag the serpent to shallow water or even on land before it is killed, to collect the drops.\n\nTrivia. • The Serpent is likely based on Jörmungandr from Norse mythology, the giant sea serpent that roams the waters of Midgard.\n• Upon release, serpent meat could be cooked on a cooking station. Now, the Iron cooking station is required to cook serpent meat.",
+  "scraped_at": "2026-02-26T01:09:13.657976+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Ooze",
+  "url": "https://valheim.fandom.com/wiki/Ooze",
+  "slug": "Ooze",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Ooze",
+    "Type": "Material",
+    "Internal ID": "Ooze",
+    "Source": "Blob, ,, Oozer",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ooze is an item dropped by Blobs and Oozers in the Swamp biome."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Ooze bomb\n• Poison arrow\n• Muckshake"
+    }
+  ],
+  "full_text": "Ooze\n\nType: Material | Internal ID: Ooze | Source: Blob, ,, Oozer | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Ooze is an item dropped by Blobs and Oozers in the Swamp biome.\n\nCrafting. • Ooze bomb\n• Poison arrow\n• Muckshake",
+  "scraped_at": "2026-02-26T01:35:42.525973+00:00"
+}

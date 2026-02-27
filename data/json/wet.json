@@ -1,0 +1,32 @@
+{
+  "title": "Wet",
+  "url": "https://valheim.fandom.com/wiki/Wet",
+  "slug": "Wet",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {
+    "_infobox_title": "Wet",
+    "Effects": "Health regen: -25% | Stamina regen: -15% | Eitr regen: -15%",
+    "Damage Modifier": "Resistant VS Fire | Weak VS Frost | Weak VS Lightning"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wet is a status effect applied when the player is caught out in the rain or immersed in water.\nThe effect lasts for a duration of 120 seconds. The duration will not decrease while the player is exposed to rain or above the waist in water. The duration resets back to 120 seconds upon being exposed to water again. The effect provides a debuff to health, stamina and eitr regeneration.\nThe effect is applied constantly in the Swamp due to persistent and permanent rain unless the player is under a roof."
+    },
+    {
+      "heading": "Resistance",
+      "level": 2,
+      "text": "• Shelter\n• Burning (decreases wet effect at a rate of 60 seconds per second of burning)\n• Standing next to an object that produces the Fire effect (Decreases wet effect by 10 seconds per second of Fire Effect - has no effect if the player is in rain or submerged in water)"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The player is not able to receive the Resting effect, or use a bed while wet. This does not apply while sitting in a fueled Hot tub\n• The player will take additional damage from Frost attacks from Drakes and other sources.\n• The Wet effect appears to also apply to enemies submerged in water (but not enemies in rain)."
+    }
+  ],
+  "full_text": "Wet\n\nEffects: Health regen: -25% | Stamina regen: -15% | Eitr regen: -15% | Damage Modifier: Resistant VS Fire | Weak VS Frost | Weak VS Lightning\n\nIntroduction. Wet is a status effect applied when the player is caught out in the rain or immersed in water.\nThe effect lasts for a duration of 120 seconds. The duration will not decrease while the player is exposed to rain or above the waist in water. The duration resets back to 120 seconds upon being exposed to water again. The effect provides a debuff to health, stamina and eitr regeneration.\nThe effect is applied constantly in the Swamp due to persistent and permanent rain unless the player is under a roof.\n\nResistance. • Shelter\n• Burning (decreases wet effect at a rate of 60 seconds per second of burning)\n• Standing next to an object that produces the Fire effect (Decreases wet effect by 10 seconds per second of Fire Effect - has no effect if the player is in rain or submerged in water)\n\nNotes. • The player is not able to receive the Resting effect, or use a bed while wet. This does not apply while sitting in a fueled Hot tub\n• The player will take additional damage from Frost attacks from Drakes and other sources.\n• The Wet effect appears to also apply to enemies submerged in water (but not enemies in rain).",
+  "scraped_at": "2026-02-26T02:01:25.752376+00:00"
+}

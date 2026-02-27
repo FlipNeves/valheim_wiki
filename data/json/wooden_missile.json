@@ -1,0 +1,27 @@
+{
+  "title": "Wooden missile",
+  "url": "https://valheim.fandom.com/wiki/Wooden_missile",
+  "slug": "Wooden_missile",
+  "categories": [
+    "Weapons",
+    "Missiles",
+    "Artisan table recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Wooden missile",
+    "Internal ID": "TurretBoltWood",
+    "Type": "Missile",
+    "Source": "Artisan table",
+    "Usage": "Ballista ammunition",
+    "Crafting Materials": "Corewood x5, Feathers x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wooden missile is a missile used as ammunition for the Ballista, and can be crafted at the Artisan table."
+    }
+  ],
+  "full_text": "Wooden missile\n\nInternal ID: TurretBoltWood | Type: Missile | Source: Artisan table | Usage: Ballista ammunition | Crafting Materials: Corewood x5, Feathers x2\n\nIntroduction. Wooden missile is a missile used as ammunition for the Ballista, and can be crafted at the Artisan table.",
+  "scraped_at": "2026-02-26T01:20:07.604763+00:00"
+}

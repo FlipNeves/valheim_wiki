@@ -1,0 +1,71 @@
+{
+  "title": "Ashen cape",
+  "url": "https://valheim.fandom.com/wiki/Ashen_cape",
+  "slug": "Ashen_cape",
+  "categories": [
+    "Armor",
+    "Capes"
+  ],
+  "infobox": {
+    "_infobox_title": "Ashen cape",
+    "Internal ID": "CapeAsh",
+    "Type": "Cape",
+    "Source": "Black forge",
+    "Crafting Materials": "Asksvin hide x6",
+    "Armor": "18",
+    "Resistances": "Resistant (0.5x) vsFrost | Attack Stamina Usage -10%Block Stamina Usage -20%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Ashen cape is the combat focused Ashlands-tier Cape.\nA more mobile Ashlands-tier cape is the Asksvin cloak focusing on dodging and running."
+    },
+    {
+      "heading": "Perks",
+      "level": 2,
+      "text": "The Ashen cape gives resistant against frost, -10% to attack stamina usage and -20% to block stamina usage."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "stat": "Durability",
+          "Quality 1": "1200",
+          "Quality 2": "1250",
+          "Quality 3": "1300",
+          "Quality 4": "1350",
+          "Total": ""
+        },
+        {
+          "stat": "Armor",
+          "Quality 1": "12",
+          "Quality 2": "14",
+          "Quality 3": "16",
+          "Quality 4": "18",
+          "Total": ""
+        },
+        {
+          "stat": "Cost",
+          "Quality 1": "6 Asksvin hide2 Morgen sinew5 Flametal",
+          "Quality 2": "2 Asksvin hide",
+          "Quality 3": "4 Asksvin hide",
+          "Quality 4": "6 Asksvin hide",
+          "Total": "18 Asksvin hide2 Morgen sinew5 Flametal"
+        },
+        {
+          "stat": "Black forge level",
+          "Quality 1": "3",
+          "Quality 2": "4",
+          "Quality 3": "5",
+          "Quality 4": "6 (not yet available)",
+          "Total": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Ashen cape\n\nInternal ID: CapeAsh | Type: Cape | Source: Black forge | Crafting Materials: Asksvin hide x6 | Armor: 18 | Resistances: Resistant (0.5x) vsFrost | Attack Stamina Usage -10%Block Stamina Usage -20%\n\nIntroduction. The Ashen cape is the combat focused Ashlands-tier Cape.\nA more mobile Ashlands-tier cape is the Asksvin cloak focusing on dodging and running.\n\nPerks. The Ashen cape gives resistant against frost, -10% to attack stamina usage and -20% to block stamina usage.",
+  "scraped_at": "2026-02-26T01:20:23.151230+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dragon tear",
+  "url": "https://valheim.fandom.com/wiki/Dragon_tear",
+  "slug": "Dragon_tear",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Dragon tear",
+    "Type": "Material",
+    "Internal ID": "DragonTear",
+    "Source": "Moder",
+    "Usage": "Building",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "10 are dropped by Moder upon her defeat."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Artisan table"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Can be placed on an item stand. Emits light and fog particles."
+    }
+  ],
+  "full_text": "Dragon tear\n\nType: Material | Internal ID: DragonTear | Source: Moder | Usage: Building | Teleportable (Can go through wood portal?): Yes\n\nAvailability. 10 are dropped by Moder upon her defeat.\n\nBuilding. • Artisan table\n\nNotes. • Can be placed on an item stand. Emits light and fog particles.",
+  "scraped_at": "2026-02-26T01:32:56.764651+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Evasion Mantle",
+  "url": "https://valheim.fandom.com/wiki/Evasion_Mantle",
+  "slug": "Evasion_Mantle",
+  "categories": [
+    "Trinket"
+  ],
+  "content": "# Evasion Mantle\n\nInternal ID: TrinketBlackStamina | Type: Trinkets | Source: Forge | Crafting Materials: Black metal x5, Fuling berserker trophy x1, Linen thread x10 | Adrenaline Cost: 60 | Effect: -50% Block stamina usage | +50% Parry bonus | +20 Dodge skill | Duration: 2m\n\n# Introduction\n\nEvasion Mantle is a Plains-tier trinket.\n\n## Effects\n\nOnce 60 Adrenaline has been gained, the Evasion Mantle will trigger automatically, providing -50% Block stamina usage, +50% Parry bonus, and +20 Dodge skill for 120 seconds.\nThe Evasion Mantle parry bonus increases the block armor when Parrying. It is multiplicative with the regular item parry bonus.\n\nCategorias: Trinket",
+  "content_length": 669,
+  "scraped_at": "2026-02-26T02:10:07.243389+00:00"
+}

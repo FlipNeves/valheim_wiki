@@ -1,0 +1,29 @@
+{
+  "title": "Wishbone",
+  "url": "https://valheim.fandom.com/wiki/Wishbone",
+  "slug": "Wishbone",
+  "categories": [
+    "Accessories"
+  ],
+  "infobox": {
+    "_infobox_title": "Wishbone",
+    "Internal ID": "Wishbone",
+    "Type": "Accessory",
+    "Source": "Bonemass",
+    "Usage": "Finding secrets"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Wishbone is an accessory gained by killing the boss Bonemass in the Swamps."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "After equipping the Wishbone, the player will gain a buff allowing them to find secrets. While equipped, the player will sometimes see a puff of green particles around them, beginning approximately 20 meters from a secret. The green particles are accompanied by a ding sound, indicating that something is buried nearby.\nAs the player gets closer to the secret, the dinging will get both faster and higher pitch. Once above the secret, the player can dig to reveal Muddy scrap piles (Swamp), Silver veins (Mountain), or Buried Treasure (Meadows).\nOnce the object is interacted with (opened or mined) the Wishbone will stop detecting that object.\nThe Wishbone conflicts with the Megingjord and the Wisplight, which occupy the same equipment slot."
+    }
+  ],
+  "full_text": "Wishbone\n\nInternal ID: Wishbone | Type: Accessory | Source: Bonemass | Usage: Finding secrets\n\nIntroduction. The Wishbone is an accessory gained by killing the boss Bonemass in the Swamps.\n\nUsage. After equipping the Wishbone, the player will gain a buff allowing them to find secrets. While equipped, the player will sometimes see a puff of green particles around them, beginning approximately 20 meters from a secret. The green particles are accompanied by a ding sound, indicating that something is buried nearby.\nAs the player gets closer to the secret, the dinging will get both faster and higher pitch. Once above the secret, the player can dig to reveal Muddy scrap piles (Swamp), Silver veins (Mountain), or Buried Treasure (Meadows).\nOnce the object is interacted with (opened or mined) the Wishbone will stop detecting that object.\nThe Wishbone conflicts with the Megingjord and the Wisplight, which occupy the same equipment slot.",
+  "scraped_at": "2026-02-26T01:51:13.523395+00:00"
+}

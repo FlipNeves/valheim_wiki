@@ -1,0 +1,12 @@
+{
+  "title": "Fireworks",
+  "url": "https://valheim.fandom.com/wiki/Cyan_firework",
+  "slug": "Cyan_firework",
+  "categories": [
+    "Items",
+    "Fireworks"
+  ],
+  "content": "# Fireworks\n\n# Introduction\n\nFireworks are a type of consumable that can be used on a fire to produce an aesthetic explosion. The message, \"You throw some X into the fire\" appears when activated, \"X\" replaced with the firework you use.\nBasic fireworks can be purchased from Hildir for 50 Coins. Other colored fireworks are crafted by combining Basic fireworks with materials at a Workbench of any level. The color of the explosion matches the color of the firework.\n\n## List of fireworks\n\n• Name: Basic fireworks | Color: White | Cost: 50 Coins (Hildir) | id: FireworksRocket_White\n\n• Name: Blue fireworks | Color: Blue | Cost: 1 x Basic fireworks1 x Blueberries | id: FireworksRocket_Blue\n\n• Name: Cyan fireworks | Color: Cyan | Cost: 1 x Basic fireworks1 x Greydwarf eye | id: FireworksRocket_Cyan\n\n• Name: Green fireworks | Color: Green | Cost: 1 x Basic fireworks1 x Guck | id: FireworksRocket_Green\n\n• Name: Purple fireworks | Color: Purple | Cost: 1 x Basic fireworks1 x Turnip | id: FireworksRocket_Purple\n\n• Name: Red fireworks | Color: Red | Cost: 1 x Basic fireworks1 x Raspberry | id: FireworksRocket_Red\n\n• Name: Yellow fireworks | Color: Yellow | Cost: 1 x Basic fireworks1 x Dandelion | id: FireworksRocket_Yellow\n\n• Name: Thunder stone | Color: Blue & White | id: Thunderstone\n\n• Name: Surtling core | Color: Red & Yellow | id: SurtlingCore\n\n• Name: Black core | Color: Purple & Blue | id: BlackCore\n\nCategorias: Items, Fireworks",
+  "content_length": 1444,
+  "scraped_at": "2026-02-26T02:14:22.726836+00:00"
+}

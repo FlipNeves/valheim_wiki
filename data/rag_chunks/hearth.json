@@ -1,0 +1,13 @@
+{
+  "title": "Hearth",
+  "url": "https://valheim.fandom.com/wiki/Hearth",
+  "slug": "Hearth",
+  "categories": [
+    "Misc structures",
+    "Fires",
+    "Light sources"
+  ],
+  "content": "# Hearth\n\nType: Misc | Internal ID: hearth | Source: Stonecutter | Crafting Materials: Stone x15 | Other Effect(s): Produces smoke, Removes the Cold Effect, Adds the Fire Effect, Rapidly removes the Wet Effect, Reduces Freezing Effect to Cold Effect | Neutral to (x1): Pickaxe, ,, Lightning | Resistant to (x0.5): Blunt, ,, Slash, ,, Pierce, ,, Chop | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\n# Introduction\n\nHearths are base structures used for cooking, sleeping and warmth.\nThey require Stonecutter to be built.\n\n## Notes\n\n• The hearth has an approximate Fire Effect range of 12 meters (Measured from the closest you can stand).\n• The hearth is used to make a bigger fire than the Campfire. More cooking stations can be placed on the hearth.\n• Press [E] to use wood as a fuel.\n• Hearths stop working if exposed to rain without a roof.\n• Hearths stop working if exposed to strong wind without 70% cover.\n• Active hearths create smoke.\n• The hearth must be built on something strong and sturdy such as stone floor, the ground, or pillars to support it. If placed on an unsupported wood floor, the Hearth will break upon placement; to place on a wooden floor, the floor must either be on the ground or supported by stone or Wood iron beams.\n• With 1/20 fuel, a Hearth will last for 1 hour and 23 minutes. At maximum capacity a Hearth should burn for 27 hours and 47 minutes.\n• Sitting next to the hearth without shelter or being sheltered but farther than 8 meters away from the hearth will only result in the providing 1 comfort. The player must be sheltered and also in an 8 meter range from the hearth in order for the hearth to provide 2 comfort.\n• Hearths will take 10 damage every time it sets an entity on fire.\n\nCategorias: Misc structures, Fires, Light sources",
+  "content_length": 1781,
+  "scraped_at": "2026-02-26T01:56:56.691152+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Primal Slayer",
+  "url": "https://valheim.fandom.com/wiki/Primal_Slayer",
+  "slug": "Primal_Slayer",
+  "categories": [
+    "Weapons",
+    "Swords",
+    "Black forge recipes"
+  ],
+  "content": "# Primal Slayer\n\nInternal ID: THSwordSlayerNature | Type: Sword | Source: Black forge | Usage: Weapon | Wielding: Two-handed | Crafting Materials: Flametal x45, Jade x3 | Attack speed: 2.16 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 3 range, 30 angle, 1.0 height, 0.5 ray | Movement speed: -5%\n\n# Introduction\n\nPrimal Slayer is the upgraded form of Slayer using the Jade. Like all upgraded-weapons that use Jade, their hit effect is 20% chance to apply Immobilized.\nAn upgraded Slayer will NOT keep its upgrade level when it is modified using gemstones.\n\n## Upgrade information\n\n• stat: Slash | Quality 1: 170 | Quality 2: 176 | Quality 3: 182 | Quality 4: 188\n\n• stat: Poison | Quality 1: 10 | Quality 2: 10 | Quality 3: 10 | Quality 4: 10\n\n• stat: Durability | Quality 1: 200 | Quality 2: 250 | Quality 3: 300 | Quality 4: 350\n\n• stat: Crafting | Quality 1: 1 Slayer12 Flametal1 Jade | Quality 2: 15 Flametal1 Jade | Quality 3: 30 Flametal2 Jade | Quality 4: 45 Flametal3 Jade\n\n• stat: Black forge level | Quality 1: 4 | Quality 2: 5 | Quality 3: 6 (not yet available) | Quality 4: 7 (not yet available)\n\n## Notes\n\n• The primary attacks are fairly vertical and wide-reaching, with the third attack in the combo being more narrow in the horizontal plane.\n• The secondary attack is a long reaching thrust that is capable of outreaching most enemies with very excellent damage.\n\nCategorias: Weapons, Swords, Black forge recipes",
+  "content_length": 1439,
+  "scraped_at": "2026-02-26T01:17:37.018247+00:00"
+}

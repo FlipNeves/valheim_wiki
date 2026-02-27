@@ -1,0 +1,37 @@
+{
+  "title": "Silver arrow",
+  "url": "https://valheim.fandom.com/wiki/Silver_arrow",
+  "slug": "Silver_arrow",
+  "categories": [
+    "Weapons",
+    "Arrows",
+    "Forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Silver arrow",
+    "Internal ID": "ArrowSilver",
+    "Type": "Arrow",
+    "Source": "Forge",
+    "Usage": "Bow ammunition",
+    "Crafting Materials": "Wood x8, Silver x1, Feathers x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Silver arrows are ammunition for bows. They have the same pierce damage as obsidian arrows but with added spirit damage. Spirit damage does not affect all enemies, so this is not a direct upgrade to obsidian arrows."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• This item becomes available once the forge reaches level three and silver has been collected."
+    },
+    {
+      "heading": "Features",
+      "level": 2,
+      "text": "• Deals damage divided between spirit and pierce damage.\n• Applies a fast DOT to enemies considered Undead or Unholy. Which includes all enemies but Surtlings in the Swamp biome. The second boss, The Elder, and his Roots. Fenring found in the Mountain biome."
+    }
+  ],
+  "full_text": "Silver arrow\n\nInternal ID: ArrowSilver | Type: Arrow | Source: Forge | Usage: Bow ammunition | Crafting Materials: Wood x8, Silver x1, Feathers x2\n\nIntroduction. Silver arrows are ammunition for bows. They have the same pierce damage as obsidian arrows but with added spirit damage. Spirit damage does not affect all enemies, so this is not a direct upgrade to obsidian arrows.\n\nAvailability. • This item becomes available once the forge reaches level three and silver has been collected.\n\nFeatures. • Deals damage divided between spirit and pierce damage.\n• Applies a fast DOT to enemies considered Undead or Unholy. Which includes all enemies but Surtlings in the Swamp biome. The second boss, The Elder, and his Roots. Fenring found in the Mountain biome.",
+  "scraped_at": "2026-02-26T01:17:59.097796+00:00"
+}

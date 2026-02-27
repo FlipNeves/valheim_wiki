@@ -1,0 +1,13 @@
+{
+  "title": "Lingering stamina mead",
+  "url": "https://valheim.fandom.com/wiki/Lingering_stamina_mead",
+  "slug": "Lingering_stamina_mead",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "content": "# Lingering stamina mead\n\nType: Mead | Internal ID: MeadStaminaLingering | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Lingering stamina x1 | Duration: 5m | Stamina Regen: +25% rate\n\n# Introduction\n\nLingering stamina mead is a Mistlands-tier consumable item fermented from Mead base: Lingering stamina.\n\n## Recipe\n\nMead base: Lingering stamina is produced in a Mead ketill with:\n• 10 Sap\n• 10 Cloudberries\n• 10 Jotun puffs\nSix Lingering stamina meads are produced by fermenting the mead base for two in-game days.\n\n## Effect\n\nUpon consumption, it provides +25% stamina regeneration for 5 minutes. While active, it prevents the consumption of all types of stamina meads.\nThe stamina regeneration effect will not be interrupted by any action that normally consumes stamina, such as attacking or sprinting. Rather, the buff lasts for 5 minutes and is only interruptible by death.\n\nCategorias: Mead, Fermenter recipes, Items",
+  "content_length": 995,
+  "scraped_at": "2026-02-26T02:11:56.654031+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Skull Splittur",
+  "url": "https://valheim.fandom.com/wiki/Skull_Splittur",
+  "slug": "Skull_Splittur",
+  "categories": [
+    "Weapons",
+    "Axes",
+    "Black forge recipes",
+    "Light sources"
+  ],
+  "content": "# Skull Splittur\n\nInternal ID: BattleaxeSkullSplittur | Type: Axe | Source: Black forge | Usage: Weapon | Crafting Materials: Yggdrasil wood x15, Iron x45 | Attack speed: 0.84 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 2.5 range, 30 angle, 1.0 height, 0.5 ray | Movement speed: -15%\n\n# Introduction\n\nThe Skull Splittur is a two-handed Axe. Its primary attack is a 3-hit attack combo (Wide swing, wide swing, vertical overhead) with double damage on the last hit, 1.5x staggering and no multitarget penalty. Its faster secondary attack deals 0.5x damage and 4x staggering.\n\n## Upgrade information\n\n• stat: Slash | Quality 1: 130 | Quality 2: 136 | Quality 3: 142 | Quality 4: 148\n\n• stat: Chop (trees) | Quality 1: 70 | Quality 2: 72.5 | Quality 3: 75 | Quality 4: 77.5\n\n• stat: Durability | Quality 1: 200 | Quality 2: 250 | Quality 3: 300 | Quality 4: 350\n\n• stat: Crafting | Quality 1: 15 Yggdrasil wood30 Iron10 Refined eitr | Quality 2: 5 Yggdrasil wood15 Iron | Quality 3: 10 Yggdrasil wood30 Iron | Quality 4: 15 Yggdrasil wood45 Iron\n\n• stat: Black forge level | Quality 1: 1 | Quality 2: 2 | Quality 3: 3 | Quality 4: 4\n\n## Notes\n\n• The first hit is very slow. The last two hits take about the same time, while in total dealing triple damage.\n• General combo starter is the secondary into the primary.\n\nCategorias: Weapons, Axes, Black forge recipes, Light sources",
+  "content_length": 1385,
+  "scraped_at": "2026-02-26T01:18:18.239010+00:00"
+}

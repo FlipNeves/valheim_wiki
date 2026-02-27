@@ -1,0 +1,49 @@
+{
+  "title": "Unstable lava rock",
+  "url": "https://valheim.fandom.com/wiki/Unstable_lava_rock",
+  "slug": "Unstable_lava_rock",
+  "categories": [
+    "Resource nodes"
+  ],
+  "infobox": {
+    "_infobox_title": "Unstable lava rock",
+    "Type": "Resource nodes",
+    "Internal ID": "UnstableLavaRock",
+    "Location": "Ashlands",
+    "Resources": "Proustite powder",
+    "Weak to": "Pickaxe",
+    "Neutral to": "Frost, ,, Lightning",
+    "Resistant to": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Poison, ,, Spirit",
+    "Immune to": "Fire"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Unstable lava rocks are resource nodes found in the Ashlands biome, being a source of Proustite powder.\nWhen destroyed by receiving 50 or more damage from any weapon or a pickaxe, they explode. The explosion damages surrounding objects, including players, creatures and structures. Additionally, it creates a small crater in the ground."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Unstable lava rocks can often be found attached to large boulders and stones in the Ashlands biome, as well as on the ground occasionally."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Drop Rate",
+          "Proustite powder": "4-7"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The explosion deals 75 pure damage, regardless of armor rating, and is unblockable. It also deals 500 Chop and 600 Pickaxe damage, but the player is immune to these types of damage.\n• The explosion has a tool tier of 4, one higher than Black metal.\n• Unstable lava rocks can be safely destroyed by shooting them with a bow or crossbow. Frost arrows are particularly efficient."
+    }
+  ],
+  "full_text": "Unstable lava rock\n\nType: Resource nodes | Internal ID: UnstableLavaRock | Location: Ashlands | Resources: Proustite powder | Weak to: Pickaxe | Neutral to: Frost, ,, Lightning | Resistant to: Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Poison, ,, Spirit | Immune to: Fire\n\nIntroduction. Unstable lava rocks are resource nodes found in the Ashlands biome, being a source of Proustite powder.\nWhen destroyed by receiving 50 or more damage from any weapon or a pickaxe, they explode. The explosion damages surrounding objects, including players, creatures and structures. Additionally, it creates a small crater in the ground.\n\nAvailability. Unstable lava rocks can often be found attached to large boulders and stones in the Ashlands biome, as well as on the ground occasionally.\n\nNotes. • The explosion deals 75 pure damage, regardless of armor rating, and is unblockable. It also deals 500 Chop and 600 Pickaxe damage, but the player is immune to these types of damage.\n• The explosion has a tool tier of 4, one higher than Black metal.\n• Unstable lava rocks can be safely destroyed by shooting them with a bow or crossbow. Frost arrows are particularly efficient.",
+  "scraped_at": "2026-02-26T01:49:42.738259+00:00"
+}

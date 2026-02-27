@@ -1,0 +1,12 @@
+{
+  "title": "Dragon bed",
+  "url": "https://valheim.fandom.com/wiki/Dragon_bed",
+  "slug": "Dragon_bed",
+  "categories": [
+    "Furniture",
+    "Beds"
+  ],
+  "content": "# Dragon bed\n\nType: Furniture | Internal ID: piece_bed02 | Source: Workbench | Usage: Sets a spawn point. | Crafting Materials: Finewood x40, Deer hide x7, Wolf pelt x4, Feathers x10, Iron nails x15 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Weak to (x1.5): Chop | Neutral to (x1): Blunt, ,, Slash, ,, Pickaxe, ,, Fire, ,, Frost, ,, Lightning | Resistant to (x0.5): Pierce | Immune to (x0): Poison, ,, Spirit\n\n# Introduction\n\nDragon beds are base structures used for sleeping and setting the player's respawn point. They give higher comfort compared to normal beds.\n\n## Sleeping\n\nIt is possible to sleep in a bed after a player has claimed one. Sleeping skips the game clock to the next morning. The game will progress in fast-forward while the player sleeps, meaning that crafting stations that process materials will continue working. This can make sleeping advantageous if the player is attempting to refine a large volume of materials quickly.\nIt is only possible to sleep if:\n• It is afternoon or night.\n• There are no enemies nearby.\n• The bed has a roof and 80% cover.\n• There is a fire nearby.\n• The player is not wet.\nThere is a 10% chance for the player to dream while sleeping on a bed.\n\n## Notes\n\nA bed can be claimed when it has a roof and 80% cover. Press [E] while looking directly at a bed to claim it.\nThe most recent bed claimed by a player will serve as their respawn point. This can be used strategically by building small outposts outside of dungeons or other dangerous areas and placing a bed inside, allowing the player to quickly return and reattempt the area.\nOnce a bed has been claimed by a player, other players cannot override their claim unless the bed is destroyed and re-placed.\nIf the player's bed (spawn point) is destroyed and they die, they will respawn at the starting location.\nA Dragon bed will increase the Comfort level by 2.\n\nCategorias: Furniture, Beds",
+  "content_length": 1924,
+  "scraped_at": "2026-02-26T01:41:03.231760+00:00"
+}

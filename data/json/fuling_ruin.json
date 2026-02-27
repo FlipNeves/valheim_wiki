@@ -1,0 +1,30 @@
+{
+  "title": "Fuling Ruin",
+  "url": "https://valheim.fandom.com/wiki/Fuling_Ruin",
+  "slug": "Fuling_Ruin",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Fuling Ruin",
+    "Type": "Point of interest",
+    "Internal ID": "Ruin3",
+    "Location": "Plains",
+    "Resources": "Plains chest",
+    "Inhabitants": "Fuling"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fuling Ruins are Points of interest found in the Plains. They are small ruined stone buildings with a central stone staircase."
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "There is always a Plains chest at the top of the staircases. Two Fulings are protecting the building."
+    }
+  ],
+  "full_text": "Fuling Ruin\n\nType: Point of interest | Internal ID: Ruin3 | Location: Plains | Resources: Plains chest | Inhabitants: Fuling\n\nIntroduction. Fuling Ruins are Points of interest found in the Plains. They are small ruined stone buildings with a central stone staircase.\n\nResources. There is always a Plains chest at the top of the staircases. Two Fulings are protecting the building.",
+  "scraped_at": "2026-02-26T01:47:53.299954+00:00"
+}

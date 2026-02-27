@@ -1,0 +1,165 @@
+{
+  "title": "Meadows",
+  "url": "https://valheim.fandom.com/wiki/Meadows",
+  "slug": "Meadows",
+  "categories": [
+    "Biomes"
+  ],
+  "infobox": {
+    "_infobox_title": "Meadows",
+    "Passive": "Deer, Gull, Perch, Pike",
+    "Hostile": "Boar, Greyling, Neck, Greydwarf (after defeating Eikthyr ), Greydwarf brute (after defeating The Elder ), Greydwarf shaman (after defeating The Elder ), Skeleton (after defeating Bonemass ), Draugr (Draugr Villages), Fuling (after defeating Yagluth ), Seeker (after defeating The Queen ), Tick (after defeating The Queen ), Charred Marksman (after defeating Fader ), Charred Warrior (after defeating Fader )",
+    "Boss(es)": "Eikthyr",
+    "Regular": "Beech, Birch, Oak, Flint, Stone, Dandelion",
+    "Food": "Mushroom, Raspberry",
+    "Structures": "Abandoned House, Abandoned Village, Draugr Village, Dolmen, Ancient Stone Circle, Viking Graveyard",
+    "NPCs": "Hildir, Blåbär, Hallon"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Meadows are calm, innocuous biomes covered in grass and gentle rolling hills. They are the very first biome the player encounters in Valheim, making them simultaneously the least difficult. Large clearings and sloping hillsides are punctuated by thickets and forests of Beech, Birch, and Oak trees; underfoot is a carpet of ferns, saplings, and the occasional cluster of berry bushes. Deer and wild Boars graze peacefully from the grass while diminutive Greylings scurry about, looking for structures and players to damage. Streams and rivers wind and carve their way through the landscape, sometimes opening up to inland seas and lakes, stout Necks bathing in the sun along their shores. On the whole, the Meadows make for some of the most pleasant vistas the tenth world has to offer.\nThe biome is not without its hazards, however. Among the trees and numerous structures left behind by their predecessors, the player can find various points of interest while exploring, such as Viking Graveyards and particularly deadly Draugr Villages."
+    },
+    {
+      "heading": "Hostile",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "": "",
+          "Name": "Boar",
+          "Primary Spawn": "Meadows",
+          "HP": "10",
+          "Damage[1]": "7.5-10",
+          "Notes": ""
+        },
+        {
+          "": "",
+          "Name": "Neck",
+          "Primary Spawn": "Meadows",
+          "HP": "5",
+          "Damage[1]": "5~",
+          "Notes": ""
+        },
+        {
+          "": "",
+          "Name": "Greyling",
+          "Primary Spawn": "Meadows",
+          "HP": "20",
+          "Damage[1]": "3-5",
+          "Notes": ""
+        },
+        {
+          "": "",
+          "Name": "Draugr",
+          "Primary Spawn": "Swamp Meadows",
+          "HP": "100",
+          "Damage[1]": "40-50",
+          "Notes": "In the Meadows, will only spawn in a Draugr Village. Spawns with a bow / axe / axe + wood shield / axe + banded shield"
+        }
+      ]
+    },
+    {
+      "heading": "Passive",
+      "level": 3,
+      "text": "",
+      "table_data": [
+        {
+          "": "",
+          "Name": "Deer",
+          "HP": "10"
+        },
+        {
+          "": "",
+          "Name": "Gull",
+          "HP": "1"
+        },
+        {
+          "": "",
+          "Name": "Perch",
+          "HP": "1"
+        },
+        {
+          "": "",
+          "Name": "Pike",
+          "HP": "1"
+        }
+      ]
+    },
+    {
+      "heading": "Trees",
+      "level": 2,
+      "text": "• Beech\n• Birch\n• Oak"
+    },
+    {
+      "heading": "Resources",
+      "level": 2,
+      "text": "• Wood (from Branches and trees)\n• Finewood (from Birch and Oak trees)\n• Mushroom\n• Flint (near water)\n• Stone\n• Dandelion\n• Raspberry\n• Beehive (inside Abandoned Houses)\n• House chests: (2-3 of the following)\n• Buried chests: (2-3 of the following)",
+      "table_data": [
+        {
+          "Amount": "1",
+          "Item": "Amber",
+          "Chance": "16.7%"
+        },
+        {
+          "Amount": "5-15",
+          "Item": "Coins",
+          "Chance": "16.7%"
+        },
+        {
+          "Amount": "1-3",
+          "Item": "Feathers",
+          "Chance": "16.7%"
+        },
+        {
+          "Amount": "2-4",
+          "Item": "Flint",
+          "Chance": "16.7%"
+        },
+        {
+          "Amount": "10-20",
+          "Item": "Flinthead arrow",
+          "Chance": "16.7%"
+        },
+        {
+          "Amount": "1-3",
+          "Item": "Torch",
+          "Chance": "16.7%"
+        },
+        {
+          "Amount": "1-2",
+          "Item": "Amber pearl",
+          "Chance": "20%"
+        },
+        {
+          "Amount": "20-50",
+          "Item": "Coins",
+          "Chance": "20%"
+        },
+        {
+          "Amount": "10-15",
+          "Item": "Fire arrow",
+          "Chance": "20%"
+        },
+        {
+          "Amount": "1-3",
+          "Item": "Ruby",
+          "Chance": "20%"
+        },
+        {
+          "Amount": "1",
+          "Item": "Silver necklace",
+          "Chance": "20%"
+        }
+      ]
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• During the Alpha, the Meadows were called the Green Forest.\n• Meadows is the only biome which does not play its own soundtrack at night."
+    }
+  ],
+  "full_text": "Meadows\n\nPassive: Deer, Gull, Perch, Pike | Hostile: Boar, Greyling, Neck, Greydwarf (after defeating Eikthyr ), Greydwarf brute (after defeating The Elder ), Greydwarf shaman (after defeating The Elder ), Skeleton (after defeating Bonemass ), Draugr (Draugr Villages), Fuling (after defeating Yagluth ), Seeker (after defeating The Queen ), Tick (after defeating The Queen ), Charred Marksman (after defeating Fader ), Charred Warrior (after defeating Fader ) | Boss(es): Eikthyr | Regular: Beech, Birch, Oak, Flint, Stone, Dandelion | Food: Mushroom, Raspberry | Structures: Abandoned House, Abandoned Village, Draugr Village, Dolmen, Ancient Stone Circle, Viking Graveyard | NPCs: Hildir, Blåbär, Hallon\n\nIntroduction. The Meadows are calm, innocuous biomes covered in grass and gentle rolling hills. They are the very first biome the player encounters in Valheim, making them simultaneously the least difficult. Large clearings and sloping hillsides are punctuated by thickets and forests of Beech, Birch, and Oak trees; underfoot is a carpet of ferns, saplings, and the occasional cluster of berry bushes. Deer and wild Boars graze peacefully from the grass while diminutive Greylings scurry about, looking for structures and players to damage. Streams and rivers wind and carve their way through the landscape, sometimes opening up to inland seas and lakes, stout Necks bathing in the sun along their shores. On the whole, the Meadows make for some of the most pleasant vistas the tenth world has to offer.\nThe biome is not without its hazards, however. Among the trees and numerous structures left behind by their predecessors, the player can find various points of interest while exploring, such as Viking Graveyards and particularly deadly Draugr Villages.\n\nTrees. • Beech\n• Birch\n• Oak\n\nResources. • Wood (from Branches and trees)\n• Finewood (from Birch and Oak trees)\n• Mushroom\n• Flint (near water)\n• Stone\n• Dandelion\n• Raspberry\n• Beehive (inside Abandoned Houses)\n• House chests: (2-3 of the following)\n• Buried chests: (2-3 of the following)\n\nTrivia. • During the Alpha, the Meadows were called the Green Forest.\n• Meadows is the only biome which does not play its own soundtrack at night.",
+  "scraped_at": "2026-02-26T01:05:26.836963+00:00"
+}

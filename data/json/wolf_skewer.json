@@ -1,0 +1,45 @@
+{
+  "title": "Wolf skewer",
+  "url": "https://valheim.fandom.com/wiki/Wolf_skewer",
+  "slug": "Wolf_skewer",
+  "categories": [
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Wolf skewer",
+    "Type": "Food",
+    "Internal ID": "WolfMeatSkewer",
+    "Source": "Cauldron, (level 3)",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Wolf meat x1, Mushroom x2, Onion x1",
+    "Max Health": "65",
+    "Max Stamina": "21",
+    "Duration": "25m",
+    "Healing": "3 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wolf skewer is a Mountain-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Wolf skewer is produced at a level 3 Cauldron with:\n• 1 Wolf meat\n• 2 Mushroom\n• 1 Onion"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Hearty Mountain logger's stew"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Wolf skewer provides the second-highest health gain in the Mountains at 65, second to Serpent stew at 80."
+    }
+  ],
+  "full_text": "Wolf skewer\n\nType: Food | Internal ID: WolfMeatSkewer | Source: Cauldron, (level 3) | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Wolf meat x1, Mushroom x2, Onion x1 | Max Health: 65 | Max Stamina: 21 | Duration: 25m | Healing: 3 hp/tick\n\nIntroduction. Wolf skewer is a Mountain-tier food.\n\nRecipe. Wolf skewer is produced at a level 3 Cauldron with:\n• 1 Wolf meat\n• 2 Mushroom\n• 1 Onion\n\nCrafting. • Hearty Mountain logger's stew\n\nNotes. • Wolf skewer provides the second-highest health gain in the Mountains at 65, second to Serpent stew at 80.",
+  "scraped_at": "2026-02-26T01:29:30.988088+00:00"
+}

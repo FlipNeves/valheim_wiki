@@ -1,0 +1,25 @@
+{
+  "title": "Big Rock Clearing",
+  "url": "https://valheim.fandom.com/wiki/Big_Rock_Clearing",
+  "slug": "Big_Rock_Clearing",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Big Rock Clearing",
+    "Type": "Point of interest",
+    "Internal ID": "Big Rock Clearing",
+    "Location": "Black Forest",
+    "Number per world": "1",
+    "Resources": "Mysterious Rock, ,, Thistle"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Big Rock Clearing is an unique point of interest found in the Black Forest.\nIt is a large rock surrounded by 22 Mysterious Rocks and a few Thistle. The large rock can be destroyed for regular Stone.\nOnly one Big Rock Clearing can exist in a world. It has 10 possible spawn locations at more than 1000m from the world center. Approaching any of these locations will permanently place it there.\nThe large rock slightly glow at night. The first time it's discovered, blue fireflies surround the location for a couple minutes."
+    }
+  ],
+  "full_text": "Big Rock Clearing\n\nType: Point of interest | Internal ID: Big Rock Clearing | Location: Black Forest | Number per world: 1 | Resources: Mysterious Rock, ,, Thistle\n\nIntroduction. The Big Rock Clearing is an unique point of interest found in the Black Forest.\nIt is a large rock surrounded by 22 Mysterious Rocks and a few Thistle. The large rock can be destroyed for regular Stone.\nOnly one Big Rock Clearing can exist in a world. It has 10 possible spawn locations at more than 1000m from the world center. Approaching any of these locations will permanently place it there.\nThe large rock slightly glow at night. The first time it's discovered, blue fireflies surround the location for a couple minutes.",
+  "scraped_at": "2026-02-26T01:47:10.555914+00:00"
+}

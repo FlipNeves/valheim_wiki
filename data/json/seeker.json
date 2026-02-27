@@ -1,0 +1,140 @@
+{
+  "title": "Seeker",
+  "url": "https://valheim.fandom.com/wiki/Seeker",
+  "slug": "Seeker",
+  "categories": [
+    "Creatures"
+  ],
+  "infobox": {
+    "_infobox_title": "Seeker",
+    "Internal ID": "Seeker",
+    "Faction": "Mistlands",
+    "Main biome": "Mistlands",
+    "Tameable": "No",
+    "Drops": "Seeker meat | Carapace | Seeker trophy",
+    "Abilities": "Takeoff (8s), Land (8s), Pincers (6s), Claw (10s each for 2 variants), Ground slam (10s), Ground slam flying (10s)",
+    "Trophy": "Seeker trophy",
+    "Neutral to (x1)": "Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Stagger",
+    "Resistant to (x0.5)": "Blunt, ,, Pierce, ,, Slash",
+    "Immune to (x0)": "Spirit, ,, Chop, ,, Pickaxe",
+    "Stagger limit": "30%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Seekers are aggressive creatures found in the Mistlands and in Infested Mines.\nSeekers are large insectoid creatures with traits similar to beetles, ants, and bees. They have mandibles and three pairs of legs, the middle of which are larger and used to attack enemies. A pair of large leathery wings sprout from the back and can be used to fly short distances. Seekers and their Soldier counterparts are implied to all be offspring of The Queen, much the same as how real insect colonies function."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Seeker meat",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Carapace",
+          "0 Star": "1",
+          "1 Star": "2",
+          "2 Star": "4"
+        },
+        {
+          "Item": "Seeker trophy",
+          "0 Star": "10%",
+          "1 Star": "10%",
+          "2 Star": "10%"
+        }
+      ]
+    },
+    {
+      "heading": "Spawning",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Type": "Middle of the Mistlands during the daytime",
+          "Limit": "2",
+          "Frequency": "Common",
+          "Stars": "Yes (max 1 star)"
+        },
+        {
+          "Type": "Middle of the Mistlands during the nighttime, despawn at dawn",
+          "Limit": "6",
+          "Frequency": "Common",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Anywhere in the Meadows, Black Forests, Swamp, Mountains or Plains during the nighttime after defeating The Queen, despawn at dawn",
+          "Limit": "2",
+          "Frequency": "Very rare",
+          "Stars": "No"
+        },
+        {
+          "Type": "Spawn points near some Mistlands structures",
+          "Limit": "-",
+          "Frequency": "One time",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Spawn points in Infested Mines",
+          "Limit": "-",
+          "Frequency": "Some respawn every 4 hours",
+          "Stars": "Yes"
+        },
+        {
+          "Type": "Spawned by The Queen (amount based on nearby players)",
+          "Limit": "2-5",
+          "Frequency": "Very common",
+          "Stars": "No"
+        },
+        {
+          "Type": "During \"They sought you out\" event before defeating The Queen",
+          "Limit": "3",
+          "Frequency": "Very common",
+          "Stars": "No"
+        }
+      ]
+    },
+    {
+      "heading": "Takeoff",
+      "level": 3,
+      "text": "When grounded between 10 and 100 meters of a player, they will launch from the ground and begin flying. This ability can be used every 8 seconds."
+    },
+    {
+      "heading": "Land",
+      "level": 3,
+      "text": "When airborne under 5 meters of a player, they will land on the ground. This ability can be used every 8 seconds."
+    },
+    {
+      "heading": "Pincers",
+      "level": 3,
+      "text": "Leans back before sweeping downward to clamp the player with their pincers (90 Pierce damage). This creates a 2.2-meter 45-degree horizontal arc and can be used every 6 seconds when within 2 meters of a player."
+    },
+    {
+      "heading": "Claw",
+      "level": 3,
+      "text": "This attack has two variants, each with its own 10-second cooldown: a thrust with the left claw and a thrust with the right claw (120 Pierce damage). This hits in a 3.5-meter 20-degree horizontal arc and can be used within 3.5 meters of a player."
+    },
+    {
+      "heading": "Ground slam",
+      "level": 3,
+      "text": "Stands on their hind legs before slamming down on the player with both claws (100 Blunt damage). This hits in a 3.2-meter 60-degree horizontal arc in front of Seekers and can be used every 10 seconds when within 3 meters of a player."
+    },
+    {
+      "heading": "Ground slam flying",
+      "level": 3,
+      "text": "While airborne, leans back before propelling forward with both claws (100 Blunt damage). Using this attack grounds Seekers and is an alternative to landing with their Land ability. This hits in a 3.2-meter 60-degree horizontal arc in front of Seekers and can be used every 10 seconds when within 5 meters of a player."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Seekers are ant-like in appearance, but unlike ants, basic Seekers are capable of flight while Seeker Soldiers and The Queen are not.\n• Seeker hives produce Royal jelly, which in real life is produced by worker bees and fed to larvae, particularly to produce new queens."
+    }
+  ],
+  "full_text": "Seeker\n\nInternal ID: Seeker | Faction: Mistlands | Main biome: Mistlands | Tameable: No | Drops: Seeker meat | Carapace | Seeker trophy | Abilities: Takeoff (8s), Land (8s), Pincers (6s), Claw (10s each for 2 variants), Ground slam (10s), Ground slam flying (10s) | Trophy: Seeker trophy | Neutral to (x1): Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Stagger | Resistant to (x0.5): Blunt, ,, Pierce, ,, Slash | Immune to (x0): Spirit, ,, Chop, ,, Pickaxe | Stagger limit: 30%\n\nIntroduction. Seekers are aggressive creatures found in the Mistlands and in Infested Mines.\nSeekers are large insectoid creatures with traits similar to beetles, ants, and bees. They have mandibles and three pairs of legs, the middle of which are larger and used to attack enemies. A pair of large leathery wings sprout from the back and can be used to fly short distances. Seekers and their Soldier counterparts are implied to all be offspring of The Queen, much the same as how real insect colonies function.\n\nTakeoff. When grounded between 10 and 100 meters of a player, they will launch from the ground and begin flying. This ability can be used every 8 seconds.\n\nLand. When airborne under 5 meters of a player, they will land on the ground. This ability can be used every 8 seconds.\n\nPincers. Leans back before sweeping downward to clamp the player with their pincers (90 Pierce damage). This creates a 2.2-meter 45-degree horizontal arc and can be used every 6 seconds when within 2 meters of a player.\n\nClaw. This attack has two variants, each with its own 10-second cooldown: a thrust with the left claw and a thrust with the right claw (120 Pierce damage). This hits in a 3.5-meter 20-degree horizontal arc and can be used within 3.5 meters of a player.\n\nGround slam. Stands on their hind legs before slamming down on the player with both claws (100 Blunt damage). This hits in a 3.2-meter 60-degree horizontal arc in front of Seekers and can be used every 10 seconds when within 3 meters of a player.\n\nGround slam flying. While airborne, leans back before propelling forward with both claws (100 Blunt damage). Using this attack grounds Seekers and is an alternative to landing with their Land ability. This hits in a 3.2-meter 60-degree horizontal arc in front of Seekers and can be used every 10 seconds when within 5 meters of a player.\n\nNotes. • Seekers are ant-like in appearance, but unlike ants, basic Seekers are capable of flight while Seeker Soldiers and The Queen are not.\n• Seeker hives produce Royal jelly, which in real life is produced by worker bees and fed to larvae, particularly to produce new queens.",
+  "scraped_at": "2026-02-26T01:09:01.526576+00:00"
+}

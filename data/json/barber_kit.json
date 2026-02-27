@@ -1,0 +1,36 @@
+{
+  "title": "Barber kit",
+  "url": "https://valheim.fandom.com/wiki/Barber_kit",
+  "slug": "Barber_kit",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Barber kit",
+    "Type": "Material",
+    "Internal ID": "Barberkit",
+    "Source": "Hildir",
+    "Usage": "Building",
+    "Buy": "600, Coins",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Barber kit is an item which got introduced in the Hildir's Request update. It is used to construct the Barber station and is unlocked by default."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Purchased from the trader Hildir for 600 Coins each."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Barber station"
+    }
+  ],
+  "full_text": "Barber kit\n\nType: Material | Internal ID: Barberkit | Source: Hildir | Usage: Building | Buy: 600, Coins | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Barber kit is an item which got introduced in the Hildir's Request update. It is used to construct the Barber station and is unlocked by default.\n\nAvailability. • Purchased from the trader Hildir for 600 Coins each.\n\nBuilding. • Barber station",
+  "scraped_at": "2026-02-26T01:30:23.701646+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Piquant pie",
+  "url": "https://valheim.fandom.com/wiki/Piquant_pie",
+  "slug": "Piquant_pie",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Piquant pie",
+    "Type": "Food",
+    "Internal ID": "PiquantPie",
+    "Source": "Stone oven",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Uncooked piquant pie x1",
+    "Max Health": "105",
+    "Max Stamina": "35",
+    "Duration": "30m",
+    "Healing": "6 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Piquant pie is an Ashlands-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "• Uncooked piquant pie is crafted at a Food preparation table with: 2 Vineberry cluster 2 Asksvin tail 4 Barley flour.\n• Piquant pie is produced by baking Uncooked piquant pie dough in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn into Coal."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Piquant pie provides the highest health gain of any food item in the game at 105.\n• Pronounced ˈpēk(w)ənt"
+    }
+  ],
+  "full_text": "Piquant pie\n\nType: Food | Internal ID: PiquantPie | Source: Stone oven | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Uncooked piquant pie x1 | Max Health: 105 | Max Stamina: 35 | Duration: 30m | Healing: 6 hp/tick\n\nIntroduction. Piquant pie is an Ashlands-tier food.\n\nRecipe. • Uncooked piquant pie is crafted at a Food preparation table with: 2 Vineberry cluster 2 Asksvin tail 4 Barley flour.\n• Piquant pie is produced by baking Uncooked piquant pie dough in a Stone oven for 50 seconds. If left in the oven for 100 seconds, it will burn into Coal.\n\nNotes. • Piquant pie provides the highest health gain of any food item in the game at 105.\n• Pronounced ˈpēk(w)ənt",
+  "scraped_at": "2026-02-26T01:27:43.526860+00:00"
+}

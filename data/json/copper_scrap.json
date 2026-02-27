@@ -1,0 +1,36 @@
+{
+  "title": "Copper scrap",
+  "url": "https://valheim.fandom.com/wiki/Copper_scrap",
+  "slug": "Copper_scrap",
+  "categories": [
+    "Ores",
+    "Can't be Teleported"
+  ],
+  "infobox": {
+    "_infobox_title": "Copper scrap",
+    "Type": "Ore",
+    "Internal ID": "CopperScrap",
+    "Source": "Dropped by breaking some Dvergr structures | Ancient swords/armor",
+    "Usage": "Smelting",
+    "Teleportable (Can go through wood portal?)": "No"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Copper scrap can be refined into Copper in a Smelter."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Copper scrap is obtained by destroying certain structures or building pieces in the Mistlands, including the following:\n• Dvergr wall lanterns found in Dvergr structures\n• Dvergr barrels found in Dvergr structures\n• Ancient swords and Ancient armor"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Like other metals, Copper scrap cannot be teleported without a Portal stone.\n• Copper scrap is very similar to copper ore, though copper scrap can only be found in the Mistlands and is not acquired through mining deposits.\n• In the case of Ancient swords/armor, there is a 50% chance to get copper scrap when mining a node, the other drop being Scrap iron."
+    }
+  ],
+  "full_text": "Copper scrap\n\nType: Ore | Internal ID: CopperScrap | Source: Dropped by breaking some Dvergr structures | Ancient swords/armor | Usage: Smelting | Teleportable (Can go through wood portal?): No\n\nIntroduction. Copper scrap can be refined into Copper in a Smelter.\n\nAvailability. Copper scrap is obtained by destroying certain structures or building pieces in the Mistlands, including the following:\n• Dvergr wall lanterns found in Dvergr structures\n• Dvergr barrels found in Dvergr structures\n• Ancient swords and Ancient armor\n\nNotes. • Like other metals, Copper scrap cannot be teleported without a Portal stone.\n• Copper scrap is very similar to copper ore, though copper scrap can only be found in the Mistlands and is not acquired through mining deposits.\n• In the case of Ancient swords/armor, there is a 50% chance to get copper scrap when mining a node, the other drop being Scrap iron.",
+  "scraped_at": "2026-02-26T01:53:22.920694+00:00"
+}

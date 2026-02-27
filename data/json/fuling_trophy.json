@@ -1,0 +1,35 @@
+{
+  "title": "Fuling trophy",
+  "url": "https://valheim.fandom.com/wiki/Fuling_trophy",
+  "slug": "Fuling_trophy",
+  "categories": [
+    "Trophies"
+  ],
+  "infobox": {
+    "_infobox_title": "Fuling trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyGoblin",
+    "Source": "Fuling",
+    "Usage": "Decoration; fishing bait",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fuling trophy is a rare drop from Fulings."
+    },
+    {
+      "heading": "Crafting:",
+      "level": 2,
+      "text": "• Stingy fishing bait"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Like all other trophies, it can be mounted on an item stand.\n• Can be used to program Balistas."
+    }
+  ],
+  "full_text": "Fuling trophy\n\nType: Trophy | Internal ID: TrophyGoblin | Source: Fuling | Usage: Decoration; fishing bait | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Fuling trophy is a rare drop from Fulings.\n\nCrafting:. • Stingy fishing bait\n\nNotes. • Like all other trophies, it can be mounted on an item stand.\n• Can be used to program Balistas.",
+  "scraped_at": "2026-02-26T02:15:46.451704+00:00"
+}

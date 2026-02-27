@@ -1,0 +1,31 @@
+{
+  "title": "Herbs of the hidden hills",
+  "url": "https://valheim.fandom.com/wiki/Herbs_of_the_hidden_hills",
+  "slug": "Herbs_of_the_hidden_hills",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Herbs of the hidden hills",
+    "Type": "Material",
+    "Internal ID": "SpiceMistlands",
+    "Source": "The Bog Witch",
+    "Usage": "Crafting",
+    "Buy": "180, Coins, for 5",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Herbs of the hidden hills can be purchased from The Bog Witch at 180 Coins for 5 herbs. It is only sold after The Queen has been defeated."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mushrooms galore á la Mistlands"
+    }
+  ],
+  "full_text": "Herbs of the hidden hills\n\nType: Material | Internal ID: SpiceMistlands | Source: The Bog Witch | Usage: Crafting | Buy: 180, Coins, for 5 | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Herbs of the hidden hills can be purchased from The Bog Witch at 180 Coins for 5 herbs. It is only sold after The Queen has been defeated.\n\nCrafting. • Mushrooms galore á la Mistlands",
+  "scraped_at": "2026-02-26T01:34:23.997102+00:00"
+}

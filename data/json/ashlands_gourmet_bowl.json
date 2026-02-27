@@ -1,0 +1,37 @@
+{
+  "title": "Ashlands gourmet bowl",
+  "url": "https://valheim.fandom.com/wiki/Ashlands_gourmet_bowl",
+  "slug": "Ashlands_gourmet_bowl",
+  "categories": [
+    "Food",
+    "Feast"
+  ],
+  "infobox": {
+    "_infobox_title": "Ashlands gourmet bowl",
+    "Type": "Feast",
+    "Internal ID": "FeastAshlands_Material",
+    "Source": "Food preparation table",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Cooked asksvin tail x3, Vineberry cluster x5, Scorching medley x2, Fiery spice powder x1",
+    "Max Health": "75",
+    "Max Stamina": "75",
+    "Max Eitr": "38",
+    "Duration": "50m",
+    "Healing": "6 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ashlands gourmet bowl is the Ashlands-tier Feast."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Ashlands gourmet bowl can be produced at a Food preparation table with:\n• Cooked asksvin tail x3\n• Vineberry cluster x5\n• Scorching medley x2\n• Fiery spice powder x1"
+    }
+  ],
+  "full_text": "Ashlands gourmet bowl\n\nType: Feast | Internal ID: FeastAshlands_Material | Source: Food preparation table | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Cooked asksvin tail x3, Vineberry cluster x5, Scorching medley x2, Fiery spice powder x1 | Max Health: 75 | Max Stamina: 75 | Max Eitr: 38 | Duration: 50m | Healing: 6 hp/tick\n\nIntroduction. Ashlands gourmet bowl is the Ashlands-tier Feast.\n\nRecipe. Ashlands gourmet bowl can be produced at a Food preparation table with:\n• Cooked asksvin tail x3\n• Vineberry cluster x5\n• Scorching medley x2\n• Fiery spice powder x1",
+  "scraped_at": "2026-02-26T01:24:46.222520+00:00"
+}

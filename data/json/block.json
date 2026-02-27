@@ -1,0 +1,92 @@
+{
+  "title": "Blocking",
+  "url": "https://valheim.fandom.com/wiki/Block",
+  "slug": "Block",
+  "categories": [
+    "Mechanics"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Blocking is a mechanic that reduces the damage received from creature attacks while blocking with any weapons or shields."
+    },
+    {
+      "heading": "Blocking",
+      "level": 2,
+      "text": "When the player is blocking:\n• Raw damage is reduced a first time by using only the blocking item's (shield or weapon) armor and resistances (cf. detailed formula).\n• Up to 10 stamina is consumed, proportionally to ratio between leftover damage and raw damage.\n• Blocking may fail if: The Stagger bar (40% of player max health) is filled with the leftover damage, in this case the player is also staggered. There is not enough stamina available (see step two), in this case the player is not staggered.\n• If successful, the leftover damage is reduced a second time by using the regular armor value and resistances. If block failed, the raw damage without blocking reduction is applied to the regular armor value and resistances.\nAdditional details:\n• Only physical Slash, Pierce, Blunt and Lightning damage contribute to fill the stagger bar. Fire, Frost, Poison and Spirit damage are affected by the block armor, but do not contribute to stagger the player.\n• Blocking skill increases Block armor by 0.5% for each skill point, reaching 50% at level 100.\n• Block armor from the skill is not rounded (except on the tooltip).\n• Blocking skill indirectly reduces the Stamina usage by increasing the Block armor.\n• Blocking reduces the amount of received knockback based on the used Block armor.\n• Block force is the amount of knockback dealt to the attacker when blocking melee attacks. It scales from 50% to 100% based on the used Block armor.\n• Successful block prevents the application of statuses, like poison, etc.\n• When Bonemass Power is active, blocks no longer consume stamina and instead give back 5 stamina."
+    },
+    {
+      "heading": "Parrying",
+      "level": 2,
+      "text": "Parrying happens when a block action is performed shortly (less than 0.25 seconds) before an attack lands, indicated by a red splash effect and a notable clanging sound, generally proceeded by an enemy being staggered\nParrying follows the same ruleset as blocking except:\n• The blocking item armor is multiplied by the Parry Bonus of the weapon or shield (cf table below).\n• Parrying does not cost any stamina.\n• If the parry succeeds, the attacker will Stagger (will be unable to move and will take double damage for the duration of the stagger). Some creatures, like bosses, are immune to stagger.\n• Parrying is not available as an action to some items, like Tower Shields.",
+      "table_data": [
+        {
+          "Weapon Type": "Axes",
+          "Parry bonus (multiplier to block armor)": "2x"
+        },
+        {
+          "Weapon Type": "Bows",
+          "Parry bonus (multiplier to block armor)": "1.5x"
+        },
+        {
+          "Weapon Type": "Clubs",
+          "Parry bonus (multiplier to block armor)": "2x"
+        },
+        {
+          "Weapon Type": "Knives",
+          "Parry bonus (multiplier to block armor)": "4x"
+        },
+        {
+          "Weapon Type": "Flesh rippers",
+          "Parry bonus (multiplier to block armor)": "6x"
+        },
+        {
+          "Weapon Type": "Pickaxes",
+          "Parry bonus (multiplier to block armor)": "2x"
+        },
+        {
+          "Weapon Type": "Polearms",
+          "Parry bonus (multiplier to block armor)": "2x"
+        },
+        {
+          "Weapon Type": "Shields - Buckler",
+          "Parry bonus (multiplier to block armor)": "2.5x"
+        },
+        {
+          "Weapon Type": "Shields - Round",
+          "Parry bonus (multiplier to block armor)": "1.5x"
+        },
+        {
+          "Weapon Type": "Shields - Tower",
+          "Parry bonus (multiplier to block armor)": "NA"
+        },
+        {
+          "Weapon Type": "Spears",
+          "Parry bonus (multiplier to block armor)": "2x"
+        },
+        {
+          "Weapon Type": "Swords",
+          "Parry bonus (multiplier to block armor)": "2x"
+        },
+        {
+          "Weapon Type": "Tankard / Ooze Bomb",
+          "Parry bonus (multiplier to block armor)": "1.5x"
+        }
+      ]
+    },
+    {
+      "heading": "Maximum blocked damage",
+      "level": 2,
+      "text": "The maximum damage a player can block or parry without being staggered, assuming an empty stagger bar, can be calculated using two main components:\n• 40% of the player's Maximum Life.\n• Block Armor: This value can be found on the item tooltip, shown in yellow parentheses. For parrying, this value is to be multiplied by the parry multiplier.\nTo determine the maximum blocked damage, there are two cases:\n• If 40% of the player's Maximum Life is greater than the Block Armor multiplied by the Parry Bonus, then the maximum blocked damage is the sum of the two values: M a x i m u m B l o c k e d D a m a g e = 0.4 × M a x i m u m L i f e + B l o c k A r m o r × P a r r y B o n u s {\\displaystyle MaximumBlockedDamage=0.4\\times MaximumLife+BlockArmor\\times ParryBonus}\n• If 40% of the player's Maximum Life is less than the Block Armor multiplied by the Parry Bonus, then the maximum blocked damage is given by the formula: M a x i m u m B l o c k e d D a m a g e = 2 × 0.4 × M a x i m u m L i f e × B l o c k A r m o r × P a r r y B o n u s {\\displaystyle MaximumBlockedDamage=2\\times {\\sqrt {0.4\\times MaximumLife\\times BlockArmor\\times ParryBonus}}}\nIn this case, the formula is more complex, but the formula from case 1 still provides a good approximation."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Parrying allows the player to block more damage than the static block in addition to staggering enemies - but mistiming could let an attack through.\n• The Staff of Protection's shield offers the ability to parry without worrying about stagger."
+    }
+  ],
+  "full_text": "Blocking\n\nIntroduction. Blocking is a mechanic that reduces the damage received from creature attacks while blocking with any weapons or shields.\n\nBlocking. When the player is blocking:\n• Raw damage is reduced a first time by using only the blocking item's (shield or weapon) armor and resistances (cf. detailed formula).\n• Up to 10 stamina is consumed, proportionally to ratio between leftover damage and raw damage.\n• Blocking may fail if: The Stagger bar (40% of player max health) is filled with the leftover damage, in this case the player is also staggered. There is not enough stamina available (see step two), in this case the player is not staggered.\n• If successful, the leftover damage is reduced a second time by using the regular armor value and resistances. If block failed, the raw damage without blocking reduction is applied to the regular armor value and resistances.\nAdditional details:\n• Only physical Slash, Pierce, Blunt and Lightning damage contribute to fill the stagger bar. Fire, Frost, Poison and Spirit damage are affected by the block armor, but do not contribute to stagger the player.\n• Blocking skill increases Block armor by 0.5% for each skill point, reaching 50% at level 100.\n• Block armor from the skill is not rounded (except on the tooltip).\n• Blocking skill indirectly reduces the Stamina usage by increasing the Block armor.\n• Blocking reduces the amount of received knockback based on the used Block armor.\n• Block force is the amount of knockback dealt to the attacker when blocking melee attacks. It scales from 50% to 100% based on the used Block armor.\n• Successful block prevents the application of statuses, like poison, etc.\n• When Bonemass Power is active, blocks no longer consume stamina and instead give back 5 stamina.\n\nParrying. Parrying happens when a block action is performed shortly (less than 0.25 seconds) before an attack lands, indicated by a red splash effect and a notable clanging sound, generally proceeded by an enemy being staggered\nParrying follows the same ruleset as blocking except:\n• The blocking item armor is multiplied by the Parry Bonus of the weapon or shield (cf table below).\n• Parrying does not cost any stamina.\n• If the parry succeeds, the attacker will Stagger (will be unable to move and will take double damage for the duration of the stagger). Some creatures, like bosses, are immune to stagger.\n• Parrying is not available as an action to some items, like Tower Shields.\n\nMaximum blocked damage. The maximum damage a player can block or parry without being staggered, assuming an empty stagger bar, can be calculated using two main components:\n• 40% of the player's Maximum Life.\n• Block Armor: This value can be found on the item tooltip, shown in yellow parentheses. For parrying, this value is to be multiplied by the parry multiplier.\nTo determine the maximum blocked damage, there are two cases:\n• If 40% of the player's Maximum Life is greater than the Block Armor multiplied by the Parry Bonus, then the maximum blocked damage is the sum of the two values: M a x i m u m B l o c k e d D a m a g e = 0.4 × M a x i m u m L i f e + B l o c k A r m o r × P a r r y B o n u s {\\displaystyle MaximumBlockedDamage=0.4\\times MaximumLife+BlockArmor\\times ParryBonus}\n• If 40% of the player's Maximum Life is less than the Block Armor multiplied by the Parry Bonus, then the maximum blocked damage is given by the formula: M a x i m u m B l o c k e d D a m a g e = 2 × 0.4 × M a x i m u m L i f e × B l o c k A r m o r × P a r r y B o n u s {\\displaystyle MaximumBlockedDamage=2\\times {\\sqrt {0.4\\times MaximumLife\\times BlockArmor\\times ParryBonus}}}\nIn this case, the formula is more complex, but the formula from case 1 still provides a good approximation.\n\nNotes. • Parrying allows the player to block more damage than the static block in addition to staggering enemies - but mistiming could let an attack through.\n• The Staff of Protection's shield offers the ability to parry without worrying about stagger.",
+  "scraped_at": "2026-02-26T02:18:00.353303+00:00"
+}

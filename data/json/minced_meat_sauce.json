@@ -1,0 +1,41 @@
+{
+  "title": "Minced meat sauce",
+  "url": "https://valheim.fandom.com/wiki/Minced_meat_sauce",
+  "slug": "Minced_meat_sauce",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Minced meat sauce",
+    "Type": "Food",
+    "Internal ID": "MinceMeatSauce",
+    "Source": "Cauldron",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Boar meat x1, Neck tail x1, Carrot x1",
+    "Max Health": "40",
+    "Max Stamina": "13",
+    "Duration": "25m",
+    "Healing": "3 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Minced meat sauce is a Black Forest-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Minced meat sauce is produced in a level 1 Cauldron with:\n• 1 Boar meat\n• 1 Carrot\n• 1 Neck tail"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Minced meat sauce provides the second highest health gain in the Black Forest at 40, second to Deer stew at 45."
+    }
+  ],
+  "full_text": "Minced meat sauce\n\nType: Food | Internal ID: MinceMeatSauce | Source: Cauldron | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Boar meat x1, Neck tail x1, Carrot x1 | Max Health: 40 | Max Stamina: 13 | Duration: 25m | Healing: 3 hp/tick\n\nIntroduction. Minced meat sauce is a Black Forest-tier food.\n\nRecipe. Minced meat sauce is produced in a level 1 Cauldron with:\n• 1 Boar meat\n• 1 Carrot\n• 1 Neck tail\n\nNotes. • Minced meat sauce provides the second highest health gain in the Black Forest at 40, second to Deer stew at 45.",
+  "scraped_at": "2026-02-26T01:27:07.769497+00:00"
+}

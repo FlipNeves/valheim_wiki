@@ -1,0 +1,12 @@
+{
+  "title": "Bolts",
+  "url": "https://valheim.fandom.com/wiki/Bolts",
+  "slug": "Bolts",
+  "categories": [
+    "Weapons",
+    "Bolts"
+  ],
+  "content": "# Bolts\n\n# Introduction\n\nBolts are a type of ammunition for Crossbows.\nBolts' damage is added to base crossbow damage before any other damage calculation. (See Damage mechanics for details).\n\n### List of bolts\n\n• Name: Bone bolt | Damage: Pierce: 32 | Knockback: 0\n\n• Name: Iron bolt | Damage: Pierce: 42 | Knockback: 0\n\n• Name: Black metal bolt | Damage: Pierce: 62 | Knockback: 0\n\n• Name: Carapace bolt | Damage: Pierce: 72 | Knockback: 0\n\n• Name: Charred bolt | Damage: Pierce: 82 | Knockback: 0\n\nCategorias: Weapons, Bolts",
+  "content_length": 526,
+  "scraped_at": "2026-02-26T01:12:00.813277+00:00"
+}

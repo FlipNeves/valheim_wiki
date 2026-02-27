@@ -1,0 +1,50 @@
+{
+  "title": "Blueberries",
+  "url": "https://valheim.fandom.com/wiki/Blueberries",
+  "slug": "Blueberries",
+  "categories": [
+    "Food",
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Blueberries",
+    "Type": "Food",
+    "Internal ID": "Blueberries",
+    "Source": "Blueberry bushes in the, Black Forest, biome",
+    "Usage": "Building, Crafting, Eating, Taming",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Max Health": "8",
+    "Max Stamina": "25",
+    "Duration": "10m",
+    "Healing": "1 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Blueberries are berries found in the Black Forest."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Bushes in the Black Forest can be harvested for 1 Blueberries, affected by Farming (Skill). Bushes replenish after 5h. There is currently no way to replant berry bushes, and if they are destroyed they will not grow back.\n• Randomly in barrels outside Greydwarf Towers."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Blue banner\n• Blue, red and white banner\n• Purple banner\n• White and blue striped banner"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Deer stew\n• Mead base: Minor healing\n• Mead base: Tasty\n• Mead base: Ratatosk\n• Muckshake\n• Queen's jam x4\n• Blue firework\n• Patterns of the Bear\n• Loincloth of the Bear"
+    },
+    {
+      "heading": "Taming",
+      "level": 3,
+      "text": "• Boar"
+    }
+  ],
+  "full_text": "Blueberries\n\nType: Food | Internal ID: Blueberries | Source: Blueberry bushes in the, Black Forest, biome | Usage: Building, Crafting, Eating, Taming | Teleportable (Can go through wood portal?): Yes | Max Health: 8 | Max Stamina: 25 | Duration: 10m | Healing: 1 hp/tick\n\nIntroduction. Blueberries are berries found in the Black Forest.\n\nAvailability. • Bushes in the Black Forest can be harvested for 1 Blueberries, affected by Farming (Skill). Bushes replenish after 5h. There is currently no way to replant berry bushes, and if they are destroyed they will not grow back.\n• Randomly in barrels outside Greydwarf Towers.\n\nBuilding. • Blue banner\n• Blue, red and white banner\n• Purple banner\n• White and blue striped banner\n\nCrafting. • Deer stew\n• Mead base: Minor healing\n• Mead base: Tasty\n• Mead base: Ratatosk\n• Muckshake\n• Queen's jam x4\n• Blue firework\n• Patterns of the Bear\n• Loincloth of the Bear\n\nTaming. • Boar",
+  "scraped_at": "2026-02-26T01:25:11.674941+00:00"
+}

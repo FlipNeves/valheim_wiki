@@ -1,0 +1,35 @@
+{
+  "title": "Inverted Tower",
+  "url": "https://valheim.fandom.com/wiki/Inverted_Tower",
+  "slug": "Inverted_Tower",
+  "categories": [
+    "Points of interest"
+  ],
+  "infobox": {
+    "_infobox_title": "Inverted Tower",
+    "Type": "Structure",
+    "Internal ID": "SwampWell1 | MountainWell1",
+    "Location": "Swamp, ,, Mountain",
+    "Resources": "Mountain Chest",
+    "Inhabitants": "Draugr elite, (Swamp)"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Inverted Towers or Wells are Points of interest found in Swamp and Mountain. These are circular structures with staircases leading down into the ground."
+    },
+    {
+      "heading": "Swamp",
+      "level": 2,
+      "text": "Swamp Inverted Towers are often flooded with water. Up to two Draugr elites, with a 32.1% chance each, can emerge from water. They have no particular resources."
+    },
+    {
+      "heading": "Mountain",
+      "level": 2,
+      "text": "Inverted Towers in the mountain are not protected. They have a 75% chance for a Mountain Chest at the bottom of the well."
+    }
+  ],
+  "full_text": "Inverted Tower\n\nType: Structure | Internal ID: SwampWell1 | MountainWell1 | Location: Swamp, ,, Mountain | Resources: Mountain Chest | Inhabitants: Draugr elite, (Swamp)\n\nIntroduction. Inverted Towers or Wells are Points of interest found in Swamp and Mountain. These are circular structures with staircases leading down into the ground.\n\nSwamp. Swamp Inverted Towers are often flooded with water. Up to two Draugr elites, with a 32.1% chance each, can emerge from water. They have no particular resources.\n\nMountain. Inverted Towers in the mountain are not protected. They have a 75% chance for a Mountain Chest at the bottom of the well.",
+  "scraped_at": "2026-02-26T01:47:15.490290+00:00"
+}

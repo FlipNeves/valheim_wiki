@@ -1,0 +1,51 @@
+{
+  "title": "Queen's jam",
+  "url": "https://valheim.fandom.com/wiki/Queen%27s_jam",
+  "slug": "Queen%27s_jam",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Queen's jam",
+    "Type": "Food",
+    "Internal ID": "QueensJam",
+    "Source": "Cauldron",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Raspberries x8, Blueberries x6",
+    "Max Health": "14",
+    "Max Stamina": "40",
+    "Duration": "20m",
+    "Healing": "2 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "A Queen's jam is a Black Forest-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Four Queen's jams are produced in a level 1 Cauldron with:\n• 8 Raspberries\n• 6 Blueberries"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Black Forest buffet platter"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Queen's jam provides the second-highest stamina gain in the Black Forest at 40, second to Carrot soup at 45."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• Queen's jam is a popular jam in Scandinavia, made by mixing raspberries and blueberries, both sweet and common, in the region.\n• Drottningsylt, or queen’s jam, is popular for delicacies such as plättar and Swedish pancakes."
+    }
+  ],
+  "full_text": "Queen's jam\n\nType: Food | Internal ID: QueensJam | Source: Cauldron | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Raspberries x8, Blueberries x6 | Max Health: 14 | Max Stamina: 40 | Duration: 20m | Healing: 2 hp/tick\n\nIntroduction. A Queen's jam is a Black Forest-tier food.\n\nRecipe. Four Queen's jams are produced in a level 1 Cauldron with:\n• 8 Raspberries\n• 6 Blueberries\n\nCrafting. • Black Forest buffet platter\n\nNotes. • Queen's jam provides the second-highest stamina gain in the Black Forest at 40, second to Carrot soup at 45.\n\nTrivia. • Queen's jam is a popular jam in Scandinavia, made by mixing raspberries and blueberries, both sweet and common, in the region.\n• Drottningsylt, or queen’s jam, is popular for delicacies such as plättar and Swedish pancakes.",
+  "scraped_at": "2026-02-26T01:27:51.971356+00:00"
+}

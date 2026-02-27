@@ -1,0 +1,13 @@
+{
+  "title": "Blue standing brazier",
+  "url": "https://valheim.fandom.com/wiki/Blue_standing_brazier",
+  "slug": "Blue_standing_brazier",
+  "categories": [
+    "Furniture",
+    "Fires",
+    "Light sources"
+  ],
+  "content": "# Blue standing brazier\n\nType: Furniture | Internal ID: piece_brazierfloor02 | Source: Forge | Usage: Greydwarf eye, -fueled light source. | Crafting Materials: Bronze x5, Greydwarf eye x5, Fenris claw x3 | Support: Wood (from 10 to 100) | Loss: 1/8 vertical, 1/5 horizontal | Other Effect(s): Produces smoke, Removes the Cold Effect, Adds the Fire Effect, Rapidly removes the Wet Effect, Reduces Freezing Effect to Cold Effect | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Pickaxe, ,, Lightning | Immune to (x0): Fire, ,, Frost, ,, Poison, ,, Spirit\n\n# Introduction\n\nThe Blue standing brazier is a light source that can be placed on any surface, and must be built within the range of a Forge.\n\n## Usage\n\nThe Blue standing brazier has all the same functions as a Campfire and is a base structure.\nBlue standing braziers are fueled with Greydwarf eyes. With 1/5 fuel, a Blue standing brazier will last for 5 hours and 33 minutes. At maximum capacity, a Blue standing brazier should burn for 27 hours and 47 minutes. It can be used for cooking, however, it does not fit easily like a Campfire does.\nThe Fire Effect for the Blue standing brazier extends for about 4–5 meters (Measured from the closest the player can stand without setting themselves on fire).\n\n## Notes\n\n• Destroying the Blue standing brazier with a Hammer will not yield back any Greydwarf eyes and will only return the 5 Bronze and 3 Fenris claws used for its construction. All Greydwarf eyes used as fuel and for the initial construction will not be dropped.\n• Blue standing braziers found in Howling Caverns can be destroyed for up to 2 Coal and sometimes 1 Bronze.\n• Blue standing braziers stop working if exposed to rainy weather without a roof.\n\nCategorias: Furniture, Fires, Light sources",
+  "content_length": 1773,
+  "scraped_at": "2026-02-26T01:40:51.758436+00:00"
+}

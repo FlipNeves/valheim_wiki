@@ -1,0 +1,308 @@
+{
+  "title": "Effect areas",
+  "url": "https://valheim.fandom.com/wiki/Effect_areas",
+  "slug": "Effect_areas",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Effects areas are invisible areas created around some creatures, items and structures.\n• Player base: Suppresses creature spawning, disables item despawning, allows raids.\n• Fire: Scares off some creatures. Requires fuel.\n• Heat: Enables Resting Effect, sleep, etc. Requires fuel.\n• Burning: Allow cooking, causes fire damage on contact. Requires fuel.\n• Comfort: Enables higher Rested Effect.\n• Build: Enables placing structures.\n• Protection: Disables building and terrain modifications, locks doors and chests.",
+      "table_data": [
+        {
+          "": "Artisan table",
+          "Player base": "20 m",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "40 m",
+          "Protection": ""
+        },
+        {
+          "": "Blast furnace",
+          "Player base": "20 m",
+          "Fire / Heat": "4.5 m",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Bed",
+          "Player base": "20 m",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "10 m",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Bonfire",
+          "Player base": "20 m",
+          "Fire / Heat": "15 m",
+          "Burning": "1.8 m (cylinder)",
+          "Comfort": "10 m",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Bonfire (rain or strong wind)",
+          "Player base": "20 m",
+          "Fire / Heat": "12 m",
+          "Burning": "1.8 m (cylinder)",
+          "Comfort": "10 m",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Campfire",
+          "Player base": "20 m",
+          "Fire / Heat": "8 m",
+          "Burning": "0.7 m (1 m off ground)",
+          "Comfort": "10 m",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Charcoal kiln",
+          "Player base": "20 m",
+          "Fire / Heat": "5 m",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Dragon bed",
+          "Player base": "20 m",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "10 m",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Fermenter",
+          "Player base": "20 m",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Fire geysers",
+          "Player base": "",
+          "Fire / Heat": "6 m",
+          "Burning": "1.5 m",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Forge",
+          "Player base": "20 m",
+          "Fire / Heat": "5.4 m",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Haldor",
+          "Player base": "",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": "12.5 m (no monsters)"
+        },
+        {
+          "": "Hanging brazier",
+          "Player base": "20 m",
+          "Fire / Heat": "8 m",
+          "Burning": "0.6 m",
+          "Comfort": "10 m",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Hearth",
+          "Player base": "20 m",
+          "Fire / Heat": "13 m",
+          "Burning": "2.9 m x 1.4 m x 0.89 m",
+          "Comfort": "10 m",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Portal",
+          "Player base": "20 m",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Sconce",
+          "Player base": "20 m",
+          "Fire / Heat": "6 m",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Smelter",
+          "Player base": "20 m",
+          "Fire / Heat": "4.5 m",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Spinning wheel",
+          "Player base": "20 m",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Standing green-burning iron torch",
+          "Player base": "20 m",
+          "Fire / Heat": "3 m (1 m off ground)",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Standing blue-burning iron torch",
+          "Player base": "20 m",
+          "Fire / Heat": "3 m (1 m off ground)",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Standing iron torch",
+          "Player base": "20 m",
+          "Fire / Heat": "6 m (1 m off ground)",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Standing wood torch",
+          "Player base": "20 m",
+          "Fire / Heat": "3 m (1 m off ground)",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Sacrificial Stones",
+          "Player base": "",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": "25 m"
+        },
+        {
+          "": "Stonecutter",
+          "Player base": "20 m",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "20 m",
+          "Protection": ""
+        },
+        {
+          "": "Stone Oven",
+          "Player base": "20 m",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Surtling",
+          "Player base": "",
+          "Fire / Heat": "3 m (no heat)",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Surtling trophy",
+          "Player base": "",
+          "Fire / Heat": "2 m (no heat)",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Torch",
+          "Player base": "",
+          "Fire / Heat": "2 m (no heat)",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "The Elder altar",
+          "Player base": "",
+          "Fire / Heat": "8 m",
+          "Burning": "1 m",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Ward",
+          "Player base": "20 m",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": "32 m (cylinder)"
+        },
+        {
+          "": "Windmill",
+          "Player base": "20 m",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "",
+          "Protection": ""
+        },
+        {
+          "": "Workbench",
+          "Player base": "20 m",
+          "Fire / Heat": "",
+          "Burning": "",
+          "Comfort": "",
+          "Build": "20 m",
+          "Protection": ""
+        }
+      ]
+    }
+  ],
+  "full_text": "Effect areas\n\nIntroduction. Effects areas are invisible areas created around some creatures, items and structures.\n• Player base: Suppresses creature spawning, disables item despawning, allows raids.\n• Fire: Scares off some creatures. Requires fuel.\n• Heat: Enables Resting Effect, sleep, etc. Requires fuel.\n• Burning: Allow cooking, causes fire damage on contact. Requires fuel.\n• Comfort: Enables higher Rested Effect.\n• Build: Enables placing structures.\n• Protection: Disables building and terrain modifications, locks doors and chests.",
+  "scraped_at": "2026-02-26T02:13:14.170899+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Bronze pickaxe",
+  "url": "https://valheim.fandom.com/wiki/Bronze_pickaxe",
+  "slug": "Bronze_pickaxe",
+  "categories": [
+    "Weapons",
+    "Pickaxes",
+    "Tools",
+    "Forge recipes"
+  ],
+  "content": "# Bronze pickaxe\n\nInternal ID: PickaxeBronze | Type: Pickaxe | Source: Forge | Usage: Mining | Wielding: Two-handed | Crafting Materials: Corewood x3, Bronze x15 | Attack speed: 1.4 s | Hitbox: 1.8 range, 120 angle, 1.0 height, 0.2 ray, vertical | Movement speed: -5%\n\n# Introduction\n\nThe Bronze pickaxe is the second pickaxe. It can be used to mine all the same things as the Antler pickaxe, but does more damage and is more durable.\nIts primary attack is a melee attack that destroys ground. It does not have a secondary attack.\n\n## Upgrade information\n\n• stat: Pierce | Quality 1: 25 | Quality 2: 30 | Quality 3: 35 | Quality 4: 40\n\n• stat: Mining | Quality 1: 25 | Quality 2: 29 | Quality 3: 33 | Quality 4: 37\n\n• stat: Durability | Quality 1: 120 | Quality 2: 170 | Quality 3: 220 | Quality 4: 270\n\n• stat: Crafting | Quality 1: 3 Corewood10 Bronze | Quality 2: 1 Corewood5 Bronze | Quality 3: 2 Corewood10 Bronze | Quality 4: 3 Corewood15 Bronze | Total: 9 Corewood40 Bronze\n\n• stat: Forge level | Quality 1: 1 | Quality 2: 2 | Quality 3: 3 | Quality 4: 4\n\n## Notes\n\n• The attack hitbox reaches below the player's feet, allowing to dig down. This easily causes a 33% damage penalty for hitting the ground when not above or very close to the target.\n• As with other bronze items, the Bronze pickaxe must be repaired using a Forge.\n• Due to being repairable at a Workbench, the Antler pickaxe might be preferable to the Bronze pickaxe in some situations.\n\nCategorias: Weapons, Pickaxes, Tools, Forge recipes",
+  "content_length": 1511,
+  "scraped_at": "2026-02-26T01:12:30.462122+00:00"
+}

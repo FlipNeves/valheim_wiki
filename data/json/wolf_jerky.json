@@ -1,0 +1,35 @@
+{
+  "title": "Wolf jerky",
+  "url": "https://valheim.fandom.com/wiki/Wolf_jerky",
+  "slug": "Wolf_jerky",
+  "categories": [
+    "Food"
+  ],
+  "infobox": {
+    "_infobox_title": "Wolf jerky",
+    "Type": "Food",
+    "Internal ID": "Wolfjerky",
+    "Source": "Cauldron, (level 3)",
+    "Usage": "Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Wolf meat x1, Honey x1",
+    "Max Health": "33",
+    "Max Stamina": "33",
+    "Duration": "30m",
+    "Healing": "3 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Wolf jerky is a Mountain-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Two Wolf jerky are produced at a level 3 Cauldron with:\n• 1 Honey\n• 1 Wolf meat"
+    }
+  ],
+  "full_text": "Wolf jerky\n\nType: Food | Internal ID: Wolfjerky | Source: Cauldron, (level 3) | Usage: Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Wolf meat x1, Honey x1 | Max Health: 33 | Max Stamina: 33 | Duration: 30m | Healing: 3 hp/tick\n\nIntroduction. Wolf jerky is a Mountain-tier food.\n\nRecipe. Two Wolf jerky are produced at a level 3 Cauldron with:\n• 1 Honey\n• 1 Wolf meat",
+  "scraped_at": "2026-02-26T01:29:22.917208+00:00"
+}

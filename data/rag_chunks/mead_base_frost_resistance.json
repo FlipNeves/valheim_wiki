@@ -1,0 +1,13 @@
+{
+  "title": "Frost resistance mead",
+  "url": "https://valheim.fandom.com/wiki/Mead_base:_Frost_resistance",
+  "slug": "Mead_base:_Frost_resistance",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "content": "# Frost resistance mead\n\nType: Mead | Internal ID: MeadFrostResist | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Frost resistance x1 | Duration: 10m | Cooldown: 10m | Other Effect(s): Resistant (0.5x) VS, Frost\n\n# Introduction\n\nFrost resistance mead is a Swamp-tier consumable item fermented from Mead base: Frost resistance.\n\n## Recipe\n\nMead base: Frost resistance is produced in a Mead ketill with:\n• 10 Honey\n• 5 Thistle\n• 2 Bloodbag\n• 1 Greydwarf eye\nSix Frost resistance meads are produced by fermenting the mead base for two in-game days.\n\n## Effect\n\nConsuming it grants Resistant VS Frost for 600 seconds (10 minutes), which prevents the Cold and the Freezing Effect. It also reduces Frost damage taken as detailed in Resistance.\n\n## Notes\n\n• A Frost resistance mead is typically necessary to craft before entering the Mountains for the first time to prevent the Freezing effect, as the other common sources of Frost resistance require Silver, Fenris hair or Wolf pelts, which is only obtainable from the Mountains.\n• The Frost resistance mead, Wolf fur cape, Wolf armor chest, Fenris coat, Lox cape, and Feather cape all provide the same resistance effect, and do not stack with each other.\n\nCategorias: Mead, Fermenter recipes, Items",
+  "content_length": 1317,
+  "scraped_at": "2026-02-26T02:16:12.712114+00:00"
+}

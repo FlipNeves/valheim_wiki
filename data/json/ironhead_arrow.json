@@ -1,0 +1,32 @@
+{
+  "title": "Ironhead arrow",
+  "url": "https://valheim.fandom.com/wiki/Ironhead_arrow",
+  "slug": "Ironhead_arrow",
+  "categories": [
+    "Weapons",
+    "Arrows",
+    "Forge recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Ironhead arrow",
+    "Internal ID": "ArrowIron",
+    "Type": "Arrow",
+    "Source": "Forge",
+    "Usage": "Bow ammunition",
+    "Crafting Materials": "Wood x8, Iron x1, Feathers x2"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Ironhead arrows are ammunition for bows and are the next direct upgrade from bronzehead arrows."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Ironhead arrows can be found in Sunken Crypts within the Swamp biome.\n• They are unlocked after acquiring iron and are crafted in the forge."
+    }
+  ],
+  "full_text": "Ironhead arrow\n\nInternal ID: ArrowIron | Type: Arrow | Source: Forge | Usage: Bow ammunition | Crafting Materials: Wood x8, Iron x1, Feathers x2\n\nIntroduction. Ironhead arrows are ammunition for bows and are the next direct upgrade from bronzehead arrows.\n\nAvailability. • Ironhead arrows can be found in Sunken Crypts within the Swamp biome.\n• They are unlocked after acquiring iron and are crafted in the forge.",
+  "scraped_at": "2026-02-26T01:16:20.086682+00:00"
+}

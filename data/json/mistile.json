@@ -1,0 +1,28 @@
+{
+  "title": "Mistile",
+  "url": "https://valheim.fandom.com/wiki/Mistile",
+  "slug": "Mistile",
+  "categories": [
+    "Creatures",
+    "Minions"
+  ],
+  "infobox": {
+    "_infobox_title": "Mistile",
+    "Internal ID": "Mistile",
+    "Faction": "Dvergr",
+    "Main biome": "Mistlands",
+    "Abilities": "Kamikaze",
+    "Trophy": "Mistile trophy",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit",
+    "Immune to (x0)": "Chop, ,, Pickaxe"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Mistiles are homing balls of light spawned exclusively by Dvergr mages. They deal blunt damage upon contact with the enemy."
+    }
+  ],
+  "full_text": "Mistile\n\nInternal ID: Mistile | Faction: Dvergr | Main biome: Mistlands | Abilities: Kamikaze | Trophy: Mistile trophy | Neutral to (x1): Blunt, ,, Slash, ,, Pierce, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit | Immune to (x0): Chop, ,, Pickaxe\n\nIntroduction. Mistiles are homing balls of light spawned exclusively by Dvergr mages. They deal blunt damage upon contact with the enemy.",
+  "scraped_at": "2026-02-26T01:08:36.191918+00:00"
+}

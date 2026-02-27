@@ -1,0 +1,30 @@
+{
+  "title": "Asksvin hide",
+  "url": "https://valheim.fandom.com/wiki/Asksvin_hide",
+  "slug": "Asksvin_hide",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Asksvin hide",
+    "Type": "Material",
+    "Internal ID": "AskHide",
+    "Source": "Asksvin, , Asksvin Hatchling",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Asksvin hide is dropped by Asksvin in the Ashlands biome."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Asksvin rug\n• Ashwood bed"
+    }
+  ],
+  "full_text": "Asksvin hide\n\nType: Material | Internal ID: AskHide | Source: Asksvin, , Asksvin Hatchling | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Asksvin hide is dropped by Asksvin in the Ashlands biome.\n\nBuilding. • Asksvin rug\n• Ashwood bed",
+  "scraped_at": "2026-02-26T01:30:00.605183+00:00"
+}

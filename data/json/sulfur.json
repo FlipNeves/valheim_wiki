@@ -1,0 +1,40 @@
+{
+  "title": "Sulfur",
+  "url": "https://valheim.fandom.com/wiki/Sulfur",
+  "slug": "Sulfur",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Sulfur",
+    "Type": "Material",
+    "Internal ID": "SulfurStone",
+    "Source": "Lava Blob",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Sulfur is a material found in Ashlands."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Dropped by Lava Blobs.\n• Sulfur nodes located under Sulfur arches in the Ashlands biome."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Lava lantern"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Blob bomb Lava\n• Brimstone\n• Explosive payload\n• Flametal mace"
+    }
+  ],
+  "full_text": "Sulfur\n\nType: Material | Internal ID: SulfurStone | Source: Lava Blob | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Sulfur is a material found in Ashlands.\n\nAvailability. • Dropped by Lava Blobs.\n• Sulfur nodes located under Sulfur arches in the Ashlands biome.\n\nBuilding. • Lava lantern\n\nCrafting. • Blob bomb Lava\n• Brimstone\n• Explosive payload\n• Flametal mace",
+  "scraped_at": "2026-02-26T01:36:54.944174+00:00"
+}

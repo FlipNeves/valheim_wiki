@@ -1,0 +1,44 @@
+{
+  "title": "Iron shield",
+  "url": "https://valheim.fandom.com/wiki/Iron_shield",
+  "slug": "Iron_shield",
+  "categories": [
+    "Unfinished",
+    "Weapons",
+    "Shields"
+  ],
+  "infobox": {
+    "_infobox_title": "Iron shield",
+    "Internal ID": "ShieldIronSquare",
+    "Type": "Shield",
+    "Source": "n/a",
+    "Usage": "Blocking",
+    "Wielding": "Off-hand",
+    "Crafting Materials": "n/a",
+    "Movement speed": "-20%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Iron shield is an item. Like all tower shields, it is incapable of parrying and has a dramatic -20% movement speed penalty when drawn, but provides superior block power to other variants."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Cannot currently be crafted. See Iron tower shield for the available iron tier tower shield."
+    },
+    {
+      "heading": "Upgrade information",
+      "level": 2,
+      "text": "Cannot currently be upgraded."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "Currently only obtainable via console commands and does not function properly. Rather than attaching to the hand, it seems to be attached to the air behind the left foot."
+    }
+  ],
+  "full_text": "Iron shield\n\nInternal ID: ShieldIronSquare | Type: Shield | Source: n/a | Usage: Blocking | Wielding: Off-hand | Crafting Materials: n/a | Movement speed: -20%\n\nIntroduction. Iron shield is an item. Like all tower shields, it is incapable of parrying and has a dramatic -20% movement speed penalty when drawn, but provides superior block power to other variants.\n\nAvailability. Cannot currently be crafted. See Iron tower shield for the available iron tier tower shield.\n\nUpgrade information. Cannot currently be upgraded.\n\nNotes. Currently only obtainable via console commands and does not function properly. Rather than attaching to the hand, it seems to be attached to the air behind the left foot.",
+  "scraped_at": "2026-02-26T01:16:03.083977+00:00"
+}

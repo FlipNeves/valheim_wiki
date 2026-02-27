@@ -1,0 +1,36 @@
+{
+  "title": "Grouper",
+  "url": "https://valheim.fandom.com/wiki/Grouper",
+  "slug": "Grouper",
+  "categories": [
+    "Fish",
+    "Fishing"
+  ],
+  "infobox": {
+    "_infobox_title": "Grouper",
+    "Type": "Fish",
+    "Internal ID": "fish7",
+    "Source": "Fishing",
+    "Usage": "Cooking | Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Grouper are passive creatures (fish) found in the waters just offshore of the Plains biome.\nThey can be caught with a fishing pole using Stingy fishing bait which can be crafted at the Food preparation table by combining 20 Fishing bait and a Fuling trophy.\nNeeded to craft a Fishing hat"
+    },
+    {
+      "heading": "Crafting:",
+      "level": 3,
+      "text": "• Food preparation table Raw fish\n• Workbench Fishing hat\n• Mead ketill Mead base: Anti-sting"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Has a unique line: \"I'm dead, but not gone. Won't you free me from this cursed purgatory?\""
+    }
+  ],
+  "full_text": "Grouper\n\nType: Fish | Internal ID: fish7 | Source: Fishing | Usage: Cooking | Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Grouper are passive creatures (fish) found in the waters just offshore of the Plains biome.\nThey can be caught with a fishing pole using Stingy fishing bait which can be crafted at the Food preparation table by combining 20 Fishing bait and a Fuling trophy.\nNeeded to craft a Fishing hat\n\nCrafting:. • Food preparation table Raw fish\n• Workbench Fishing hat\n• Mead ketill Mead base: Anti-sting\n\nNotes. • Has a unique line: \"I'm dead, but not gone. Won't you free me from this cursed purgatory?\"",
+  "scraped_at": "2026-02-26T01:52:24.695571+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Cultist trophy",
+  "url": "https://valheim.fandom.com/wiki/Cultist_trophy",
+  "slug": "Cultist_trophy",
+  "categories": [
+    "Trophies"
+  ],
+  "infobox": {
+    "_infobox_title": "Cultist trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyCultist",
+    "Source": "Cultist",
+    "Usage": "Crafting, Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Cultist trophy is a rare drop, 10% chance, from Cultists in the Mountains."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Fenris hood"
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed in an Item stand.\n• Can be used to program Ballistas."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Cultist trophies can be hard to obtain from only Frost Caves, a solution is to do the Hildir´s quest and kill Geirrhafa to activate the raid Event \"You get the chills...\" since Cultists will spawn during this raid."
+    }
+  ],
+  "full_text": "Cultist trophy\n\nType: Trophy | Internal ID: TrophyCultist | Source: Cultist | Usage: Crafting, Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Cultist trophy is a rare drop, 10% chance, from Cultists in the Mountains.\n\nCrafting. • Fenris hood\n\nMisc. • Can be displayed in an Item stand.\n• Can be used to program Ballistas.\n\nNotes. • Cultist trophies can be hard to obtain from only Frost Caves, a solution is to do the Hildir´s quest and kill Geirrhafa to activate the raid Event \"You get the chills...\" since Cultists will spawn during this raid.",
+  "scraped_at": "2026-02-26T02:09:00.521043+00:00"
+}

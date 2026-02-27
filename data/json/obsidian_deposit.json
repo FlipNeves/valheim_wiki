@@ -1,0 +1,47 @@
+{
+  "title": "Obsidian deposit",
+  "url": "https://valheim.fandom.com/wiki/Obsidian_deposit",
+  "slug": "Obsidian_deposit",
+  "categories": [
+    "Resource nodes"
+  ],
+  "infobox": {
+    "_infobox_title": "Obsidian deposit",
+    "Type": "Resource nodes",
+    "Internal ID": "MineRock_Obsidian",
+    "Location": "Mountain",
+    "Resources": "Obsidian",
+    "Neutral to": "Pickaxe",
+    "Immune to": "Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "An Obsidian deposit is a resource node and is found in the Mountains biome and require an Iron pickaxe or better to harvest."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "Obsidian deposits appear as small, sphere-shaped rocks with distinct black colored veins, which help differentiate them from regular rocks at a distance. They yield Obsidian when mined.\nThey are only found on the surface."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Item": "Drop Rate",
+          "Obsidian": "5-8"
+        }
+      ]
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Obsidian deposits do not respawn.\n• Unlike other resources that require mining, Obsidian can be teleported."
+    }
+  ],
+  "full_text": "Obsidian deposit\n\nType: Resource nodes | Internal ID: MineRock_Obsidian | Location: Mountain | Resources: Obsidian | Neutral to: Pickaxe | Immune to: Blunt, ,, Slash, ,, Pierce, ,, Chop, ,, Fire, ,, Frost, ,, Lightning, ,, Poison, ,, Spirit\n\nIntroduction. An Obsidian deposit is a resource node and is found in the Mountains biome and require an Iron pickaxe or better to harvest.\n\nAvailability. Obsidian deposits appear as small, sphere-shaped rocks with distinct black colored veins, which help differentiate them from regular rocks at a distance. They yield Obsidian when mined.\nThey are only found on the surface.\n\nNotes. • Obsidian deposits do not respawn.\n• Unlike other resources that require mining, Obsidian can be teleported.",
+  "scraped_at": "2026-02-26T01:49:26.072311+00:00"
+}

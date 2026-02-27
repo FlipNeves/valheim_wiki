@@ -1,0 +1,26 @@
+{
+  "title": "Headband",
+  "url": "https://valheim.fandom.com/wiki/Headband",
+  "slug": "Headband",
+  "categories": [
+    "Armor",
+    "Head"
+  ],
+  "infobox": {
+    "_infobox_title": "Headband",
+    "Internal ID": "HelmetSweatBand",
+    "Type": "Head",
+    "Source": "Hildir",
+    "Buy": "175, Coins",
+    "Armor": "1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Headband is an armor piece which can be purchased from Hildir for 175 Coins."
+    }
+  ],
+  "full_text": "Headband\n\nInternal ID: HelmetSweatBand | Type: Head | Source: Hildir | Buy: 175, Coins | Armor: 1\n\nIntroduction. Headband is an armor piece which can be purchased from Hildir for 175 Coins.",
+  "scraped_at": "2026-02-26T01:22:16.884728+00:00"
+}

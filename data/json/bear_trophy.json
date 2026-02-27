@@ -1,0 +1,45 @@
+{
+  "title": "Bear trophy",
+  "url": "https://valheim.fandom.com/wiki/Bear_trophy",
+  "slug": "Bear_trophy",
+  "categories": [
+    "Trophies"
+  ],
+  "infobox": {
+    "_infobox_title": "Bear trophy",
+    "Type": "Trophy",
+    "Internal ID": "TrophyBjorn",
+    "Source": "Bear",
+    "Usage": "Building, Crafting, Decoration",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Bear trophy is a rare drop from Bears in the Black Forest."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Bearskin rug"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Headdress of the Bear\n• Bronze Pendant"
+    },
+    {
+      "heading": "Misc",
+      "level": 3,
+      "text": "• Can be displayed in an Item Stand.\n• Can NOT be used to program the Ballista, as of version 0.221.4..."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Considering that bears are pretty rare and hard to find, and since the trophy has only a 10% chance of spawning, if you are unlucky you may have to kill dozens of bears to get a single trophy."
+    }
+  ],
+  "full_text": "Bear trophy\n\nType: Trophy | Internal ID: TrophyBjorn | Source: Bear | Usage: Building, Crafting, Decoration | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. The Bear trophy is a rare drop from Bears in the Black Forest.\n\nBuilding. • Bearskin rug\n\nCrafting. • Headdress of the Bear\n• Bronze Pendant\n\nMisc. • Can be displayed in an Item Stand.\n• Can NOT be used to program the Ballista, as of version 0.221.4...\n\nNotes. • Considering that bears are pretty rare and hard to find, and since the trophy has only a 10% chance of spawning, if you are unlucky you may have to kill dozens of bears to get a single trophy.",
+  "scraped_at": "2026-02-26T02:08:53.097656+00:00"
+}

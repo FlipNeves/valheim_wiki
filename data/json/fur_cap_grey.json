@@ -1,0 +1,32 @@
+{
+  "title": "Fur cap grey",
+  "url": "https://valheim.fandom.com/wiki/Fur_cap_grey",
+  "slug": "Fur_cap_grey",
+  "categories": [
+    "Armor",
+    "Head"
+  ],
+  "infobox": {
+    "_infobox_title": "Fur cap grey",
+    "Internal ID": "HelmatHat8",
+    "Type": "Head",
+    "Source": "Hildir",
+    "Buy": "300, Coins",
+    "Armor": "1",
+    "Base Item Stamina Usage": "-15%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fur cap grey is an armor piece which can be purchased from Hildir for 300 Coins. This item will be in the merchant's assortment only after returning Hildir's bronze chest."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 15%."
+    }
+  ],
+  "full_text": "Fur cap grey\n\nInternal ID: HelmatHat8 | Type: Head | Source: Hildir | Buy: 300, Coins | Armor: 1 | Base Item Stamina Usage: -15%\n\nIntroduction. Fur cap grey is an armor piece which can be purchased from Hildir for 300 Coins. This item will be in the merchant's assortment only after returning Hildir's bronze chest.\n\nNotes. • Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 15%.",
+  "scraped_at": "2026-02-26T01:22:08.552426+00:00"
+}

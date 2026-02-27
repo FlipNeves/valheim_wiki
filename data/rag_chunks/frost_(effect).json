@@ -1,0 +1,11 @@
+{
+  "title": "Frost (effect)",
+  "url": "https://valheim.fandom.com/wiki/Frost_(effect)",
+  "slug": "Frost_(effect)",
+  "categories": [
+    "Effects"
+  ],
+  "content": "# Frost (effect)\n\nEffects: Slows movement speed\n\n# Introduction\n\nFrost is a negative status effect that applies a movement and turn speed penalty on the affected entity. This speed penalty decays exponentially over the duration of the status effect.\nMovement speed reduction starts at 100% and gradually decays towards 0%. Refreshing the effect resets the reduction back to 100%.\nThe debuff duration depends on the amount of health lost; The base duration is 15 seconds for players and 50 seconds for creatures:\nd u r a t i o n = b a s e d u r a t i o n ⋅ d a m a g e m a x h e a l t h {\\textstyle duration = base\\ duration \\cdot {damage \\over {max\\ health}}}\nFor example, receiving 200 Frost damage while at max 150 health and wearing 50 armor causes 50 damage and 5 seconds of Frost Effect.\n5 s = 15 s ⋅ 50 150 {\\textstyle 5s = 15s \\cdot {50 \\over 150}}\n\n## Source\n\n• Enemies Drake Dvergr mage\n• Minibosses Geirrhafa\n• Bosses Moder\n\n## Resistance\n\nThe player can craft Frost resistance mead or wear armor that grants resistance to Frost to significantly reduce the duration.\n\nCategorias: Effects",
+  "content_length": 1097,
+  "scraped_at": "2026-02-26T02:00:06.906889+00:00"
+}

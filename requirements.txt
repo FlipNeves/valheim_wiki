@@ -1,0 +1,9 @@
+cloudscraper
+beautifulsoup4
+tqdm
+fastapi
+uvicorn
+ollama
+requests
+chromadb
+pydantic

@@ -1,0 +1,13 @@
+{
+  "title": "Major healing mead",
+  "url": "https://valheim.fandom.com/wiki/Major_healing_mead",
+  "slug": "Major_healing_mead",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "content": "# Major healing mead\n\nType: Mead | Internal ID: MeadHealthMajor | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Major healing x1 | Duration: 10s | Cooldown: 2m | Health Regen: +125 HP over 10s\n\n# Introduction\n\nMajor healing mead is a Mistlands-tier consumable item fermented from Mead base: Major healing.\n\n## Recipe\n\nMead base: Major healing is produced in a Mead ketill with:\n• 10 Honey\n• 4 Blood clot\n• 5 Royal jelly\nSix Major healing meads are produced by fermenting the mead base for two in-game days.\n\n## Effect\n\nUpon consumption, it restores 125 health over 10 seconds.\nA 2-min cooldown is applied preventing consumption of another healing mead.\n\nCategorias: Mead, Fermenter recipes, Items",
+  "content_length": 769,
+  "scraped_at": "2026-02-26T02:11:43.158574+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Simple cap purple",
+  "url": "https://valheim.fandom.com/wiki/Simple_cap_purple",
+  "slug": "Simple_cap_purple",
+  "categories": [
+    "Armor",
+    "Head"
+  ],
+  "infobox": {
+    "_infobox_title": "Simple cap purple",
+    "Internal ID": "HelmetHat10",
+    "Type": "Head",
+    "Source": "Hildir",
+    "Buy": "150, Coins",
+    "Armor": "1",
+    "Base Item Stamina Usage": "-15%"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Simple cap purple is an armor piece which can be purchased from Hildir for 150 Coins."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 15%."
+    }
+  ],
+  "full_text": "Simple cap purple\n\nInternal ID: HelmetHat10 | Type: Head | Source: Hildir | Buy: 150, Coins | Armor: 1 | Base Item Stamina Usage: -15%\n\nIntroduction. Simple cap purple is an armor piece which can be purchased from Hildir for 150 Coins.\n\nNotes. • Wearing this armor decreases stamina usage while using the Hammer, the Hoe, the Cultivator, and the Serving tray by 15%.",
+  "scraped_at": "2026-02-26T01:23:15.753321+00:00"
+}

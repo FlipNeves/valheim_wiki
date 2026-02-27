@@ -1,0 +1,45 @@
+{
+  "title": "Trap",
+  "url": "https://valheim.fandom.com/wiki/Trap",
+  "slug": "Trap",
+  "categories": [
+    "Misc structures"
+  ],
+  "infobox": {
+    "_infobox_title": "Trap",
+    "Type": "Misc",
+    "Internal ID": "piece_trap_troll",
+    "Source": "Workbench",
+    "Usage": "Automated base defense",
+    "Crafting Materials": "Black metal x5, Bronze nails x10, Mechanical spring x1",
+    "Support": "Iron (from 20 to 1500)",
+    "Loss": "1/13 vertical, 1/13 horizontal",
+    "Neutral to (x1)": "Blunt, ,, Slash, ,, Chop",
+    "Resistant to (x0.5)": "Pierce, ,, Pickaxe, ,, Fire, ,, Frost",
+    "Immune to (x0)": "Lightning, ,, Poison, ,, Spirit"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "The Trap is a Misc Structure that acts as an automated defense/source of damage.\nThe Trap's default state is unarmed, and can be armed immediately, by interacting with it. The Trap cannot be disarmed manually and remains armed until an entity (object (i.e. log), a dropped item, passive creature, enemy or player) moves into the Trap's range, immediately above it. A player can reset the Trap after five seconds, if a player tries to reset the Trap too soon after being triggered, a message will display, \"Trap is not ready yet.\"\nCaution is advised when setting/arming Traps, as they can kill the player."
+    },
+    {
+      "heading": "Damage",
+      "level": 2,
+      "text": "Once triggered, the Trap:\n• Inflicts 50 blunt and 50 pierce damage.\n• Immobilizes the Trap victim for five seconds.\n• Has a backstab bonus of 4x.\n• Sustains 31 durability loss.\nIt can also kill tamed animals (Wolf, Boar, etc.). While it can damage bosses, it cannot immobilize them.\nThe Trap can be triggered 10 times before it breaks. It can be repaired, but if it breaks in any way, all materials are returned."
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "Traps can be used for passive killing of creatures (Deer, Boar, Hare, etc.) or enemies."
+    },
+    {
+      "heading": "Trivia",
+      "level": 2,
+      "text": "• The message displayed when trying to reset a Trap too soon used to say, \"Troll trap is not ready yet\" hinting at its internal ID."
+    }
+  ],
+  "full_text": "Trap\n\nType: Misc | Internal ID: piece_trap_troll | Source: Workbench | Usage: Automated base defense | Crafting Materials: Black metal x5, Bronze nails x10, Mechanical spring x1 | Support: Iron (from 20 to 1500) | Loss: 1/13 vertical, 1/13 horizontal | Neutral to (x1): Blunt, ,, Slash, ,, Chop | Resistant to (x0.5): Pierce, ,, Pickaxe, ,, Fire, ,, Frost | Immune to (x0): Lightning, ,, Poison, ,, Spirit\n\nIntroduction. The Trap is a Misc Structure that acts as an automated defense/source of damage.\nThe Trap's default state is unarmed, and can be armed immediately, by interacting with it. The Trap cannot be disarmed manually and remains armed until an entity (object (i.e. log), a dropped item, passive creature, enemy or player) moves into the Trap's range, immediately above it. A player can reset the Trap after five seconds, if a player tries to reset the Trap too soon after being triggered, a message will display, \"Trap is not ready yet.\"\nCaution is advised when setting/arming Traps, as they can kill the player.\n\nDamage. Once triggered, the Trap:\n• Inflicts 50 blunt and 50 pierce damage.\n• Immobilizes the Trap victim for five seconds.\n• Has a backstab bonus of 4x.\n• Sustains 31 durability loss.\nIt can also kill tamed animals (Wolf, Boar, etc.). While it can damage bosses, it cannot immobilize them.\nThe Trap can be triggered 10 times before it breaks. It can be repaired, but if it breaks in any way, all materials are returned.\n\nUsage. Traps can be used for passive killing of creatures (Deer, Boar, Hare, etc.) or enemies.\n\nTrivia. • The message displayed when trying to reset a Trap too soon used to say, \"Troll trap is not ready yet\" hinting at its internal ID.",
+  "scraped_at": "2026-02-26T02:00:23.491485+00:00"
+}

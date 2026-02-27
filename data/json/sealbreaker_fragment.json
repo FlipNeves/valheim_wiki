@@ -1,0 +1,35 @@
+{
+  "title": "Sealbreaker fragment",
+  "url": "https://valheim.fandom.com/wiki/Sealbreaker_fragment",
+  "slug": "Sealbreaker_fragment",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Sealbreaker fragment",
+    "Type": "Material",
+    "Internal ID": "DvergrKeyFragment",
+    "Source": "Infested Mines",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Sealbreaker fragments are resources obtained from Infested Mines in the Mistlands that are used to build the Sealbreaker.\nNine total fragments are required to build one Sealbreaker."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Infested Mines in Mistlands. Found in blue-lit glass displays throughout the mines."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Sealbreaker"
+    }
+  ],
+  "full_text": "Sealbreaker fragment\n\nType: Material | Internal ID: DvergrKeyFragment | Source: Infested Mines | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Sealbreaker fragments are resources obtained from Infested Mines in the Mistlands that are used to build the Sealbreaker.\nNine total fragments are required to build one Sealbreaker.\n\nAvailability. • Infested Mines in Mistlands. Found in blue-lit glass displays throughout the mines.\n\nCrafting. • Sealbreaker",
+  "scraped_at": "2026-02-26T01:36:29.701360+00:00"
+}

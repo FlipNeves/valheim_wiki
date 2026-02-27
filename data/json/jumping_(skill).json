@@ -1,0 +1,36 @@
+{
+  "title": "Jumping (skill)",
+  "url": "https://valheim.fandom.com/wiki/Jumping_(skill)",
+  "slug": "Jumping_(skill)",
+  "categories": [
+    "Skills"
+  ],
+  "infobox": {
+    "_infobox_title": "Jumping (skill)",
+    "Description": "Determines jump height."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Jumping is a skill."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "As the player progresses, their jump height will slightly increase, up to 40%."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "Every time the player jumps, they gain 1 experience in the jump skill.\nNote that to gain skill progression, the player must use the full stamina cost of the jump, hopping at zero stamina will not progress the skill (jumping with insufficient stamina will still show a small jump animation, but the player will not gain exp). The height the player jumps from or land from does not matter, nor does the distance or what the player jumps over.\nWeapons, armor, and Run skill level do not affect jump height."
+    },
+    {
+      "heading": "Calculations",
+      "level": 2,
+      "text": "At level 100 jump, the player can leap 3 meters off the ground, and at run 100, over 5 meters forward.\nThe overall world records for jump height and distance are 2.45 and 8.95 meters, respectively. The player's jumping distance would be mediocre against the world's best, but would overwhelmingly beat all competition in the high jump, especially considering the player hurdles, which is a very ineffective high jump strategy."
+    }
+  ],
+  "full_text": "Jumping (skill)\n\nDescription: Determines jump height.\n\nIntroduction. Jumping is a skill.\n\nEffects. As the player progresses, their jump height will slightly increase, up to 40%.\n\nLeveling up. Every time the player jumps, they gain 1 experience in the jump skill.\nNote that to gain skill progression, the player must use the full stamina cost of the jump, hopping at zero stamina will not progress the skill (jumping with insufficient stamina will still show a small jump animation, but the player will not gain exp). The height the player jumps from or land from does not matter, nor does the distance or what the player jumps over.\nWeapons, armor, and Run skill level do not affect jump height.\n\nCalculations. At level 100 jump, the player can leap 3 meters off the ground, and at run 100, over 5 meters forward.\nThe overall world records for jump height and distance are 2.45 and 8.95 meters, respectively. The player's jumping distance would be mediocre against the world's best, but would overwhelmingly beat all competition in the high jump, especially considering the player hurdles, which is a very ineffective high jump strategy.",
+  "scraped_at": "2026-02-26T01:43:48.217989+00:00"
+}

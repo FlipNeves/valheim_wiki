@@ -1,0 +1,30 @@
+{
+  "title": "Curious axe head",
+  "url": "https://valheim.fandom.com/wiki/Curious_axe_head",
+  "slug": "Curious_axe_head",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Curious axe head",
+    "Type": "Material",
+    "Internal ID": "AxeHead1",
+    "Source": "Abandoned House, (version 6)",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Curious axe head is an item found in the Meadows chest in a specific variant of Abandoned House."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Early axes"
+    }
+  ],
+  "full_text": "Curious axe head\n\nType: Material | Internal ID: AxeHead1 | Source: Abandoned House, (version 6) | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Curious axe head is an item found in the Meadows chest in a specific variant of Abandoned House.\n\nCrafting. • Early axes",
+  "scraped_at": "2026-02-26T01:32:41.124708+00:00"
+}

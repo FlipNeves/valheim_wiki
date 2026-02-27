@@ -1,0 +1,36 @@
+{
+  "title": "Fists (skill)",
+  "url": "https://valheim.fandom.com/wiki/Fists_(Skill)",
+  "slug": "Fists_(Skill)",
+  "categories": [
+    "Skills"
+  ],
+  "infobox": {
+    "_infobox_title": "Fists (skill)",
+    "Description": "Determines damage with Bare Fists and, Fist, weapons."
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Fists is a skill related to Fists weapon class, including Bare fists."
+    },
+    {
+      "heading": "Effects",
+      "level": 2,
+      "text": "Higher skill level in fists reduces the stamina cost to attack down to -33% and increases damage and knockback up to +141%.\nFor the details of damage scaling, see Damage mechanics#Skill factor."
+    },
+    {
+      "heading": "Leveling up",
+      "level": 2,
+      "text": "The player gains 1.5xp per one-handed and 1xp per two-handed attack when hitting a creature."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Skill ID is Unarmed (to use with raiseskill or resetskill commands).\n• Fists was previously named Unarmed prior to the Frost Caves update."
+    }
+  ],
+  "full_text": "Fists (skill)\n\nDescription: Determines damage with Bare Fists and, Fist, weapons.\n\nIntroduction. Fists is a skill related to Fists weapon class, including Bare fists.\n\nEffects. Higher skill level in fists reduces the stamina cost to attack down to -33% and increases damage and knockback up to +141%.\nFor the details of damage scaling, see Damage mechanics#Skill factor.\n\nLeveling up. The player gains 1.5xp per one-handed and 1xp per two-handed attack when hitting a creature.\n\nNotes. • Skill ID is Unarmed (to use with raiseskill or resetskill commands).\n• Fists was previously named Unarmed prior to the Frost Caves update.",
+  "scraped_at": "2026-02-26T02:08:56.196040+00:00"
+}

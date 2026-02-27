@@ -1,0 +1,38 @@
+{
+  "title": "Frost arrow",
+  "url": "https://valheim.fandom.com/wiki/Frost_arrow",
+  "slug": "Frost_arrow",
+  "categories": [
+    "Weapons",
+    "Arrows",
+    "Workbench recipes",
+    "Light sources"
+  ],
+  "infobox": {
+    "_infobox_title": "Frost arrow",
+    "Internal ID": "ArrowFrost",
+    "Type": "Arrow",
+    "Source": "Workbench",
+    "Usage": "Bow ammunition",
+    "Crafting Materials": "Wood x8, Obsidian x4, Feathers x2, Freeze gland x1"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Frost arrows are ammunition for bows. Most arrows' damage comes primarily from their pierce damage, with potential secondary damage, like silver arrows. However, frost arrows' damage primarily comes from their frost effect, with pierce damage being the lesser."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Freeze glands are found within the Mountain biome by killing drakes.\n• Obsidian can be found within the Mountain biome.\n• Frost arrows can occasionally be found in chests from ruins in the Mountain biome."
+    },
+    {
+      "heading": "Features",
+      "level": 2,
+      "text": "• Deals damage divided between frost and pierce damage.\n• Applies a slowing effect that is particularly useful against smaller enemies like fulings."
+    }
+  ],
+  "full_text": "Frost arrow\n\nInternal ID: ArrowFrost | Type: Arrow | Source: Workbench | Usage: Bow ammunition | Crafting Materials: Wood x8, Obsidian x4, Feathers x2, Freeze gland x1\n\nIntroduction. Frost arrows are ammunition for bows. Most arrows' damage comes primarily from their pierce damage, with potential secondary damage, like silver arrows. However, frost arrows' damage primarily comes from their frost effect, with pierce damage being the lesser.\n\nAvailability. • Freeze glands are found within the Mountain biome by killing drakes.\n• Obsidian can be found within the Mountain biome.\n• Frost arrows can occasionally be found in chests from ruins in the Mountain biome.\n\nFeatures. • Deals damage divided between frost and pierce damage.\n• Applies a slowing effect that is particularly useful against smaller enemies like fulings.",
+  "scraped_at": "2026-02-26T01:15:19.811119+00:00"
+}

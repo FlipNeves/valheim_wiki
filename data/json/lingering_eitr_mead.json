@@ -1,0 +1,40 @@
+{
+  "title": "Lingering eitr mead",
+  "url": "https://valheim.fandom.com/wiki/Lingering_eitr_mead",
+  "slug": "Lingering_eitr_mead",
+  "categories": [
+    "Mead",
+    "Fermenter recipes",
+    "Items"
+  ],
+  "infobox": {
+    "_infobox_title": "Lingering eitr mead",
+    "Type": "Mead",
+    "Internal ID": "MeadEitrLingering",
+    "Source": "Fermenter",
+    "Usage": "Drinking",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Mead base: Lingering eitr x1",
+    "Max Eitr": "+25% eitr regeneration",
+    "Duration": "5m"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Lingering eitr mead is an Ashlands-tier consumable item fermented from Mead base: Lingering eitr."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Mead base: Lingering eitr is produced in a Mead ketill with:\n• 10 Sap\n• 10 Vineberry cluster\n• 10 Magecap\nSix Lingering eitr meads are produced by fermenting the mead base for two in-game days."
+    },
+    {
+      "heading": "Effect",
+      "level": 2,
+      "text": "Upon consumption, it provides +25% eitr regeneration for 5 minutes. While active, it prevents the consumption of all types of eitr meads."
+    }
+  ],
+  "full_text": "Lingering eitr mead\n\nType: Mead | Internal ID: MeadEitrLingering | Source: Fermenter | Usage: Drinking | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Mead base: Lingering eitr x1 | Max Eitr: +25% eitr regeneration | Duration: 5m\n\nIntroduction. Lingering eitr mead is an Ashlands-tier consumable item fermented from Mead base: Lingering eitr.\n\nRecipe. Mead base: Lingering eitr is produced in a Mead ketill with:\n• 10 Sap\n• 10 Vineberry cluster\n• 10 Magecap\nSix Lingering eitr meads are produced by fermenting the mead base for two in-game days.\n\nEffect. Upon consumption, it provides +25% eitr regeneration for 5 minutes. While active, it prevents the consumption of all types of eitr meads.",
+  "scraped_at": "2026-02-26T02:12:04.316131+00:00"
+}

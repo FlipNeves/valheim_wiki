@@ -1,0 +1,40 @@
+{
+  "title": "Proustite powder",
+  "url": "https://valheim.fandom.com/wiki/Proustite_powder",
+  "slug": "Proustite_powder",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Proustite Powder",
+    "Type": "Material",
+    "Internal ID": "ProustitePowder",
+    "Source": "Lava Blob, ,, Unstable lava rock",
+    "Usage": "Building, Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Proustite Powder is an item. Proustite has an adamantine to glassy luster, giving it a shiny, glassy appearance when viewed in reflected light."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Dropped by Lava Blobs and Unstable lava rocks in the Ashlands."
+    },
+    {
+      "heading": "Building",
+      "level": 3,
+      "text": "• Lava lantern"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Basalt bomb\n• Blob bomb Lava\n• Explosive payload\n• Staff of Fracturing"
+    }
+  ],
+  "full_text": "Proustite powder\n\nType: Material | Internal ID: ProustitePowder | Source: Lava Blob, ,, Unstable lava rock | Usage: Building, Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Proustite Powder is an item. Proustite has an adamantine to glassy luster, giving it a shiny, glassy appearance when viewed in reflected light.\n\nAvailability. • Dropped by Lava Blobs and Unstable lava rocks in the Ashlands.\n\nBuilding. • Lava lantern\n\nCrafting. • Basalt bomb\n• Blob bomb Lava\n• Explosive payload\n• Staff of Fracturing",
+  "scraped_at": "2026-02-26T01:35:52.869256+00:00"
+}

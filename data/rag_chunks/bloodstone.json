@@ -1,0 +1,12 @@
+{
+  "title": "Bloodstone",
+  "url": "https://valheim.fandom.com/wiki/Bloodstone",
+  "slug": "Bloodstone",
+  "categories": [
+    "Materials",
+    "Gems"
+  ],
+  "content": "# Bloodstone\n\nType: Material | Internal ID: GemstoneRed | Source: Charred Fortress | Usage: Building, Crafting, Upgrading | Teleportable (Can go through wood portal?): Yes\n\n# Introduction\n\nBloodstone is a material used to craft the \"Blood\" version of some Ashlands weapons. They have a chance to be found in the Charred chests inside Charred Fortresses located in Ashlands.\nA weapon upgraded with Bloodstone has its damage increased by 0.2% for every HP the player is missing. It is not HP the target is missing.\n\n### Building\n\n• Gem cutter\n\n### Crafting\n\n• Bleeding Berserkir axes\n• Bloodgeon\n• Blood Fang\n• Brutal Slayer\n• Dundr\n• Dyrnwyn\n• Jörmundling\n• Nidhögg the Bleeding\n• Splitnir the Bleeding\n• Trollstav\n• Wound Ripper\n\n## Trivia\n\nThere is a creature (internal ID \"Goblin_Gem\") that never appears in the actual game, but can be spawned using the console, that drops all three kinds of Ashlands gemstones.\n\nCategorias: Materials, Gems",
+  "content_length": 943,
+  "scraped_at": "2026-02-26T01:31:15.847821+00:00"
+}

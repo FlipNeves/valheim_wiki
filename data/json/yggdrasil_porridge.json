@@ -1,0 +1,47 @@
+{
+  "title": "Yggdrasil porridge",
+  "url": "https://valheim.fandom.com/wiki/Yggdrasil_porridge",
+  "slug": "Yggdrasil_porridge",
+  "categories": [
+    "Food",
+    "Cooking recipes"
+  ],
+  "infobox": {
+    "_infobox_title": "Yggdrasil porridge",
+    "Type": "Food",
+    "Internal ID": "YggdrasilPorridge",
+    "Source": "Cauldron",
+    "Usage": "Crafting, Eating",
+    "Teleportable (Can go through wood portal?)": "Yes",
+    "Crafting Materials": "Sap x4, Barley x3, Royal jelly x2",
+    "Max Health": "27",
+    "Max Stamina": "13",
+    "Max Eitr": "80",
+    "Duration": "25m",
+    "Healing": "3 hp/tick"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Yggdrasil porridge is a Mistlands-tier food."
+    },
+    {
+      "heading": "Recipe",
+      "level": 2,
+      "text": "Yggdrasil porridge is produced at a level 5 Cauldron with:\n• 4 Sap\n• 3 Barley\n• 2 Royal jelly"
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Mushrooms galore á la Mistlands"
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• Yggdrasil porridge provides the second highest eitr gain in the Mistlands at 80, second to Seeker aspic at 85.\n• Two pieces of Royal jelly yields two Seeker aspics (a 2:2 ratio of jelly to aspic), whereas two pieces of Royal jelly yield only one Yggdrasil porridge (a 2:1 ratio of jelly to porridge)."
+    }
+  ],
+  "full_text": "Yggdrasil porridge\n\nType: Food | Internal ID: YggdrasilPorridge | Source: Cauldron | Usage: Crafting, Eating | Teleportable (Can go through wood portal?): Yes | Crafting Materials: Sap x4, Barley x3, Royal jelly x2 | Max Health: 27 | Max Stamina: 13 | Max Eitr: 80 | Duration: 25m | Healing: 3 hp/tick\n\nIntroduction. Yggdrasil porridge is a Mistlands-tier food.\n\nRecipe. Yggdrasil porridge is produced at a level 5 Cauldron with:\n• 4 Sap\n• 3 Barley\n• 2 Royal jelly\n\nCrafting. • Mushrooms galore á la Mistlands\n\nNotes. • Yggdrasil porridge provides the second highest eitr gain in the Mistlands at 80, second to Seeker aspic at 85.\n• Two pieces of Royal jelly yields two Seeker aspics (a 2:2 ratio of jelly to aspic), whereas two pieces of Royal jelly yield only one Yggdrasil porridge (a 2:1 ratio of jelly to porridge).",
+  "scraped_at": "2026-02-26T01:29:39.557873+00:00"
+}

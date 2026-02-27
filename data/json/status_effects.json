@@ -1,0 +1,288 @@
+{
+  "title": "Status effects",
+  "url": "https://valheim.fandom.com/wiki/Status_effects",
+  "slug": "Status_effects",
+  "categories": [
+    "Effects"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Status effects are modifiers you can attain either on a timer, or more rarely, as a semi-permanent passive effect.\nAdditional sources of status effects, not listed below, include Forsaken powers and Mead."
+    },
+    {
+      "heading": "List of status effects",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Icon": "",
+          "Effect name": "Berserk",
+          "Typical source": "Bear Set bonus",
+          "Effects": "+30% Health regeneration +15% Stamina regeneration Slightly weak (+25% damage taken) vs Blunt, Slash and Pierce +10% Slash damage +10% Chop damage",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Burning",
+          "Typical source": "Fire damage",
+          "Effects": "Damage over 5 seconds.The timer of the Wet Effect expires 60x faster.",
+          "Notes": "The flames covering the character makes them a nice source of light for a few seconds."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Cold",
+          "Typical source": "Being out at night without a heat source.",
+          "Effects": "Health regen: -50%Stamina regen: -25% Eitr regen: -25%",
+          "Notes": "Lasts until player is either near a heat source or until night ends."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Corpse run",
+          "Typical source": "Collecting all items from a grave.",
+          "Effects": "Jump stamina usage: -75%Run stamina usage: -75%Very resistant (0.25x) VS Blunt, Slash, Pierce +5 health per second+150 carry weight",
+          "Notes": "50 second duration"
+        },
+        {
+          "Icon": "",
+          "Effect name": "Dvergr heal",
+          "Typical source": "Support Dvergr mage",
+          "Effects": "Heals 400 health over 4 seconds.",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Dvergr power",
+          "Typical source": "Support Dvergr mage",
+          "Effects": "Boosts damage by 20% for 20 seconds.",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Encumbered",
+          "Typical source": "When exceeding carrying capacity.",
+          "Effects": "Disables running, jumping, blocking, dodging and stamina recovery, while reducing walk speed to that of crouching.",
+          "Notes": "Carrying capacity can be increased by Corpse Run and with a Megingjord."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Feather fall",
+          "Typical source": "Feather cape effect",
+          "Effects": "Limit fall speed: 5m/sFall damage: -100%Jump stamina usage: -20%",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Fenris blessing",
+          "Typical source": "Fenris Set bonus",
+          "Effects": "Resistant (0.5x) VS FireFists +15",
+          "Notes": "Permanent only while entire set is equipped."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Fire",
+          "Typical source": "Campfire, working Smelter, working Charcoal Kiln",
+          "Effects": "The timer of the Wet Effect expires 10x faster.Removes Cold and reduces Freezing Effect.",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Fishing hat",
+          "Typical source": "Fishing hat effect",
+          "Effects": "Fishing +20Swim +20",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Freezing",
+          "Typical source": "When in the Mountain biome. When fighting against Moder. During Drake event.",
+          "Effects": "Health regen: -100%Stamina regen: -60%Eitr regen: -60%1 damage per secondResistant (0.5x) VS Fire",
+          "Notes": "Not applied when having Frost resistance, having shelter or while under the Fire effect."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Frost",
+          "Typical source": "Frost damage",
+          "Effects": "Up to -100% movement speed.",
+          "Notes": "Speed penalty decays exponentially over the duration of the status effect. Stacks of Frost affected by health lost."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Harpooned",
+          "Typical source": "Abyssal harpoon",
+          "Effects": "Pulls the character toward the harpooner.",
+          "Notes": "Bosses cannot be harpooned."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Immobilized",
+          "Typical source": "Trap, weapons using Jade such as the Klossen, Nidhögg the Primal, Primal Berserkir axes, Primal Slayer, Splitnir the Primal, Staff of the Wild, Root (Staff of the Wild), and Root Fang.",
+          "Effects": "Prevents targeted creature's movement for 10 seconds.",
+          "Notes": "Creature may still perform attacks that can be executed from a static position, and The Queen may still relocate with her burrow ability."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Improved archery",
+          "Typical source": "Root Armor set bonus",
+          "Effects": "Bows skill +15 points",
+          "Notes": "Permanent only while entire set is equipped."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Lightning",
+          "Typical source": "Lightning damage",
+          "Effects": "Visual effect only, lasts for 3 seconds.",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Magic barrier",
+          "Typical source": "Staff of Protection",
+          "Effects": "Blocks 200-700 damage (depending oncaster's skill level).",
+          "Notes": "Surrounds the character in a transparent, reflective red orb.Duration depends on weapon quality."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Megingjord",
+          "Typical source": "Megingjord effect",
+          "Effects": "Max carry weight +150",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "No skill drain",
+          "Typical source": "Dying.",
+          "Effects": "No XP loss",
+          "Notes": "10 minute duration, resets timer if the player dies again."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Poison",
+          "Typical source": "Poison damage",
+          "Effects": "Damage over time.",
+          "Notes": "Poisoned characters are surrounded by a green smoky effect, slightly luminous.Resistance to Poison halves both the damage done by poison and its duration."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Feeling sick",
+          "Typical source": "Bukeperries, Rotten meat",
+          "Effects": "For 15 seconds, disables health and stamina regen, and halves movement speed; every 2 seconds, deals 1 damage and undoes one consumed Food.",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Rested",
+          "Typical source": "Resting effect for 20s, sleeping in a bed.",
+          "Effects": "Health regen: +50%Stamina regen: +100%XP gain: +50%Eitr regen: +100%",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Resting",
+          "Typical source": "Sheltered or while under the Fire effect.",
+          "Effects": "Health regen: +200%Stamina regen: +300%Eitr regen: +300%",
+          "Notes": "Leads to the Rested effect within 20s."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Shelter",
+          "Typical source": "Under roof and having 80% cover.",
+          "Effects": "Protects from rain and freezing. Enables resting.",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Slimed",
+          "Typical source": "The Queen's spit attack",
+          "Effects": "Movement speed -50%Very weak (2.0x) VS Fire",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Smoked",
+          "Typical source": "Standing inside a cloud of smoke.",
+          "Effects": "2 damage per second",
+          "Notes": "Damages without sound cue."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Sneaky",
+          "Typical source": "All four pieces of the Troll armor set are equipped.",
+          "Effects": "+15 Sneak skill",
+          "Notes": "Does not exceed the skill cap of 100."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Tarred",
+          "Typical source": "Walking into a tar pit. Being hit by a growth.",
+          "Effects": "-50% movement speed. Very weak (2.0x) VS fire.",
+          "Notes": "Tarred characters are surrounded by black tar particles that seem to follow the character's movements."
+        },
+        {
+          "Icon": "",
+          "Effect name": "Vilebone Wrath",
+          "Typical source": "Vilebone Set bonus",
+          "Effects": "+20% Health regen +40% Stamina regen Slightly weak (+25%) vs Blunt, Slash and Pierce +20% Blunt +20% Pierce",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Wet",
+          "Typical source": "Caught in the rain. Immersed in water.",
+          "Effects": "Health regen: -25%Stamina regen: -15%Eitr regen: -15%Resistant (0.5x) VS FireWeak (1.5x) VS FrostWeak (1.5x) VS Lightning",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Wind run",
+          "Typical source": "Asksvin cloak",
+          "Effects": "Run faster when running with the direction of the wind.",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Wishbone",
+          "Typical source": "Wishbone effect",
+          "Effects": "Pings when near hidden objects.",
+          "Notes": ""
+        },
+        {
+          "Icon": "",
+          "Effect name": "Wisplight",
+          "Typical source": "Wisplight effect",
+          "Effects": "Dispels mist within a 10m radius around the character.",
+          "Notes": ""
+        }
+      ]
+    },
+    {
+      "heading": "List of non-player status effects",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Effect name": "GD Heal",
+          "Typical source": "Greydwarf shaman",
+          "Effects": "Heals 20 health over 4 seconds.",
+          "Notes": "Non-player creatures only"
+        },
+        {
+          "Effect name": "GoblinShaman_shield",
+          "Typical source": "Fuling shaman",
+          "Effects": "Blocks up to 100 damage over 40 seconds",
+          "Notes": "Non-player creatures only"
+        },
+        {
+          "Effect name": "Spirit",
+          "Typical source": "Spirit damage",
+          "Effects": "Damage over 3 seconds.",
+          "Notes": "Non-player creatures only"
+        }
+      ]
+    }
+  ],
+  "full_text": "Status effects\n\nIntroduction. Status effects are modifiers you can attain either on a timer, or more rarely, as a semi-permanent passive effect.\nAdditional sources of status effects, not listed below, include Forsaken powers and Mead.",
+  "scraped_at": "2026-02-26T01:56:04.047756+00:00"
+}

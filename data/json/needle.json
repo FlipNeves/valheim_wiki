@@ -1,0 +1,30 @@
+{
+  "title": "Needle",
+  "url": "https://valheim.fandom.com/wiki/Needle",
+  "slug": "Needle",
+  "categories": [
+    "Materials"
+  ],
+  "infobox": {
+    "_infobox_title": "Needle",
+    "Type": "Material",
+    "Internal ID": "Needle",
+    "Source": "Deathsquito",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Needle is a crafting material dropped from Deathsquitoes in the Plains biome. It can also be found in chests in Fuling Villages and Fuling Ruins."
+    },
+    {
+      "heading": "Crafting",
+      "level": 3,
+      "text": "• Needle arrow\n• Porcupine"
+    }
+  ],
+  "full_text": "Needle\n\nType: Material | Internal ID: Needle | Source: Deathsquito | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Needle is a crafting material dropped from Deathsquitoes in the Plains biome. It can also be found in chests in Fuling Villages and Fuling Ruins.\n\nCrafting. • Needle arrow\n• Porcupine",
+  "scraped_at": "2026-02-26T01:35:33.302537+00:00"
+}

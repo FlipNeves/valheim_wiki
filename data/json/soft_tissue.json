@@ -1,0 +1,49 @@
+{
+  "title": "Soft tissue",
+  "url": "https://valheim.fandom.com/wiki/Soft_tissue",
+  "slug": "Soft_tissue",
+  "categories": [
+    "Materials",
+    "Ore deposits",
+    "Resource nodes",
+    "Ores"
+  ],
+  "infobox": {
+    "_infobox_title": "Soft tissue",
+    "Type": "Material",
+    "Internal ID": "Softtissue",
+    "Source": "Mined from Ancient skulls, Dropped from Dvergr crates, Dropped from Dvergr",
+    "Usage": "Crafting",
+    "Teleportable (Can go through wood portal?)": "Yes"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Soft tissue is both a resource node and a resource used to craft Refined eitr. They can be found throughout the Mistlands, and inside Putrid Holes in the Ashlands."
+    },
+    {
+      "heading": "Availability",
+      "level": 2,
+      "text": "• Harvested from the resource nodes inside the skulls of Giant remains in the Mistlands, using a Black metal pickaxe or better.\n• Dropped by broken Dvergr crates in the Mistlands, found in Dvergr camps and structures.\n• Chance of being dropped by Dvergr rogues and Dvergr mages.\n• Harvested from mounds of flesh inside Putrid Holes in the Ashlands."
+    },
+    {
+      "heading": "Drops",
+      "level": 2,
+      "text": "As a resource node, each segment may drop the following when mined (using a black metal pickaxe or better):\nEach brain-shaped resource node has the same layout with 118 nodes, each of which has 5 health. Thus, a single resource node will drop 59 soft tissue on average, if fully mined. Note that as some skulls generate close to the water level or on steep terrain, it may not always be possible to fully mine a resource node.",
+      "table_data": [
+        {
+          "Item": "Drop Rate",
+          "Soft tissue": "50%"
+        }
+      ]
+    },
+    {
+      "heading": "Usage",
+      "level": 2,
+      "text": "• Crafting Used in combination with Sap in the Eitr refinery to make refined eitr."
+    }
+  ],
+  "full_text": "Soft tissue\n\nType: Material | Internal ID: Softtissue | Source: Mined from Ancient skulls, Dropped from Dvergr crates, Dropped from Dvergr | Usage: Crafting | Teleportable (Can go through wood portal?): Yes\n\nIntroduction. Soft tissue is both a resource node and a resource used to craft Refined eitr. They can be found throughout the Mistlands, and inside Putrid Holes in the Ashlands.\n\nAvailability. • Harvested from the resource nodes inside the skulls of Giant remains in the Mistlands, using a Black metal pickaxe or better.\n• Dropped by broken Dvergr crates in the Mistlands, found in Dvergr camps and structures.\n• Chance of being dropped by Dvergr rogues and Dvergr mages.\n• Harvested from mounds of flesh inside Putrid Holes in the Ashlands.\n\nDrops. As a resource node, each segment may drop the following when mined (using a black metal pickaxe or better):\nEach brain-shaped resource node has the same layout with 118 nodes, each of which has 5 health. Thus, a single resource node will drop 59 soft tissue on average, if fully mined. Note that as some skulls generate close to the water level or on steep terrain, it may not always be possible to fully mine a resource node.\n\nUsage. • Crafting Used in combination with Sap in the Eitr refinery to make refined eitr.",
+  "scraped_at": "2026-02-26T01:36:47.188939+00:00"
+}

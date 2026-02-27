@@ -1,0 +1,33 @@
+{
+  "title": "World Edge",
+  "url": "https://valheim.fandom.com/wiki/World_Edge",
+  "slug": "World_Edge",
+  "categories": [
+    "Locations",
+    "Biomes"
+  ],
+  "infobox": {
+    "_infobox_title": "World Edge",
+    "Type": "Ocean",
+    "Location": "Edge of world"
+  },
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "World Edge is the edge of the world of Valheim as seen on the map."
+    },
+    {
+      "heading": "Description",
+      "level": 2,
+      "text": "Valheim is flat, much like how Vikings of Norse mythology believed it to be, and always generates as an Ocean where the water flows off of the edge. The water near the edge has a strong current, thus getting too close can result in the player being dragged off the edge and plunging into the void below.\nExtreme caution should be taken not to approach the edge when it comes into view as it can be very difficult to escape once caught in the current. If the player falls off, they will die almost instantly and a tombstone will be created in the depths below the world, rendering any items lost to be unrecoverable by legitimate means."
+    },
+    {
+      "heading": "Notes",
+      "level": 2,
+      "text": "• The only way to reach items that fallen off the edge, especially tombstones, is by typing in console \"devcommands\" followed by \"god\" and \"fly\" which will allow players to safely fly down and recover them without dying.\n• The bottom of the falls in the North, East, and West portions of the map is a flat ocean floor with no water. The ocean floor is empty with the exception of some Tuna from the surface. The force from the currents will constantly be applied to the player, pushing them further away from the map.\n• After 5500 units North or 500 units East/West away from the edge of the world, the Ocean biome will turn into an endless Ashlands biome. The South edge of the world is always Ashlands. At ~1,000,000 units from the center of the world, the game will have difficulty placing the actors in the world. This causes them to jitter progressively worse until they are no longer visible."
+    }
+  ],
+  "full_text": "World Edge\n\nType: Ocean | Location: Edge of world\n\nIntroduction. World Edge is the edge of the world of Valheim as seen on the map.\n\nDescription. Valheim is flat, much like how Vikings of Norse mythology believed it to be, and always generates as an Ocean where the water flows off of the edge. The water near the edge has a strong current, thus getting too close can result in the player being dragged off the edge and plunging into the void below.\nExtreme caution should be taken not to approach the edge when it comes into view as it can be very difficult to escape once caught in the current. If the player falls off, they will die almost instantly and a tombstone will be created in the depths below the world, rendering any items lost to be unrecoverable by legitimate means.\n\nNotes. • The only way to reach items that fallen off the edge, especially tombstones, is by typing in console \"devcommands\" followed by \"god\" and \"fly\" which will allow players to safely fly down and recover them without dying.\n• The bottom of the falls in the North, East, and West portions of the map is a flat ocean floor with no water. The ocean floor is empty with the exception of some Tuna from the surface. The force from the currents will constantly be applied to the player, pushing them further away from the map.\n• After 5500 units North or 500 units East/West away from the edge of the world, the Ocean biome will turn into an endless Ashlands biome. The South edge of the world is always Ashlands. At ~1,000,000 units from the center of the world, the game will have difficulty placing the actors in the world. This causes them to jitter progressively worse until they are no longer visible.",
+  "scraped_at": "2026-02-26T01:05:46.246104+00:00"
+}

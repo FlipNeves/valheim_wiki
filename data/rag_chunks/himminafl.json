@@ -1,0 +1,14 @@
+{
+  "title": "Himminafl",
+  "url": "https://valheim.fandom.com/wiki/Himminafl",
+  "slug": "Himminafl",
+  "categories": [
+    "Weapons",
+    "Polearms",
+    "Black forge recipes",
+    "Light sources"
+  ],
+  "content": "# Himminafl\n\nInternal ID: AtgeirHimminAfl | Type: Polearm | Source: Black forge | Usage: Weapon | Crafting Materials: Refined eitr x45, Silver x15, Mandible x6 | Attack speed: 1.56 s | Chain last hit: 2x damage, +20% knockback | Hitbox: 3.0 range, 360 angle, 1.0 height, 0.3 ray, no multitarget penalty | Movement speed: -5%\n\n# Introduction\n\nThe Himminafl is the fourth polearm.\n\n### Combat style\n\n• Primary attack is a 3-stab combo with long reach and 2x damage on the last hit.\n• Secondary attack does 1x damage and 6x staggering around the player, without the penalty to damage from multiple targets. It also triggers a lightning effect with randomly spawned lightning bolts\n\n## Upgrade information\n\n• stat: Pierce | Quality 1: 85 | Quality 2: 85 | Quality 3: 85 | Quality 4: 85\n\n• stat: Lightning | Quality 1: 40 | Quality 2: 46 | Quality 3: 52 | Quality 4: 58\n\n• stat: Durability | Quality 1: 175 | Quality 2: 225 | Quality 3: 275 | Quality 4: 325\n\n• stat: Crafting | Quality 1: 10 Yggdrasil wood15 Refined eitr5 Silver2 Mandible | Quality 2: 15 Refined eitr5 Silver2 Mandible | Quality 3: 30 Refined eitr10 Silver4 Mandible | Quality 4: 45 Refined eitr15 Silver6 Mandible\n\n• stat: Black forge level | Quality 1: 1 | Quality 2: 2 | Quality 3: 3 | Quality 4: 4\n\n## Notes\n\n• The secondary attack is enough to stagger most creatures.\n• Despite the visual resembling a slash, the secondary attack deals piercing damage.\n• The blade of the Himminafl constantly sparkles with electricity; it also glows faintly blue at all times. It is very dim compared to most proper light sources, but can provide a small amount of light in the dark. The glow effect also makes players slightly easier to detect while sneaking, increasing the visibility of its holder by approximately 10%.\n\n## Trivia\n\n• The Himminafl translates to \"Heaven's Might\" in Old Norse.\n• Prior to patch 0.217.4, the name of the Himminafl was spelled \"Himmin afl\".\n\nCategorias: Weapons, Polearms, Black forge recipes, Light sources",
+  "content_length": 1992,
+  "scraped_at": "2026-02-26T01:15:30.449985+00:00"
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Blood magic",
+  "url": "https://valheim.fandom.com/wiki/Blood_magic",
+  "slug": "Blood_magic",
+  "categories": [
+    "Weapons",
+    "Blood magic",
+    "Magic"
+  ],
+  "infobox": {},
+  "sections": [
+    {
+      "heading": "Introduction",
+      "level": 1,
+      "text": "Blood magic is a weapon class which was added in the Mistlands update.\nTo cast any spell with a Blood Magic type weapon costs the user some health. The cost is a set amount in percent, relating to the users current health (thus it is not possible to kill yourself by using the weapon)."
+    },
+    {
+      "heading": "List of blood weapons",
+      "level": 2,
+      "text": "",
+      "table_data": [
+        {
+          "Name": "Staff of Protection",
+          "Icon": "",
+          "Eitr used": "60",
+          "Health drained": "40%",
+          "Hp/Shield": "200",
+          "Damage": "0",
+          "Duration": "1/2/3/4 minutes per Staff level",
+          "Limit max Summon": "1 per ally"
+        },
+        {
+          "Name": "Dead Raiser",
+          "Icon": "",
+          "Eitr used": "100",
+          "Health drained": "40%",
+          "Hp/Shield": "400",
+          "Damage": "Summon: 50 slash/40 pierce",
+          "Duration": "Unlimited",
+          "Limit max Summon": "Up to 4 based on Dead Raiser level"
+        },
+        {
+          "Name": "Trollstav",
+          "Icon": "",
+          "Eitr used": "120",
+          "Health drained": "60%",
+          "Hp/Shield": "2000",
+          "Damage": "On cast: 300 fire, 50 pure Summon: 60-80 blunt",
+          "Duration": "Unlimited",
+          "Limit max Summon": "2"
+        }
+      ]
+    }
+  ],
+  "full_text": "Blood magic\n\nIntroduction. Blood magic is a weapon class which was added in the Mistlands update.\nTo cast any spell with a Blood Magic type weapon costs the user some health. The cost is a set amount in percent, relating to the users current health (thus it is not possible to kill yourself by using the weapon).",
+  "scraped_at": "2026-02-26T01:11:51.465839+00:00"
+}
